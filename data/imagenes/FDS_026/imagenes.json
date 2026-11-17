@@ -1,0 +1,72 @@
+[
+ {
+  "archivo": "image_000000_dee18f90b296e0be4c990117fab82d8384ad94da67122e084a470a869f74e66c.png",
+  "ruta_relativa": "../imagenes/FDS_026/image_000000_dee18f90b296e0be4c990117fab82d8384ad94da67122e084a470a869f74e66c.png",
+  "documento": "FDS 26 - Esmalte Epóxico Aluminio 333441.pdf",
+  "pagina": 1,
+  "ancho": 218,
+  "alto": 77,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000001_97875a1325c59eb5ae51c545813dd0781cb29e0437f88629cfda523fd2c9fde8.png",
+  "ruta_relativa": "../imagenes/FDS_026/image_000001_97875a1325c59eb5ae51c545813dd0781cb29e0437f88629cfda523fd2c9fde8.png",
+  "documento": "FDS 26 - Esmalte Epóxico Aluminio 333441.pdf",
+  "pagina": 1,
+  "ancho": 101,
+  "alto": 103,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_29f21d8e0ff27d71102d9008ad6fe31bc940e88c8bc57edcac0c8c3521b01272.png",
+  "ruta_relativa": "../imagenes/FDS_026/image_000002_29f21d8e0ff27d71102d9008ad6fe31bc940e88c8bc57edcac0c8c3521b01272.png",
+  "documento": "FDS 26 - Esmalte Epóxico Aluminio 333441.pdf",
+  "pagina": 1,
+  "ancho": 101,
+  "alto": 104,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_3e3fc80f86bc6b16f499744d8b9e7efae9c19961f20aa168aa2fc9ee5c24ce25.png",
+  "ruta_relativa": "../imagenes/FDS_026/image_000000_3e3fc80f86bc6b16f499744d8b9e7efae9c19961f20aa168aa2fc9ee5c24ce25.png",
+  "documento": "FDS 26 - Esmalte Epóxico Aluminio 333441.pdf",
+  "pagina": 8,
+  "ancho": 65,
+  "alto": 80,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000001_3654eefd6f63f37c87471ada45ad91e8ba645b83a33725da4258350e180dd80a.png",
+  "ruta_relativa": "../imagenes/FDS_026/image_000001_3654eefd6f63f37c87471ada45ad91e8ba645b83a33725da4258350e180dd80a.png",
+  "documento": "FDS 26 - Esmalte Epóxico Aluminio 333441.pdf",
+  "pagina": 8,
+  "ancho": 67,
+  "alto": 64,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_ce84918e110cbeb231f31b8c083678fb09c5f3ee78701e8697511d8cbbf5ab46.png",
+  "ruta_relativa": "../imagenes/FDS_026/image_000002_ce84918e110cbeb231f31b8c083678fb09c5f3ee78701e8697511d8cbbf5ab46.png",
+  "documento": "FDS 26 - Esmalte Epóxico Aluminio 333441.pdf",
+  "pagina": 8,
+  "ancho": 67,
+  "alto": 63,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_aa1c836037b83b467f9d13cd7ee65d07c63587edc7ff54d6cf78220a17e44bde.png",
+  "ruta_relativa": "../imagenes/FDS_026/image_000000_aa1c836037b83b467f9d13cd7ee65d07c63587edc7ff54d6cf78220a17e44bde.png",
+  "documento": "FDS 26 - Esmalte Epóxico Aluminio 333441.pdf",
+  "pagina": 9,
+  "ancho": 18,
+  "alto": 16,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ }
+]

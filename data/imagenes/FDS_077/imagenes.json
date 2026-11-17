@@ -1,0 +1,202 @@
+[
+ {
+  "archivo": "image_000000_66d6755498af6e839bc85384cbb810da69d8b671fdd6c6c458012e36d65c1942.png",
+  "ruta_relativa": "../imagenes/FDS_077/image_000000_66d6755498af6e839bc85384cbb810da69d8b671fdd6c6c458012e36d65c1942.png",
+  "documento": "FDS 77 - VINILO SUPERLAVABLE BLANCO - PINTULAND.pdf",
+  "pagina": 1,
+  "ancho": 184,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 3 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_f53352641d3cd915440879f40351c575a12f94f03798781c2b3384e8450aa16b.png",
+  "ruta_relativa": "../imagenes/FDS_077/image_000001_f53352641d3cd915440879f40351c575a12f94f03798781c2b3384e8450aa16b.png",
+  "documento": "FDS 77 - VINILO SUPERLAVABLE BLANCO - PINTULAND.pdf",
+  "pagina": 1,
+  "ancho": 144,
+  "alto": 218,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_5b660eb81f7e4fc897e24db25c218bfe273b8f77a4b1c996a5b5c13ce5bd961d.png",
+  "ruta_relativa": "../imagenes/FDS_077/image_000000_5b660eb81f7e4fc897e24db25c218bfe273b8f77a4b1c996a5b5c13ce5bd961d.png",
+  "documento": "FDS 77 - VINILO SUPERLAVABLE BLANCO - PINTULAND.pdf",
+  "pagina": 2,
+  "ancho": 184,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 7 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_8cdd2d407d49ca9cfa7eb828f1add2606bb15722cae8874076799f91a744123c.png",
+  "ruta_relativa": "../imagenes/FDS_077/image_000001_8cdd2d407d49ca9cfa7eb828f1add2606bb15722cae8874076799f91a744123c.png",
+  "documento": "FDS 77 - VINILO SUPERLAVABLE BLANCO - PINTULAND.pdf",
+  "pagina": 2,
+  "ancho": 20,
+  "alto": 20,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_14b268ec41004bb8c8ebff5909863147d3b25a728bbe95e5cd88e16d7f5477b8.png",
+  "ruta_relativa": "../imagenes/FDS_077/image_000002_14b268ec41004bb8c8ebff5909863147d3b25a728bbe95e5cd88e16d7f5477b8.png",
+  "documento": "FDS 77 - VINILO SUPERLAVABLE BLANCO - PINTULAND.pdf",
+  "pagina": 2,
+  "ancho": 25,
+  "alto": 22,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_d370e3b13e04fd88a6ab9577545073bca80cdcd4eccd2f6988c80b76f4c95422.png",
+  "ruta_relativa": "../imagenes/FDS_077/image_000003_d370e3b13e04fd88a6ab9577545073bca80cdcd4eccd2f6988c80b76f4c95422.png",
+  "documento": "FDS 77 - VINILO SUPERLAVABLE BLANCO - PINTULAND.pdf",
+  "pagina": 2,
+  "ancho": 19,
+  "alto": 21,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000004_f7680e4ae73b924675a67fff75a2605b734b2ba69ab6c2956d6eb4ebcd8d4467.png",
+  "ruta_relativa": "../imagenes/FDS_077/image_000004_f7680e4ae73b924675a67fff75a2605b734b2ba69ab6c2956d6eb4ebcd8d4467.png",
+  "documento": "FDS 77 - VINILO SUPERLAVABLE BLANCO - PINTULAND.pdf",
+  "pagina": 2,
+  "ancho": 71,
+  "alto": 26,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_5b660eb81f7e4fc897e24db25c218bfe273b8f77a4b1c996a5b5c13ce5bd961d.png",
+  "ruta_relativa": "../imagenes/FDS_077/image_000000_5b660eb81f7e4fc897e24db25c218bfe273b8f77a4b1c996a5b5c13ce5bd961d.png",
+  "documento": "FDS 77 - VINILO SUPERLAVABLE BLANCO - PINTULAND.pdf",
+  "pagina": 3,
+  "ancho": 184,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 7 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_66d6755498af6e839bc85384cbb810da69d8b671fdd6c6c458012e36d65c1942.png",
+  "ruta_relativa": "../imagenes/FDS_077/image_000000_66d6755498af6e839bc85384cbb810da69d8b671fdd6c6c458012e36d65c1942.png",
+  "documento": "FDS 77 - VINILO SUPERLAVABLE BLANCO - PINTULAND.pdf",
+  "pagina": 4,
+  "ancho": 184,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 3 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_e8bc90350beab1762400890195e577e9f236fc6f6b06db119bd18c6b120e7069.png",
+  "ruta_relativa": "../imagenes/FDS_077/image_000001_e8bc90350beab1762400890195e577e9f236fc6f6b06db119bd18c6b120e7069.png",
+  "documento": "FDS 77 - VINILO SUPERLAVABLE BLANCO - PINTULAND.pdf",
+  "pagina": 4,
+  "ancho": 122,
+  "alto": 128,
+  "texto_ocr": "Pictograma Protección obligatoria de la cara",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000000_5b660eb81f7e4fc897e24db25c218bfe273b8f77a4b1c996a5b5c13ce5bd961d.png",
+  "ruta_relativa": "../imagenes/FDS_077/image_000000_5b660eb81f7e4fc897e24db25c218bfe273b8f77a4b1c996a5b5c13ce5bd961d.png",
+  "documento": "FDS 77 - VINILO SUPERLAVABLE BLANCO - PINTULAND.pdf",
+  "pagina": 5,
+  "ancho": 184,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 7 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_466ae6396ff3598f87ad0fa207002901b5b08144a6a7dabdca98d1a61251c217.png",
+  "ruta_relativa": "../imagenes/FDS_077/image_000001_466ae6396ff3598f87ad0fa207002901b5b08144a6a7dabdca98d1a61251c217.png",
+  "documento": "FDS 77 - VINILO SUPERLAVABLE BLANCO - PINTULAND.pdf",
+  "pagina": 5,
+  "ancho": 56,
+  "alto": 54,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_12d3da35841602fde0b9d23b1dc96f24f3adcc2e34d27847f4cf1af7497a9c39.png",
+  "ruta_relativa": "../imagenes/FDS_077/image_000002_12d3da35841602fde0b9d23b1dc96f24f3adcc2e34d27847f4cf1af7497a9c39.png",
+  "documento": "FDS 77 - VINILO SUPERLAVABLE BLANCO - PINTULAND.pdf",
+  "pagina": 5,
+  "ancho": 55,
+  "alto": 55,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_5b660eb81f7e4fc897e24db25c218bfe273b8f77a4b1c996a5b5c13ce5bd961d.png",
+  "ruta_relativa": "../imagenes/FDS_077/image_000000_5b660eb81f7e4fc897e24db25c218bfe273b8f77a4b1c996a5b5c13ce5bd961d.png",
+  "documento": "FDS 77 - VINILO SUPERLAVABLE BLANCO - PINTULAND.pdf",
+  "pagina": 6,
+  "ancho": 184,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 7 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_5b660eb81f7e4fc897e24db25c218bfe273b8f77a4b1c996a5b5c13ce5bd961d.png",
+  "ruta_relativa": "../imagenes/FDS_077/image_000000_5b660eb81f7e4fc897e24db25c218bfe273b8f77a4b1c996a5b5c13ce5bd961d.png",
+  "documento": "FDS 77 - VINILO SUPERLAVABLE BLANCO - PINTULAND.pdf",
+  "pagina": 7,
+  "ancho": 184,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 7 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_4c82060677ce4fd12079c0bb1423358277ea268cd38a9c1d6b727e89c816508d.png",
+  "ruta_relativa": "../imagenes/FDS_077/image_000000_4c82060677ce4fd12079c0bb1423358277ea268cd38a9c1d6b727e89c816508d.png",
+  "documento": "FDS 77 - VINILO SUPERLAVABLE BLANCO - PINTULAND.pdf",
+  "pagina": 8,
+  "ancho": 183,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_5b660eb81f7e4fc897e24db25c218bfe273b8f77a4b1c996a5b5c13ce5bd961d.png",
+  "ruta_relativa": "../imagenes/FDS_077/image_000000_5b660eb81f7e4fc897e24db25c218bfe273b8f77a4b1c996a5b5c13ce5bd961d.png",
+  "documento": "FDS 77 - VINILO SUPERLAVABLE BLANCO - PINTULAND.pdf",
+  "pagina": 9,
+  "ancho": 184,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 7 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_5b660eb81f7e4fc897e24db25c218bfe273b8f77a4b1c996a5b5c13ce5bd961d.png",
+  "ruta_relativa": "../imagenes/FDS_077/image_000000_5b660eb81f7e4fc897e24db25c218bfe273b8f77a4b1c996a5b5c13ce5bd961d.png",
+  "documento": "FDS 77 - VINILO SUPERLAVABLE BLANCO - PINTULAND.pdf",
+  "pagina": 10,
+  "ancho": 184,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 7 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_66d6755498af6e839bc85384cbb810da69d8b671fdd6c6c458012e36d65c1942.png",
+  "ruta_relativa": "../imagenes/FDS_077/image_000000_66d6755498af6e839bc85384cbb810da69d8b671fdd6c6c458012e36d65c1942.png",
+  "documento": "FDS 77 - VINILO SUPERLAVABLE BLANCO - PINTULAND.pdf",
+  "pagina": 11,
+  "ancho": 184,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 3 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_9e6da61435d5c74c032b7870b8009926ce5089d30dd6c32177ff65e79313550b.png",
+  "ruta_relativa": "../imagenes/FDS_077/image_000001_9e6da61435d5c74c032b7870b8009926ce5089d30dd6c32177ff65e79313550b.png",
+  "documento": "FDS 77 - VINILO SUPERLAVABLE BLANCO - PINTULAND.pdf",
+  "pagina": 11,
+  "ancho": 1062,
+  "alto": 218,
+  "texto_ocr": "Pintulanad",
+  "nota": ""
+ }
+]

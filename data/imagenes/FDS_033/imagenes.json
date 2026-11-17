@@ -1,0 +1,312 @@
+[
+ {
+  "archivo": "image_000000_ee54da66fee0eb12c1fbe2ccbe45908a1f91798a4bd66f6779e32d158c935b26.png",
+  "ruta_relativa": "../imagenes/FDS_033/image_000000_ee54da66fee0eb12c1fbe2ccbe45908a1f91798a4bd66f6779e32d158c935b26.png",
+  "documento": "FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO .pdf",
+  "pagina": 1,
+  "ancho": 142,
+  "alto": 99,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 8 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_c2a239fdd291843d4e5ab0acfc74f4fb7e331857c7df7004db0be52578ee294c.png",
+  "ruta_relativa": "../imagenes/FDS_033/image_000001_c2a239fdd291843d4e5ab0acfc74f4fb7e331857c7df7004db0be52578ee294c.png",
+  "documento": "FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO .pdf",
+  "pagina": 1,
+  "ancho": 57,
+  "alto": 55,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_9304ce7e49709539862addc4d2a4b97c78ec512e7b13310388964ced5823bc44.png",
+  "ruta_relativa": "../imagenes/FDS_033/image_000002_9304ce7e49709539862addc4d2a4b97c78ec512e7b13310388964ced5823bc44.png",
+  "documento": "FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO .pdf",
+  "pagina": 1,
+  "ancho": 58,
+  "alto": 54,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_9f0a57ed837f479893d5a38800d1840420617aab2b8210869236ce576c99abfc.png",
+  "ruta_relativa": "../imagenes/FDS_033/image_000003_9f0a57ed837f479893d5a38800d1840420617aab2b8210869236ce576c99abfc.png",
+  "documento": "FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO .pdf",
+  "pagina": 1,
+  "ancho": 57,
+  "alto": 56,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_ee54da66fee0eb12c1fbe2ccbe45908a1f91798a4bd66f6779e32d158c935b26.png",
+  "ruta_relativa": "../imagenes/FDS_033/image_000000_ee54da66fee0eb12c1fbe2ccbe45908a1f91798a4bd66f6779e32d158c935b26.png",
+  "documento": "FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO .pdf",
+  "pagina": 2,
+  "ancho": 142,
+  "alto": 99,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 8 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_3de3602f011534dc0f3f5360f7faf63cdbeb8f636ab66c4b3c40d8b498742388.png",
+  "ruta_relativa": "../imagenes/FDS_033/image_000001_3de3602f011534dc0f3f5360f7faf63cdbeb8f636ab66c4b3c40d8b498742388.png",
+  "documento": "FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO .pdf",
+  "pagina": 2,
+  "ancho": 31,
+  "alto": 32,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_ee54da66fee0eb12c1fbe2ccbe45908a1f91798a4bd66f6779e32d158c935b26.png",
+  "ruta_relativa": "../imagenes/FDS_033/image_000000_ee54da66fee0eb12c1fbe2ccbe45908a1f91798a4bd66f6779e32d158c935b26.png",
+  "documento": "FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO .pdf",
+  "pagina": 3,
+  "ancho": 142,
+  "alto": 99,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 8 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_4164bf28b8c3b4118d6566b8a79f6fe4364e631f94ccc086a14191c81af05856.png",
+  "ruta_relativa": "../imagenes/FDS_033/image_000001_4164bf28b8c3b4118d6566b8a79f6fe4364e631f94ccc086a14191c81af05856.png",
+  "documento": "FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO .pdf",
+  "pagina": 3,
+  "ancho": 33,
+  "alto": 34,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_ee54da66fee0eb12c1fbe2ccbe45908a1f91798a4bd66f6779e32d158c935b26.png",
+  "ruta_relativa": "../imagenes/FDS_033/image_000000_ee54da66fee0eb12c1fbe2ccbe45908a1f91798a4bd66f6779e32d158c935b26.png",
+  "documento": "FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO .pdf",
+  "pagina": 4,
+  "ancho": 142,
+  "alto": 99,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 8 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_519686ae04d8ac6f3d1a6be658d8cba0363de8f451ee94e60ef002f883100688.png",
+  "ruta_relativa": "../imagenes/FDS_033/image_000001_519686ae04d8ac6f3d1a6be658d8cba0363de8f451ee94e60ef002f883100688.png",
+  "documento": "FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO .pdf",
+  "pagina": 4,
+  "ancho": 71,
+  "alto": 70,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_472a881906ff51505b018f12736598033a0ad6f1b3aeabf1ed2caf9f23aa9728.png",
+  "ruta_relativa": "../imagenes/FDS_033/image_000002_472a881906ff51505b018f12736598033a0ad6f1b3aeabf1ed2caf9f23aa9728.png",
+  "documento": "FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO .pdf",
+  "pagina": 4,
+  "ancho": 94,
+  "alto": 110,
+  "texto_ocr": "Protección obligatoria de las",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000003_cb0224fa92b2221243147fd81faef1993757d7e60ab144d0352b3da200451f13.png",
+  "ruta_relativa": "../imagenes/FDS_033/image_000003_cb0224fa92b2221243147fd81faef1993757d7e60ab144d0352b3da200451f13.png",
+  "documento": "FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO .pdf",
+  "pagina": 4,
+  "ancho": 149,
+  "alto": 144,
+  "texto_ocr": "Pictograma Protección obligatoria de la cara Dry cora",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000000_ee54da66fee0eb12c1fbe2ccbe45908a1f91798a4bd66f6779e32d158c935b26.png",
+  "ruta_relativa": "../imagenes/FDS_033/image_000000_ee54da66fee0eb12c1fbe2ccbe45908a1f91798a4bd66f6779e32d158c935b26.png",
+  "documento": "FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO .pdf",
+  "pagina": 5,
+  "ancho": 142,
+  "alto": 99,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 8 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_dd5715fedd12446e86ae173c8eeb1ea29c4a942dab78eadb61962a1ffc5dc2b4.png",
+  "ruta_relativa": "../imagenes/FDS_033/image_000001_dd5715fedd12446e86ae173c8eeb1ea29c4a942dab78eadb61962a1ffc5dc2b4.png",
+  "documento": "FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO .pdf",
+  "pagina": 5,
+  "ancho": 72,
+  "alto": 72,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_bd5de14edbcd24f28f5b4dac11ee949fa0bd187c7d565b8b895ef92a2ef520f5.png",
+  "ruta_relativa": "../imagenes/FDS_033/image_000002_bd5de14edbcd24f28f5b4dac11ee949fa0bd187c7d565b8b895ef92a2ef520f5.png",
+  "documento": "FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO .pdf",
+  "pagina": 5,
+  "ancho": 94,
+  "alto": 113,
+  "texto_ocr": "Protección obligatoria de los pies",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000003_bb0a64a5cfcb614969795d78695a1ea5bc4a20c1c1dd16f3879c1a92762be20f.png",
+  "ruta_relativa": "../imagenes/FDS_033/image_000003_bb0a64a5cfcb614969795d78695a1ea5bc4a20c1c1dd16f3879c1a92762be20f.png",
+  "documento": "FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO .pdf",
+  "pagina": 5,
+  "ancho": 130,
+  "alto": 80,
+  "texto_ocr": "Ducha de emergencia",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000004_3353953a3ad7f3dd6bff29ca3c9a7e336a18e221ff9db33c53f0d87af52948a6.png",
+  "ruta_relativa": "../imagenes/FDS_033/image_000004_3353953a3ad7f3dd6bff29ca3c9a7e336a18e221ff9db33c53f0d87af52948a6.png",
+  "documento": "FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO .pdf",
+  "pagina": 5,
+  "ancho": 360,
+  "alto": 83,
+  "texto_ocr": "Calidad\"",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000005_7014c03500e4d9bacd034ae45eb5483baf77226417ca924fbefe9021da0d5dc3.png",
+  "ruta_relativa": "../imagenes/FDS_033/image_000005_7014c03500e4d9bacd034ae45eb5483baf77226417ca924fbefe9021da0d5dc3.png",
+  "documento": "FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO .pdf",
+  "pagina": 5,
+  "ancho": 59,
+  "alto": 60,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_ee54da66fee0eb12c1fbe2ccbe45908a1f91798a4bd66f6779e32d158c935b26.png",
+  "ruta_relativa": "../imagenes/FDS_033/image_000000_ee54da66fee0eb12c1fbe2ccbe45908a1f91798a4bd66f6779e32d158c935b26.png",
+  "documento": "FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO .pdf",
+  "pagina": 6,
+  "ancho": 142,
+  "alto": 99,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 8 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_ee54da66fee0eb12c1fbe2ccbe45908a1f91798a4bd66f6779e32d158c935b26.png",
+  "ruta_relativa": "../imagenes/FDS_033/image_000000_ee54da66fee0eb12c1fbe2ccbe45908a1f91798a4bd66f6779e32d158c935b26.png",
+  "documento": "FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO .pdf",
+  "pagina": 7,
+  "ancho": 142,
+  "alto": 99,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 8 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_f9c84bcff38a7f36497ccbfcce0d505fa730f8216703316817f683cec6e42ac8.png",
+  "ruta_relativa": "../imagenes/FDS_033/image_000001_f9c84bcff38a7f36497ccbfcce0d505fa730f8216703316817f683cec6e42ac8.png",
+  "documento": "FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO .pdf",
+  "pagina": 7,
+  "ancho": 948,
+  "alto": 84,
+  "texto_ocr": "No relevante.",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000000_d9dcac486d5bd1bc782c73ba2e0c89b5cd2006127ea731e9d00205c9adb12ae8.png",
+  "ruta_relativa": "../imagenes/FDS_033/image_000000_d9dcac486d5bd1bc782c73ba2e0c89b5cd2006127ea731e9d00205c9adb12ae8.png",
+  "documento": "FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO .pdf",
+  "pagina": 8,
+  "ancho": 142,
+  "alto": 98,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000001_ab66e86e26b06a98faca9a51135e62e2de3e461e541aee0bd3b9a53ac8c27108.png",
+  "ruta_relativa": "../imagenes/FDS_033/image_000001_ab66e86e26b06a98faca9a51135e62e2de3e461e541aee0bd3b9a53ac8c27108.png",
+  "documento": "FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO .pdf",
+  "pagina": 8,
+  "ancho": 68,
+  "alto": 67,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_d9dcac486d5bd1bc782c73ba2e0c89b5cd2006127ea731e9d00205c9adb12ae8.png",
+  "ruta_relativa": "../imagenes/FDS_033/image_000000_d9dcac486d5bd1bc782c73ba2e0c89b5cd2006127ea731e9d00205c9adb12ae8.png",
+  "documento": "FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO .pdf",
+  "pagina": 9,
+  "ancho": 142,
+  "alto": 98,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000001_1315ca41edad8074c2fe8ca799cc2a37023993150c9d36409cbc5413c1b1cd86.png",
+  "ruta_relativa": "../imagenes/FDS_033/image_000001_1315ca41edad8074c2fe8ca799cc2a37023993150c9d36409cbc5413c1b1cd86.png",
+  "documento": "FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO .pdf",
+  "pagina": 9,
+  "ancho": 68,
+  "alto": 66,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_dff2d76aa79e8bb8b94c8312fbcb2ef55378667b94a4826377b86eb457bc3eed.png",
+  "ruta_relativa": "../imagenes/FDS_033/image_000002_dff2d76aa79e8bb8b94c8312fbcb2ef55378667b94a4826377b86eb457bc3eed.png",
+  "documento": "FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO .pdf",
+  "pagina": 9,
+  "ancho": 68,
+  "alto": 65,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_04190f243b597423ee44cf67a9b79d01f233e91180deac7bbec08c782483dff5.png",
+  "ruta_relativa": "../imagenes/FDS_033/image_000003_04190f243b597423ee44cf67a9b79d01f233e91180deac7bbec08c782483dff5.png",
+  "documento": "FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO .pdf",
+  "pagina": 9,
+  "ancho": 59,
+  "alto": 31,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_ee54da66fee0eb12c1fbe2ccbe45908a1f91798a4bd66f6779e32d158c935b26.png",
+  "ruta_relativa": "../imagenes/FDS_033/image_000000_ee54da66fee0eb12c1fbe2ccbe45908a1f91798a4bd66f6779e32d158c935b26.png",
+  "documento": "FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO .pdf",
+  "pagina": 10,
+  "ancho": 142,
+  "alto": 99,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 8 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_2575ffdec44a9857ce0fe8e35f40ed6ff7cf3e156eeb8815d4154d1ec37b9b9d.png",
+  "ruta_relativa": "../imagenes/FDS_033/image_000001_2575ffdec44a9857ce0fe8e35f40ed6ff7cf3e156eeb8815d4154d1ec37b9b9d.png",
+  "documento": "FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO .pdf",
+  "pagina": 10,
+  "ancho": 32,
+  "alto": 35,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_99b610502bc58f1daba1ae20fe18838860fb503ecbe7d40dd1cdeae6d343e831.png",
+  "ruta_relativa": "../imagenes/FDS_033/image_000000_99b610502bc58f1daba1ae20fe18838860fb503ecbe7d40dd1cdeae6d343e831.png",
+  "documento": "FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO .pdf",
+  "pagina": 11,
+  "ancho": 141,
+  "alto": 100,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000001_9ffc0d9b1fa239e2a8cd8ca11e6b6121808062e8a3a515513c09a9cb3a8fe161.png",
+  "ruta_relativa": "../imagenes/FDS_033/image_000001_9ffc0d9b1fa239e2a8cd8ca11e6b6121808062e8a3a515513c09a9cb3a8fe161.png",
+  "documento": "FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO .pdf",
+  "pagina": 11,
+  "ancho": 987,
+  "alto": 554,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ }
+]

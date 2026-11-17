@@ -1,0 +1,152 @@
+{
+ "preguntas": [
+  {
+   "id": "Q01",
+   "tipo": "directa",
+   "top_k": 6,
+   "doc_recall": 1.0,
+   "tipo_datos": "cifras",
+   "ref_en_contextos": 1.0,
+   "resp_cubre_ref": 1.0,
+   "resp_apoyada": 1.0,
+   "citas_en_doc_esperado": 1.0
+  },
+  {
+   "id": "Q02",
+   "tipo": "directa",
+   "top_k": 6,
+   "doc_recall": 1.0,
+   "tipo_datos": "cifras",
+   "ref_en_contextos": 1.0,
+   "resp_cubre_ref": 1.0,
+   "resp_apoyada": 1.0,
+   "citas_en_doc_esperado": 1.0
+  },
+  {
+   "id": "Q03",
+   "tipo": "directa",
+   "top_k": 6,
+   "doc_recall": 1.0,
+   "tipo_datos": "palabras",
+   "ref_en_contextos": 0.96,
+   "resp_cubre_ref": 0.92,
+   "resp_apoyada": null,
+   "citas_en_doc_esperado": 1.0
+  },
+  {
+   "id": "Q04",
+   "tipo": "directa",
+   "top_k": 6,
+   "doc_recall": 1.0,
+   "tipo_datos": "palabras",
+   "ref_en_contextos": 1.0,
+   "resp_cubre_ref": 0.857,
+   "resp_apoyada": null,
+   "citas_en_doc_esperado": 1.0
+  },
+  {
+   "id": "Q05",
+   "tipo": "directa",
+   "top_k": 6,
+   "doc_recall": 1.0,
+   "tipo_datos": "cifras",
+   "ref_en_contextos": 1.0,
+   "resp_cubre_ref": 1.0,
+   "resp_apoyada": 1.0,
+   "citas_en_doc_esperado": 1.0
+  },
+  {
+   "id": "Q06",
+   "tipo": "directa",
+   "top_k": 6,
+   "doc_recall": 1.0,
+   "tipo_datos": "cifras",
+   "ref_en_contextos": 1.0,
+   "resp_cubre_ref": 0.333,
+   "resp_apoyada": 1.0,
+   "citas_en_doc_esperado": 1.0
+  },
+  {
+   "id": "Q07",
+   "tipo": "comparativa",
+   "top_k": 6,
+   "doc_recall": 1.0,
+   "tipo_datos": "cifras",
+   "ref_en_contextos": 1.0,
+   "resp_cubre_ref": 0.5,
+   "resp_apoyada": 1.0,
+   "citas_en_doc_esperado": 1.0
+  },
+  {
+   "id": "Q08",
+   "tipo": "comparativa",
+   "top_k": 6,
+   "doc_recall": 1.0,
+   "tipo_datos": "cifras",
+   "ref_en_contextos": 0.5,
+   "resp_cubre_ref": 0.5,
+   "resp_apoyada": 1.0,
+   "citas_en_doc_esperado": 1.0
+  },
+  {
+   "id": "Q09",
+   "tipo": "comparativa",
+   "top_k": 6,
+   "doc_recall": 1.0,
+   "tipo_datos": "cifras",
+   "ref_en_contextos": 1.0,
+   "resp_cubre_ref": 0.0,
+   "resp_apoyada": null,
+   "citas_en_doc_esperado": 1.0
+  },
+  {
+   "id": "Q10",
+   "tipo": "integradora",
+   "top_k": 6,
+   "doc_recall": 1.0,
+   "tipo_datos": "cifras",
+   "ref_en_contextos": 1.0,
+   "resp_cubre_ref": 1.0,
+   "resp_apoyada": 1.0,
+   "citas_en_doc_esperado": 1.0
+  },
+  {
+   "id": "Q11",
+   "tipo": "sin_respuesta",
+   "top_k": 6,
+   "rechazo_correcto": 1.0
+  },
+  {
+   "id": "Q12",
+   "tipo": "sin_respuesta",
+   "top_k": 6,
+   "rechazo_correcto": 1.0
+  }
+ ],
+ "resumen": {
+  "doc_recall": {
+   "n": 10,
+   "media": 1.0
+  },
+  "ref_en_contextos": {
+   "n": 10,
+   "media": 0.946
+  },
+  "resp_cubre_ref": {
+   "n": 10,
+   "media": 0.711
+  },
+  "resp_apoyada": {
+   "n": 7,
+   "media": 1.0
+  },
+  "citas_en_doc_esperado": {
+   "n": 10,
+   "media": 1.0
+  },
+  "rechazo_correcto": {
+   "n": 2,
+   "media": 1.0
+  }
+ }
+}

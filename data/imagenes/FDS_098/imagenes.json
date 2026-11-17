@@ -1,0 +1,442 @@
+[
+ {
+  "archivo": "image_000000_4ab3b830dfc68fa6c9a421d05438fde4287380f9260445375e7c84b550c3b206.png",
+  "ruta_relativa": "../imagenes/FDS_098/image_000000_4ab3b830dfc68fa6c9a421d05438fde4287380f9260445375e7c84b550c3b206.png",
+  "documento": "FDS 98 - EPOXY ZINC PLUS PRIMER 10073 PLUS GRIS PARTE A - INTERNATIONAL AKSONOBEL -.pdf",
+  "pagina": 1,
+  "ancho": 343,
+  "alto": 46,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000001_98e05345879640e98babf163a42246e6bbd04e29792fd5da987e1c539a9980f3.png",
+  "ruta_relativa": "../imagenes/FDS_098/image_000001_98e05345879640e98babf163a42246e6bbd04e29792fd5da987e1c539a9980f3.png",
+  "documento": "FDS 98 - EPOXY ZINC PLUS PRIMER 10073 PLUS GRIS PARTE A - INTERNATIONAL AKSONOBEL -.pdf",
+  "pagina": 1,
+  "ancho": 99,
+  "alto": 100,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_b5a4de53d52e86a2e224b85b5c26816fd402849fdeda4cd33d241cb95bab4d72.png",
+  "ruta_relativa": "../imagenes/FDS_098/image_000002_b5a4de53d52e86a2e224b85b5c26816fd402849fdeda4cd33d241cb95bab4d72.png",
+  "documento": "FDS 98 - EPOXY ZINC PLUS PRIMER 10073 PLUS GRIS PARTE A - INTERNATIONAL AKSONOBEL -.pdf",
+  "pagina": 1,
+  "ancho": 80,
+  "alto": 25,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_3776ba0d14ffe5b34f9e99206ecfc16ed984629a504a776e03a360741b1c3152.png",
+  "ruta_relativa": "../imagenes/FDS_098/image_000003_3776ba0d14ffe5b34f9e99206ecfc16ed984629a504a776e03a360741b1c3152.png",
+  "documento": "FDS 98 - EPOXY ZINC PLUS PRIMER 10073 PLUS GRIS PARTE A - INTERNATIONAL AKSONOBEL -.pdf",
+  "pagina": 1,
+  "ancho": 99,
+  "alto": 98,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000004_e6e6ad4803aaac246f92de03f5d1c43331c912d010ab7b41ae7e0a8286cd4345.png",
+  "ruta_relativa": "../imagenes/FDS_098/image_000004_e6e6ad4803aaac246f92de03f5d1c43331c912d010ab7b41ae7e0a8286cd4345.png",
+  "documento": "FDS 98 - EPOXY ZINC PLUS PRIMER 10073 PLUS GRIS PARTE A - INTERNATIONAL AKSONOBEL -.pdf",
+  "pagina": 1,
+  "ancho": 98,
+  "alto": 98,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000005_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_098/image_000005_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 98 - EPOXY ZINC PLUS PRIMER 10073 PLUS GRIS PARTE A - INTERNATIONAL AKSONOBEL -.pdf",
+  "pagina": 1,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_1616d3a8b772126be87ff4c507a00fa0bf74fdf38496c9ba693190097cc17df8.png",
+  "ruta_relativa": "../imagenes/FDS_098/image_000000_1616d3a8b772126be87ff4c507a00fa0bf74fdf38496c9ba693190097cc17df8.png",
+  "documento": "FDS 98 - EPOXY ZINC PLUS PRIMER 10073 PLUS GRIS PARTE A - INTERNATIONAL AKSONOBEL -.pdf",
+  "pagina": 2,
+  "ancho": 25,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000001_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_098/image_000001_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 98 - EPOXY ZINC PLUS PRIMER 10073 PLUS GRIS PARTE A - INTERNATIONAL AKSONOBEL -.pdf",
+  "pagina": 2,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 6 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_43d4c810b47afde4c43f21778015bf0d397ec45af4950a85bccfaf11a4fdac10.png",
+  "ruta_relativa": "../imagenes/FDS_098/image_000000_43d4c810b47afde4c43f21778015bf0d397ec45af4950a85bccfaf11a4fdac10.png",
+  "documento": "FDS 98 - EPOXY ZINC PLUS PRIMER 10073 PLUS GRIS PARTE A - INTERNATIONAL AKSONOBEL -.pdf",
+  "pagina": 3,
+  "ancho": 26,
+  "alto": 22,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000001_1804e9ef86677d1ba992e30ab76d2fb00fcebbf653f8d9b0bcbd28635f620028.png",
+  "ruta_relativa": "../imagenes/FDS_098/image_000001_1804e9ef86677d1ba992e30ab76d2fb00fcebbf653f8d9b0bcbd28635f620028.png",
+  "documento": "FDS 98 - EPOXY ZINC PLUS PRIMER 10073 PLUS GRIS PARTE A - INTERNATIONAL AKSONOBEL -.pdf",
+  "pagina": 3,
+  "ancho": 27,
+  "alto": 25,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_653db5e1f39fd4c726e0b3f197c9b0f1d953fed62b84114c1de47d34c416e228.png",
+  "ruta_relativa": "../imagenes/FDS_098/image_000002_653db5e1f39fd4c726e0b3f197c9b0f1d953fed62b84114c1de47d34c416e228.png",
+  "documento": "FDS 98 - EPOXY ZINC PLUS PRIMER 10073 PLUS GRIS PARTE A - INTERNATIONAL AKSONOBEL -.pdf",
+  "pagina": 3,
+  "ancho": 22,
+  "alto": 24,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_098/image_000003_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 98 - EPOXY ZINC PLUS PRIMER 10073 PLUS GRIS PARTE A - INTERNATIONAL AKSONOBEL -.pdf",
+  "pagina": 3,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_098/image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 98 - EPOXY ZINC PLUS PRIMER 10073 PLUS GRIS PARTE A - INTERNATIONAL AKSONOBEL -.pdf",
+  "pagina": 4,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 6 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_098/image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 98 - EPOXY ZINC PLUS PRIMER 10073 PLUS GRIS PARTE A - INTERNATIONAL AKSONOBEL -.pdf",
+  "pagina": 5,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 6 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_d1da2cdf02dea42aea3554a7519d6c2183935990efc3b176ce6253cb85cdec10.png",
+  "ruta_relativa": "../imagenes/FDS_098/image_000000_d1da2cdf02dea42aea3554a7519d6c2183935990efc3b176ce6253cb85cdec10.png",
+  "documento": "FDS 98 - EPOXY ZINC PLUS PRIMER 10073 PLUS GRIS PARTE A - INTERNATIONAL AKSONOBEL -.pdf",
+  "pagina": 6,
+  "ancho": 54,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000001_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_098/image_000001_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 98 - EPOXY ZINC PLUS PRIMER 10073 PLUS GRIS PARTE A - INTERNATIONAL AKSONOBEL -.pdf",
+  "pagina": 6,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 6 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_97a055e46d654410d3fc2bc97abe9e98851ebe8abe611cd633efcc5400797cea.png",
+  "ruta_relativa": "../imagenes/FDS_098/image_000000_97a055e46d654410d3fc2bc97abe9e98851ebe8abe611cd633efcc5400797cea.png",
+  "documento": "FDS 98 - EPOXY ZINC PLUS PRIMER 10073 PLUS GRIS PARTE A - INTERNATIONAL AKSONOBEL -.pdf",
+  "pagina": 7,
+  "ancho": 22,
+  "alto": 24,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000001_c721b312d40619e0ec798bbc1e1bee6627bc2564dbf11d9fb3ebff0ebfe6b3fd.png",
+  "ruta_relativa": "../imagenes/FDS_098/image_000001_c721b312d40619e0ec798bbc1e1bee6627bc2564dbf11d9fb3ebff0ebfe6b3fd.png",
+  "documento": "FDS 98 - EPOXY ZINC PLUS PRIMER 10073 PLUS GRIS PARTE A - INTERNATIONAL AKSONOBEL -.pdf",
+  "pagina": 7,
+  "ancho": 72,
+  "alto": 24,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_564d533c4177f1df767c0e5a1b64a2efc3ef61dd26788f0506b0072bfbcea6e3.png",
+  "ruta_relativa": "../imagenes/FDS_098/image_000002_564d533c4177f1df767c0e5a1b64a2efc3ef61dd26788f0506b0072bfbcea6e3.png",
+  "documento": "FDS 98 - EPOXY ZINC PLUS PRIMER 10073 PLUS GRIS PARTE A - INTERNATIONAL AKSONOBEL -.pdf",
+  "pagina": 7,
+  "ancho": 25,
+  "alto": 25,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_c231a2afe621fa82f4cd8816f14db7982fb55009b177a04bc735778ebe2be1b7.png",
+  "ruta_relativa": "../imagenes/FDS_098/image_000003_c231a2afe621fa82f4cd8816f14db7982fb55009b177a04bc735778ebe2be1b7.png",
+  "documento": "FDS 98 - EPOXY ZINC PLUS PRIMER 10073 PLUS GRIS PARTE A - INTERNATIONAL AKSONOBEL -.pdf",
+  "pagina": 7,
+  "ancho": 55,
+  "alto": 26,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000004_688fa643a294a611ebae4ca625502fa6c0bb4e44e736c2bf163755bab7ea65b5.png",
+  "ruta_relativa": "../imagenes/FDS_098/image_000004_688fa643a294a611ebae4ca625502fa6c0bb4e44e736c2bf163755bab7ea65b5.png",
+  "documento": "FDS 98 - EPOXY ZINC PLUS PRIMER 10073 PLUS GRIS PARTE A - INTERNATIONAL AKSONOBEL -.pdf",
+  "pagina": 7,
+  "ancho": 98,
+  "alto": 27,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000005_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_098/image_000005_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 98 - EPOXY ZINC PLUS PRIMER 10073 PLUS GRIS PARTE A - INTERNATIONAL AKSONOBEL -.pdf",
+  "pagina": 7,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_0715be408574063e3fe4b28ce8e71fa703b485f57486b40bd57e38d38a2bd08d.png",
+  "ruta_relativa": "../imagenes/FDS_098/image_000000_0715be408574063e3fe4b28ce8e71fa703b485f57486b40bd57e38d38a2bd08d.png",
+  "documento": "FDS 98 - EPOXY ZINC PLUS PRIMER 10073 PLUS GRIS PARTE A - INTERNATIONAL AKSONOBEL -.pdf",
+  "pagina": 8,
+  "ancho": 24,
+  "alto": 22,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000001_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_098/image_000001_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 98 - EPOXY ZINC PLUS PRIMER 10073 PLUS GRIS PARTE A - INTERNATIONAL AKSONOBEL -.pdf",
+  "pagina": 8,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 6 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_098/image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 98 - EPOXY ZINC PLUS PRIMER 10073 PLUS GRIS PARTE A - INTERNATIONAL AKSONOBEL -.pdf",
+  "pagina": 9,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 6 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_485cc8b4809167bd86dcbffa55885090ba7d6d13f5bf5f27500a9073600e270a.png",
+  "ruta_relativa": "../imagenes/FDS_098/image_000000_485cc8b4809167bd86dcbffa55885090ba7d6d13f5bf5f27500a9073600e270a.png",
+  "documento": "FDS 98 - EPOXY ZINC PLUS PRIMER 10073 PLUS GRIS PARTE A - INTERNATIONAL AKSONOBEL -.pdf",
+  "pagina": 10,
+  "ancho": 21,
+  "alto": 25,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000001_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_098/image_000001_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 98 - EPOXY ZINC PLUS PRIMER 10073 PLUS GRIS PARTE A - INTERNATIONAL AKSONOBEL -.pdf",
+  "pagina": 10,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 6 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_ea9eaf43263787c00fcad7fc7eeb30d2c2e83e37269217435c11027256cf1395.png",
+  "ruta_relativa": "../imagenes/FDS_098/image_000000_ea9eaf43263787c00fcad7fc7eeb30d2c2e83e37269217435c11027256cf1395.png",
+  "documento": "FDS 98 - EPOXY ZINC PLUS PRIMER 10073 PLUS GRIS PARTE A - INTERNATIONAL AKSONOBEL -.pdf",
+  "pagina": 11,
+  "ancho": 21,
+  "alto": 22,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000001_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_098/image_000001_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 98 - EPOXY ZINC PLUS PRIMER 10073 PLUS GRIS PARTE A - INTERNATIONAL AKSONOBEL -.pdf",
+  "pagina": 11,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 6 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_098/image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 98 - EPOXY ZINC PLUS PRIMER 10073 PLUS GRIS PARTE A - INTERNATIONAL AKSONOBEL -.pdf",
+  "pagina": 12,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 6 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_098/image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 98 - EPOXY ZINC PLUS PRIMER 10073 PLUS GRIS PARTE A - INTERNATIONAL AKSONOBEL -.pdf",
+  "pagina": 13,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 6 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_9835aa3883d8be5c01a616424ebe552a326b6bb7af6da25d1739fb98ca20a334.png",
+  "ruta_relativa": "../imagenes/FDS_098/image_000000_9835aa3883d8be5c01a616424ebe552a326b6bb7af6da25d1739fb98ca20a334.png",
+  "documento": "FDS 98 - EPOXY ZINC PLUS PRIMER 10073 PLUS GRIS PARTE A - INTERNATIONAL AKSONOBEL -.pdf",
+  "pagina": 14,
+  "ancho": 75,
+  "alto": 75,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000001_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_098/image_000001_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 98 - EPOXY ZINC PLUS PRIMER 10073 PLUS GRIS PARTE A - INTERNATIONAL AKSONOBEL -.pdf",
+  "pagina": 14,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 6 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000002_eced29917c817f290c559c5f9848a76dee99f02d35de2c4696ca9eb83b60cece.png",
+  "ruta_relativa": "../imagenes/FDS_098/image_000002_eced29917c817f290c559c5f9848a76dee99f02d35de2c4696ca9eb83b60cece.png",
+  "documento": "FDS 98 - EPOXY ZINC PLUS PRIMER 10073 PLUS GRIS PARTE A - INTERNATIONAL AKSONOBEL -.pdf",
+  "pagina": 14,
+  "ancho": 74,
+  "alto": 75,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_1734f1efe1b35f4ca99a3364be2bbd340a1e6aebc3a32451f72946322c9fa573.png",
+  "ruta_relativa": "../imagenes/FDS_098/image_000003_1734f1efe1b35f4ca99a3364be2bbd340a1e6aebc3a32451f72946322c9fa573.png",
+  "documento": "FDS 98 - EPOXY ZINC PLUS PRIMER 10073 PLUS GRIS PARTE A - INTERNATIONAL AKSONOBEL -.pdf",
+  "pagina": 14,
+  "ancho": 75,
+  "alto": 74,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000004_5117ee6821f1598ea35a447bfeb03b9c5d92af00137a6d8837e45e578aa19cef.png",
+  "ruta_relativa": "../imagenes/FDS_098/image_000004_5117ee6821f1598ea35a447bfeb03b9c5d92af00137a6d8837e45e578aa19cef.png",
+  "documento": "FDS 98 - EPOXY ZINC PLUS PRIMER 10073 PLUS GRIS PARTE A - INTERNATIONAL AKSONOBEL -.pdf",
+  "pagina": 14,
+  "ancho": 104,
+  "alto": 25,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000005_8b50c69dabd9107608a42598d32dd0eb02927fbb2db88f65acca0143f7b62bc1.png",
+  "ruta_relativa": "../imagenes/FDS_098/image_000005_8b50c69dabd9107608a42598d32dd0eb02927fbb2db88f65acca0143f7b62bc1.png",
+  "documento": "FDS 98 - EPOXY ZINC PLUS PRIMER 10073 PLUS GRIS PARTE A - INTERNATIONAL AKSONOBEL -.pdf",
+  "pagina": 14,
+  "ancho": 74,
+  "alto": 75,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_52b6cef99bbdc3c172006d9dddbfc5f2c694aa7ba19c6e9c034bb80bed34b9dd.png",
+  "ruta_relativa": "../imagenes/FDS_098/image_000000_52b6cef99bbdc3c172006d9dddbfc5f2c694aa7ba19c6e9c034bb80bed34b9dd.png",
+  "documento": "FDS 98 - EPOXY ZINC PLUS PRIMER 10073 PLUS GRIS PARTE A - INTERNATIONAL AKSONOBEL -.pdf",
+  "pagina": 15,
+  "ancho": 34,
+  "alto": 25,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000001_118c9a7e6ddcaf7d0290ba28adbd8bb7361153131784cbc65695dec6c3c447bb.png",
+  "ruta_relativa": "../imagenes/FDS_098/image_000001_118c9a7e6ddcaf7d0290ba28adbd8bb7361153131784cbc65695dec6c3c447bb.png",
+  "documento": "FDS 98 - EPOXY ZINC PLUS PRIMER 10073 PLUS GRIS PARTE A - INTERNATIONAL AKSONOBEL -.pdf",
+  "pagina": 15,
+  "ancho": 24,
+  "alto": 22,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_4488e6a4c570bb25ddb32cd1fc3bc0e41248015ea74b5c4ead3a20930405d456.png",
+  "ruta_relativa": "../imagenes/FDS_098/image_000002_4488e6a4c570bb25ddb32cd1fc3bc0e41248015ea74b5c4ead3a20930405d456.png",
+  "documento": "FDS 98 - EPOXY ZINC PLUS PRIMER 10073 PLUS GRIS PARTE A - INTERNATIONAL AKSONOBEL -.pdf",
+  "pagina": 15,
+  "ancho": 25,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_098/image_000003_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 98 - EPOXY ZINC PLUS PRIMER 10073 PLUS GRIS PARTE A - INTERNATIONAL AKSONOBEL -.pdf",
+  "pagina": 15,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000004_9fd8854308734d8c8de6b644fdac9e7eea7989f379f6373a1065229c727fd29d.png",
+  "ruta_relativa": "../imagenes/FDS_098/image_000004_9fd8854308734d8c8de6b644fdac9e7eea7989f379f6373a1065229c727fd29d.png",
+  "documento": "FDS 98 - EPOXY ZINC PLUS PRIMER 10073 PLUS GRIS PARTE A - INTERNATIONAL AKSONOBEL -.pdf",
+  "pagina": 15,
+  "ancho": 24,
+  "alto": 25,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000005_cff26cf7574ce9209220f8898802f50c230062a0899f17e968ccd6be3df2a9b5.png",
+  "ruta_relativa": "../imagenes/FDS_098/image_000005_cff26cf7574ce9209220f8898802f50c230062a0899f17e968ccd6be3df2a9b5.png",
+  "documento": "FDS 98 - EPOXY ZINC PLUS PRIMER 10073 PLUS GRIS PARTE A - INTERNATIONAL AKSONOBEL -.pdf",
+  "pagina": 15,
+  "ancho": 23,
+  "alto": 24,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_098/image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 98 - EPOXY ZINC PLUS PRIMER 10073 PLUS GRIS PARTE A - INTERNATIONAL AKSONOBEL -.pdf",
+  "pagina": 16,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 6 paginas (probable logotipo); OCR no incluido en el Markdown"
+ }
+]

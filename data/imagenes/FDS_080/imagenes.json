@@ -1,0 +1,222 @@
+[
+ {
+  "archivo": "image_000000_d0c95211333aa27966839fb3da67c1f4f82630f99c50714c46c0e0adfbee18f5.png",
+  "ruta_relativa": "../imagenes/FDS_080/image_000000_d0c95211333aa27966839fb3da67c1f4f82630f99c50714c46c0e0adfbee18f5.png",
+  "documento": "FDS 80 - TOPCOAT 400 1793 BLANCO - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 1,
+  "ancho": 513,
+  "alto": 66,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000001_4c27c2528fa3645a5f4759b69384f42a8a4c33038689f344bbc017ef23e882de.png",
+  "ruta_relativa": "../imagenes/FDS_080/image_000001_4c27c2528fa3645a5f4759b69384f42a8a4c33038689f344bbc017ef23e882de.png",
+  "documento": "FDS 80 - TOPCOAT 400 1793 BLANCO - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 1,
+  "ancho": 141,
+  "alto": 24,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_a56e63eb180282206442cae9bf690ee8eb6a80dc681179f46d73f5645fdcd86e.png",
+  "ruta_relativa": "../imagenes/FDS_080/image_000000_a56e63eb180282206442cae9bf690ee8eb6a80dc681179f46d73f5645fdcd86e.png",
+  "documento": "FDS 80 - TOPCOAT 400 1793 BLANCO - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 2,
+  "ancho": 97,
+  "alto": 99,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000001_3476599e1e38beb4d7db7bd3e737175f64158f3a49278a8e72a57f0d0c797d5a.png",
+  "ruta_relativa": "../imagenes/FDS_080/image_000001_3476599e1e38beb4d7db7bd3e737175f64158f3a49278a8e72a57f0d0c797d5a.png",
+  "documento": "FDS 80 - TOPCOAT 400 1793 BLANCO - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 2,
+  "ancho": 99,
+  "alto": 99,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_ca870c195c803ecb4879bb4ae0372d8f217b86e16f7ed5cc666b8b4df2ccbd3b.png",
+  "ruta_relativa": "../imagenes/FDS_080/image_000002_ca870c195c803ecb4879bb4ae0372d8f217b86e16f7ed5cc666b8b4df2ccbd3b.png",
+  "documento": "FDS 80 - TOPCOAT 400 1793 BLANCO - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 2,
+  "ancho": 99,
+  "alto": 99,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_4c27c2528fa3645a5f4759b69384f42a8a4c33038689f344bbc017ef23e882de.png",
+  "ruta_relativa": "../imagenes/FDS_080/image_000003_4c27c2528fa3645a5f4759b69384f42a8a4c33038689f344bbc017ef23e882de.png",
+  "documento": "FDS 80 - TOPCOAT 400 1793 BLANCO - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 2,
+  "ancho": 141,
+  "alto": 24,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_4c27c2528fa3645a5f4759b69384f42a8a4c33038689f344bbc017ef23e882de.png",
+  "ruta_relativa": "../imagenes/FDS_080/image_000000_4c27c2528fa3645a5f4759b69384f42a8a4c33038689f344bbc017ef23e882de.png",
+  "documento": "FDS 80 - TOPCOAT 400 1793 BLANCO - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 3,
+  "ancho": 141,
+  "alto": 24,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 11 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_4c27c2528fa3645a5f4759b69384f42a8a4c33038689f344bbc017ef23e882de.png",
+  "ruta_relativa": "../imagenes/FDS_080/image_000000_4c27c2528fa3645a5f4759b69384f42a8a4c33038689f344bbc017ef23e882de.png",
+  "documento": "FDS 80 - TOPCOAT 400 1793 BLANCO - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 4,
+  "ancho": 141,
+  "alto": 24,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 11 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_4c27c2528fa3645a5f4759b69384f42a8a4c33038689f344bbc017ef23e882de.png",
+  "ruta_relativa": "../imagenes/FDS_080/image_000000_4c27c2528fa3645a5f4759b69384f42a8a4c33038689f344bbc017ef23e882de.png",
+  "documento": "FDS 80 - TOPCOAT 400 1793 BLANCO - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 5,
+  "ancho": 141,
+  "alto": 24,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 11 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_4c27c2528fa3645a5f4759b69384f42a8a4c33038689f344bbc017ef23e882de.png",
+  "ruta_relativa": "../imagenes/FDS_080/image_000000_4c27c2528fa3645a5f4759b69384f42a8a4c33038689f344bbc017ef23e882de.png",
+  "documento": "FDS 80 - TOPCOAT 400 1793 BLANCO - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 6,
+  "ancho": 141,
+  "alto": 24,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 11 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_4c27c2528fa3645a5f4759b69384f42a8a4c33038689f344bbc017ef23e882de.png",
+  "ruta_relativa": "../imagenes/FDS_080/image_000000_4c27c2528fa3645a5f4759b69384f42a8a4c33038689f344bbc017ef23e882de.png",
+  "documento": "FDS 80 - TOPCOAT 400 1793 BLANCO - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 7,
+  "ancho": 141,
+  "alto": 24,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 11 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_4c27c2528fa3645a5f4759b69384f42a8a4c33038689f344bbc017ef23e882de.png",
+  "ruta_relativa": "../imagenes/FDS_080/image_000000_4c27c2528fa3645a5f4759b69384f42a8a4c33038689f344bbc017ef23e882de.png",
+  "documento": "FDS 80 - TOPCOAT 400 1793 BLANCO - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 8,
+  "ancho": 141,
+  "alto": 24,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 11 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_4c27c2528fa3645a5f4759b69384f42a8a4c33038689f344bbc017ef23e882de.png",
+  "ruta_relativa": "../imagenes/FDS_080/image_000000_4c27c2528fa3645a5f4759b69384f42a8a4c33038689f344bbc017ef23e882de.png",
+  "documento": "FDS 80 - TOPCOAT 400 1793 BLANCO - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 9,
+  "ancho": 141,
+  "alto": 24,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 11 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_4c27c2528fa3645a5f4759b69384f42a8a4c33038689f344bbc017ef23e882de.png",
+  "ruta_relativa": "../imagenes/FDS_080/image_000000_4c27c2528fa3645a5f4759b69384f42a8a4c33038689f344bbc017ef23e882de.png",
+  "documento": "FDS 80 - TOPCOAT 400 1793 BLANCO - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 10,
+  "ancho": 141,
+  "alto": 24,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 11 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_b7911749ebafb62cdc0ff9529c152d20d3b69d9e51c92cb863075d7b71937947.png",
+  "ruta_relativa": "../imagenes/FDS_080/image_000000_b7911749ebafb62cdc0ff9529c152d20d3b69d9e51c92cb863075d7b71937947.png",
+  "documento": "FDS 80 - TOPCOAT 400 1793 BLANCO - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 11,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_4c27c2528fa3645a5f4759b69384f42a8a4c33038689f344bbc017ef23e882de.png",
+  "ruta_relativa": "../imagenes/FDS_080/image_000000_4c27c2528fa3645a5f4759b69384f42a8a4c33038689f344bbc017ef23e882de.png",
+  "documento": "FDS 80 - TOPCOAT 400 1793 BLANCO - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 12,
+  "ancho": 141,
+  "alto": 24,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 11 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_3648608b0f08d7f110d931fbc40d6b1185c369db8315fda80475e9115425a8c7.png",
+  "ruta_relativa": "../imagenes/FDS_080/image_000000_3648608b0f08d7f110d931fbc40d6b1185c369db8315fda80475e9115425a8c7.png",
+  "documento": "FDS 80 - TOPCOAT 400 1793 BLANCO - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 13,
+  "ancho": 75,
+  "alto": 76,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000001_04ff871cc0a4ae1268bbe55228d11556acf6a06d5bccc993825418297f457238.png",
+  "ruta_relativa": "../imagenes/FDS_080/image_000001_04ff871cc0a4ae1268bbe55228d11556acf6a06d5bccc993825418297f457238.png",
+  "documento": "FDS 80 - TOPCOAT 400 1793 BLANCO - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 13,
+  "ancho": 76,
+  "alto": 75,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_4c27c2528fa3645a5f4759b69384f42a8a4c33038689f344bbc017ef23e882de.png",
+  "ruta_relativa": "../imagenes/FDS_080/image_000002_4c27c2528fa3645a5f4759b69384f42a8a4c33038689f344bbc017ef23e882de.png",
+  "documento": "FDS 80 - TOPCOAT 400 1793 BLANCO - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 13,
+  "ancho": 141,
+  "alto": 24,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_77e1fa1cc3255266639d898426ae40faaa32142282777a99c3a68302928915a4.png",
+  "ruta_relativa": "../imagenes/FDS_080/image_000003_77e1fa1cc3255266639d898426ae40faaa32142282777a99c3a68302928915a4.png",
+  "documento": "FDS 80 - TOPCOAT 400 1793 BLANCO - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 13,
+  "ancho": 76,
+  "alto": 75,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_4c27c2528fa3645a5f4759b69384f42a8a4c33038689f344bbc017ef23e882de.png",
+  "ruta_relativa": "../imagenes/FDS_080/image_000000_4c27c2528fa3645a5f4759b69384f42a8a4c33038689f344bbc017ef23e882de.png",
+  "documento": "FDS 80 - TOPCOAT 400 1793 BLANCO - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 14,
+  "ancho": 141,
+  "alto": 24,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 11 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_4c27c2528fa3645a5f4759b69384f42a8a4c33038689f344bbc017ef23e882de.png",
+  "ruta_relativa": "../imagenes/FDS_080/image_000000_4c27c2528fa3645a5f4759b69384f42a8a4c33038689f344bbc017ef23e882de.png",
+  "documento": "FDS 80 - TOPCOAT 400 1793 BLANCO - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 15,
+  "ancho": 141,
+  "alto": 24,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 11 paginas (probable logotipo); OCR no incluido en el Markdown"
+ }
+]

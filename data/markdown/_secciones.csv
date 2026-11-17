@@ -1,0 +1,1617 @@
+id,seccion_canonica,numero_en_documento,titulo_detectado,pagina_pdf,pagina_md,numeracion_distinta,estado
+FDS_001,1,1,identificacion del fabricante y de la substancia quimica,1,1,,presente
+FDS_001,2,3,identificacion de riesgos,1,1,si,presente
+FDS_001,3,2,"composicion, informacion sobre ingredientes",1,1,si,presente
+FDS_001,4,4,primeros auxilios,1,1,,presente
+FDS_001,5,5,combate de incendios,2,2,,presente
+FDS_001,6,6,liberaciones accidentales,2,2,,presente
+FDS_001,7,7,manejo y almacenaje,2,2,,presente
+FDS_001,8,8,"controles de exposicion, proteccion personal",2,2,,presente
+FDS_001,9,9,propiedades fisicas y quimicas.,2,2,,presente
+FDS_001,10,10,estabilidad y reactividad,3,3,,presente
+FDS_001,11,11,informacion toxicologica.,3,3,,presente
+FDS_001,12,12,informacion ecologica.,3,3,,presente
+FDS_001,13,13,consideraciones sobre la disposicion.,3,3,,presente
+FDS_001,14,14,informacion sobre el transporte.,3,3,,presente
+FDS_001,15,15,informacion sobre reglamentacion.,3,3,,presente
+FDS_001,16,16,otra informacion.,3,3,,presente
+FDS_002,1,1,identificacion del fabricante y de la sustancia quimica,1,1,,presente
+FDS_002,2,3,identificación de riesgos,1,1,si,presente
+FDS_002,3,2,"composición, información sobre ingredientes",1,1,si,presente
+FDS_002,4,,primeros auxilios:,1,1,,presente_sin_numero
+FDS_002,5,5,combate de incendios,1,1,,presente
+FDS_002,6,6,liberaciones accidentales,1,1,,presente
+FDS_002,7,7,manejo y almacenaje,2,2,,presente
+FDS_002,8,8,"controles de exposición, protección personal",2,2,,presente
+FDS_002,9,9,propiedades fisicas y quimicas.,2,2,,presente
+FDS_002,10,10,estabilidad y reactividad,2,2,,presente
+FDS_002,11,11,información toxicológica.,2,2,,presente
+FDS_002,12,12,información ecológica.,3,3,,presente
+FDS_002,13,13,consideraciones sobre la disposición.,3,3,,presente
+FDS_002,14,14,información sobre el transporte.,3,3,,presente
+FDS_002,15,15,información sobre reglamentación.,3,3,,presente
+FDS_002,16,16,otra información.,3,3,,presente
+FDS_003,1,1,identificación del fabricante y de la sustancia química,1,1,,presente
+FDS_003,2,3,identificación de riesgos,1,1,si,presente
+FDS_003,3,2,"composicion, informacion sobre ingredientes",1,1,si,presente
+FDS_003,4,4,primeros auxilios,1,1,,presente
+FDS_003,5,5,combate de incendios,2,2,,presente
+FDS_003,6,6,liberaciones accidentales,2,2,,presente
+FDS_003,7,7,manejo y almacenaje,2,2,,presente
+FDS_003,8,8,"controles de exposición, protección personal",3,3,,presente
+FDS_003,9,9,propiedades físicas y químicas.,3,3,,presente
+FDS_003,10,10,estabilidad y reactividad,3,3,,presente
+FDS_003,11,11,información toxicológica.,3,3,,presente
+FDS_003,12,12,información ecológica.,4,4,,presente
+FDS_003,13,13,consideraciones sobre la disposición.,4,4,,presente
+FDS_003,14,14,información sobre el transporte.,4,4,,presente
+FDS_003,15,15,información sobre reglamentación.,4,4,,presente
+FDS_003,16,16,otra información.,4,4,,presente
+FDS_004,1,1,identificacion del fabricante y de la substancia quimica,1,1,,presente
+FDS_004,2,3,identificacion de riesgos,1,1,si,presente
+FDS_004,3,2,"composicion, informacion sobre ingredientes",1,1,si,presente
+FDS_004,4,4,primeros auxilios,1,1,,presente
+FDS_004,5,5,combate de incendios,2,2,,presente
+FDS_004,6,6,liberaciones accidentales,2,2,,presente
+FDS_004,7,7,manejo y almacenaje,2,2,,presente
+FDS_004,8,8,"controles de exposicion, proteccion personal",3,3,,presente
+FDS_004,9,9,propiedades fisicas y quimicas.,3,3,,presente
+FDS_004,10,10,estabilidad y reactividad,4,4,,presente
+FDS_004,11,11,informacion toxicologica.,4,4,,presente
+FDS_004,12,12,informacion ecologica.,4,4,,presente
+FDS_004,13,13,consideraciones sobre la disposicion.,4,4,,presente
+FDS_004,14,14,informacion sobre el transporte.,4,4,,presente
+FDS_004,15,15,informacion sobre reglamentacion.,5,5,,presente
+FDS_004,16,16,otra informacion.,5,5,,presente
+FDS_005,1,1,identificación del producto,1,1,,presente
+FDS_005,2,2,identificación del peligro o peligros,1,1,,presente
+FDS_005,3,3,composición/información sobre los componentes,1,1,,presente
+FDS_005,4,4,primeros auxilios,1,1,,presente
+FDS_005,5,5,medidas de lucha contra incendios,2,2,,presente
+FDS_005,6,6,medidas que deben tomarse en caso de vertido accidental,2,2,,presente
+FDS_005,7,7,manipulación y almacenamiento,2,2,,presente
+FDS_005,8,8,controles de exposición/protección personal,3,3,,presente
+FDS_005,9,9,propiedades físicas y químicas y características de seguridad,4,4,,presente
+FDS_005,10,10,estabilidad y reactividad,5,5,,presente
+FDS_005,11,11,información toxicológica,5,5,,presente
+FDS_005,12,12,información ecotoxicológica,7,7,,presente
+FDS_005,13,13,información relativa a la eliminación de los productos,7,7,,presente
+FDS_005,14,14,información relativa al transporte,7,7,,presente
+FDS_005,15,15,información sobre la reglamentación,7,7,,presente
+FDS_005,16,16,otras informaciones,8,8,,presente
+FDS_006,1,1,identificación del producto,1,1,,presente
+FDS_006,2,2,identificación del peligro o peligros,1,1,,presente
+FDS_006,3,3,composición/información sobre los componentes,2,2,,presente
+FDS_006,4,4,primeros auxilios,2,2,,presente
+FDS_006,5,5,medidas de lucha contra incendios,2,2,,presente
+FDS_006,6,6,medidas que deben tomarse en caso de vertido accidental,3,3,,presente
+FDS_006,7,7,manipulación y almacenamiento,3,3,,presente
+FDS_006,8,8,controles de exposición/protección personal,4,4,,presente
+FDS_006,9,9,propiedades físicas y químicas y características de seguridad,5,5,,presente
+FDS_006,10,10,estabilidad y reactividad,6,6,,presente
+FDS_006,11,11,información toxicológica,6,6,,presente
+FDS_006,12,12,información ecotoxicológica,7,7,,presente
+FDS_006,13,13,información relativa a la eliminación de los productos,8,8,,presente
+FDS_006,14,14,información relativa al transporte,8,8,,presente
+FDS_006,15,15,información sobre la reglamentación,8,8,,presente
+FDS_006,16,16,otras informaciones,9,9,,presente
+FDS_007,1,1,identificación del producto,1,1,,presente
+FDS_007,2,2,identificación del peligro o peligros,1,1,,presente
+FDS_007,3,3,composición/información sobre los componentes,1,1,,presente
+FDS_007,4,4,primeros auxilios,2,2,,presente
+FDS_007,5,5,medidas de lucha contra incendios,2,2,,presente
+FDS_007,6,6,medidas que deben tomarse en caso de vertido accidental,3,3,,presente
+FDS_007,7,7,manipulación y almacenamiento,3,3,,presente
+FDS_007,8,8,controles de exposición/protección personal,4,4,,presente
+FDS_007,9,9,propiedades físicas y químicas y características de seguridad,5,5,,presente
+FDS_007,10,10,estabilidad y reactividad,6,6,,presente
+FDS_007,11,11,información toxicológica,6,6,,presente
+FDS_007,12,12,información ecotoxicológica,8,8,,presente
+FDS_007,13,13,información relativa a la eliminación de los productos,8,8,,presente
+FDS_007,14,14,información relativa al transporte,8,8,,presente
+FDS_007,15,15,información sobre la reglamentación,9,9,,presente
+FDS_007,16,16,otras informaciones,10,10,,presente
+FDS_008,1,1,identificación del producto,1,1,,presente
+FDS_008,2,2,identificación del peligro o peligros,1,1,,presente
+FDS_008,3,3,composición/información sobre los componentes,1,1,,presente
+FDS_008,4,4,primeros auxilios,2,2,,presente
+FDS_008,5,5,medidas de lucha contra incendios,2,2,,presente
+FDS_008,6,6,medidas que deben tomarse en caso de vertido accidental,3,3,,presente
+FDS_008,7,7,manipulación y almacenamiento,3,3,,presente
+FDS_008,8,8,controles de exposición/protección personal,4,4,,presente
+FDS_008,9,9,propiedades físicas y químicas y características de seguridad,5,5,,presente
+FDS_008,10,10,estabilidad y reactividad,6,6,,presente
+FDS_008,11,11,información toxicológica,6,6,,presente
+FDS_008,12,12,información ecotoxicológica,8,8,,presente
+FDS_008,13,13,información relativa a la eliminación de los productos,8,8,,presente
+FDS_008,14,14,información relativa al transporte,9,9,,presente
+FDS_008,15,15,información sobre la reglamentación,10,10,,presente
+FDS_008,16,16,otras informaciones,10,10,,presente
+FDS_009,1,1,identificacion del fabricante y de la sustancia quimica,1,1,,presente
+FDS_009,2,3,identificacion de riesgos,1,1,si,presente
+FDS_009,3,2,"composicion, informacion sobre ingredientes",1,1,si,presente
+FDS_009,4,4,primeros auxilios,1,1,,presente
+FDS_009,5,5,combate de incendios,2,2,,presente
+FDS_009,6,6,liberaciones accidentales,2,2,,presente
+FDS_009,7,7,manejo y almacenaje,2,2,,presente
+FDS_009,8,8,"controles de exposicion, proteccion personal",2,2,,presente
+FDS_009,9,9,propiedades fisicas y quimicas.,2,2,,presente
+FDS_009,10,10,estabilidad y reactividad,3,3,,presente
+FDS_009,11,11,informacion toxicologica.,3,3,,presente
+FDS_009,12,12,informacion ecologica.,3,3,,presente
+FDS_009,13,13,consideraciones sobre la disposicion.,3,3,,presente
+FDS_009,14,14,informacion sobre el transporte.,3,3,,presente
+FDS_009,15,15,informacion sobre reglamentacion.,4,4,,presente
+FDS_009,16,16,otra informacion.,4,4,,presente
+FDS_010,1,1,identificación del producto,1,1,,presente
+FDS_010,2,2,identificación del peligro o peligros,1,1,,presente
+FDS_010,3,3,composición/información sobre los componentes,2,2,,presente
+FDS_010,4,4,primeros auxilios,2,2,,presente
+FDS_010,5,5,medidas de lucha contra incendios,3,3,,presente
+FDS_010,6,6,medidas que deben tomarse en caso de vertido accidental,3,3,,presente
+FDS_010,7,7,manipulación y almacenamiento,3,3,,presente
+FDS_010,8,8,controles de exposición/protección personal,4,4,,presente
+FDS_010,9,9,propiedades físicas y químicas y características de seguridad,5,5,,presente
+FDS_010,10,10,estabilidad y reactividad,6,6,,presente
+FDS_010,11,11,información toxicológica,7,7,,presente
+FDS_010,12,12,información ecotoxicológica,8,8,,presente
+FDS_010,13,13,información relativa a la eliminación de los productos,10,10,,presente
+FDS_010,14,14,información relativa al transporte,10,10,,presente
+FDS_010,15,15,información sobre la reglamentación,11,11,,presente
+FDS_010,16,16,otras informaciones,12,12,,presente
+FDS_011,1,1,identificación de la sustancia o la mezcla y de la sociedad de la empresa,1,1,,presente
+FDS_011,2,2,identificación de los peligros,1,1,,presente
+FDS_011,3,3,composición/información sobre los componentes,1,1,,presente
+FDS_011,4,4,primeros auxilios,2,2,,presente
+FDS_011,5,5,medidas de lucha contra incendios,2,2,,presente
+FDS_011,6,6,medidas en caso de vertido accidental,2,2,,presente
+FDS_011,7,7,manipulación y almacenamiento,3,3,,presente
+FDS_011,8,8,controles de exposición/protección individual,3,3,,presente
+FDS_011,9,9,propiedades físicas y químicas,5,5,,presente
+FDS_011,10,10,estabilidad y reactividad,5,5,,presente
+FDS_011,11,11,información toxicológica,6,6,,presente
+FDS_011,12,12,información ecológica,7,7,,presente
+FDS_011,13,13,consideraciones relativas a la eliminación,7,7,,presente
+FDS_011,14,14,información relativa al transporte,7,7,,presente
+FDS_011,15,15,información reglamentaria,8,8,,presente
+FDS_011,16,16,otra información,9,9,,presente
+FDS_013,1,1,identificacion del fabricante y de la sustancia quimica,1,1,,presente
+FDS_013,2,3,identificación de riesgos,1,1,si,presente
+FDS_013,3,2,"composición, información sobre ingredientes",1,1,si,presente
+FDS_013,4,4,primeros auxilios,1,1,,presente
+FDS_013,5,5,combate de incendios,2,2,,presente
+FDS_013,6,6,liberaciones accidentales,2,2,,presente
+FDS_013,7,7,manejo y almacenaje,2,2,,presente
+FDS_013,8,8,"controles de exposición, protección personal",2,2,,presente
+FDS_013,9,9,propiedades físicas y químicas.,2,2,,presente
+FDS_013,10,10,estabilidad y reactividad,2,2,,presente
+FDS_013,11,11,información toxicológica.,3,3,,presente
+FDS_013,12,12,informacion ecológica.,3,3,,presente
+FDS_013,13,13,consideraciones sobre la disposición.,3,3,,presente
+FDS_013,14,14,información sobre el transporte.,3,3,,presente
+FDS_013,15,15,información sobre reglamentación.,3,3,,presente
+FDS_013,16,16,otra información.,3,3,,presente
+FDS_014,1,1,identificacion del fabricante y de la sustancia química,1,1,,presente
+FDS_014,2,3,identificacion de riesgos,1,1,si,presente
+FDS_014,3,2,"composición, información sobre ingredientes",1,1,si,presente
+FDS_014,4,4,primeros auxilios,1,1,,presente
+FDS_014,5,5,combate de incendios,2,2,,presente
+FDS_014,6,6,liberaciones accidentales,2,2,,presente
+FDS_014,7,7,manejo y almacenaje,2,2,,presente
+FDS_014,8,8,"controles de exposición, protección personal",2,2,,presente
+FDS_014,9,9,propiedades físicas y químicas.,2,2,,presente
+FDS_014,10,10,estabilidad y reactividad,3,3,,presente
+FDS_014,11,11,información toxicológica.,3,3,,presente
+FDS_014,12,12,información ecológica.,3,3,,presente
+FDS_014,13,13,consideraciones sobre la disposición.,3,3,,presente
+FDS_014,14,14,información sobre el transporte.,3,3,,presente
+FDS_014,15,15,información sobre reglamentación.,3,3,,presente
+FDS_014,16,16,otra información.,3,3,,presente
+FDS_015,1,1,identificacion del fabricante y de la substancia quimica,1,1,,presente
+FDS_015,2,3,identificacion de riesgos,1,1,si,presente
+FDS_015,3,2,"composicion, informacion sobre ingredientes",1,1,si,presente
+FDS_015,4,4,primeros auxilios,1,1,,presente
+FDS_015,5,5,combate de incendios,2,2,,presente
+FDS_015,6,6,liberaciones accidentales,2,2,,presente
+FDS_015,7,7,manejo y almacenaje,2,2,,presente
+FDS_015,8,8,"controles de exposicion, proteccion personal",2,2,,presente
+FDS_015,9,9,propiedades fisicas y quimicas.,3,3,,presente
+FDS_015,10,10,estabilidad y reactividad,3,3,,presente
+FDS_015,11,11,informacion toxicologica.,3,3,,presente
+FDS_015,12,12,informacion ecologica.,3,3,,presente
+FDS_015,13,13,consideraciones sobre la disposicion.,3,3,,presente
+FDS_015,14,14,informacion sobre el transporte.,3,3,,presente
+FDS_015,15,15,informacion sobre reglamentacion.,4,4,,presente
+FDS_015,16,16,otra informacion.,4,4,,presente
+FDS_016,1,1,identificacion del fabricante y de la substancia quimica,1,1,,presente
+FDS_016,2,3,identificacion de riesgos,1,1,si,presente
+FDS_016,3,2,"composicion, informacion sobre ingredientes",1,1,si,presente
+FDS_016,4,4,primeros auxilios,1,1,,presente
+FDS_016,5,5,combate de incendios,1,1,,presente
+FDS_016,6,6,liberaciones accidentales,2,2,,presente
+FDS_016,7,7,manejo y almacenaje,2,2,,presente
+FDS_016,8,8,"controles de exposicion, proteccion personal",2,2,,presente
+FDS_016,9,9,propiedades fisicas y quimicas.,3,3,,presente
+FDS_016,10,10,estabilidad y reactividad,3,3,,presente
+FDS_016,11,11,informacion toxicologica.,3,3,,presente
+FDS_016,12,12,informacion ecologica.,3,3,,presente
+FDS_016,13,13,consideraciones sobre la disposicion.,3,3,,presente
+FDS_016,14,14,informacion sobre el transporte.,3,3,,presente
+FDS_016,15,15,informacion sobre reglamentacion.,3,3,,presente
+FDS_016,16,16,otra informacion.,4,4,,presente
+FDS_017,1,1,identificacion del fabricante y de la substancia quimica,1,1,,presente
+FDS_017,2,3,identificacion de riesgos,1,1,si,presente
+FDS_017,3,2,"composicion, informacion sobre ingredientes",1,1,si,presente
+FDS_017,4,4,primeros auxilios,1,1,,presente
+FDS_017,5,5,combate de incendios,2,2,,presente
+FDS_017,6,6,liberaciones accidentales,2,2,,presente
+FDS_017,7,7,manejo y almacenaje,2,2,,presente
+FDS_017,8,8,"controles de exposicion, proteccion personal",2,2,,presente
+FDS_017,9,9,propiedades fisicas y quimicas.,2,2,,presente
+FDS_017,10,10,estabilidad y reactividad,3,3,,presente
+FDS_017,11,11,informacion toxicologica.,3,3,,presente
+FDS_017,12,12,informacion ecologica.,3,3,,presente
+FDS_017,13,13,consideraciones sobre la disposicion.,3,3,,presente
+FDS_017,14,14,informacion sobre el transporte.,3,3,,presente
+FDS_017,15,15,informacion sobre reglamentacion.,3,3,,presente
+FDS_017,16,16,otra informacion.,4,4,,presente
+FDS_018,1,1,identificación del producto,1,1,,presente
+FDS_018,2,2,identificación del peligro o peligros,1,1,,presente
+FDS_018,3,3,composición/información sobre los componentes,1,1,,presente
+FDS_018,4,4,primeros auxilios,1,1,,presente
+FDS_018,5,5,medidas de lucha contra incendios,2,2,,presente
+FDS_018,6,6,medidas que deben tomarse en caso de vertido accidental,2,2,,presente
+FDS_018,7,7,manipulación y almacenamiento,2,2,,presente
+FDS_018,8,8,controles de exposición/protección personal,3,3,,presente
+FDS_018,9,9,propiedades físicas y químicas y características de seguridad,4,4,,presente
+FDS_018,10,10,estabilidad y reactividad,5,5,,presente
+FDS_018,11,11,información toxicológica,5,5,,presente
+FDS_018,12,12,información ecotoxicológica,7,7,,presente
+FDS_018,13,13,información relativa a la eliminación de los productos,7,7,,presente
+FDS_018,14,14,información relativa al transporte,7,7,,presente
+FDS_018,15,15,información sobre la reglamentación,7,7,,presente
+FDS_018,16,16,otras informaciones,8,8,,presente
+FDS_019,1,1,identificación del producto,1,1,,presente
+FDS_019,2,2,identificación del peligro o peligros,1,1,,presente
+FDS_019,3,3,composición/información sobre los componentes,1,1,,presente
+FDS_019,4,4,primeros auxilios,2,2,,presente
+FDS_019,5,5,medidas de lucha contra incendios,2,2,,presente
+FDS_019,6,6,medidas que deben tomarse en caso de vertido accidental,2,2,,presente
+FDS_019,7,7,manipulación y almacenamiento,3,3,,presente
+FDS_019,8,8,controles de exposición/protección personal,3,3,,presente
+FDS_019,9,9,propiedades físicas y químicas y características de seguridad,4,4,,presente
+FDS_019,10,10,estabilidad y reactividad,5,5,,presente
+FDS_019,11,11,información toxicológica,6,6,,presente
+FDS_019,12,12,información ecotoxicológica,7,7,,presente
+FDS_019,13,13,información relativa a la eliminación de los productos,7,7,,presente
+FDS_019,14,14,información relativa al transporte,8,8,,presente
+FDS_019,15,15,información sobre la reglamentación,8,8,,presente
+FDS_019,16,16,otras informaciones,8,8,,presente
+FDS_020,1,1,identificación de la sustancia o la mezcla y de la sociedad o la empresa,1,1,,presente
+FDS_020,2,2,identificación de los peligros,1,1,,presente
+FDS_020,3,3,composición /información sobre los componentes,3,3,,presente
+FDS_020,4,4,primeros auxilios,3,3,,presente
+FDS_020,5,5,medidas de lucha contra incendios,4,4,,presente
+FDS_020,6,6,medidas en caso de vertido accidental,4,4,,presente
+FDS_020,7,7,manipulación y almacenamiento,5,5,,presente
+FDS_020,8,8,controles de exposición/protección individual,5,5,,presente
+FDS_020,9,9,propiedades físicas y químicas,7,7,,presente
+FDS_020,10,10,estabilidad y reactividad,7,7,,presente
+FDS_020,11,11,información toxicológica,8,8,,presente
+FDS_020,12,12,información ecológica,8,8,,presente
+FDS_020,13,13,consideraciones relativas a la eliminación,8,8,,presente
+FDS_020,14,14,información relativa al transporte,9,9,,presente
+FDS_020,15,15,información reglamentaria,9,9,,presente
+FDS_020,16,16,otra información,9,9,,presente
+FDS_021,1,1,identificación del producto,1,1,,presente
+FDS_021,2,2,identificación del peligro o peligros,1,1,,presente
+FDS_021,3,3,composición/información sobre los componentes,2,2,,presente
+FDS_021,4,4,primeros auxilios,2,2,,presente
+FDS_021,5,5,medidas de lucha contra incendios,2,2,,presente
+FDS_021,6,6,medidas que deben tomarse en caso de vertido accidental,3,3,,presente
+FDS_021,7,7,manipulación y almacenamiento,3,3,,presente
+FDS_021,8,8,controles de exposición/protección personal,4,4,,presente
+FDS_021,9,9,propiedades físicas y químicas y características de seguridad,5,5,,presente
+FDS_021,10,10,estabilidad y reactividad,6,6,,presente
+FDS_021,11,11,información toxicológica,6,6,,presente
+FDS_021,12,12,información ecotoxicológica,8,8,,presente
+FDS_021,13,13,información relativa a la eliminación de los productos,9,9,,presente
+FDS_021,14,14,información relativa al transporte,9,9,,presente
+FDS_021,15,15,información sobre la reglamentación,10,10,,presente
+FDS_021,16,16,otras informaciones,11,11,,presente
+FDS_022,1,1,identificación de la sustancia o la mezcla y de la sociedad o la empresa,1,1,,presente
+FDS_022,2,2,identificación de los peligros,1,1,,presente
+FDS_022,3,3,composición /información sobre los componentes,2,2,,presente
+FDS_022,4,4,primeros auxilios,2,2,,presente
+FDS_022,5,5,medidas de lucha contra incendios,3,3,,presente
+FDS_022,6,6,medidas en caso de vertido accidental,3,3,,presente
+FDS_022,7,7,manipulación y almacenamiento,4,4,,presente
+FDS_022,8,8,controles de exposición/protección individual,4,4,,presente
+FDS_022,9,9,propiedades físicas y químicas,5,5,,presente
+FDS_022,10,10,estabilidad y reactividad,6,6,,presente
+FDS_022,11,11,información toxicológica,6,6,,presente
+FDS_022,12,12,información ecológica,6,6,,presente
+FDS_022,13,13,consideraciones relativas a la eliminación,7,7,,presente
+FDS_022,14,14,información relativa al transporte,7,7,,presente
+FDS_022,15,15,información reglamentaria,8,8,,presente
+FDS_022,16,16,otra información,8,8,,presente
+FDS_023,1,1,identificación,1,1,,presente
+FDS_023,2,2,identificación de los peligros,1,1,,presente
+FDS_023,3,3,composición / información sobre los componentes,2,2,,presente
+FDS_023,4,4,primeros auxilios,3,3,,presente
+FDS_023,5,5,medidas contra incendios,4,4,,presente
+FDS_023,6,6,medidas que deben tomarse en caso de derrame o fuga,5,5,,presente
+FDS_023,7,7,manejo y almacenamiento,5,5,,presente
+FDS_023,8,8,controles de exposición / protección personal,6,6,,presente
+FDS_023,9,9,propiedades físicas y químicas,8,8,,presente
+FDS_023,10,10,estabilidad y reactividad,8,8,,presente
+FDS_023,11,11,información toxicológica,9,9,,presente
+FDS_023,12,12,información ecotoxicológica,11,11,,presente
+FDS_023,13,13,información relativa a la eliminación de los productos,11,11,,presente
+FDS_023,14,14,información relativa al transporte,12,12,,presente
+FDS_023,15,15,información reglamentaria,12,12,,presente
+FDS_023,16,16,otra información incluidas las relativas a la preparación y,13,13,,presente
+FDS_024,1,1,identificación de la sustancia química peligrosa o mezcla,1,1,,presente
+FDS_024,2,2,identificación de los peligros,1,1,,presente
+FDS_024,3,3,composición / información sobre los componentes,2,2,,presente
+FDS_024,4,4,primeros auxilios,3,3,,presente
+FDS_024,5,5,medidas contra incendios,4,4,,presente
+FDS_024,6,6,medidas que deben tomarse en caso de derrame o fuga,5,5,,presente
+FDS_024,7,7,manejo y almacenamiento,5,5,,presente
+FDS_024,8,8,controles de exposición / protección personal,6,6,,presente
+FDS_024,9,9,propiedades físicas y químicas,7,7,,presente
+FDS_024,10,10,estabilidad y reactividad,8,8,,presente
+FDS_024,11,11,información toxicológica,8,8,,presente
+FDS_024,12,12,información ecotoxicológica,11,11,,presente
+FDS_024,13,13,información relativa a la eliminación de los productos,12,12,,presente
+FDS_024,14,14,información relativa al transporte,12,12,,presente
+FDS_024,15,15,información reglamentaria,13,13,,presente
+FDS_024,16,16,otra información incluidas las relativas a la,13,13,,presente
+FDS_025,1,1,identificación de la sustancia química peligrosa o mezcla,1,1,,presente
+FDS_025,2,2,identificación de los peligros,1,1,,presente
+FDS_025,3,3,composición / información sobre los componentes,2,2,,presente
+FDS_025,4,4,primeros auxilios,3,3,,presente
+FDS_025,5,5,medidas contra incendios,4,4,,presente
+FDS_025,6,6,medidas que deben tomarse en caso de derrame o fuga,5,5,,presente
+FDS_025,7,7,manejo y almacenamiento,6,6,,presente
+FDS_025,8,8,controles de exposición / protección personal,6,6,,presente
+FDS_025,9,9,propiedades físicas y químicas,8,8,,presente
+FDS_025,10,10,estabilidad y reactividad,9,9,,presente
+FDS_025,11,11,información toxicológica,9,9,,presente
+FDS_025,12,12,información ecotoxicológica,12,12,,presente
+FDS_025,13,13,información relativa a la eliminación de los productos,13,13,,presente
+FDS_025,14,14,información relativa al transporte,13,13,,presente
+FDS_025,15,15,información reglamentaria,14,14,,presente
+FDS_025,16,16,otra información incluidas las relativas a la,15,15,,presente
+FDS_026,1,1,identificación de la sustancia o la mezcla y de la sociedad o la empresa,1,1,,presente
+FDS_026,2,2,identificación de los peligros,1,1,,presente
+FDS_026,3,3,composición /información sobre los componentes,2,2,,presente
+FDS_026,4,4,primeros auxilios,2,2,,presente
+FDS_026,5,5,medidas de lucha contra incendios,3,3,,presente
+FDS_026,6,6,medidas en caso de vertido accidental,3,3,,presente
+FDS_026,7,7,manipulación y almacenamiento,4,4,,presente
+FDS_026,8,8,controles de exposición/protección individual,5,5,,presente
+FDS_026,9,9,propiedades físicas y químicas,6,6,,presente
+FDS_026,10,10,estabilidad y reactividad,7,7,,presente
+FDS_026,11,11,información toxicológica,7,7,,presente
+FDS_026,12,12,información ecológica,7,7,,presente
+FDS_026,13,13,consideraciones relativas a la eliminación,8,8,,presente
+FDS_026,14,14,información relativa al transporte,8,8,,presente
+FDS_026,15,15,información reglamentaria,9,9,,presente
+FDS_026,16,16,otra información,9,9,,presente
+FDS_027,1,1,identificación de la sustancia o la mezcla y de la sociedad o la empresa,1,1,,presente
+FDS_027,2,2,identificación de los peligros,1,1,,presente
+FDS_027,3,3,composición /información sobre los componentes,2,2,,presente
+FDS_027,4,4,primeros auxilios,3,3,,presente
+FDS_027,5,5,medidas de lucha contra incendios,3,3,,presente
+FDS_027,6,6,medidas en caso de vertido accidental,4,4,,presente
+FDS_027,7,7,manipulación y almacenamiento,4,4,,presente
+FDS_027,8,8,controles de exposición/protección individual,4,4,,presente
+FDS_027,9,9,propiedades físicas y químicas,5,5,,presente
+FDS_027,10,10,estabilidad y reactividad,5,5,,presente
+FDS_027,11,11,información toxicológica,6,6,,presente
+FDS_027,12,12,información ecológica,6,6,,presente
+FDS_027,13,13,consideraciones relativas a la eliminación,6,6,,presente
+FDS_027,14,14,información relativa al transporte,7,7,,presente
+FDS_027,15,15,información reglamentaria,7,7,,presente
+FDS_027,16,16,otra información,8,8,,presente
+FDS_028,1,1,identificación de la sustancia o la mezcla y de la sociedad o la empresa,1,1,,presente
+FDS_028,2,2,identificación de los peligros,1,1,,presente
+FDS_028,3,3,composición /información sobre los componentes,2,2,,presente
+FDS_028,4,4,primeros auxilios,2,2,,presente
+FDS_028,5,5,medidas de lucha contra incendios,3,3,,presente
+FDS_028,6,6,medidas en caso de vertido accidental,3,3,,presente
+FDS_028,7,7,manipulación y almacenamiento,3,3,,presente
+FDS_028,8,8,controles de exposición/protección individual,4,4,,presente
+FDS_028,9,9,propiedades físicas y químicas,4,4,,presente
+FDS_028,10,10,estabilidad y reactividad,5,5,,presente
+FDS_028,11,11,información toxicológica,5,5,,presente
+FDS_028,12,12,información ecológica,6,6,,presente
+FDS_028,13,13,consideraciones relativas a la eliminación,6,6,,presente
+FDS_028,14,14,información relativa al transporte,7,7,,presente
+FDS_028,15,15,información reglamentaria,7,7,,presente
+FDS_028,16,16,otra información,7,7,,presente
+FDS_029,1,1,identificación del producto,1,1,,presente
+FDS_029,2,2,identificación del peligro o peligros,1,1,,presente
+FDS_029,3,3,composición/información sobre los componentes,2,2,,presente
+FDS_029,4,4,primeros auxilios,2,2,,presente
+FDS_029,5,5,medidas de lucha contra incendios,2,2,,presente
+FDS_029,6,6,medidas que deben tomarse en caso de vertido accidental,3,3,,presente
+FDS_029,7,7,manipulación y almacenamiento,3,3,,presente
+FDS_029,8,8,controles de exposición/protección personal,4,4,,presente
+FDS_029,9,9,propiedades físicas y químicas y características de seguridad,5,5,,presente
+FDS_029,10,10,estabilidad y reactividad,6,6,,presente
+FDS_029,11,11,información toxicológica,6,6,,presente
+FDS_029,12,12,información ecotoxicológica,7,7,,presente
+FDS_029,13,13,información relativa a la eliminación de los productos,8,8,,presente
+FDS_029,14,14,información relativa al transporte,8,8,,presente
+FDS_029,15,15,información sobre la reglamentación,8,8,,presente
+FDS_029,16,16,otras informaciones,8,8,,presente
+FDS_030,1,1,identificación del producto,1,1,,presente
+FDS_030,2,2,identificación del peligro o peligros,1,1,,presente
+FDS_030,3,3,composición/información sobre los componentes,2,2,,presente
+FDS_030,4,4,primeros auxilios,2,2,,presente
+FDS_030,5,5,medidas de lucha contra incendios,2,2,,presente
+FDS_030,6,6,medidas que deben tomarse en caso de vertido accidental,3,3,,presente
+FDS_030,7,7,manipulación y almacenamiento,3,3,,presente
+FDS_030,8,8,controles de exposición/protección personal,4,4,,presente
+FDS_030,9,9,propiedades físicas y químicas y características de seguridad,5,5,,presente
+FDS_030,10,10,estabilidad y reactividad,6,6,,presente
+FDS_030,11,11,información toxicológica,6,6,,presente
+FDS_030,12,12,información ecotoxicológica,8,8,,presente
+FDS_030,13,13,información relativa a la eliminación de los productos,8,8,,presente
+FDS_030,14,14,información relativa al transporte,8,8,,presente
+FDS_030,15,15,información sobre la reglamentación,9,9,,presente
+FDS_030,16,16,otras informaciones,10,10,,presente
+FDS_031,1,1,identificación del producto,1,1,,presente
+FDS_031,2,2,identificación del peligro o peligros,1,1,,presente
+FDS_031,3,3,composición/información sobre los componentes,2,2,,presente
+FDS_031,4,4,primeros auxilios,2,2,,presente
+FDS_031,5,5,medidas de lucha contra incendios,3,3,,presente
+FDS_031,6,6,medidas que deben tomarse en caso de vertido accidental,3,3,,presente
+FDS_031,7,7,manipulación y almacenamiento,3,3,,presente
+FDS_031,8,8,controles de exposición/protección personal,4,4,,presente
+FDS_031,9,9,propiedades físicas y químicas y características de seguridad,5,5,,presente
+FDS_031,10,10,estabilidad y reactividad,6,6,,presente
+FDS_031,11,11,información toxicológica,7,7,,presente
+FDS_031,12,12,información ecotoxicológica,8,8,,presente
+FDS_031,13,13,información relativa a la eliminación de los productos,8,8,,presente
+FDS_031,14,14,información relativa al transporte,9,9,,presente
+FDS_031,15,15,información sobre la reglamentación,10,10,,presente
+FDS_031,16,16,otras informaciones,10,10,,presente
+FDS_032,1,1,identificación del producto,1,1,,presente
+FDS_032,2,2,identificación del peligro o peligros,1,1,,presente
+FDS_032,3,3,composición/información sobre los componentes,2,2,,presente
+FDS_032,4,4,primeros auxilios,2,2,,presente
+FDS_032,5,5,medidas de lucha contra incendios,3,3,,presente
+FDS_032,6,6,medidas que deben tomarse en caso de vertido accidental,3,3,,presente
+FDS_032,7,7,manipulación y almacenamiento,3,3,,presente
+FDS_032,8,8,controles de exposición/protección personal,4,4,,presente
+FDS_032,9,9,propiedades físicas y químicas y características de seguridad,6,6,,presente
+FDS_032,10,10,estabilidad y reactividad,6,6,,presente
+FDS_032,11,11,información toxicológica,7,7,,presente
+FDS_032,12,12,información ecotoxicológica,9,9,,presente
+FDS_032,13,13,información relativa a la eliminación de los productos,11,11,,presente
+FDS_032,14,14,información relativa al transporte,11,11,,presente
+FDS_032,15,15,información sobre la reglamentación,12,12,,presente
+FDS_032,16,16,otras informaciones,13,13,,presente
+FDS_033,1,1,identificación del producto,1,1,,presente
+FDS_033,2,2,identificación del peligro o peligros,1,1,,presente
+FDS_033,3,3,composición/información sobre los componentes,2,2,,presente
+FDS_033,4,4,primeros auxilios,2,2,,presente
+FDS_033,5,5,medidas de lucha contra incendios,2,2,,presente
+FDS_033,6,6,medidas que deben tomarse en caso de vertido accidental,3,3,,presente
+FDS_033,7,7,manipulación y almacenamiento,3,3,,presente
+FDS_033,8,8,controles de exposición/protección personal,4,4,,presente
+FDS_033,9,9,propiedades físicas y químicas y características de seguridad,5,5,,presente
+FDS_033,10,10,estabilidad y reactividad,6,6,,presente
+FDS_033,11,11,información toxicológica,6,6,,presente
+FDS_033,12,12,información ecotoxicológica,7,7,,presente
+FDS_033,13,13,información relativa a la eliminación de los productos,8,8,,presente
+FDS_033,14,14,información relativa al transporte,8,8,,presente
+FDS_033,15,15,información sobre la reglamentación,9,9,,presente
+FDS_033,16,16,otras informaciones,10,10,,presente
+FDS_034,1,1,identificación del producto,1,1,,presente
+FDS_034,2,2,identificación del peligro o peligros,1,1,,presente
+FDS_034,3,3,composición/información sobre los componentes,1,1,,presente
+FDS_034,4,4,primeros auxilios,2,2,,presente
+FDS_034,5,5,medidas de lucha contra incendios,3,3,,presente
+FDS_034,6,6,medidas que deben tomarse en caso de vertido accidental,3,3,,presente
+FDS_034,7,7,manipulación y almacenamiento,3,3,,presente
+FDS_034,8,8,controles de exposición/protección personal,4,4,,presente
+FDS_034,9,9,propiedades físicas y químicas y características de seguridad,6,6,,presente
+FDS_034,10,10,estabilidad y reactividad,7,7,,presente
+FDS_034,11,11,información toxicológica,7,7,,presente
+FDS_034,12,12,información ecotoxicológica,9,9,,presente
+FDS_034,13,13,información relativa a la eliminación de los productos,12,12,,presente
+FDS_034,14,14,información relativa al transporte,12,12,,presente
+FDS_034,15,15,información sobre la reglamentación,13,13,,presente
+FDS_034,16,16,otras informaciones,14,14,,presente
+FDS_035,1,1,identificación del producto,1,1,,presente
+FDS_035,2,2,identificación del peligro o peligros,1,1,,presente
+FDS_035,3,3,composición/información sobre los componentes,1,1,,presente
+FDS_035,4,4,primeros auxilios,2,2,,presente
+FDS_035,5,5,medidas de lucha contra incendios,2,2,,presente
+FDS_035,6,6,medidas que deben tomarse en caso de vertido accidental,3,3,,presente
+FDS_035,7,7,manipulación y almacenamiento,3,3,,presente
+FDS_035,8,8,controles de exposición/protección personal,4,4,,presente
+FDS_035,9,9,propiedades físicas y químicas y características de seguridad,5,5,,presente
+FDS_035,10,10,estabilidad y reactividad,6,6,,presente
+FDS_035,11,11,información toxicológica,6,6,,presente
+FDS_035,12,12,información ecotoxicológica,7,7,,presente
+FDS_035,13,13,información relativa a la eliminación de los productos,8,8,,presente
+FDS_035,14,14,información relativa al transporte,8,8,,presente
+FDS_035,15,15,información sobre la reglamentación,9,9,,presente
+FDS_035,16,16,otras informaciones,10,10,,presente
+FDS_036,1,1,identificación de la sustancia o la mezcla y de la sociedad o la empresa,1,1,,presente
+FDS_036,2,2,identificación de los peligros,1,1,,presente
+FDS_036,3,3,composición /información sobre los componentes,3,3,,presente
+FDS_036,4,4,primeros auxilios,3,3,,presente
+FDS_036,5,5,medidas de lucha contra incendios,4,4,,presente
+FDS_036,6,6,medidas en caso de vertido accidental,4,4,,presente
+FDS_036,7,7,manipulación y almacenamiento,5,5,,presente
+FDS_036,8,8,controles de exposición/protección individual,6,6,,presente
+FDS_036,9,9,propiedades físicas y químicas,7,7,,presente
+FDS_036,10,10,estabilidad y reactividad,8,8,,presente
+FDS_036,11,11,información toxicológica,8,8,,presente
+FDS_036,12,12,información ecológica,8,8,,presente
+FDS_036,13,13,consideraciones relativas a la eliminación,9,9,,presente
+FDS_036,14,14,información relativa al transporte,10,10,,presente
+FDS_036,15,15,información reglamentaria,10,10,,presente
+FDS_036,16,16,otra información,11,11,,presente
+FDS_037,1,1,identificación del producto,1,1,,presente
+FDS_037,2,2,identificación del peligro o peligros,1,1,,presente
+FDS_037,3,3,composición/información sobre los componentes,1,1,,presente
+FDS_037,4,4,primeros auxilios,2,2,,presente
+FDS_037,5,5,medidas de lucha contra incendios,2,2,,presente
+FDS_037,6,6,medidas que deben tomarse en caso de vertido accidental,3,3,,presente
+FDS_037,7,7,manipulación y almacenamiento,3,3,,presente
+FDS_037,8,8,controles de exposición/protección personal,4,4,,presente
+FDS_037,9,9,propiedades físicas y químicas y características de seguridad,5,5,,presente
+FDS_037,10,10,estabilidad y reactividad,6,6,,presente
+FDS_037,11,11,información toxicológica,6,6,,presente
+FDS_037,12,12,información ecotoxicológica,7,7,,presente
+FDS_037,13,13,información relativa a la eliminación de los productos,8,8,,presente
+FDS_037,14,14,información relativa al transporte,9,9,,presente
+FDS_037,15,15,información sobre la reglamentación,10,10,,presente
+FDS_037,16,16,otras informaciones,10,10,,presente
+FDS_038,1,1,identificación del producto,1,1,,presente
+FDS_038,2,2,identificación del peligro o peligros,1,1,,presente
+FDS_038,3,3,composición/información sobre los componentes,1,1,,presente
+FDS_038,4,4,primeros auxilios,2,2,,presente
+FDS_038,5,5,medidas de lucha contra incendios,2,2,,presente
+FDS_038,6,6,medidas que deben tomarse en caso de vertido accidental,3,3,,presente
+FDS_038,7,7,manipulación y almacenamiento,3,3,,presente
+FDS_038,8,8,controles de exposición/protección personal,4,4,,presente
+FDS_038,9,9,propiedades físicas y químicas y características de seguridad,5,5,,presente
+FDS_038,10,10,estabilidad y reactividad,6,6,,presente
+FDS_038,11,11,información toxicológica,6,6,,presente
+FDS_038,12,12,información ecotoxicológica,7,7,,presente
+FDS_038,13,13,información relativa a la eliminación de los productos,8,8,,presente
+FDS_038,14,14,información relativa al transporte,8,8,,presente
+FDS_038,15,15,información sobre la reglamentación,9,9,,presente
+FDS_038,16,16,otras informaciones,10,10,,presente
+FDS_039,1,1,identificación del producto,1,1,,presente
+FDS_039,2,2,identificación del peligro o peligros,1,1,,presente
+FDS_039,3,3,composición/información sobre los componentes,1,1,,presente
+FDS_039,4,4,primeros auxilios,2,2,,presente
+FDS_039,5,5,medidas de lucha contra incendios,2,2,,presente
+FDS_039,6,6,medidas que deben tomarse en caso de vertido accidental,2,2,,presente
+FDS_039,7,7,manipulación y almacenamiento,3,3,,presente
+FDS_039,8,8,controles de exposición/protección personal,3,3,,presente
+FDS_039,9,9,propiedades físicas y químicas y características de seguridad,5,5,,presente
+FDS_039,10,10,estabilidad y reactividad,6,6,,presente
+FDS_039,11,11,información toxicológica,6,6,,presente
+FDS_039,12,12,información ecotoxicológica,7,7,,presente
+FDS_039,13,13,información relativa a la eliminación de los productos,8,8,,presente
+FDS_039,14,14,información relativa al transporte,8,8,,presente
+FDS_039,15,15,información sobre la reglamentación,8,8,,presente
+FDS_039,16,16,otras informaciones,9,9,,presente
+FDS_040,1,1,identificación del producto,1,1,,presente
+FDS_040,2,2,identificación del peligro o peligros,1,1,,presente
+FDS_040,3,3,composición/información sobre los componentes,1,1,,presente
+FDS_040,4,4,primeros auxilios,1,1,,presente
+FDS_040,5,5,medidas de lucha contra incendios,2,2,,presente
+FDS_040,6,6,medidas que deben tomarse en caso de vertido accidental,2,2,,presente
+FDS_040,7,7,manipulación y almacenamiento,3,3,,presente
+FDS_040,8,8,controles de exposición/protección personal,3,3,,presente
+FDS_040,9,9,propiedades físicas y químicas y características de seguridad,5,5,,presente
+FDS_040,10,10,estabilidad y reactividad,6,6,,presente
+FDS_040,11,11,información toxicológica,6,6,,presente
+FDS_040,12,12,información ecotoxicológica,7,7,,presente
+FDS_040,13,13,información relativa a la eliminación de los productos,8,8,,presente
+FDS_040,14,14,información relativa al transporte,8,8,,presente
+FDS_040,15,15,información sobre la reglamentación,8,8,,presente
+FDS_040,16,16,otras informaciones,9,9,,presente
+FDS_041,1,1,identificación del producto,1,1,,presente
+FDS_041,2,2,identificación del peligro o peligros,1,1,,presente
+FDS_041,3,3,composición/información sobre los componentes,1,1,,presente
+FDS_041,4,4,primeros auxilios,1,1,,presente
+FDS_041,5,5,medidas de lucha contra incendios,2,2,,presente
+FDS_041,6,6,medidas que deben tomarse en caso de vertido accidental,2,2,,presente
+FDS_041,7,7,manipulación y almacenamiento,2,2,,presente
+FDS_041,8,8,controles de exposición/protección personal,3,3,,presente
+FDS_041,9,9,propiedades físicas y químicas y características de seguridad,4,4,,presente
+FDS_041,10,10,estabilidad y reactividad,5,5,,presente
+FDS_041,11,11,información toxicológica,6,6,,presente
+FDS_041,12,12,información ecotoxicológica,7,7,,presente
+FDS_041,13,13,información relativa a la eliminación de los productos,7,7,,presente
+FDS_041,14,14,información relativa al transporte,7,7,,presente
+FDS_041,15,15,información sobre la reglamentación,7,7,,presente
+FDS_041,16,16,otras informaciones,8,8,,presente
+FDS_042,1,1,identificación del producto,1,1,,presente
+FDS_042,2,2,identificación del peligro o peligros,1,1,,presente
+FDS_042,3,3,composición/información sobre los componentes,2,2,,presente
+FDS_042,4,4,primeros auxilios,2,2,,presente
+FDS_042,5,5,medidas de lucha contra incendios,3,3,,presente
+FDS_042,6,6,medidas que deben tomarse en caso de vertido accidental,3,3,,presente
+FDS_042,7,7,manipulación y almacenamiento,3,3,,presente
+FDS_042,8,8,controles de exposición/protección personal,4,4,,presente
+FDS_042,9,9,propiedades físicas y químicas y características de seguridad,5,5,,presente
+FDS_042,10,10,estabilidad y reactividad,6,6,,presente
+FDS_042,11,11,información toxicológica,6,6,,presente
+FDS_042,12,12,información ecotoxicológica,8,8,,presente
+FDS_042,13,13,información relativa a la eliminación de los productos,8,8,,presente
+FDS_042,14,14,información relativa al transporte,8,8,,presente
+FDS_042,15,15,información sobre la reglamentación,8,8,,presente
+FDS_042,16,16,otras informaciones,9,9,,presente
+FDS_043,1,1,identificación del producto,1,1,,presente
+FDS_043,2,2,identificación del peligro o peligros,1,1,,presente
+FDS_043,3,3,composición/información sobre los componentes,2,2,,presente
+FDS_043,4,4,primeros auxilios,2,2,,presente
+FDS_043,5,5,medidas de lucha contra incendios,2,2,,presente
+FDS_043,6,6,medidas que deben tomarse en caso de vertido accidental,3,3,,presente
+FDS_043,7,7,manipulación y almacenamiento,3,3,,presente
+FDS_043,8,8,controles de exposición/protección personal,4,4,,presente
+FDS_043,9,9,propiedades físicas y químicas y características de seguridad,5,5,,presente
+FDS_043,10,10,estabilidad y reactividad,6,6,,presente
+FDS_043,11,11,información toxicológica,6,6,,presente
+FDS_043,12,12,información ecotoxicológica,8,8,,presente
+FDS_043,13,13,información relativa a la eliminación de los productos,8,8,,presente
+FDS_043,14,14,información relativa al transporte,8,8,,presente
+FDS_043,15,15,información sobre la reglamentación,8,8,,presente
+FDS_043,16,16,otras informaciones,9,9,,presente
+FDS_044,1,1,identificación del producto,1,1,,presente
+FDS_044,2,2,identificación del peligro o peligros,1,1,,presente
+FDS_044,3,3,composición/información sobre los componentes,2,2,,presente
+FDS_044,4,4,primeros auxilios,2,2,,presente
+FDS_044,5,5,medidas de lucha contra incendios,2,2,,presente
+FDS_044,6,6,medidas que deben tomarse en caso de vertido accidental,3,3,,presente
+FDS_044,7,7,manipulación y almacenamiento,3,3,,presente
+FDS_044,8,8,controles de exposición/protección personal,4,4,,presente
+FDS_044,9,9,propiedades físicas y químicas y características de seguridad,5,5,,presente
+FDS_044,10,10,estabilidad y reactividad,6,6,,presente
+FDS_044,11,11,información toxicológica,6,6,,presente
+FDS_044,12,12,información ecotoxicológica,7,7,,presente
+FDS_044,13,13,información relativa a la eliminación de los productos,8,8,,presente
+FDS_044,14,14,información relativa al transporte,8,8,,presente
+FDS_044,15,15,información sobre la reglamentación,8,8,,presente
+FDS_044,16,16,otras informaciones,9,9,,presente
+FDS_045,1,1,identificación del producto,1,1,,presente
+FDS_045,2,2,identificación del peligro o peligros,1,1,,presente
+FDS_045,3,3,composición/información sobre los componentes,1,1,,presente
+FDS_045,4,4,primeros auxilios,2,2,,presente
+FDS_045,5,5,medidas de lucha contra incendios,2,2,,presente
+FDS_045,6,6,medidas que deben tomarse en caso de vertido accidental,3,3,,presente
+FDS_045,7,7,manipulación y almacenamiento,3,3,,presente
+FDS_045,8,8,controles de exposición/protección personal,4,4,,presente
+FDS_045,9,9,propiedades físicas y químicas y características de seguridad,5,5,,presente
+FDS_045,10,10,estabilidad y reactividad,6,6,,presente
+FDS_045,11,11,información toxicológica,6,6,,presente
+FDS_045,12,12,información ecotoxicológica,8,8,,presente
+FDS_045,13,13,información relativa a la eliminación de los productos,8,8,,presente
+FDS_045,14,14,información relativa al transporte,9,9,,presente
+FDS_045,15,15,información sobre la reglamentación,9,9,,presente
+FDS_045,16,16,otras informaciones,9,9,,presente
+FDS_046,1,1,identificación del producto,1,1,,presente
+FDS_046,2,2,identificación del peligro o peligros,1,1,,presente
+FDS_046,3,3,composición/información sobre los componentes,1,1,,presente
+FDS_046,4,4,primeros auxilios,1,1,,presente
+FDS_046,5,5,medidas de lucha contra incendios,2,2,,presente
+FDS_046,6,6,medidas que deben tomarse en caso de vertido accidental,2,2,,presente
+FDS_046,7,7,manipulación y almacenamiento,3,3,,presente
+FDS_046,8,8,controles de exposición/protección personal,3,3,,presente
+FDS_046,9,9,propiedades físicas y químicas y características de seguridad,4,4,,presente
+FDS_046,10,10,estabilidad y reactividad,5,5,,presente
+FDS_046,11,11,información toxicológica,6,6,,presente
+FDS_046,12,12,información ecotoxicológica,7,7,,presente
+FDS_046,13,13,información relativa a la eliminación de los productos,7,7,,presente
+FDS_046,14,14,información relativa al transporte,7,7,,presente
+FDS_046,15,15,información sobre la reglamentación,8,8,,presente
+FDS_046,16,16,otras informaciones,8,8,,presente
+FDS_047,1,1,identificación del producto y la compañía,1,1,,presente
+FDS_047,2,2,identificación de los peligros,1,1,,presente
+FDS_047,3,3,composición / información sobre los componentes,3,3,,presente
+FDS_047,4,4,primeros auxilios,3,3,,presente
+FDS_047,5,5,medidas contra incendios,4,4,,presente
+FDS_047,6,6,medidas que deben tomarse en caso de derrame o fuga,4,4,,presente
+FDS_047,7,7,manejo y almacenamiento,5,5,,presente
+FDS_047,8,8,controles de exposición / protección personal,6,6,,presente
+FDS_047,9,9,propiedades físicas y químicas,7,7,,presente
+FDS_047,10,10,estabilidad y reactividad,8,8,,presente
+FDS_047,11,11,información toxicológica,8,8,,presente
+FDS_047,12,12,información ecotoxicológica,11,11,,presente
+FDS_047,13,13,información relativa a la eliminación de los productos,12,12,,presente
+FDS_047,14,14,información relativa al transporte,12,12,,presente
+FDS_047,15,15,información reglamentaria,13,13,,presente
+FDS_047,16,16,otra informaciones,13,13,,presente
+FDS_048,1,1,identificación del producto y la compañía,1,1,,presente
+FDS_048,2,2,identificación de los peligros,1,1,,presente
+FDS_048,3,3,composición / información sobre los componentes,2,2,,presente
+FDS_048,4,4,primeros auxilios,3,3,,presente
+FDS_048,5,5,medidas contra incendios,4,4,,presente
+FDS_048,6,6,medidas que deben tomarse en caso de derrame o fuga,4,4,,presente
+FDS_048,7,7,manejo y almacenamiento,5,5,,presente
+FDS_048,8,8,controles de exposición / protección personal,6,6,,presente
+FDS_048,9,9,propiedades físicas y químicas,7,7,,presente
+FDS_048,10,10,estabilidad y reactividad,8,8,,presente
+FDS_048,11,11,información toxicológica,8,8,,presente
+FDS_048,12,12,información ecotoxicológica,12,12,,presente
+FDS_048,13,13,información relativa a la eliminación de los productos,13,13,,presente
+FDS_048,14,14,información relativa al transporte,13,13,,presente
+FDS_048,15,15,información reglamentaria,14,14,,presente
+FDS_048,16,16,otra informaciones,14,14,,presente
+FDS_049,1,1,identificación del producto,1,1,,presente
+FDS_049,2,2,identificación del peligro o peligros,1,1,,presente
+FDS_049,3,3,composición/información sobre los componentes,2,2,,presente
+FDS_049,4,4,primeros auxilios,2,2,,presente
+FDS_049,5,5,medidas de lucha contra incendios,2,2,,presente
+FDS_049,6,6,medidas que deben tomarse en caso de vertido accidental,3,3,,presente
+FDS_049,7,7,manipulación y almacenamiento,3,3,,presente
+FDS_049,8,8,controles de exposición/protección personal,4,4,,presente
+FDS_049,9,9,propiedades físicas y químicas y características de seguridad,5,5,,presente
+FDS_049,10,10,estabilidad y reactividad,6,6,,presente
+FDS_049,11,11,información toxicológica,7,7,,presente
+FDS_049,12,12,información ecotoxicológica,8,8,,presente
+FDS_049,13,13,información relativa a la eliminación de los productos,8,8,,presente
+FDS_049,14,14,información relativa al transporte,8,8,,presente
+FDS_049,15,15,información sobre la reglamentación,9,9,,presente
+FDS_049,16,16,otras informaciones,9,9,,presente
+FDS_050,1,1,identificación del producto,1,1,,presente
+FDS_050,2,2,identificación del peligro o peligros,1,1,,presente
+FDS_050,3,3,composición/información sobre los componentes,2,2,,presente
+FDS_050,4,4,primeros auxilios,2,2,,presente
+FDS_050,5,5,medidas de lucha contra incendios,2,2,,presente
+FDS_050,6,6,medidas que deben tomarse en caso de vertido accidental,3,3,,presente
+FDS_050,7,7,manipulación y almacenamiento,3,3,,presente
+FDS_050,8,8,controles de exposición/protección personal,4,4,,presente
+FDS_050,9,9,propiedades físicas y químicas y características de seguridad,6,6,,presente
+FDS_050,10,10,estabilidad y reactividad,7,7,,presente
+FDS_050,11,11,información toxicológica,7,7,,presente
+FDS_050,12,12,información ecotoxicológica,9,9,,presente
+FDS_050,13,13,información relativa a la eliminación de los productos,11,11,,presente
+FDS_050,14,14,información relativa al transporte,11,11,,presente
+FDS_050,15,15,información sobre la reglamentación,12,12,,presente
+FDS_050,16,16,otras informaciones,13,13,,presente
+FDS_051,1,1,identificación del producto,1,1,,presente
+FDS_051,2,2,identificación del peligro o peligros,1,1,,presente
+FDS_051,3,3,composición/información sobre los componentes,2,2,,presente
+FDS_051,4,4,primeros auxilios,2,2,,presente
+FDS_051,5,5,medidas de lucha contra incendios,3,3,,presente
+FDS_051,6,6,medidas que deben tomarse en caso de vertido accidental,3,3,,presente
+FDS_051,7,7,manipulación y almacenamiento,3,3,,presente
+FDS_051,8,8,controles de exposición/protección personal,4,4,,presente
+FDS_051,9,9,propiedades físicas y químicas y características de seguridad,6,6,,presente
+FDS_051,10,10,estabilidad y reactividad,7,7,,presente
+FDS_051,11,11,información toxicológica,7,7,,presente
+FDS_051,12,12,información ecotoxicológica,9,9,,presente
+FDS_051,13,13,información relativa a la eliminación de los productos,9,9,,presente
+FDS_051,14,14,información relativa al transporte,9,9,,presente
+FDS_051,15,15,información sobre la reglamentación,10,10,,presente
+FDS_051,16,16,otras informaciones,11,11,,presente
+FDS_052,1,1,identificación del producto,1,1,,presente
+FDS_052,2,2,identificación del peligro o peligros,1,1,,presente
+FDS_052,3,3,composición/información sobre los componentes,2,2,,presente
+FDS_052,4,4,primeros auxilios,2,2,,presente
+FDS_052,5,5,medidas de lucha contra incendios,2,2,,presente
+FDS_052,6,6,medidas que deben tomarse en caso de vertido accidental,3,3,,presente
+FDS_052,7,7,manipulación y almacenamiento,3,3,,presente
+FDS_052,8,8,controles de exposición/protección personal,4,4,,presente
+FDS_052,9,9,propiedades físicas y químicas y características de seguridad,5,5,,presente
+FDS_052,10,10,estabilidad y reactividad,6,6,,presente
+FDS_052,11,11,información toxicológica,7,7,,presente
+FDS_052,12,12,información ecotoxicológica,8,8,,presente
+FDS_052,13,13,información relativa a la eliminación de los productos,9,9,,presente
+FDS_052,14,14,información relativa al transporte,9,9,,presente
+FDS_052,15,15,información sobre la reglamentación,10,10,,presente
+FDS_052,16,16,otras informaciones,11,11,,presente
+FDS_053,1,1,identificación del producto,1,1,,presente
+FDS_053,2,2,identificación del peligro o peligros,1,1,,presente
+FDS_053,3,3,composición/información sobre los componentes,2,2,,presente
+FDS_053,4,4,primeros auxilios,2,2,,presente
+FDS_053,5,5,medidas de lucha contra incendios,3,3,,presente
+FDS_053,6,6,medidas que deben tomarse en caso de vertido accidental,3,3,,presente
+FDS_053,7,7,manipulación y almacenamiento,3,3,,presente
+FDS_053,8,8,controles de exposición/protección personal,4,4,,presente
+FDS_053,9,9,propiedades físicas y químicas y características de seguridad,6,6,,presente
+FDS_053,10,10,estabilidad y reactividad,7,7,,presente
+FDS_053,11,11,información toxicológica,7,7,,presente
+FDS_053,12,12,información ecotoxicológica,9,9,,presente
+FDS_053,13,13,información relativa a la eliminación de los productos,11,11,,presente
+FDS_053,14,14,información relativa al transporte,11,11,,presente
+FDS_053,15,15,información sobre la reglamentación,12,12,,presente
+FDS_053,16,16,otras informaciones,13,13,,presente
+FDS_054,1,1,identificación del producto,1,1,,presente
+FDS_054,2,2,identificación del peligro o peligros,1,1,,presente
+FDS_054,3,3,composición/información sobre los componentes,1,1,,presente
+FDS_054,4,4,primeros auxilios,2,2,,presente
+FDS_054,5,5,medidas de lucha contra incendios,2,2,,presente
+FDS_054,6,6,medidas que deben tomarse en caso de vertido accidental,2,2,,presente
+FDS_054,7,7,manipulación y almacenamiento,3,3,,presente
+FDS_054,8,8,controles de exposición/protección personal,3,3,,presente
+FDS_054,9,9,propiedades físicas y químicas y características de seguridad,5,5,,presente
+FDS_054,10,10,estabilidad y reactividad,6,6,,presente
+FDS_054,11,11,información toxicológica,7,7,,presente
+FDS_054,12,12,información ecotoxicológica,8,8,,presente
+FDS_054,13,13,información relativa a la eliminación de los productos,9,9,,presente
+FDS_054,14,14,información relativa al transporte,9,9,,presente
+FDS_054,15,15,información sobre la reglamentación,9,9,,presente
+FDS_054,16,16,otras informaciones,10,10,,presente
+FDS_055,1,1,identificación del producto,1,1,,presente
+FDS_055,2,2,identificación del peligro o peligros,1,1,,presente
+FDS_055,3,3,composición/información sobre los componentes,2,2,,presente
+FDS_055,4,4,primeros auxilios,2,2,,presente
+FDS_055,5,5,medidas de lucha contra incendios,3,3,,presente
+FDS_055,6,6,medidas que deben tomarse en caso de vertido accidental,3,3,,presente
+FDS_055,7,7,manipulación y almacenamiento,4,4,,presente
+FDS_055,8,8,controles de exposición/protección personal,4,4,,presente
+FDS_055,9,9,propiedades físicas y químicas y características de seguridad,6,6,,presente
+FDS_055,10,10,estabilidad y reactividad,7,7,,presente
+FDS_055,11,11,información toxicológica,8,8,,presente
+FDS_055,12,12,información ecotoxicológica,9,9,,presente
+FDS_055,13,13,información relativa a la eliminación de los productos,10,10,,presente
+FDS_055,14,14,información relativa al transporte,10,10,,presente
+FDS_055,15,15,información sobre la reglamentación,11,11,,presente
+FDS_055,16,16,otras informaciones,12,12,,presente
+FDS_056,1,1,identificación del producto,1,1,,presente
+FDS_056,2,2,identificación del peligro o peligros,1,1,,presente
+FDS_056,3,3,composición/información sobre los componentes,1,1,,presente
+FDS_056,4,4,primeros auxilios,2,2,,presente
+FDS_056,5,5,medidas de lucha contra incendios,2,2,,presente
+FDS_056,6,6,medidas que deben tomarse en caso de vertido accidental,3,3,,presente
+FDS_056,7,7,manipulación y almacenamiento,3,3,,presente
+FDS_056,8,8,controles de exposición/protección personal,4,4,,presente
+FDS_056,9,9,propiedades físicas y químicas y características de seguridad,5,5,,presente
+FDS_056,10,10,estabilidad y reactividad,6,6,,presente
+FDS_056,11,11,información toxicológica,6,6,,presente
+FDS_056,12,12,información ecotoxicológica,8,8,,presente
+FDS_056,13,13,información relativa a la eliminación de los productos,9,9,,presente
+FDS_056,14,14,información relativa al transporte,9,9,,presente
+FDS_056,15,15,información sobre la reglamentación,9,9,,presente
+FDS_056,16,16,otras informaciones,10,10,,presente
+FDS_057,1,1,identificación del producto,1,1,,presente
+FDS_057,2,2,identificación del peligro o peligros,1,1,,presente
+FDS_057,3,3,composición/información sobre los componentes,1,1,,presente
+FDS_057,4,4,primeros auxilios,2,2,,presente
+FDS_057,5,5,medidas de lucha contra incendios,2,2,,presente
+FDS_057,6,6,medidas que deben tomarse en caso de vertido accidental,3,3,,presente
+FDS_057,7,7,manipulación y almacenamiento,3,3,,presente
+FDS_057,8,8,controles de exposición/protección personal,4,4,,presente
+FDS_057,9,9,propiedades físicas y químicas y características de seguridad,5,5,,presente
+FDS_057,10,10,estabilidad y reactividad,6,6,,presente
+FDS_057,11,11,información toxicológica,7,7,,presente
+FDS_057,12,12,información ecotoxicológica,8,8,,presente
+FDS_057,13,13,información relativa a la eliminación de los productos,8,8,,presente
+FDS_057,14,14,información relativa al transporte,8,8,,presente
+FDS_057,15,15,información sobre la reglamentación,8,8,,presente
+FDS_057,16,16,otras informaciones,9,9,,presente
+FDS_058,1,1,identificación del producto,1,1,,presente
+FDS_058,2,2,identificación del peligro o peligros,1,1,,presente
+FDS_058,3,3,composición/información sobre los componentes,2,2,,presente
+FDS_058,4,4,primeros auxilios,2,2,,presente
+FDS_058,5,5,medidas de lucha contra incendios,3,3,,presente
+FDS_058,6,6,medidas que deben tomarse en caso de vertido accidental,3,3,,presente
+FDS_058,7,7,manipulación y almacenamiento,4,4,,presente
+FDS_058,8,8,controles de exposición/protección personal,5,5,,presente
+FDS_058,9,9,propiedades físicas y químicas y características de seguridad,6,6,,presente
+FDS_058,10,10,estabilidad y reactividad,7,7,,presente
+FDS_058,11,11,información toxicológica,8,8,,presente
+FDS_058,12,12,información ecotoxicológica,9,9,,presente
+FDS_058,13,13,información relativa a la eliminación de los productos,11,11,,presente
+FDS_058,14,14,información relativa al transporte,12,12,,presente
+FDS_058,15,15,información sobre la reglamentación,13,13,,presente
+FDS_058,16,16,otras informaciones,13,13,,presente
+FDS_059,1,1,identificación del producto,1,1,,presente
+FDS_059,2,2,identificación del peligro o peligros,1,1,,presente
+FDS_059,3,3,composición/información sobre los componentes,1,1,,presente
+FDS_059,4,4,primeros auxilios,2,2,,presente
+FDS_059,5,5,medidas de lucha contra incendios,2,2,,presente
+FDS_059,6,6,medidas que deben tomarse en caso de vertido accidental,3,3,,presente
+FDS_059,7,7,manipulación y almacenamiento,3,3,,presente
+FDS_059,8,8,controles de exposición/protección personal,4,4,,presente
+FDS_059,9,9,propiedades físicas y químicas y características de seguridad,5,5,,presente
+FDS_059,10,10,estabilidad y reactividad,6,6,,presente
+FDS_059,11,11,información toxicológica,7,7,,presente
+FDS_059,12,12,información ecotoxicológica,8,8,,presente
+FDS_059,13,13,información relativa a la eliminación de los productos,9,9,,presente
+FDS_059,14,14,información relativa al transporte,9,9,,presente
+FDS_059,15,15,información sobre la reglamentación,9,9,,presente
+FDS_059,16,16,otras informaciones,10,10,,presente
+FDS_060,1,1,identificación del producto,1,1,,presente
+FDS_060,2,2,identificación del peligro o peligros,1,1,,presente
+FDS_060,3,3,composición/información sobre los componentes,2,2,,presente
+FDS_060,4,4,primeros auxilios,3,3,,presente
+FDS_060,5,5,medidas de lucha contra incendios,3,3,,presente
+FDS_060,6,6,medidas que deben tomarse en caso de vertido accidental,3,3,,presente
+FDS_060,7,7,manipulación y almacenamiento,4,4,,presente
+FDS_060,8,8,controles de exposición/protección personal,5,5,,presente
+FDS_060,9,9,propiedades físicas y químicas y características de seguridad,7,7,,presente
+FDS_060,10,10,estabilidad y reactividad,8,8,,presente
+FDS_060,11,11,información toxicológica,8,8,,presente
+FDS_060,12,12,información ecotoxicológica,10,10,,presente
+FDS_060,13,13,información relativa a la eliminación de los productos,12,12,,presente
+FDS_060,14,14,información relativa al transporte,12,12,,presente
+FDS_060,15,15,información sobre la reglamentación,14,14,,presente
+FDS_060,16,16,otras informaciones,14,14,,presente
+FDS_061,1,1,identificación del producto,1,1,,presente
+FDS_061,2,2,identificación del peligro o peligros,1,1,,presente
+FDS_061,3,3,composición/información sobre los componentes,2,2,,presente
+FDS_061,4,4,primeros auxilios,2,2,,presente
+FDS_061,5,5,medidas de lucha contra incendios,2,2,,presente
+FDS_061,6,6,medidas que deben tomarse en caso de vertido accidental,3,3,,presente
+FDS_061,7,7,manipulación y almacenamiento,3,3,,presente
+FDS_061,8,8,controles de exposición/protección personal,4,4,,presente
+FDS_061,9,9,propiedades físicas y químicas y características de seguridad,5,5,,presente
+FDS_061,10,10,estabilidad y reactividad,6,6,,presente
+FDS_061,11,11,información toxicológica,7,7,,presente
+FDS_061,12,12,información ecotoxicológica,8,8,,presente
+FDS_061,13,13,información relativa a la eliminación de los productos,9,9,,presente
+FDS_061,14,14,información relativa al transporte,9,9,,presente
+FDS_061,15,15,información sobre la reglamentación,9,9,,presente
+FDS_061,16,16,otras informaciones,10,10,,presente
+FDS_062,1,1,identificación del producto,1,1,,presente
+FDS_062,2,2,identificación del peligro o peligros,1,1,,presente
+FDS_062,3,3,composición/información sobre los componentes,1,1,,presente
+FDS_062,4,4,primeros auxilios,2,2,,presente
+FDS_062,5,5,medidas de lucha contra incendios,2,2,,presente
+FDS_062,6,6,medidas que deben tomarse en caso de vertido accidental,2,2,,presente
+FDS_062,7,7,manipulación y almacenamiento,3,3,,presente
+FDS_062,8,8,controles de exposición/protección personal,3,3,,presente
+FDS_062,9,9,propiedades físicas y químicas y características de seguridad,5,5,,presente
+FDS_062,10,10,estabilidad y reactividad,6,6,,presente
+FDS_062,11,11,información toxicológica,6,6,,presente
+FDS_062,12,12,información ecotoxicológica,8,8,,presente
+FDS_062,13,13,información relativa a la eliminación de los productos,9,9,,presente
+FDS_062,14,14,información relativa al transporte,9,9,,presente
+FDS_062,15,15,información sobre la reglamentación,9,9,,presente
+FDS_062,16,16,otras informaciones,10,10,,presente
+FDS_063,1,1,identificación del producto y la compañía,1,1,,presente
+FDS_063,2,2,identificación de los peligros,1,1,,presente
+FDS_063,3,3,composición / información sobre los componentes,2,2,,presente
+FDS_063,4,4,primeros auxilios,2,2,,presente
+FDS_063,5,5,medidas contra incendios,3,3,,presente
+FDS_063,6,6,medidas que deben tomarse en caso de derrame o fuga,4,4,,presente
+FDS_063,7,7,manejo y almacenamiento,4,4,,presente
+FDS_063,8,8,controles de exposición / protección personal,5,5,,presente
+FDS_063,9,9,propiedades físicas y químicas,6,6,,presente
+FDS_063,10,10,estabilidad y reactividad,7,7,,presente
+FDS_063,11,11,información toxicológica,7,7,,presente
+FDS_063,12,12,información ecotoxicológica,10,10,,presente
+FDS_063,13,13,información relativa a la eliminación de los productos,10,10,,presente
+FDS_063,14,14,información relativa al transporte,10,10,,presente
+FDS_063,15,15,información reglamentaria,12,12,,presente
+FDS_063,16,16,otra informaciones,12,12,,presente
+FDS_064,1,1,identificación del producto y la compañía,1,1,,presente
+FDS_064,2,2,identificación de los peligros,1,1,,presente
+FDS_064,3,3,composición / información sobre los componentes,2,2,,presente
+FDS_064,4,4,primeros auxilios,2,2,,presente
+FDS_064,5,5,medidas contra incendios,3,3,,presente
+FDS_064,6,6,medidas que deben tomarse en caso de derrame o fuga,4,4,,presente
+FDS_064,7,7,manejo y almacenamiento,4,4,,presente
+FDS_064,8,8,controles de exposición / protección personal,5,5,,presente
+FDS_064,9,9,propiedades físicas y químicas,6,6,,presente
+FDS_064,10,10,estabilidad y reactividad,7,7,,presente
+FDS_064,11,11,información toxicológica,7,7,,presente
+FDS_064,12,12,información ecotoxicológica,10,10,,presente
+FDS_064,13,13,información relativa a la eliminación de los productos,10,10,,presente
+FDS_064,14,14,información relativa al transporte,10,10,,presente
+FDS_064,15,15,información reglamentaria,12,12,,presente
+FDS_064,16,16,otra informaciones,12,12,,presente
+FDS_065,1,1,identificación del producto y la compañía,1,1,,presente
+FDS_065,2,2,identificación de los peligros,1,1,,presente
+FDS_065,3,3,composición / información sobre los componentes,3,3,,presente
+FDS_065,4,4,primeros auxilios,3,3,,presente
+FDS_065,5,5,medidas contra incendios,4,4,,presente
+FDS_065,6,6,medidas que deben tomarse en caso de derrame o fuga,5,5,,presente
+FDS_065,7,7,manejo y almacenamiento,5,5,,presente
+FDS_065,8,8,controles de exposición / protección personal,6,6,,presente
+FDS_065,9,9,propiedades físicas y químicas,8,8,,presente
+FDS_065,10,10,estabilidad y reactividad,8,8,,presente
+FDS_065,11,11,información toxicológica,9,9,,presente
+FDS_065,12,12,información ecotoxicológica,13,13,,presente
+FDS_065,13,13,información relativa a la eliminación de los productos,14,14,,presente
+FDS_065,14,14,información relativa al transporte,14,14,,presente
+FDS_065,15,15,información reglamentaria,15,15,,presente
+FDS_065,16,16,otra informaciones,15,15,,presente
+FDS_066,1,1,identificación del producto,1,1,,presente
+FDS_066,2,2,identificación del peligro o peligros,1,1,,presente
+FDS_066,3,3,composición/información sobre los componentes,2,2,,presente
+FDS_066,4,4,primeros auxilios,3,3,,presente
+FDS_066,5,5,medidas de lucha contra incendios,3,3,,presente
+FDS_066,6,6,medidas que deben tomarse en caso de vertido accidental,3,3,,presente
+FDS_066,7,7,manipulación y almacenamiento,4,4,,presente
+FDS_066,8,8,controles de exposición/protección personal,5,5,,presente
+FDS_066,9,9,propiedades físicas y químicas y características de seguridad,7,7,,presente
+FDS_066,10,10,estabilidad y reactividad,8,8,,presente
+FDS_066,11,11,información toxicológica,9,9,,presente
+FDS_066,12,12,información ecotoxicológica,11,11,,presente
+FDS_066,13,13,información relativa a la eliminación de los productos,14,14,,presente
+FDS_066,14,14,información relativa al transporte,14,14,,presente
+FDS_066,15,15,información sobre la reglamentación,16,16,,presente
+FDS_066,16,16,otras informaciones,16,16,,presente
+FDS_067,1,1,identificación del producto,1,1,,presente
+FDS_067,2,2,identificación del peligro o peligros,1,1,,presente
+FDS_067,3,3,composición/información sobre los componentes,2,2,,presente
+FDS_067,4,4,primeros auxilios,2,2,,presente
+FDS_067,5,5,medidas de lucha contra incendios,3,3,,presente
+FDS_067,6,6,medidas que deben tomarse en caso de vertido accidental,3,3,,presente
+FDS_067,7,7,manipulación y almacenamiento,3,3,,presente
+FDS_067,8,8,controles de exposición/protección personal,4,4,,presente
+FDS_067,9,9,propiedades físicas y químicas y características de seguridad,5,5,,presente
+FDS_067,10,10,estabilidad y reactividad,6,6,,presente
+FDS_067,11,11,información toxicológica,7,7,,presente
+FDS_067,12,12,información ecotoxicológica,8,8,,presente
+FDS_067,13,13,información relativa a la eliminación de los productos,9,9,,presente
+FDS_067,14,14,información relativa al transporte,9,9,,presente
+FDS_067,15,15,información sobre la reglamentación,10,10,,presente
+FDS_067,16,16,otras informaciones,11,11,,presente
+FDS_068,1,1,identificación del producto,1,1,,presente
+FDS_068,2,2,identificación del peligro o peligros,1,1,,presente
+FDS_068,3,3,composición/información sobre los componentes,2,2,,presente
+FDS_068,4,4,primeros auxilios,2,2,,presente
+FDS_068,5,5,medidas de lucha contra incendios,3,3,,presente
+FDS_068,6,6,medidas que deben tomarse en caso de vertido accidental,3,3,,presente
+FDS_068,7,7,manipulación y almacenamiento,3,3,,presente
+FDS_068,8,8,controles de exposición/protección personal,4,4,,presente
+FDS_068,9,9,propiedades físicas y químicas y características de seguridad,5,5,,presente
+FDS_068,10,10,estabilidad y reactividad,6,6,,presente
+FDS_068,11,11,información toxicológica,7,7,,presente
+FDS_068,12,12,información ecotoxicológica,8,8,,presente
+FDS_068,13,13,información relativa a la eliminación de los productos,8,8,,presente
+FDS_068,14,14,información relativa al transporte,9,9,,presente
+FDS_068,15,15,información sobre la reglamentación,10,10,,presente
+FDS_068,16,16,otras informaciones,10,10,,presente
+FDS_069,1,1,identificación de la sustancia química peligrosa o mezcla y del,1,1,,presente
+FDS_069,2,2,identificación de los peligros,1,1,,presente
+FDS_069,3,3,composición/información sobre los ingredientes,3,3,,presente
+FDS_069,4,4,primeros auxilios,3,3,,presente
+FDS_069,5,5,medidas contra incendios,4,4,,presente
+FDS_069,6,6,medidas que deben tomarse en caso de derrame accidental o fuga,5,5,,presente
+FDS_069,7,7,manejo y almacenamiento,5,5,,presente
+FDS_069,8,8,controles de exposición/protección personal,6,6,,presente
+FDS_069,9,9,propiedades físicas y químicas,7,7,,presente
+FDS_069,10,10,estabilidad y reactividad,8,8,,presente
+FDS_069,11,11,información toxicológica,8,8,,presente
+FDS_069,12,12,información ecotoxicologica,10,10,,presente
+FDS_069,13,13,información relativa a la eliminación de los productos,11,11,,presente
+FDS_069,14,14,información relativa al transporte,11,11,,presente
+FDS_069,15,15,información reglamentaria,12,12,,presente
+FDS_069,16,16,otra información incluidas las relativas a la preparación y,12,12,,presente
+FDS_070,1,1,identificación de la sustancia química peligrosa o mezcla y del,1,1,,presente
+FDS_070,2,2,identificación de los peligros,1,1,,presente
+FDS_070,3,3,composición/información sobre los ingredientes,3,3,,presente
+FDS_070,4,4,primeros auxilios,3,3,,presente
+FDS_070,5,5,medidas contra incendios,4,4,,presente
+FDS_070,6,6,medidas que deben tomarse en caso de derrame accidental o fuga,5,5,,presente
+FDS_070,7,7,manejo y almacenamiento,5,5,,presente
+FDS_070,8,8,controles de exposición/protección personal,6,6,,presente
+FDS_070,9,9,propiedades físicas y químicas,7,7,,presente
+FDS_070,10,10,estabilidad y reactividad,8,8,,presente
+FDS_070,11,11,información toxicológica,8,8,,presente
+FDS_070,12,12,información ecotoxicologica,10,10,,presente
+FDS_070,13,13,información relativa a la eliminación de los productos,10,10,,presente
+FDS_070,14,14,información relativa al transporte,10,10,,presente
+FDS_070,15,15,información reglamentaria,11,11,,presente
+FDS_070,16,16,otra información incluidas las relativas a la preparación y,12,12,,presente
+FDS_071,1,1,identificación de la sustancia química peligrosa o mezcla y del,1,1,,presente
+FDS_071,2,2,identificación de los peligros,1,1,,presente
+FDS_071,3,3,composición/información sobre los ingredientes,3,3,,presente
+FDS_071,4,4,primeros auxilios,3,3,,presente
+FDS_071,5,5,medidas contra incendios,4,4,,presente
+FDS_071,6,6,medidas que deben tomarse en caso de derrame accidental o fuga,4,4,,presente
+FDS_071,7,7,manejo y almacenamiento,5,5,,presente
+FDS_071,8,8,controles de exposición/protección personal,5,5,,presente
+FDS_071,9,9,propiedades físicas y químicas,7,7,,presente
+FDS_071,10,10,estabilidad y reactividad,8,8,,presente
+FDS_071,11,11,información toxicológica,9,9,,presente
+FDS_071,12,12,información ecotoxicologica,10,10,,presente
+FDS_071,13,13,información relativa a la eliminación de los productos,10,10,,presente
+FDS_071,14,14,información relativa al transporte,10,10,,presente
+FDS_071,15,15,información reglamentaria,11,11,,presente
+FDS_071,16,16,otra información incluidas las relativas a la preparación y,12,12,,presente
+FDS_072,1,1,identificación de la sustancia química peligrosa o mezcla y del,1,1,,presente
+FDS_072,2,2,identificación de los peligros,1,1,,presente
+FDS_072,3,3,composición/información sobre los ingredientes,3,3,,presente
+FDS_072,4,4,primeros auxilios,3,3,,presente
+FDS_072,5,5,medidas contra incendios,4,4,,presente
+FDS_072,6,6,medidas que deben tomarse en caso de derrame accidental o fuga,4,4,,presente
+FDS_072,7,7,manejo y almacenamiento,5,5,,presente
+FDS_072,8,8,controles de exposición/protección personal,5,5,,presente
+FDS_072,9,9,propiedades físicas y químicas,7,7,,presente
+FDS_072,10,10,estabilidad y reactividad,8,8,,presente
+FDS_072,11,11,información toxicológica,8,8,,presente
+FDS_072,12,12,información ecotoxicologica,9,9,,presente
+FDS_072,13,13,información relativa a la eliminación de los productos,9,9,,presente
+FDS_072,14,14,información relativa al transporte,10,10,,presente
+FDS_072,15,15,información reglamentaria,10,10,,presente
+FDS_072,16,16,otra información incluidas las relativas a la preparación y,11,11,,presente
+FDS_073,1,1,identificación de la sustancia química peligrosa o mezcla y del,1,1,,presente
+FDS_073,2,2,identificación de los peligros,1,1,,presente
+FDS_073,3,3,composición/información sobre los ingredientes,2,2,,presente
+FDS_073,4,4,primeros auxilios,3,3,,presente
+FDS_073,5,5,medidas contra incendios,3,3,,presente
+FDS_073,6,6,medidas que deben tomarse en caso de derrame accidental o fuga,4,4,,presente
+FDS_073,7,7,manejo y almacenamiento,4,4,,presente
+FDS_073,8,8,controles de exposición/protección personal,5,5,,presente
+FDS_073,9,9,propiedades físicas y químicas,5,5,,presente
+FDS_073,10,10,estabilidad y reactividad,6,6,,presente
+FDS_073,11,11,información toxicológica,7,7,,presente
+FDS_073,12,12,información ecotoxicologica,8,8,,presente
+FDS_073,13,13,información relativa a la eliminación de los productos,8,8,,presente
+FDS_073,14,14,información relativa al transporte,9,9,,presente
+FDS_073,15,15,información reglamentaria,10,10,,presente
+FDS_073,16,16,otra información incluidas las relativas a la preparación y,10,10,,presente
+FDS_074,1,1,identificación de la sustancia química peligrosa o mezcla y del,1,1,,presente
+FDS_074,2,2,identificación de los peligros,1,1,,presente
+FDS_074,3,3,composición/información sobre los ingredientes,3,3,,presente
+FDS_074,4,4,primeros auxilios,3,3,,presente
+FDS_074,5,5,medidas contra incendios,4,4,,presente
+FDS_074,6,6,medidas que deben tomarse en caso de derrame accidental o fuga,4,4,,presente
+FDS_074,7,7,manejo y almacenamiento,5,5,,presente
+FDS_074,8,8,controles de exposición/protección personal,5,5,,presente
+FDS_074,9,9,propiedades físicas y químicas,6,6,,presente
+FDS_074,10,10,estabilidad y reactividad,7,7,,presente
+FDS_074,11,11,información toxicológica,7,7,,presente
+FDS_074,12,12,información ecotoxicologica,9,9,,presente
+FDS_074,13,13,información relativa a la eliminación de los productos,10,10,,presente
+FDS_074,14,14,información relativa al transporte,10,10,,presente
+FDS_074,15,15,información reglamentaria,11,11,,presente
+FDS_074,16,16,otra información incluidas las relativas a la preparación y,11,11,,presente
+FDS_075,1,1,identificación del producto,1,1,,presente
+FDS_075,2,2,identificación del peligro o peligros,1,1,,presente
+FDS_075,3,3,composición/información sobre los componentes,2,2,,presente
+FDS_075,4,4,primeros auxilios,2,2,,presente
+FDS_075,5,5,medidas de lucha contra incendios,2,2,,presente
+FDS_075,6,6,medidas que deben tomarse en caso de vertido accidental,3,3,,presente
+FDS_075,7,7,manipulación y almacenamiento,3,3,,presente
+FDS_075,8,8,controles de exposición/protección personal,4,4,,presente
+FDS_075,9,9,propiedades físicas y químicas y características de seguridad,5,5,,presente
+FDS_075,10,10,estabilidad y reactividad,6,6,,presente
+FDS_075,11,11,información toxicológica,7,7,,presente
+FDS_075,12,12,información ecotoxicológica,8,8,,presente
+FDS_075,13,13,información relativa a la eliminación de los productos,9,9,,presente
+FDS_075,14,14,información relativa al transporte,9,9,,presente
+FDS_075,15,15,información sobre la reglamentación,9,9,,presente
+FDS_075,16,16,otras informaciones,9,9,,presente
+FDS_076,1,1,identificación del producto,1,1,,presente
+FDS_076,2,2,identificación del peligro o peligros,1,1,,presente
+FDS_076,3,3,composición/información sobre los componentes,2,2,,presente
+FDS_076,4,4,primeros auxilios,2,2,,presente
+FDS_076,5,5,medidas de lucha contra incendios,2,2,,presente
+FDS_076,6,6,medidas que deben tomarse en caso de vertido accidental,3,3,,presente
+FDS_076,7,7,manipulación y almacenamiento,3,3,,presente
+FDS_076,8,8,controles de exposición/protección personal,4,4,,presente
+FDS_076,9,9,propiedades físicas y químicas y características de seguridad,5,5,,presente
+FDS_076,10,10,estabilidad y reactividad,6,6,,presente
+FDS_076,11,11,información toxicológica,7,7,,presente
+FDS_076,12,12,información ecotoxicológica,8,8,,presente
+FDS_076,13,13,información relativa a la eliminación de los productos,9,9,,presente
+FDS_076,14,14,información relativa al transporte,9,9,,presente
+FDS_076,15,15,información sobre la reglamentación,9,9,,presente
+FDS_076,16,16,otras informaciones,9,9,,presente
+FDS_077,1,1,identificación del producto,1,1,,presente
+FDS_077,2,2,identificación del peligro o peligros,1,1,,presente
+FDS_077,3,3,composición/información sobre los componentes,1,1,,presente
+FDS_077,4,4,primeros auxilios,2,2,,presente
+FDS_077,5,5,medidas de lucha contra incendios,2,2,,presente
+FDS_077,6,6,medidas que deben tomarse en caso de vertido accidental,3,3,,presente
+FDS_077,7,7,manipulación y almacenamiento,3,3,,presente
+FDS_077,8,8,controles de exposición/protección personal,4,4,,presente
+FDS_077,9,9,propiedades físicas y químicas y características de seguridad,5,5,,presente
+FDS_077,10,10,estabilidad y reactividad,6,6,,presente
+FDS_077,11,11,información toxicológica,6,6,,presente
+FDS_077,12,12,información ecotoxicológica,8,8,,presente
+FDS_077,13,13,información relativa a la eliminación de los productos,9,9,,presente
+FDS_077,14,14,información relativa al transporte,9,9,,presente
+FDS_077,15,15,información sobre la reglamentación,9,9,,presente
+FDS_077,16,16,otras informaciones,10,10,,presente
+FDS_078,1,1,identificación del producto,1,1,,presente
+FDS_078,2,2,identificación del peligro o peligros,1,1,,presente
+FDS_078,3,3,composición/información sobre los componentes,2,2,,presente
+FDS_078,4,4,primeros auxilios,2,2,,presente
+FDS_078,5,5,medidas de lucha contra incendios,3,3,,presente
+FDS_078,6,6,medidas que deben tomarse en caso de vertido accidental,3,3,,presente
+FDS_078,7,7,manipulación y almacenamiento,3,3,,presente
+FDS_078,8,8,controles de exposición/protección personal,4,4,,presente
+FDS_078,9,9,propiedades físicas y químicas y características de seguridad,6,6,,presente
+FDS_078,10,10,estabilidad y reactividad,7,7,,presente
+FDS_078,11,11,información toxicológica,7,7,,presente
+FDS_078,12,12,información ecotoxicológica,9,9,,presente
+FDS_078,13,13,información relativa a la eliminación de los productos,10,10,,presente
+FDS_078,14,14,información relativa al transporte,10,10,,presente
+FDS_078,15,15,información sobre la reglamentación,12,12,,presente
+FDS_078,16,16,otras informaciones,12,12,,presente
+FDS_079,1,1,identificación,1,1,,presente
+FDS_079,2,2,identificación de los peligros,2,2,,presente
+FDS_079,3,3,composición/información sobre los componentes,3,3,,presente
+FDS_079,4,4,primeros auxilios,3,3,,presente
+FDS_079,5,5,medidas de lucha contra incendios,5,5,,presente
+FDS_079,6,6,medidas en caso de vertido accidental,5,5,,presente
+FDS_079,7,7,manipulación y almacenamiento,6,6,,presente
+FDS_079,8,8,controles de exposición/protección individual,7,7,,presente
+FDS_079,9,9,propiedades físicas y químicas y características de,8,8,,presente
+FDS_079,10,10,estabilidad y reactividad,9,9,,presente
+FDS_079,11,11,información toxicológica,10,10,,presente
+FDS_079,12,12,información ecológica,13,13,,presente
+FDS_079,13,13,para la eliminación de los residuos.,6,14,,presente
+FDS_079,14,14,información relativa al transporte,15,15,,presente
+FDS_079,15,15,información reglamentaria,15,15,,presente
+FDS_079,16,16,otra información,16,16,,presente
+FDS_080,1,1,identificación,1,1,,presente
+FDS_080,2,2,identificación de los peligros,2,2,,presente
+FDS_080,3,3,composición/información sobre los componentes,3,3,,presente
+FDS_080,4,4,primeros auxilios,3,3,,presente
+FDS_080,5,5,medidas de lucha contra incendios,4,4,,presente
+FDS_080,6,6,medidas en caso de vertido accidental,5,5,,presente
+FDS_080,7,7,manipulación y almacenamiento,5,5,,presente
+FDS_080,8,8,controles de exposición/protección individual,6,6,,presente
+FDS_080,9,9,propiedades físicas y químicas y características de,7,7,,presente
+FDS_080,10,10,estabilidad y reactividad,8,8,,presente
+FDS_080,11,11,información toxicológica,9,9,,presente
+FDS_080,12,12,información ecológica,12,12,,presente
+FDS_080,13,13,para la eliminación de los residuos.,5,13,,presente
+FDS_080,14,14,información relativa al transporte,13,13,,presente
+FDS_080,15,15,información reglamentaria,14,14,,presente
+FDS_080,16,16,otra información,14,14,,presente
+FDS_081,1,1,identificación,1,1,,presente
+FDS_081,2,2,identificación de los peligros,2,2,,presente
+FDS_081,3,3,composición/información sobre los componentes,3,3,,presente
+FDS_081,4,4,primeros auxilios,3,3,,presente
+FDS_081,5,5,medidas de lucha contra incendios,5,5,,presente
+FDS_081,6,6,medidas en caso de vertido accidental,5,5,,presente
+FDS_081,7,7,manipulación y almacenamiento,6,6,,presente
+FDS_081,8,8,controles de exposición/protección individual,6,6,,presente
+FDS_081,9,9,propiedades físicas y químicas y características de,8,8,,presente
+FDS_081,10,10,estabilidad y reactividad,9,9,,presente
+FDS_081,11,11,información toxicológica,9,9,,presente
+FDS_081,12,12,información ecológica,12,12,,presente
+FDS_081,13,13,para la eliminación de los residuos.,6,13,,presente
+FDS_081,14,14,información relativa al transporte,13,13,,presente
+FDS_081,15,15,información reglamentaria,14,14,,presente
+FDS_081,16,16,otra información,14,14,,presente
+FDS_082,1,1,identificación,1,1,,presente
+FDS_082,2,2,identificación de los peligros,1,1,,presente
+FDS_082,3,3,composición/información sobre los componentes,2,2,,presente
+FDS_082,4,4,primeros auxilios,2,2,,presente
+FDS_082,5,5,medidas de lucha contra incendios,4,4,,presente
+FDS_082,6,6,medidas en caso de vertido accidental,4,4,,presente
+FDS_082,7,7,manipulación y almacenamiento,5,5,,presente
+FDS_082,8,8,controles de exposición/protección individual,5,5,,presente
+FDS_082,9,9,propiedades físicas y químicas y características de,7,7,,presente
+FDS_082,10,10,estabilidad y reactividad,8,8,,presente
+FDS_082,11,11,información toxicológica,9,9,,presente
+FDS_082,12,12,información ecológica,12,12,,presente
+FDS_082,13,13,para la eliminación de los residuos.,5,15,,presente
+FDS_082,14,14,información relativa al transporte,15,15,,presente
+FDS_082,15,15,información reglamentaria,16,16,,presente
+FDS_082,16,16,otra información,16,16,,presente
+FDS_083,1,1,identificación,1,1,,presente
+FDS_083,2,2,identificación de los peligros,1,1,,presente
+FDS_083,3,3,composición/información sobre los componentes,2,2,,presente
+FDS_083,4,4,primeros auxilios,2,2,,presente
+FDS_083,5,5,medidas de lucha contra incendios,3,3,,presente
+FDS_083,6,6,medidas en caso de vertido accidental,3,3,,presente
+FDS_083,7,7,manipulación y almacenamiento,4,4,,presente
+FDS_083,8,8,controles de exposición/protección individual,4,4,,presente
+FDS_083,9,9,propiedades físicas y químicas y características de,5,5,,presente
+FDS_083,10,10,estabilidad y reactividad,6,6,,presente
+FDS_083,11,11,información toxicológica,6,6,,presente
+FDS_083,12,12,información ecológica,8,8,,presente
+FDS_083,13,13,para la eliminación de los residuos.,3,9,,presente
+FDS_083,14,14,información relativa al transporte,10,10,,presente
+FDS_083,15,15,información reglamentaria,10,10,,presente
+FDS_083,16,16,otra información,11,11,,presente
+FDS_084,1,1,identificación,1,1,,presente
+FDS_084,2,2,identificación de los peligros,1,1,,presente
+FDS_084,3,3,composición/información sobre los componentes,2,2,,presente
+FDS_084,4,4,primeros auxilios,2,2,,presente
+FDS_084,5,5,medidas de lucha contra incendios,4,4,,presente
+FDS_084,6,6,medidas en caso de vertido accidental,4,4,,presente
+FDS_084,7,7,manipulación y almacenamiento,5,5,,presente
+FDS_084,8,8,controles de exposición/protección individual,5,5,,presente
+FDS_084,9,9,propiedades físicas y químicas y características de,7,7,,presente
+FDS_084,10,10,estabilidad y reactividad,8,8,,presente
+FDS_084,11,11,información toxicológica,8,8,,presente
+FDS_084,12,12,información ecológica,11,11,,presente
+FDS_084,13,13,. elimine por medio de un contratista autorizado para la eliminación. el,5,13,,presente
+FDS_084,14,14,información relativa al transporte,13,13,,presente
+FDS_084,15,15,información reglamentaria,14,14,,presente
+FDS_084,16,16,otra información,14,14,,presente
+FDS_085,1,1,identificación,1,1,,presente
+FDS_085,2,2,identificación de los peligros,1,1,,presente
+FDS_085,3,3,composición/información sobre los componentes,2,2,,presente
+FDS_085,4,4,primeros auxilios,2,2,,presente
+FDS_085,5,5,medidas de lucha contra incendios,4,4,,presente
+FDS_085,6,6,medidas en caso de vertido accidental,4,4,,presente
+FDS_085,7,7,manipulación y almacenamiento,5,5,,presente
+FDS_085,8,8,controles de exposición/protección individual,5,5,,presente
+FDS_085,9,9,propiedades físicas y químicas y características de,6,6,,presente
+FDS_085,10,10,estabilidad y reactividad,7,7,,presente
+FDS_085,11,11,información toxicológica,8,8,,presente
+FDS_085,12,12,información ecológica,11,11,,presente
+FDS_085,13,13,. elimine por medio de un contratista autorizado para la eliminación. el,4,12,,presente
+FDS_085,14,14,información relativa al transporte,13,13,,presente
+FDS_085,15,15,información reglamentaria,13,13,,presente
+FDS_085,16,16,otra información,14,14,,presente
+FDS_086,1,1,identificacion del producto,1,1,,presente
+FDS_086,2,2,identificación del peligro o peligros,1,1,,presente
+FDS_086,3,3,composición/informacion sobre los componentes,2,2,,presente
+FDS_086,4,4,primeros auxilios,3,3,,presente
+FDS_086,5,5,medidas de lucha contra incendios,3,3,,presente
+FDS_086,6,6,medidas que deben tomarse en caso de vertido accidental,3,3,,presente
+FDS_086,7,7,manipulación y almacenamiento,4,4,,presente
+FDS_086,8,8,controles de exposición/protección personal,4,4,,presente
+FDS_086,9,9,propiedades físicas y químicas,5,5,,presente
+FDS_086,10,10,estabilidad y reactividad,6,6,,presente
+FDS_086,11,11,información toxicológica,6,6,,presente
+FDS_086,12,12,información ecotoxicologica,7,7,,presente
+FDS_086,13,13,información relativa a la eliminación de los productos,8,8,,presente
+FDS_086,14,14,información relativa al transporte,8,8,,presente
+FDS_086,15,15,información sobre la reglamentacion,8,8,,presente
+FDS_086,16,16,otras informaciones,9,9,,presente
+FDS_087,1,1,identificación de la sustancia química peligrosa o mezcla y del,1,1,,presente
+FDS_087,2,2,identificación de los peligros,1,1,,presente
+FDS_087,3,3,composición/información sobre los ingredientes,3,3,,presente
+FDS_087,4,4,primeros auxilios,3,3,,presente
+FDS_087,5,5,medidas contra incendios,4,4,,presente
+FDS_087,6,6,medidas que deben tomarse en caso de derrame accidental o fuga,4,4,,presente
+FDS_087,7,7,manejo y almacenamiento,5,5,,presente
+FDS_087,8,8,controles de exposición/protección personal,5,5,,presente
+FDS_087,9,9,propiedades físicas y químicas,7,7,,presente
+FDS_087,10,10,estabilidad y reactividad,8,8,,presente
+FDS_087,11,11,información toxicológica,8,8,,presente
+FDS_087,12,12,información ecotoxicologica,9,9,,presente
+FDS_087,13,13,información relativa a la eliminación de los productos,10,10,,presente
+FDS_087,14,14,información relativa al transporte,10,10,,presente
+FDS_087,15,15,información reglamentaria,11,11,,presente
+FDS_087,16,16,otra información incluidas las relativas a la preparación y,11,11,,presente
+FDS_088,1,1,identificación del producto,1,1,,presente
+FDS_088,2,2,identificación del peligro o peligros,1,1,,presente
+FDS_088,3,3,composición/información sobre los componentes,2,2,,presente
+FDS_088,4,4,primeros auxilios,2,2,,presente
+FDS_088,5,5,medidas de lucha contra incendios,3,3,,presente
+FDS_088,6,6,medidas que deben tomarse en caso de vertido accidental,3,3,,presente
+FDS_088,7,7,manipulación y almacenamiento,3,3,,presente
+FDS_088,8,8,controles de exposición/protección personal,4,4,,presente
+FDS_088,9,9,propiedades físicas y químicas y características de seguridad,5,5,,presente
+FDS_088,10,10,estabilidad y reactividad,6,6,,presente
+FDS_088,11,11,información toxicológica,7,7,,presente
+FDS_088,12,12,información ecotoxicológica,8,8,,presente
+FDS_088,13,13,información relativa a la eliminación de los productos,9,9,,presente
+FDS_088,14,14,información relativa al transporte,9,9,,presente
+FDS_088,15,15,información sobre la reglamentación,10,10,,presente
+FDS_088,16,16,otras informaciones,11,11,,presente
+FDS_089,1,1,identificación del producto,1,1,,presente
+FDS_089,2,2,identificación del peligro o peligros,1,1,,presente
+FDS_089,3,3,composición/información sobre los componentes,2,2,,presente
+FDS_089,4,4,primeros auxilios,2,2,,presente
+FDS_089,5,5,medidas de lucha contra incendios,2,2,,presente
+FDS_089,6,6,medidas que deben tomarse en caso de vertido accidental,3,3,,presente
+FDS_089,7,7,manipulación y almacenamiento,3,3,,presente
+FDS_089,8,8,controles de exposición/protección personal,4,4,,presente
+FDS_089,9,9,propiedades físicas y químicas y características de seguridad,5,5,,presente
+FDS_089,10,10,estabilidad y reactividad,6,6,,presente
+FDS_089,11,11,información toxicológica,7,7,,presente
+FDS_089,12,12,información ecotoxicológica,8,8,,presente
+FDS_089,13,13,información relativa a la eliminación de los productos,9,9,,presente
+FDS_089,14,14,información relativa al transporte,9,9,,presente
+FDS_089,15,15,información sobre la reglamentación,10,10,,presente
+FDS_089,16,16,otras informaciones,11,11,,presente
+FDS_090,1,1,identificación del producto,1,1,,presente
+FDS_090,2,2,identificación del peligro o peligros,1,1,,presente
+FDS_090,3,3,composición/información sobre los componentes,1,1,,presente
+FDS_090,4,4,primeros auxilios,2,2,,presente
+FDS_090,5,5,medidas de lucha contra incendios,2,2,,presente
+FDS_090,6,6,medidas que deben tomarse en caso de vertido accidental,3,3,,presente
+FDS_090,7,7,manipulación y almacenamiento,3,3,,presente
+FDS_090,8,8,controles de exposición/protección personal,3,3,,presente
+FDS_090,9,9,propiedades físicas y químicas y características de seguridad,5,5,,presente
+FDS_090,10,10,estabilidad y reactividad,6,6,,presente
+FDS_090,11,11,información toxicológica,6,6,,presente
+FDS_090,12,12,información ecotoxicológica,7,7,,presente
+FDS_090,13,13,información relativa a la eliminación de los productos,9,9,,presente
+FDS_090,14,14,información relativa al transporte,9,9,,presente
+FDS_090,15,15,información sobre la reglamentación,9,9,,presente
+FDS_090,16,16,otras informaciones,9,9,,presente
+FDS_091,1,1,identificación del producto,1,1,,presente
+FDS_091,2,2,identificación del peligro o peligros,1,1,,presente
+FDS_091,3,3,composición/información sobre los componentes,1,1,,presente
+FDS_091,4,4,primeros auxilios,2,2,,presente
+FDS_091,5,5,medidas de lucha contra incendios,2,2,,presente
+FDS_091,6,6,medidas que deben tomarse en caso de vertido accidental,3,3,,presente
+FDS_091,7,7,manipulación y almacenamiento,3,3,,presente
+FDS_091,8,8,controles de exposición/protección personal,4,4,,presente
+FDS_091,9,9,propiedades físicas y químicas y características de seguridad,5,5,,presente
+FDS_091,10,10,estabilidad y reactividad,7,7,,presente
+FDS_091,11,11,información toxicológica,7,7,,presente
+FDS_091,12,12,información ecotoxicológica,8,8,,presente
+FDS_091,13,13,información relativa a la eliminación de los productos,9,9,,presente
+FDS_091,14,14,información relativa al transporte,9,9,,presente
+FDS_091,15,15,información sobre la reglamentación,10,10,,presente
+FDS_091,16,16,otras informaciones,11,11,,presente
+FDS_092,1,1,identificación del producto,1,1,,presente
+FDS_092,2,2,identificación del peligro o peligros,1,1,,presente
+FDS_092,3,3,composición/información sobre los componentes,1,1,,presente
+FDS_092,4,4,primeros auxilios,2,2,,presente
+FDS_092,5,5,medidas de lucha contra incendios,3,3,,presente
+FDS_092,6,6,medidas que deben tomarse en caso de vertido accidental,3,3,,presente
+FDS_092,7,7,manipulación y almacenamiento,4,4,,presente
+FDS_092,8,8,controles de exposición/protección personal,4,4,,presente
+FDS_092,9,9,propiedades físicas y químicas y características de seguridad,6,6,,presente
+FDS_092,10,10,estabilidad y reactividad,7,7,,presente
+FDS_092,11,11,información toxicológica,7,7,,presente
+FDS_092,12,12,información ecotoxicológica,9,9,,presente
+FDS_092,13,13,información relativa a la eliminación de los productos,10,10,,presente
+FDS_092,14,14,información relativa al transporte,10,10,,presente
+FDS_092,15,15,información sobre la reglamentación,11,11,,presente
+FDS_092,16,16,otras informaciones,11,11,,presente
+FDS_093,1,1,identificación del producto,1,1,,presente
+FDS_093,2,2,identificación del peligro o peligros,1,1,,presente
+FDS_093,3,3,composición/información sobre los componentes,1,1,,presente
+FDS_093,4,4,primeros auxilios,2,2,,presente
+FDS_093,5,5,medidas de lucha contra incendios,2,2,,presente
+FDS_093,6,6,medidas que deben tomarse en caso de vertido accidental,3,3,,presente
+FDS_093,7,7,manipulación y almacenamiento,3,3,,presente
+FDS_093,8,8,controles de exposición/protección personal,4,4,,presente
+FDS_093,9,9,propiedades físicas y químicas y características de seguridad,5,5,,presente
+FDS_093,10,10,estabilidad y reactividad,7,7,,presente
+FDS_093,11,11,información toxicológica,7,7,,presente
+FDS_093,12,12,información ecotoxicológica,8,8,,presente
+FDS_093,13,13,información relativa a la eliminación de los productos,9,9,,presente
+FDS_093,14,14,información relativa al transporte,9,9,,presente
+FDS_093,15,15,información sobre la reglamentación,10,10,,presente
+FDS_093,16,16,otras informaciones,11,11,,presente
+FDS_094,1,1,identificación del producto,1,1,,presente
+FDS_094,2,2,identificación del peligro o peligros,1,1,,presente
+FDS_094,3,3,composición/información sobre los componentes,2,2,,presente
+FDS_094,4,4,primeros auxilios,2,2,,presente
+FDS_094,5,5,medidas de lucha contra incendios,3,3,,presente
+FDS_094,6,6,medidas que deben tomarse en caso de vertido accidental,3,3,,presente
+FDS_094,7,7,manipulación y almacenamiento,4,4,,presente
+FDS_094,8,8,controles de exposición/protección personal,4,4,,presente
+FDS_094,9,9,propiedades físicas y químicas y características de seguridad,6,6,,presente
+FDS_094,10,10,estabilidad y reactividad,7,7,,presente
+FDS_094,11,11,información toxicológica,8,8,,presente
+FDS_094,12,12,información ecotoxicológica,9,9,,presente
+FDS_094,13,13,información relativa a la eliminación de los productos,11,11,,presente
+FDS_094,14,14,información relativa al transporte,11,11,,presente
+FDS_094,15,15,información sobre la reglamentación,12,12,,presente
+FDS_094,16,16,otras informaciones,13,13,,presente
+FDS_095,1,1,identificación,1,1,,presente
+FDS_095,2,2,identificación de los peligros,1,1,,presente
+FDS_095,3,3,composición/información sobre los componentes,2,2,,presente
+FDS_095,4,4,primeros auxilios,3,3,,presente
+FDS_095,5,5,medidas de lucha contra incendios,4,4,,presente
+FDS_095,6,6,medidas en caso de vertido accidental,4,4,,presente
+FDS_095,7,7,manipulación y almacenamiento,5,5,,presente
+FDS_095,8,8,controles de exposición/protección individual,6,6,,presente
+FDS_095,9,9,propiedades físicas y químicas y características de,7,7,,presente
+FDS_095,10,10,estabilidad y reactividad,8,8,,presente
+FDS_095,11,11,información toxicológica,8,8,,presente
+FDS_095,12,12,información ecológica,11,11,,presente
+FDS_095,13,13,para la eliminación de los residuos.,5,11,,presente
+FDS_095,14,14,información relativa al transporte,12,12,,presente
+FDS_095,15,15,información reglamentaria,13,13,,presente
+FDS_095,16,16,otra información,13,13,,presente
+FDS_096,1,1,identificación,1,1,,presente
+FDS_096,2,2,identificación de los peligros,1,1,,presente
+FDS_096,3,3,composición/información sobre los componentes,2,2,,presente
+FDS_096,4,4,primeros auxilios,3,3,,presente
+FDS_096,5,5,medidas de lucha contra incendios,4,4,,presente
+FDS_096,6,6,medidas en caso de vertido accidental,5,5,,presente
+FDS_096,7,7,manipulación y almacenamiento,5,5,,presente
+FDS_096,8,8,controles de exposición/protección individual,6,6,,presente
+FDS_096,9,9,propiedades físicas y químicas y características de,7,7,,presente
+FDS_096,10,10,estabilidad y reactividad,8,8,,presente
+FDS_096,11,11,información toxicológica,8,8,,presente
+FDS_096,12,12,información ecológica,12,12,,presente
+FDS_096,13,13,para la eliminación de los residuos.,5,13,,presente
+FDS_096,14,14,información relativa al transporte,14,14,,presente
+FDS_096,15,15,información reglamentaria,14,14,,presente
+FDS_096,16,16,otra información,15,15,,presente
+FDS_097,1,1,identificación,1,1,,presente
+FDS_097,2,2,identificación de los peligros,1,1,,presente
+FDS_097,3,3,composición / información sobre los componentes,2,2,,presente
+FDS_097,4,4,primeros auxilios,3,3,,presente
+FDS_097,5,5,medidas contra incendios,4,4,,presente
+FDS_097,6,6,medidas que deben tomarse en caso de derrame o fuga,4,4,,presente
+FDS_097,7,7,manejo y almacenamiento,5,5,,presente
+FDS_097,8,8,controles de exposición / protección personal,6,6,,presente
+FDS_097,9,9,propiedades físicas y químicas y características de,7,7,,presente
+FDS_097,10,10,estabilidad y reactividad,8,8,,presente
+FDS_097,11,11,información toxicológica,8,8,,presente
+FDS_097,12,12,información ecotoxicológica,11,11,,presente
+FDS_097,13,13,información relativa a la eliminación de los productos,13,13,,presente
+FDS_097,14,14,información relativa al transporte,13,13,,presente
+FDS_097,15,15,información reglamentaria,14,14,,presente
+FDS_097,16,16,otra informaciones,14,14,,presente
+FDS_098,1,1,identificación,1,1,,presente
+FDS_098,2,2,identificación de los peligros,1,1,,presente
+FDS_098,3,3,composición/información sobre los componentes,2,2,,presente
+FDS_098,4,4,primeros auxilios,3,3,,presente
+FDS_098,5,5,medidas de lucha contra incendios,4,4,,presente
+FDS_098,6,6,medidas en caso de vertido accidental,4,4,,presente
+FDS_098,7,7,manipulación y almacenamiento,5,5,,presente
+FDS_098,8,8,controles de exposición/protección individual,6,6,,presente
+FDS_098,9,9,propiedades físicas y químicas y características de,7,7,,presente
+FDS_098,10,10,estabilidad y reactividad,8,8,,presente
+FDS_098,11,11,información toxicológica,8,8,,presente
+FDS_098,12,12,información ecológica,12,12,,presente
+FDS_098,13,13,para la eliminación de los residuos.,5,14,,presente
+FDS_098,14,14,información relativa al transporte,14,14,,presente
+FDS_098,15,15,información reglamentaria,15,15,,presente
+FDS_098,16,16,otra información,16,16,,presente
+FDS_099,1,1,identificación,1,1,,presente
+FDS_099,2,2,identificación de los peligros,1,1,,presente
+FDS_099,3,3,composición/información sobre los componentes,2,2,,presente
+FDS_099,4,4,primeros auxilios,3,3,,presente
+FDS_099,5,5,medidas de lucha contra incendios,4,4,,presente
+FDS_099,6,6,medidas en caso de vertido accidental,4,4,,presente
+FDS_099,7,7,manipulación y almacenamiento,5,5,,presente
+FDS_099,8,8,controles de exposición/protección individual,6,6,,presente
+FDS_099,9,9,propiedades físicas y químicas y características de,7,7,,presente
+FDS_099,10,10,estabilidad y reactividad,8,8,,presente
+FDS_099,11,11,información toxicológica,8,8,,presente
+FDS_099,12,12,información ecológica,11,11,,presente
+FDS_099,13,13,para la eliminación de los residuos.,5,12,,presente
+FDS_099,14,14,información relativa al transporte,12,12,,presente
+FDS_099,15,15,información reglamentaria,13,13,,presente
+FDS_099,16,16,otra información,13,13,,presente
+FDS_100,1,1,identificación del producto,1,1,,presente
+FDS_100,2,2,identificación del peligro o peligros                     ro,1,2,,presente
+FDS_100,3,3,composición/información sobre los componentes,2,2,,presente
+FDS_100,4,4,primeros auxilios,2,2,,presente
+FDS_100,5,5,medidas de lucha contra incendios,3,,,presente_en_parrafo
+FDS_100,6,6,medidas que deben tomarse en caso de vertido accidental,3,4,,presente
+FDS_100,7,7,manipulación y almacenamiento,4,,,presente_en_parrafo
+FDS_100,8,8,controles de exposición/protección personal,4,4,,presente
+FDS_100,9,9,propiedades físicas y químicas y características de seguridad,6,6,,presente
+FDS_100,10,10,estabilidad y reactividad,7,7,,presente
+FDS_100,11,11,información toxicológica,8,8,,presente
+FDS_100,12,12,información ecotoxicológica,9,9,,presente
+FDS_100,13,13,información relativa a la eliminación de los productos,10,10,,presente
+FDS_100,14,14,información relativa al transporte,10,10,,presente
+FDS_100,15,15,información sobre la reglamentación,11,11,,presente
+FDS_100,16,16,otras informaciones,12,13,,presente
+FDS_101,1,1,identificación del producto,1,1,,presente
+FDS_101,2,2,identificación del peligro o peligros                     ro,1,2,,presente
+FDS_101,3,3,composición/información sobre los componentes,2,2,,presente
+FDS_101,4,4,primeros auxilios,2,2,,presente
+FDS_101,5,5,medidas de lucha contra incendios,3,,,presente_en_parrafo
+FDS_101,6,6,medidas que deben tomarse en caso de vertido accidental,3,3,,presente
+FDS_101,7,7,manipulación y almacenamiento,4,5,,presente
+FDS_101,8,8,controles de exposición/protección personal,5,5,,presente
+FDS_101,9,9,propiedades físicas y químicas y características de seguridad,6,6,,presente
+FDS_101,10,10,estabilidad y reactividad,7,7,,presente
+FDS_101,11,11,información toxicológica,8,9,,presente
+FDS_101,12,12,información ecotoxicológica,9,9,,presente
+FDS_101,13,13,información relativa a la eliminación de los productos,11,11,,presente
+FDS_101,14,14,información relativa al transporte,11,11,,presente
+FDS_101,15,15,información sobre la reglamentación,12,,,presente_en_parrafo
+FDS_101,16,16,otras informaciones,12,12,,presente
+FDS_102,1,1,identificación del producto y la compañía,1,1,,presente
+FDS_102,2,2,identificación de los peligros,1,1,,presente
+FDS_102,3,3,composición / información sobre los componentes,3,3,,presente
+FDS_102,4,4,primeros auxilios,3,3,,presente
+FDS_102,5,5,medidas contra incendios,4,4,,presente
+FDS_102,6,6,medidas que deben tomarse en caso de derrame o fuga,4,4,,presente
+FDS_102,7,7,manejo y almacenamiento,5,5,,presente
+FDS_102,8,8,controles de exposición / protección personal,6,6,,presente
+FDS_102,9,9,propiedades físicas y químicas,8,8,,presente
+FDS_102,10,10,estabilidad y reactividad,8,8,,presente
+FDS_102,11,11,información toxicológica,9,9,,presente
+FDS_102,12,12,información ecotoxicológica,13,13,,presente
+FDS_102,13,13,información relativa a la eliminación de los productos,14,14,,presente
+FDS_102,14,14,información relativa al transporte,14,14,,presente
+FDS_102,15,15,información reglamentaria,15,15,,presente
+FDS_102,16,16,otra informaciones,15,15,,presente

@@ -1,0 +1,8 @@
+Q01 k=3 faithfulness: 0.0 (290.3 s)
+Q01 k=3 context_precision: 0.0 (278.5 s)
+Q01 k=3 context_recall: 1.0 (208.7 s)
+Q02 k=3 faithfulness: 0.0 (235.9 s)
+Q02 k=3 context_precision: 0.9999999999666667 (212.0 s)
+Q02 k=3 context_recall: 1.0 (160.7 s)
+FIN_RAGAS
+PRUEBA2_FIN

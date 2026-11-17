@@ -1,0 +1,442 @@
+[
+ {
+  "archivo": "image_000000_db34dc62ceca82943f431910dd811e179bd5e31a4f767286e3c9b42f4af09b5a.png",
+  "ruta_relativa": "../imagenes/FDS_051/image_000000_db34dc62ceca82943f431910dd811e179bd5e31a4f767286e3c9b42f4af09b5a.png",
+  "documento": "FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf",
+  "pagina": 1,
+  "ancho": 195,
+  "alto": 85,
+  "texto_ocr": "La Compañía Amiga",
+  "nota": "imagen repetida en 3 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_df726c8f3f6c773cf404f6a9dc3b364b622641ce23be7a1268ed90268e5e53c3.png",
+  "ruta_relativa": "../imagenes/FDS_051/image_000001_df726c8f3f6c773cf404f6a9dc3b364b622641ce23be7a1268ed90268e5e53c3.png",
+  "documento": "FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf",
+  "pagina": 1,
+  "ancho": 85,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 7 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000002_e3318e435d000ace092949aafb09c6f1eae53974b512f9a9a9fc573c3065e03a.png",
+  "ruta_relativa": "../imagenes/FDS_051/image_000002_e3318e435d000ace092949aafb09c6f1eae53974b512f9a9a9fc573c3065e03a.png",
+  "documento": "FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf",
+  "pagina": 1,
+  "ancho": 85,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 8 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000003_129f28f208661166034a6a5d304a9d1e861c32c9212ac12ffb0bfd4c0dd33b49.png",
+  "ruta_relativa": "../imagenes/FDS_051/image_000003_129f28f208661166034a6a5d304a9d1e861c32c9212ac12ffb0bfd4c0dd33b49.png",
+  "documento": "FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf",
+  "pagina": 1,
+  "ancho": 58,
+  "alto": 58,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000004_1483b128e62a0e5249add378768e43bd10c9da46a44ab844f2299b817d86aadf.png",
+  "ruta_relativa": "../imagenes/FDS_051/image_000004_1483b128e62a0e5249add378768e43bd10c9da46a44ab844f2299b817d86aadf.png",
+  "documento": "FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf",
+  "pagina": 1,
+  "ancho": 57,
+  "alto": 58,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_c7b3f2534bb91eb2abb5a00013aed71669e792e04e7ed183cecefbb3295dc8ae.png",
+  "ruta_relativa": "../imagenes/FDS_051/image_000000_c7b3f2534bb91eb2abb5a00013aed71669e792e04e7ed183cecefbb3295dc8ae.png",
+  "documento": "FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf",
+  "pagina": 2,
+  "ancho": 195,
+  "alto": 84,
+  "texto_ocr": "La Compañía Amiga",
+  "nota": "imagen repetida en 8 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_df726c8f3f6c773cf404f6a9dc3b364b622641ce23be7a1268ed90268e5e53c3.png",
+  "ruta_relativa": "../imagenes/FDS_051/image_000001_df726c8f3f6c773cf404f6a9dc3b364b622641ce23be7a1268ed90268e5e53c3.png",
+  "documento": "FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf",
+  "pagina": 2,
+  "ancho": 85,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 7 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000002_e3318e435d000ace092949aafb09c6f1eae53974b512f9a9a9fc573c3065e03a.png",
+  "ruta_relativa": "../imagenes/FDS_051/image_000002_e3318e435d000ace092949aafb09c6f1eae53974b512f9a9a9fc573c3065e03a.png",
+  "documento": "FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf",
+  "pagina": 2,
+  "ancho": 85,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 8 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_c7b3f2534bb91eb2abb5a00013aed71669e792e04e7ed183cecefbb3295dc8ae.png",
+  "ruta_relativa": "../imagenes/FDS_051/image_000000_c7b3f2534bb91eb2abb5a00013aed71669e792e04e7ed183cecefbb3295dc8ae.png",
+  "documento": "FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf",
+  "pagina": 3,
+  "ancho": 195,
+  "alto": 84,
+  "texto_ocr": "La Compañía Amiga",
+  "nota": "imagen repetida en 8 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_df726c8f3f6c773cf404f6a9dc3b364b622641ce23be7a1268ed90268e5e53c3.png",
+  "ruta_relativa": "../imagenes/FDS_051/image_000001_df726c8f3f6c773cf404f6a9dc3b364b622641ce23be7a1268ed90268e5e53c3.png",
+  "documento": "FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf",
+  "pagina": 3,
+  "ancho": 85,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 7 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000002_e3318e435d000ace092949aafb09c6f1eae53974b512f9a9a9fc573c3065e03a.png",
+  "ruta_relativa": "../imagenes/FDS_051/image_000002_e3318e435d000ace092949aafb09c6f1eae53974b512f9a9a9fc573c3065e03a.png",
+  "documento": "FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf",
+  "pagina": 3,
+  "ancho": 85,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 8 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_c7b3f2534bb91eb2abb5a00013aed71669e792e04e7ed183cecefbb3295dc8ae.png",
+  "ruta_relativa": "../imagenes/FDS_051/image_000000_c7b3f2534bb91eb2abb5a00013aed71669e792e04e7ed183cecefbb3295dc8ae.png",
+  "documento": "FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf",
+  "pagina": 4,
+  "ancho": 195,
+  "alto": 84,
+  "texto_ocr": "La Compañía Amiga",
+  "nota": "imagen repetida en 8 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_88223c4ea65aaa7a981af22d00b357d46fd8c62accd6d2be579f20cafbdbc602.png",
+  "ruta_relativa": "../imagenes/FDS_051/image_000001_88223c4ea65aaa7a981af22d00b357d46fd8c62accd6d2be579f20cafbdbc602.png",
+  "documento": "FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf",
+  "pagina": 4,
+  "ancho": 178,
+  "alto": 87,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_c7b3f2534bb91eb2abb5a00013aed71669e792e04e7ed183cecefbb3295dc8ae.png",
+  "ruta_relativa": "../imagenes/FDS_051/image_000000_c7b3f2534bb91eb2abb5a00013aed71669e792e04e7ed183cecefbb3295dc8ae.png",
+  "documento": "FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf",
+  "pagina": 5,
+  "ancho": 195,
+  "alto": 84,
+  "texto_ocr": "La Compañía Amiga",
+  "nota": "imagen repetida en 8 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_394dc4f139d0c402dac9e3c40b2cd236d06dbdd6b5fdeb5b1d27d6b652350e8a.png",
+  "ruta_relativa": "../imagenes/FDS_051/image_000001_394dc4f139d0c402dac9e3c40b2cd236d06dbdd6b5fdeb5b1d27d6b652350e8a.png",
+  "documento": "FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf",
+  "pagina": 5,
+  "ancho": 95,
+  "alto": 130,
+  "texto_ocr": "OOO Protección obligatoria de las vias respiratorias",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000002_1ac5a3782df91634fddba1de328f7ed0c57c837864a1e00169580fd51e81abb7.png",
+  "ruta_relativa": "../imagenes/FDS_051/image_000002_1ac5a3782df91634fddba1de328f7ed0c57c837864a1e00169580fd51e81abb7.png",
+  "documento": "FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf",
+  "pagina": 5,
+  "ancho": 99,
+  "alto": 133,
+  "texto_ocr": "Pictograma Protección obligatoria del anos",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000003_c0c8afc20294786fd5b7433f61e538c0dba0968e406ba1524d0fe1c00502e234.png",
+  "ruta_relativa": "../imagenes/FDS_051/image_000003_c0c8afc20294786fd5b7433f61e538c0dba0968e406ba1524d0fe1c00502e234.png",
+  "documento": "FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf",
+  "pagina": 5,
+  "ancho": 116,
+  "alto": 129,
+  "texto_ocr": "Pictograma Protección obligatoria de la care",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000004_4d89e2dc3be4a6ada2bd1001c10e3c3249e7984baa5882b1f4c0520b971cc2d7.png",
+  "ruta_relativa": "../imagenes/FDS_051/image_000004_4d89e2dc3be4a6ada2bd1001c10e3c3249e7984baa5882b1f4c0520b971cc2d7.png",
+  "documento": "FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf",
+  "pagina": 5,
+  "ancho": 94,
+  "alto": 113,
+  "texto_ocr": "Protección obligatoria de los Dies",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000005_df726c8f3f6c773cf404f6a9dc3b364b622641ce23be7a1268ed90268e5e53c3.png",
+  "ruta_relativa": "../imagenes/FDS_051/image_000005_df726c8f3f6c773cf404f6a9dc3b364b622641ce23be7a1268ed90268e5e53c3.png",
+  "documento": "FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf",
+  "pagina": 5,
+  "ancho": 85,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000006_e3318e435d000ace092949aafb09c6f1eae53974b512f9a9a9fc573c3065e03a.png",
+  "ruta_relativa": "../imagenes/FDS_051/image_000006_e3318e435d000ace092949aafb09c6f1eae53974b512f9a9a9fc573c3065e03a.png",
+  "documento": "FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf",
+  "pagina": 5,
+  "ancho": 85,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000007_ec7eac25a5d8d289cd72bd75dbf149e1b8260112a6465b7ddeed7d234060ddfb.png",
+  "ruta_relativa": "../imagenes/FDS_051/image_000007_ec7eac25a5d8d289cd72bd75dbf149e1b8260112a6465b7ddeed7d234060ddfb.png",
+  "documento": "FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf",
+  "pagina": 5,
+  "ancho": 59,
+  "alto": 80,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_c7b3f2534bb91eb2abb5a00013aed71669e792e04e7ed183cecefbb3295dc8ae.png",
+  "ruta_relativa": "../imagenes/FDS_051/image_000000_c7b3f2534bb91eb2abb5a00013aed71669e792e04e7ed183cecefbb3295dc8ae.png",
+  "documento": "FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf",
+  "pagina": 6,
+  "ancho": 195,
+  "alto": 84,
+  "texto_ocr": "La Compañía Amiga",
+  "nota": "imagen repetida en 8 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_705466dcd678af1382b402bf3b71250ddb33a31a62e06dc4909e1a7835041c77.png",
+  "ruta_relativa": "../imagenes/FDS_051/image_000001_705466dcd678af1382b402bf3b71250ddb33a31a62e06dc4909e1a7835041c77.png",
+  "documento": "FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf",
+  "pagina": 6,
+  "ancho": 86,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_e3318e435d000ace092949aafb09c6f1eae53974b512f9a9a9fc573c3065e03a.png",
+  "ruta_relativa": "../imagenes/FDS_051/image_000002_e3318e435d000ace092949aafb09c6f1eae53974b512f9a9a9fc573c3065e03a.png",
+  "documento": "FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf",
+  "pagina": 6,
+  "ancho": 85,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 8 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_c7b3f2534bb91eb2abb5a00013aed71669e792e04e7ed183cecefbb3295dc8ae.png",
+  "ruta_relativa": "../imagenes/FDS_051/image_000000_c7b3f2534bb91eb2abb5a00013aed71669e792e04e7ed183cecefbb3295dc8ae.png",
+  "documento": "FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf",
+  "pagina": 7,
+  "ancho": 195,
+  "alto": 84,
+  "texto_ocr": "La Compañía Amiga",
+  "nota": "imagen repetida en 8 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_df726c8f3f6c773cf404f6a9dc3b364b622641ce23be7a1268ed90268e5e53c3.png",
+  "ruta_relativa": "../imagenes/FDS_051/image_000001_df726c8f3f6c773cf404f6a9dc3b364b622641ce23be7a1268ed90268e5e53c3.png",
+  "documento": "FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf",
+  "pagina": 7,
+  "ancho": 85,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 7 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000002_e3318e435d000ace092949aafb09c6f1eae53974b512f9a9a9fc573c3065e03a.png",
+  "ruta_relativa": "../imagenes/FDS_051/image_000002_e3318e435d000ace092949aafb09c6f1eae53974b512f9a9a9fc573c3065e03a.png",
+  "documento": "FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf",
+  "pagina": 7,
+  "ancho": 85,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 8 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_c7b3f2534bb91eb2abb5a00013aed71669e792e04e7ed183cecefbb3295dc8ae.png",
+  "ruta_relativa": "../imagenes/FDS_051/image_000000_c7b3f2534bb91eb2abb5a00013aed71669e792e04e7ed183cecefbb3295dc8ae.png",
+  "documento": "FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf",
+  "pagina": 8,
+  "ancho": 195,
+  "alto": 84,
+  "texto_ocr": "La Compañía Amiga",
+  "nota": "imagen repetida en 8 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_df726c8f3f6c773cf404f6a9dc3b364b622641ce23be7a1268ed90268e5e53c3.png",
+  "ruta_relativa": "../imagenes/FDS_051/image_000001_df726c8f3f6c773cf404f6a9dc3b364b622641ce23be7a1268ed90268e5e53c3.png",
+  "documento": "FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf",
+  "pagina": 8,
+  "ancho": 85,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 7 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000002_e3318e435d000ace092949aafb09c6f1eae53974b512f9a9a9fc573c3065e03a.png",
+  "ruta_relativa": "../imagenes/FDS_051/image_000002_e3318e435d000ace092949aafb09c6f1eae53974b512f9a9a9fc573c3065e03a.png",
+  "documento": "FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf",
+  "pagina": 8,
+  "ancho": 85,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 8 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_c7b3f2534bb91eb2abb5a00013aed71669e792e04e7ed183cecefbb3295dc8ae.png",
+  "ruta_relativa": "../imagenes/FDS_051/image_000000_c7b3f2534bb91eb2abb5a00013aed71669e792e04e7ed183cecefbb3295dc8ae.png",
+  "documento": "FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf",
+  "pagina": 9,
+  "ancho": 195,
+  "alto": 84,
+  "texto_ocr": "La Compañía Amiga",
+  "nota": "imagen repetida en 8 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_df726c8f3f6c773cf404f6a9dc3b364b622641ce23be7a1268ed90268e5e53c3.png",
+  "ruta_relativa": "../imagenes/FDS_051/image_000001_df726c8f3f6c773cf404f6a9dc3b364b622641ce23be7a1268ed90268e5e53c3.png",
+  "documento": "FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf",
+  "pagina": 9,
+  "ancho": 85,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 7 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000002_e3318e435d000ace092949aafb09c6f1eae53974b512f9a9a9fc573c3065e03a.png",
+  "ruta_relativa": "../imagenes/FDS_051/image_000002_e3318e435d000ace092949aafb09c6f1eae53974b512f9a9a9fc573c3065e03a.png",
+  "documento": "FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf",
+  "pagina": 9,
+  "ancho": 85,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 8 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_db34dc62ceca82943f431910dd811e179bd5e31a4f767286e3c9b42f4af09b5a.png",
+  "ruta_relativa": "../imagenes/FDS_051/image_000000_db34dc62ceca82943f431910dd811e179bd5e31a4f767286e3c9b42f4af09b5a.png",
+  "documento": "FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf",
+  "pagina": 10,
+  "ancho": 195,
+  "alto": 85,
+  "texto_ocr": "La Compañía Amiga",
+  "nota": "imagen repetida en 3 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_e682edac04347f56686e4da09e1395cb443c766af042dbcfdb39f09c889190c4.png",
+  "ruta_relativa": "../imagenes/FDS_051/image_000001_e682edac04347f56686e4da09e1395cb443c766af042dbcfdb39f09c889190c4.png",
+  "documento": "FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf",
+  "pagina": 10,
+  "ancho": 120,
+  "alto": 121,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_88f2a73a775e888d14af844229152a8fda7f2245c2ab7c25b63e151d6a0305ff.png",
+  "ruta_relativa": "../imagenes/FDS_051/image_000002_88f2a73a775e888d14af844229152a8fda7f2245c2ab7c25b63e151d6a0305ff.png",
+  "documento": "FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf",
+  "pagina": 10,
+  "ancho": 122,
+  "alto": 121,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_e584f54eb55771d956655efd4c6e5196303d01597ce16101532d1d322914ccb3.png",
+  "ruta_relativa": "../imagenes/FDS_051/image_000003_e584f54eb55771d956655efd4c6e5196303d01597ce16101532d1d322914ccb3.png",
+  "documento": "FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf",
+  "pagina": 10,
+  "ancho": 122,
+  "alto": 120,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000004_705466dcd678af1382b402bf3b71250ddb33a31a62e06dc4909e1a7835041c77.png",
+  "ruta_relativa": "../imagenes/FDS_051/image_000004_705466dcd678af1382b402bf3b71250ddb33a31a62e06dc4909e1a7835041c77.png",
+  "documento": "FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf",
+  "pagina": 10,
+  "ancho": 86,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000005_848ccb9944f9929df4798b31c97c2103faa7a1290151f5f238ee81909ebcc125.png",
+  "ruta_relativa": "../imagenes/FDS_051/image_000005_848ccb9944f9929df4798b31c97c2103faa7a1290151f5f238ee81909ebcc125.png",
+  "documento": "FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf",
+  "pagina": 10,
+  "ancho": 86,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_db34dc62ceca82943f431910dd811e179bd5e31a4f767286e3c9b42f4af09b5a.png",
+  "ruta_relativa": "../imagenes/FDS_051/image_000000_db34dc62ceca82943f431910dd811e179bd5e31a4f767286e3c9b42f4af09b5a.png",
+  "documento": "FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf",
+  "pagina": 11,
+  "ancho": 195,
+  "alto": 85,
+  "texto_ocr": "La Compañía Amiga",
+  "nota": "imagen repetida en 3 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_df726c8f3f6c773cf404f6a9dc3b364b622641ce23be7a1268ed90268e5e53c3.png",
+  "ruta_relativa": "../imagenes/FDS_051/image_000001_df726c8f3f6c773cf404f6a9dc3b364b622641ce23be7a1268ed90268e5e53c3.png",
+  "documento": "FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf",
+  "pagina": 11,
+  "ancho": 85,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 7 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000002_e3318e435d000ace092949aafb09c6f1eae53974b512f9a9a9fc573c3065e03a.png",
+  "ruta_relativa": "../imagenes/FDS_051/image_000002_e3318e435d000ace092949aafb09c6f1eae53974b512f9a9a9fc573c3065e03a.png",
+  "documento": "FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf",
+  "pagina": 11,
+  "ancho": 85,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 8 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_cf3f8ef6b0c0887ab687db8bee8a8c13f751ee9d4633fd6fbe9e51e2a019cd7c.png",
+  "ruta_relativa": "../imagenes/FDS_051/image_000000_cf3f8ef6b0c0887ab687db8bee8a8c13f751ee9d4633fd6fbe9e51e2a019cd7c.png",
+  "documento": "FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf",
+  "pagina": 12,
+  "ancho": 194,
+  "alto": 84,
+  "texto_ocr": "La Compañía Amiga",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000001_b9845d9b3d76c8d06d88ac2fb14735481b10c243a39617a4d8c7eed5627e9707.png",
+  "ruta_relativa": "../imagenes/FDS_051/image_000001_b9845d9b3d76c8d06d88ac2fb14735481b10c243a39617a4d8c7eed5627e9707.png",
+  "documento": "FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf",
+  "pagina": 12,
+  "ancho": 178,
+  "alto": 88,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ }
+]

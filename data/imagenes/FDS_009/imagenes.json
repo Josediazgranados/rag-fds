@@ -1,0 +1,272 @@
+[
+ {
+  "archivo": "image_000000_5b7b29a11b4a5deff114e7de06ac1bff51ef2715a863c5c75369ed7b5c587507.png",
+  "ruta_relativa": "../imagenes/FDS_009/image_000000_5b7b29a11b4a5deff114e7de06ac1bff51ef2715a863c5c75369ed7b5c587507.png",
+  "documento": "FDS 9 - OXIGEL.pdf",
+  "pagina": 1,
+  "ancho": 196,
+  "alto": 97,
+  "texto_ocr": "TECNIS-DECOR",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000001_dbed78a18ee70e45865a8d510dcd0ece31afd153bb5fd2df146c7f76d127f7ec.png",
+  "ruta_relativa": "../imagenes/FDS_009/image_000001_dbed78a18ee70e45865a8d510dcd0ece31afd153bb5fd2df146c7f76d127f7ec.png",
+  "documento": "FDS 9 - OXIGEL.pdf",
+  "pagina": 1,
+  "ancho": 81,
+  "alto": 80,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 3 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000002_2cba163b4966f7178203cc9b836d261c64b4d9168622666caa93b7de4fc33af5.png",
+  "ruta_relativa": "../imagenes/FDS_009/image_000002_2cba163b4966f7178203cc9b836d261c64b4d9168622666caa93b7de4fc33af5.png",
+  "documento": "FDS 9 - OXIGEL.pdf",
+  "pagina": 1,
+  "ancho": 28,
+  "alto": 40,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_78219d0767d04ae15b3c647559a5fa8b95673e73977cf4676a6a3cfeb8a186a3.png",
+  "ruta_relativa": "../imagenes/FDS_009/image_000003_78219d0767d04ae15b3c647559a5fa8b95673e73977cf4676a6a3cfeb8a186a3.png",
+  "documento": "FDS 9 - OXIGEL.pdf",
+  "pagina": 1,
+  "ancho": 39,
+  "alto": 35,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000004_ef6450ef187c25085c5439a3333496375c8b3a274f529dba8a1f1a6c0f5eeeab.png",
+  "ruta_relativa": "../imagenes/FDS_009/image_000004_ef6450ef187c25085c5439a3333496375c8b3a274f529dba8a1f1a6c0f5eeeab.png",
+  "documento": "FDS 9 - OXIGEL.pdf",
+  "pagina": 1,
+  "ancho": 38,
+  "alto": 36,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000005_5695880c472bda5957088c4d56f1dc51c3269e5e475a80afa57c0e0accc0be50.png",
+  "ruta_relativa": "../imagenes/FDS_009/image_000005_5695880c472bda5957088c4d56f1dc51c3269e5e475a80afa57c0e0accc0be50.png",
+  "documento": "FDS 9 - OXIGEL.pdf",
+  "pagina": 1,
+  "ancho": 299,
+  "alto": 141,
+  "texto_ocr": "SALUD Paicnorsico EN PROTECCIOÓN PERSONAL",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000006_4d7dd3a89f8bd36275eda6f6caf4747b655101df7046824bc4601c75fcaaa1aa.png",
+  "ruta_relativa": "../imagenes/FDS_009/image_000006_4d7dd3a89f8bd36275eda6f6caf4747b655101df7046824bc4601c75fcaaa1aa.png",
+  "documento": "FDS 9 - OXIGEL.pdf",
+  "pagina": 1,
+  "ancho": 113,
+  "alto": 110,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000007_51836413b5be21951d877d749aa746ef02a32b667811b115bf87d9fa70a064b7.png",
+  "ruta_relativa": "../imagenes/FDS_009/image_000007_51836413b5be21951d877d749aa746ef02a32b667811b115bf87d9fa70a064b7.png",
+  "documento": "FDS 9 - OXIGEL.pdf",
+  "pagina": 1,
+  "ancho": 104,
+  "alto": 102,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000008_29038bfc05ccbfa36b19d81d15390d544e4e997818b030d1c06dde74dcf9402e.png",
+  "ruta_relativa": "../imagenes/FDS_009/image_000008_29038bfc05ccbfa36b19d81d15390d544e4e997818b030d1c06dde74dcf9402e.png",
+  "documento": "FDS 9 - OXIGEL.pdf",
+  "pagina": 1,
+  "ancho": 42,
+  "alto": 42,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_6b38414e512b68174ce1c3ca081e9d5e36b04b3d3d892d6128205acdccc2e4d6.png",
+  "ruta_relativa": "../imagenes/FDS_009/image_000000_6b38414e512b68174ce1c3ca081e9d5e36b04b3d3d892d6128205acdccc2e4d6.png",
+  "documento": "FDS 9 - OXIGEL.pdf",
+  "pagina": 2,
+  "ancho": 199,
+  "alto": 98,
+  "texto_ocr": "TECNIS-DECOR *",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000001_dbed78a18ee70e45865a8d510dcd0ece31afd153bb5fd2df146c7f76d127f7ec.png",
+  "ruta_relativa": "../imagenes/FDS_009/image_000001_dbed78a18ee70e45865a8d510dcd0ece31afd153bb5fd2df146c7f76d127f7ec.png",
+  "documento": "FDS 9 - OXIGEL.pdf",
+  "pagina": 2,
+  "ancho": 81,
+  "alto": 80,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 3 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000002_dfb043470678d803ac85175cc8adefd00f852fcfb2e9fce3400d4d3f1ff24b6c.png",
+  "ruta_relativa": "../imagenes/FDS_009/image_000002_dfb043470678d803ac85175cc8adefd00f852fcfb2e9fce3400d4d3f1ff24b6c.png",
+  "documento": "FDS 9 - OXIGEL.pdf",
+  "pagina": 2,
+  "ancho": 36,
+  "alto": 33,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_9cf7b3bbe84d98e3742d389ceb193394099d7d4c7880615766ebeb7b2447a736.png",
+  "ruta_relativa": "../imagenes/FDS_009/image_000003_9cf7b3bbe84d98e3742d389ceb193394099d7d4c7880615766ebeb7b2447a736.png",
+  "documento": "FDS 9 - OXIGEL.pdf",
+  "pagina": 2,
+  "ancho": 48,
+  "alto": 41,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000004_46b1be67a5926fd595cc6a97cd1e673e5d58902c685340cc852d9dc64bfe60a9.png",
+  "ruta_relativa": "../imagenes/FDS_009/image_000004_46b1be67a5926fd595cc6a97cd1e673e5d58902c685340cc852d9dc64bfe60a9.png",
+  "documento": "FDS 9 - OXIGEL.pdf",
+  "pagina": 2,
+  "ancho": 48,
+  "alto": 39,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000005_6342ae6cd50512d637e0102bee189ecd48db466e38ee596dc9f895452328a1f1.png",
+  "ruta_relativa": "../imagenes/FDS_009/image_000005_6342ae6cd50512d637e0102bee189ecd48db466e38ee596dc9f895452328a1f1.png",
+  "documento": "FDS 9 - OXIGEL.pdf",
+  "pagina": 2,
+  "ancho": 36,
+  "alto": 35,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000006_2ae5e025ee687c3b64d3bdc6d62a3eeb176fc6d953a42fb0bfcbffe48e37ffdc.png",
+  "ruta_relativa": "../imagenes/FDS_009/image_000006_2ae5e025ee687c3b64d3bdc6d62a3eeb176fc6d953a42fb0bfcbffe48e37ffdc.png",
+  "documento": "FDS 9 - OXIGEL.pdf",
+  "pagina": 2,
+  "ancho": 53,
+  "alto": 35,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_f083ec2faff7299a7bf38a2a8c76f82260e784bd5bde2a190492591fb7ad6f9c.png",
+  "ruta_relativa": "../imagenes/FDS_009/image_000000_f083ec2faff7299a7bf38a2a8c76f82260e784bd5bde2a190492591fb7ad6f9c.png",
+  "documento": "FDS 9 - OXIGEL.pdf",
+  "pagina": 3,
+  "ancho": 199,
+  "alto": 97,
+  "texto_ocr": "TECNIS-DECOR *",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000001_c20061a7943e2c087db2e6daecc1b67635a075ac3e8f3d84afa451d88bbf4c85.png",
+  "ruta_relativa": "../imagenes/FDS_009/image_000001_c20061a7943e2c087db2e6daecc1b67635a075ac3e8f3d84afa451d88bbf4c85.png",
+  "documento": "FDS 9 - OXIGEL.pdf",
+  "pagina": 3,
+  "ancho": 82,
+  "alto": 80,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_cf4113f4762adfe560a2a485b613371653666923387ab1f685540cf5b3826de5.png",
+  "ruta_relativa": "../imagenes/FDS_009/image_000002_cf4113f4762adfe560a2a485b613371653666923387ab1f685540cf5b3826de5.png",
+  "documento": "FDS 9 - OXIGEL.pdf",
+  "pagina": 3,
+  "ancho": 39,
+  "alto": 41,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_2398fec2b2ad88a305bd78517f45b1803ed241241f5866dc633e874cb667b09e.png",
+  "ruta_relativa": "../imagenes/FDS_009/image_000003_2398fec2b2ad88a305bd78517f45b1803ed241241f5866dc633e874cb667b09e.png",
+  "documento": "FDS 9 - OXIGEL.pdf",
+  "pagina": 3,
+  "ancho": 45,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000004_7981ffa2add77760242303c0b295d8c009ba1c940d13df9a677aa1617ae53301.png",
+  "ruta_relativa": "../imagenes/FDS_009/image_000004_7981ffa2add77760242303c0b295d8c009ba1c940d13df9a677aa1617ae53301.png",
+  "documento": "FDS 9 - OXIGEL.pdf",
+  "pagina": 3,
+  "ancho": 46,
+  "alto": 45,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000005_36c4eda61a70880b9fd837e8a7012edc72994b7f3a419080f32ab2e73251f0d9.png",
+  "ruta_relativa": "../imagenes/FDS_009/image_000005_36c4eda61a70880b9fd837e8a7012edc72994b7f3a419080f32ab2e73251f0d9.png",
+  "documento": "FDS 9 - OXIGEL.pdf",
+  "pagina": 3,
+  "ancho": 45,
+  "alto": 43,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000006_428e6d6c42f79bdfda2b3a6efb87993b848d4bcd2be7bc6221a9100c6ce0570c.png",
+  "ruta_relativa": "../imagenes/FDS_009/image_000006_428e6d6c42f79bdfda2b3a6efb87993b848d4bcd2be7bc6221a9100c6ce0570c.png",
+  "documento": "FDS 9 - OXIGEL.pdf",
+  "pagina": 3,
+  "ancho": 40,
+  "alto": 44,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_8d4134855347eb5abddca845f4fec67d359164e380e22c30bed5fe2f714597c0.png",
+  "ruta_relativa": "../imagenes/FDS_009/image_000000_8d4134855347eb5abddca845f4fec67d359164e380e22c30bed5fe2f714597c0.png",
+  "documento": "FDS 9 - OXIGEL.pdf",
+  "pagina": 4,
+  "ancho": 197,
+  "alto": 98,
+  "texto_ocr": "TECNIS-DECOR",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000001_dbed78a18ee70e45865a8d510dcd0ece31afd153bb5fd2df146c7f76d127f7ec.png",
+  "ruta_relativa": "../imagenes/FDS_009/image_000001_dbed78a18ee70e45865a8d510dcd0ece31afd153bb5fd2df146c7f76d127f7ec.png",
+  "documento": "FDS 9 - OXIGEL.pdf",
+  "pagina": 4,
+  "ancho": 81,
+  "alto": 80,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 3 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000002_7ee83b2aa31a9dfbed068bbf709161d81e8400054bcd6e4a263a530d06976294.png",
+  "ruta_relativa": "../imagenes/FDS_009/image_000002_7ee83b2aa31a9dfbed068bbf709161d81e8400054bcd6e4a263a530d06976294.png",
+  "documento": "FDS 9 - OXIGEL.pdf",
+  "pagina": 4,
+  "ancho": 35,
+  "alto": 38,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_f51aa22385bd24b05b4d9d88ea4233278582c0055b2899d03b10601674a69993.png",
+  "ruta_relativa": "../imagenes/FDS_009/image_000003_f51aa22385bd24b05b4d9d88ea4233278582c0055b2899d03b10601674a69993.png",
+  "documento": "FDS 9 - OXIGEL.pdf",
+  "pagina": 4,
+  "ancho": 43,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ }
+]

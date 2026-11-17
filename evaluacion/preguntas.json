@@ -1,0 +1,77 @@
+{
+  "descripcion": "12 preguntas fijas de evaluacion. Las referencias se verificaron manualmente contra los PDF originales (ver verificacion_referencias.md). Este archivo NO se indexa ni se incluye en ningun prompt.",
+  "preguntas": [
+    {
+      "id": "Q01", "tipo": "directa", "secciones": [9],
+      "pregunta": "¿Cuál es el punto de inflamación del Sellador Industrial Nitrocelulósico (código 40030020) de Química Cosmos?",
+      "referencia": "El punto de inflamación es 20 ºC.",
+      "documentos_esperados": ["FDS_066"], "paginas_pdf": [8]
+    },
+    {
+      "id": "Q02", "tipo": "directa", "secciones": [3],
+      "pregunta": "¿Cuál es el número CAS del dióxido de titanio en la Pintura Coolguard de Corona y en qué rango de concentración se encuentra?",
+      "referencia": "El dióxido de titanio tiene el número CAS 13463-67-7 y una concentración de 20 a menos de 30 % (20 - <30%).",
+      "documentos_esperados": ["FDS_092"], "paginas_pdf": [2]
+    },
+    {
+      "id": "Q03", "tipo": "directa", "secciones": [4],
+      "pregunta": "¿Qué primeros auxilios se indican en caso de ingestión del Esmalte Maestro de Pinturas Bler?",
+      "referencia": "Requerir asistencia médica inmediata mostrando la FDS del producto; no inducir el vómito (si se produce, mantener la cabeza inclinada hacia delante para evitar la aspiración); en caso de pérdida de consciencia no administrar nada por vía oral hasta la supervisión del médico; enjuagar la boca y la garganta; mantener al afectado en reposo.",
+      "documentos_esperados": ["FDS_100"], "paginas_pdf": [3]
+    },
+    {
+      "id": "Q04", "tipo": "directa", "secciones": [5],
+      "pregunta": "¿Qué medios de extinción se pueden utilizar para el Dimetcote 302H Green Resin de PPG y cuál no se debe usar?",
+      "referencia": "Se puede utilizar polvo químico seco, CO2, agua pulverizada o espuma (neblina). No se debe usar chorro de agua.",
+      "documentos_esperados": ["FDS_047"], "paginas_pdf": [4]
+    },
+    {
+      "id": "Q05", "tipo": "directa", "secciones": [14],
+      "pregunta": "¿Cuál es el número ONU del Sellador Industrial Nitrocelulósico (código 40030020) de Química Cosmos?",
+      "referencia": "El número ONU es UN1263.",
+      "documentos_esperados": ["FDS_066"], "paginas_pdf": [15]
+    },
+    {
+      "id": "Q06", "tipo": "directa", "secciones": [7],
+      "pregunta": "¿Cuáles son la temperatura máxima y el tiempo máximo de almacenamiento del Esmalte Maestro de Pinturas Bler?",
+      "referencia": "La temperatura máxima de almacenamiento es 35 ºC (la mínima es 4 ºC) y el tiempo máximo es 12 meses.",
+      "documentos_esperados": ["FDS_100"], "paginas_pdf": [4]
+    },
+    {
+      "id": "Q07", "tipo": "comparativa", "secciones": [9],
+      "pregunta": "¿Cuál tiene mayor punto de inflamación: el Esmalte Maestro de Pinturas Bler o el Esmalte Metal Master Premium de Corona?",
+      "referencia": "El Esmalte Metal Master Premium de Corona tiene el mayor punto de inflamación (60 ºC) frente a 41 ºC del Esmalte Maestro de Bler.",
+      "documentos_esperados": ["FDS_094", "FDS_100"], "paginas_pdf": [7, 7]
+    },
+    {
+      "id": "Q08", "tipo": "comparativa", "secciones": [9],
+      "pregunta": "Entre el Sigmadur One Buff 3142 y el Dimetcote 302H Green Resin, ambos de PPG, ¿cuál tiene el punto de inflamación más bajo y cuáles son los valores?",
+      "referencia": "El Dimetcote 302H Green Resin tiene el punto de inflamación más bajo: 37 °C (vaso cerrado), frente a 43 °C (vaso cerrado) del Sigmadur One Buff 3142.",
+      "documentos_esperados": ["FDS_047", "FDS_065"], "paginas_pdf": [7, 8]
+    },
+    {
+      "id": "Q09", "tipo": "comparativa", "secciones": [14],
+      "pregunta": "¿Los componentes Part A y Part B del Sikafloor-2430 tienen el mismo número ONU? Indica cuál es.",
+      "referencia": "Sí, ambos componentes (Part A y Part B) tienen el mismo número ONU: UN 1263.",
+      "documentos_esperados": ["FDS_071", "FDS_072"], "paginas_pdf": [10, 10]
+    },
+    {
+      "id": "Q10", "tipo": "integradora", "secciones": [9, 14],
+      "pregunta": "Para el Esmalte Metal Master Premium de Corona, ¿cuál es su punto de inflamación y su número ONU de transporte?",
+      "referencia": "El punto de inflamación es 60 ºC y el número ONU es UN1263.",
+      "documentos_esperados": ["FDS_094"], "paginas_pdf": [7, 11]
+    },
+    {
+      "id": "Q11", "tipo": "sin_respuesta", "secciones": [],
+      "pregunta": "¿Cuál es el rendimiento en metros cuadrados por galón de la pintura Koraza Pro 550 Blanco de Pintuco?",
+      "referencia": "Las fichas de datos de seguridad no contienen esta información (el rendimiento no figura en ninguna de las 101 FDS); la respuesta correcta es indicar que no hay evidencia suficiente.",
+      "documentos_esperados": [], "paginas_pdf": []
+    },
+    {
+      "id": "Q12", "tipo": "sin_respuesta", "secciones": [],
+      "pregunta": "¿Cuál es el nivel de brillo (unidades de brillo a 60°) del Esmalte Metal Master Premium de Corona?",
+      "referencia": "Las fichas de datos de seguridad no contienen esta información (el brillo no figura en ninguna de las 101 FDS); la respuesta correcta es indicar que no hay evidencia suficiente.",
+      "documentos_esperados": [], "paginas_pdf": []
+    }
+  ]
+}

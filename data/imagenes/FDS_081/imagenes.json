@@ -1,0 +1,222 @@
+[
+ {
+  "archivo": "image_000000_b5709784b0415d6988b3b158320c7358f27b9b04a1664ebb28ede24fc8f3958d.png",
+  "ruta_relativa": "../imagenes/FDS_081/image_000000_b5709784b0415d6988b3b158320c7358f27b9b04a1664ebb28ede24fc8f3958d.png",
+  "documento": "FDS 81 - TOPCOAT 400 1772 NEGRO - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 1,
+  "ancho": 489,
+  "alto": 63,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000001_7634f9ba9aa9bb780efa2e4fc36f9e0a69cb28e852746033d72ab3ff74f24752.png",
+  "ruta_relativa": "../imagenes/FDS_081/image_000001_7634f9ba9aa9bb780efa2e4fc36f9e0a69cb28e852746033d72ab3ff74f24752.png",
+  "documento": "FDS 81 - TOPCOAT 400 1772 NEGRO - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 1,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_05ac23d96a87039c94e872cb9011f7469cff834d32494cae4042a39b4723322f.png",
+  "ruta_relativa": "../imagenes/FDS_081/image_000000_05ac23d96a87039c94e872cb9011f7469cff834d32494cae4042a39b4723322f.png",
+  "documento": "FDS 81 - TOPCOAT 400 1772 NEGRO - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 2,
+  "ancho": 99,
+  "alto": 99,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000001_5c66e636857680c60b70fd128958ac55eeda1c9eee1811c207cb63de56ec69fc.png",
+  "ruta_relativa": "../imagenes/FDS_081/image_000001_5c66e636857680c60b70fd128958ac55eeda1c9eee1811c207cb63de56ec69fc.png",
+  "documento": "FDS 81 - TOPCOAT 400 1772 NEGRO - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 2,
+  "ancho": 99,
+  "alto": 99,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_11c9a7dcbafbe7a3fbbc25b1e51ce648349c7dc71b407280d8bd04935e10f169.png",
+  "ruta_relativa": "../imagenes/FDS_081/image_000002_11c9a7dcbafbe7a3fbbc25b1e51ce648349c7dc71b407280d8bd04935e10f169.png",
+  "documento": "FDS 81 - TOPCOAT 400 1772 NEGRO - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 2,
+  "ancho": 99,
+  "alto": 99,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_7634f9ba9aa9bb780efa2e4fc36f9e0a69cb28e852746033d72ab3ff74f24752.png",
+  "ruta_relativa": "../imagenes/FDS_081/image_000003_7634f9ba9aa9bb780efa2e4fc36f9e0a69cb28e852746033d72ab3ff74f24752.png",
+  "documento": "FDS 81 - TOPCOAT 400 1772 NEGRO - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 2,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_7634f9ba9aa9bb780efa2e4fc36f9e0a69cb28e852746033d72ab3ff74f24752.png",
+  "ruta_relativa": "../imagenes/FDS_081/image_000000_7634f9ba9aa9bb780efa2e4fc36f9e0a69cb28e852746033d72ab3ff74f24752.png",
+  "documento": "FDS 81 - TOPCOAT 400 1772 NEGRO - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 3,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 11 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_7634f9ba9aa9bb780efa2e4fc36f9e0a69cb28e852746033d72ab3ff74f24752.png",
+  "ruta_relativa": "../imagenes/FDS_081/image_000000_7634f9ba9aa9bb780efa2e4fc36f9e0a69cb28e852746033d72ab3ff74f24752.png",
+  "documento": "FDS 81 - TOPCOAT 400 1772 NEGRO - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 4,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 11 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_7634f9ba9aa9bb780efa2e4fc36f9e0a69cb28e852746033d72ab3ff74f24752.png",
+  "ruta_relativa": "../imagenes/FDS_081/image_000000_7634f9ba9aa9bb780efa2e4fc36f9e0a69cb28e852746033d72ab3ff74f24752.png",
+  "documento": "FDS 81 - TOPCOAT 400 1772 NEGRO - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 5,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 11 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_7634f9ba9aa9bb780efa2e4fc36f9e0a69cb28e852746033d72ab3ff74f24752.png",
+  "ruta_relativa": "../imagenes/FDS_081/image_000000_7634f9ba9aa9bb780efa2e4fc36f9e0a69cb28e852746033d72ab3ff74f24752.png",
+  "documento": "FDS 81 - TOPCOAT 400 1772 NEGRO - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 6,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 11 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_d826dce785d2bf2a22e392c943732aba38804d28271598e7be6a8fbdc7de0a2d.png",
+  "ruta_relativa": "../imagenes/FDS_081/image_000000_d826dce785d2bf2a22e392c943732aba38804d28271598e7be6a8fbdc7de0a2d.png",
+  "documento": "FDS 81 - TOPCOAT 400 1772 NEGRO - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 7,
+  "ancho": 141,
+  "alto": 24,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_7634f9ba9aa9bb780efa2e4fc36f9e0a69cb28e852746033d72ab3ff74f24752.png",
+  "ruta_relativa": "../imagenes/FDS_081/image_000000_7634f9ba9aa9bb780efa2e4fc36f9e0a69cb28e852746033d72ab3ff74f24752.png",
+  "documento": "FDS 81 - TOPCOAT 400 1772 NEGRO - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 8,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 11 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_7634f9ba9aa9bb780efa2e4fc36f9e0a69cb28e852746033d72ab3ff74f24752.png",
+  "ruta_relativa": "../imagenes/FDS_081/image_000000_7634f9ba9aa9bb780efa2e4fc36f9e0a69cb28e852746033d72ab3ff74f24752.png",
+  "documento": "FDS 81 - TOPCOAT 400 1772 NEGRO - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 9,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 11 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_7634f9ba9aa9bb780efa2e4fc36f9e0a69cb28e852746033d72ab3ff74f24752.png",
+  "ruta_relativa": "../imagenes/FDS_081/image_000000_7634f9ba9aa9bb780efa2e4fc36f9e0a69cb28e852746033d72ab3ff74f24752.png",
+  "documento": "FDS 81 - TOPCOAT 400 1772 NEGRO - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 10,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 11 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_7634f9ba9aa9bb780efa2e4fc36f9e0a69cb28e852746033d72ab3ff74f24752.png",
+  "ruta_relativa": "../imagenes/FDS_081/image_000000_7634f9ba9aa9bb780efa2e4fc36f9e0a69cb28e852746033d72ab3ff74f24752.png",
+  "documento": "FDS 81 - TOPCOAT 400 1772 NEGRO - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 11,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 11 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_7634f9ba9aa9bb780efa2e4fc36f9e0a69cb28e852746033d72ab3ff74f24752.png",
+  "ruta_relativa": "../imagenes/FDS_081/image_000000_7634f9ba9aa9bb780efa2e4fc36f9e0a69cb28e852746033d72ab3ff74f24752.png",
+  "documento": "FDS 81 - TOPCOAT 400 1772 NEGRO - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 12,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 11 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_57f71705c15f4889560c04ccc6ab478a28564b0ec4aefeb64e08526b5a3c44a2.png",
+  "ruta_relativa": "../imagenes/FDS_081/image_000000_57f71705c15f4889560c04ccc6ab478a28564b0ec4aefeb64e08526b5a3c44a2.png",
+  "documento": "FDS 81 - TOPCOAT 400 1772 NEGRO - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 13,
+  "ancho": 75,
+  "alto": 76,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000001_7634f9ba9aa9bb780efa2e4fc36f9e0a69cb28e852746033d72ab3ff74f24752.png",
+  "ruta_relativa": "../imagenes/FDS_081/image_000001_7634f9ba9aa9bb780efa2e4fc36f9e0a69cb28e852746033d72ab3ff74f24752.png",
+  "documento": "FDS 81 - TOPCOAT 400 1772 NEGRO - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 13,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_e8cd394bc5bbe00ac3369a0d48f02c439bba2b3d2bb776f87f731d04c3955b6d.png",
+  "ruta_relativa": "../imagenes/FDS_081/image_000002_e8cd394bc5bbe00ac3369a0d48f02c439bba2b3d2bb776f87f731d04c3955b6d.png",
+  "documento": "FDS 81 - TOPCOAT 400 1772 NEGRO - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 13,
+  "ancho": 73,
+  "alto": 77,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_1ce335dd0045a85932e730ea2cf5157f1a20421f078511e5b7806de517c1f365.png",
+  "ruta_relativa": "../imagenes/FDS_081/image_000003_1ce335dd0045a85932e730ea2cf5157f1a20421f078511e5b7806de517c1f365.png",
+  "documento": "FDS 81 - TOPCOAT 400 1772 NEGRO - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 13,
+  "ancho": 74,
+  "alto": 76,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_7634f9ba9aa9bb780efa2e4fc36f9e0a69cb28e852746033d72ab3ff74f24752.png",
+  "ruta_relativa": "../imagenes/FDS_081/image_000000_7634f9ba9aa9bb780efa2e4fc36f9e0a69cb28e852746033d72ab3ff74f24752.png",
+  "documento": "FDS 81 - TOPCOAT 400 1772 NEGRO - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 14,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 11 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_7634f9ba9aa9bb780efa2e4fc36f9e0a69cb28e852746033d72ab3ff74f24752.png",
+  "ruta_relativa": "../imagenes/FDS_081/image_000000_7634f9ba9aa9bb780efa2e4fc36f9e0a69cb28e852746033d72ab3ff74f24752.png",
+  "documento": "FDS 81 - TOPCOAT 400 1772 NEGRO - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 15,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 11 paginas (probable logotipo); OCR no incluido en el Markdown"
+ }
+]

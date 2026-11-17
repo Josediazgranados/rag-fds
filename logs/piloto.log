@@ -1,0 +1,94 @@
+The text detection result is empty
+The text detection result is empty
+The text detection result is empty
+rapidocr_api using backend: rapidocr
+
+=== Document parser messages ===
+Using RapidOCR for OCR processing.
+OCR on page.number=0/1.
+OCR on page.number=1/2.
+OCR on page.number=6/7.
+OCR on page.number=7/8.
+OCR on page.number=8/9.
+OCR on page.number=9/10.
+OCR on page.number=10/11.
+OCR on page.number=11/12.
+OCR on page.number=12/13.
+{"pdf": "FDS 71 -  Sikafloor®-2430  Part A - SIKA.pdf", "herramienta": "pymupdf4llm", "segundos": 43.7, "chars": 21247, "chars_pdftotext": 18160, "tablas": 20, "error": ""}
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/770 [00:00<?, ?it/s]Loading weights:  72%|███████▏  | 557/770 [00:00<00:00, 5553.03it/s]Loading weights: 100%|██████████| 770/770 [00:00<00:00, 5441.79it/s]
+{"pdf": "FDS 71 -  Sikafloor®-2430  Part A - SIKA.pdf", "herramienta": "docling", "segundos": 72.1, "chars": 22248, "chars_pdftotext": 18160, "tablas": 7, "error": ""}
+
+=== Document parser messages ===
+Using RapidOCR for OCR processing.
+OCR on page.number=0/1.
+OCR on page.number=1/2.
+OCR on page.number=6/7.
+OCR on page.number=7/8.
+OCR on page.number=8/9.
+OCR on page.number=9/10.
+OCR on page.number=10/11.
+OCR on page.number=11/12.
+OCR on page.number=12/13.
+{"pdf": "FDS 63 AMERCOAT 68HS POWDER (PINTURA EPÓXICA) - PPG.pdf", "herramienta": "pymupdf4llm", "segundos": 10.8, "chars": 28618, "chars_pdftotext": 24784, "tablas": 19, "error": ""}
+{"pdf": "FDS 63 AMERCOAT 68HS POWDER (PINTURA EPÓXICA) - PPG.pdf", "herramienta": "docling", "segundos": 58.7, "chars": 27418, "chars_pdftotext": 24784, "tablas": 11, "error": ""}
+
+=== Document parser messages ===
+Using RapidOCR for OCR processing.
+OCR on page.number=0/1.
+{"pdf": "FDS 5 - KORAZA PRO 550 BLANCO  _ 10350789-10289257 _COL (Ver", "herramienta": "pymupdf4llm", "segundos": 5.5, "chars": 24276, "chars_pdftotext": 22832, "tablas": 5, "error": ""}
+{"pdf": "FDS 5 - KORAZA PRO 550 BLANCO  _ 10350789-10289257 _COL (Ver", "herramienta": "docling", "segundos": 38.2, "chars": 23820, "chars_pdftotext": 22832, "tablas": 9, "error": ""}
+
+=== Document parser messages ===
+Using RapidOCR for OCR processing.
+OCR on page.number=1/2.
+OCR on page.number=2/3.
+OCR on page.number=3/4.
+OCR on page.number=4/5.
+OCR on page.number=5/6.
+OCR on page.number=6/7.
+OCR on page.number=8/9.
+OCR on page.number=9/10.
+{"pdf": "FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin", "herramienta": "pymupdf4llm", "segundos": 38.5, "chars": 36226, "chars_pdftotext": 33512, "tablas": 14, "error": ""}
+{"pdf": "FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin", "herramienta": "docling", "segundos": 76.6, "chars": 35848, "chars_pdftotext": 33512, "tablas": 16, "error": ""}
+The text detection result is empty
+
+=== Document parser messages ===
+Using RapidOCR for OCR processing.
+OCR on page.number=0/1.
+OCR on page.number=1/2.
+OCR on page.number=2/3.
+OCR on page.number=3/4.
+OCR on page.number=4/5.
+OCR on page.number=5/6.
+OCR on page.number=6/7.
+OCR on page.number=7/8.
+OCR on page.number=8/9.
+OCR on page.number=9/10.
+{"pdf": "FDS 49 - PINTURA TOTAL - CORONA .pdf", "herramienta": "pymupdf4llm", "segundos": 42.6, "chars": 28606, "chars_pdftotext": 26603, "tablas": 3, "error": ""}
+2026-11-17 00:47:41,369 MatchingPostProcessor WARNING  2 of 176 pdf cells matched neither a row nor a column band of the 27x3 grid and were dropped from the table
+{"pdf": "FDS 49 - PINTURA TOTAL - CORONA .pdf", "herramienta": "docling", "segundos": 66.7, "chars": 29023, "chars_pdftotext": 26603, "tablas": 13, "error": ""}
+
+=== Document parser messages ===
+Using RapidOCR for OCR processing.
+OCR on page.number=0/1.
+OCR on page.number=1/2.
+OCR on page.number=2/3.
+OCR on page.number=3/4.
+OCR on page.number=4/5.
+OCR on page.number=5/6.
+OCR on page.number=6/7.
+OCR on page.number=7/8.
+OCR on page.number=8/9.
+OCR on page.number=9/10.
+OCR on page.number=10/11.
+OCR on page.number=11/12.
+OCR on page.number=12/13.
+OCR on page.number=13/14.
+OCR on page.number=14/15.
+OCR on page.number=15/16.
+OCR on page.number=16/17.
+OCR on page.number=17/18.
+{"pdf": "FDS 66 - 40030020 - SELLADOR INDUSTRIAL NITRO.pdf", "herramienta": "pymupdf4llm", "segundos": 91.4, "chars": 52587, "chars_pdftotext": 46100, "tablas": 13, "error": ""}
+{"pdf": "FDS 66 - 40030020 - SELLADOR INDUSTRIAL NITRO.pdf", "herramienta": "docling", "segundos": 199.3, "chars": 51845, "chars_pdftotext": 46100, "tablas": 21, "error": ""}
+PILOTO_TERMINADO

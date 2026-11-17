@@ -1,0 +1,292 @@
+[
+ {
+  "archivo": "image_000000_c66d440449e1488370a83172091903edccca69d535dfd04b4ff2dbe6b3ae7ca0.png",
+  "ruta_relativa": "../imagenes/FDS_032/image_000000_c66d440449e1488370a83172091903edccca69d535dfd04b4ff2dbe6b3ae7ca0.png",
+  "documento": "FDS 32 - PINTULACA BLANCO 7519 - PINTUCO.pdf",
+  "pagina": 1,
+  "ancho": 142,
+  "alto": 99,
+  "texto_ocr": "El Color de la Ae",
+  "nota": "imagen repetida en 9 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_af8a879fa74c9f4d42b412f8f0650011483edd2a8b42579a09f1dce9382cd758.png",
+  "ruta_relativa": "../imagenes/FDS_032/image_000001_af8a879fa74c9f4d42b412f8f0650011483edd2a8b42579a09f1dce9382cd758.png",
+  "documento": "FDS 32 - PINTULACA BLANCO 7519 - PINTUCO.pdf",
+  "pagina": 1,
+  "ancho": 58,
+  "alto": 56,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_fbba055d74a55396486f29ca26dee8d31bdde8ec9c4e27768c22fde0bcb003dd.png",
+  "ruta_relativa": "../imagenes/FDS_032/image_000002_fbba055d74a55396486f29ca26dee8d31bdde8ec9c4e27768c22fde0bcb003dd.png",
+  "documento": "FDS 32 - PINTULACA BLANCO 7519 - PINTUCO.pdf",
+  "pagina": 1,
+  "ancho": 57,
+  "alto": 57,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_c66d440449e1488370a83172091903edccca69d535dfd04b4ff2dbe6b3ae7ca0.png",
+  "ruta_relativa": "../imagenes/FDS_032/image_000000_c66d440449e1488370a83172091903edccca69d535dfd04b4ff2dbe6b3ae7ca0.png",
+  "documento": "FDS 32 - PINTULACA BLANCO 7519 - PINTUCO.pdf",
+  "pagina": 2,
+  "ancho": 142,
+  "alto": 99,
+  "texto_ocr": "El Color de la Ae",
+  "nota": "imagen repetida en 9 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_85085ef827eb74cca931e4faf34933f7c51bf7eb2d85a28888502094542c91ea.png",
+  "ruta_relativa": "../imagenes/FDS_032/image_000001_85085ef827eb74cca931e4faf34933f7c51bf7eb2d85a28888502094542c91ea.png",
+  "documento": "FDS 32 - PINTULACA BLANCO 7519 - PINTUCO.pdf",
+  "pagina": 2,
+  "ancho": 32,
+  "alto": 24,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_c66d440449e1488370a83172091903edccca69d535dfd04b4ff2dbe6b3ae7ca0.png",
+  "ruta_relativa": "../imagenes/FDS_032/image_000000_c66d440449e1488370a83172091903edccca69d535dfd04b4ff2dbe6b3ae7ca0.png",
+  "documento": "FDS 32 - PINTULACA BLANCO 7519 - PINTUCO.pdf",
+  "pagina": 3,
+  "ancho": 142,
+  "alto": 99,
+  "texto_ocr": "El Color de la Ae",
+  "nota": "imagen repetida en 9 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_c66d440449e1488370a83172091903edccca69d535dfd04b4ff2dbe6b3ae7ca0.png",
+  "ruta_relativa": "../imagenes/FDS_032/image_000000_c66d440449e1488370a83172091903edccca69d535dfd04b4ff2dbe6b3ae7ca0.png",
+  "documento": "FDS 32 - PINTULACA BLANCO 7519 - PINTUCO.pdf",
+  "pagina": 4,
+  "ancho": 142,
+  "alto": 99,
+  "texto_ocr": "El Color de la Ae",
+  "nota": "imagen repetida en 9 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_c66d440449e1488370a83172091903edccca69d535dfd04b4ff2dbe6b3ae7ca0.png",
+  "ruta_relativa": "../imagenes/FDS_032/image_000000_c66d440449e1488370a83172091903edccca69d535dfd04b4ff2dbe6b3ae7ca0.png",
+  "documento": "FDS 32 - PINTULACA BLANCO 7519 - PINTUCO.pdf",
+  "pagina": 5,
+  "ancho": 142,
+  "alto": 99,
+  "texto_ocr": "El Color de la Ae",
+  "nota": "imagen repetida en 9 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_5301b39eca5de2ebf5cc69508507670833426d7da51adcf221dc6892fa6159c7.png",
+  "ruta_relativa": "../imagenes/FDS_032/image_000001_5301b39eca5de2ebf5cc69508507670833426d7da51adcf221dc6892fa6159c7.png",
+  "documento": "FDS 32 - PINTULACA BLANCO 7519 - PINTUCO.pdf",
+  "pagina": 5,
+  "ancho": 72,
+  "alto": 70,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_98fcfbd2d7a687aa959129c774e81d75eae6442e416db7a89a0d983d13c461e4.png",
+  "ruta_relativa": "../imagenes/FDS_032/image_000002_98fcfbd2d7a687aa959129c774e81d75eae6442e416db7a89a0d983d13c461e4.png",
+  "documento": "FDS 32 - PINTULACA BLANCO 7519 - PINTUCO.pdf",
+  "pagina": 5,
+  "ancho": 121,
+  "alto": 129,
+  "texto_ocr": "Pictograma Proteccion obligatoria de la cara",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000003_4e9ae06908cf307ec7dbccf980df8e5fdc6dc2c77feca36f4739c078c840dfa6.png",
+  "ruta_relativa": "../imagenes/FDS_032/image_000003_4e9ae06908cf307ec7dbccf980df8e5fdc6dc2c77feca36f4739c078c840dfa6.png",
+  "documento": "FDS 32 - PINTULACA BLANCO 7519 - PINTUCO.pdf",
+  "pagina": 5,
+  "ancho": 109,
+  "alto": 142,
+  "texto_ocr": "Pictograma Proteccion obligatoria del cuerpo",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000004_b8337613f6b32e79e90dd1cd550f59ad9ab3ae0abd0b883d8aa10bfe872a1d3f.png",
+  "ruta_relativa": "../imagenes/FDS_032/image_000004_b8337613f6b32e79e90dd1cd550f59ad9ab3ae0abd0b883d8aa10bfe872a1d3f.png",
+  "documento": "FDS 32 - PINTULACA BLANCO 7519 - PINTUCO.pdf",
+  "pagina": 5,
+  "ancho": 91,
+  "alto": 112,
+  "texto_ocr": "Proteccion obligatoria de los pies",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000005_89ecd2b46ea61b39d8de4f8ba1ac2282c7b57be595512bcfda58b9bb8e72ec80.png",
+  "ruta_relativa": "../imagenes/FDS_032/image_000005_89ecd2b46ea61b39d8de4f8ba1ac2282c7b57be595512bcfda58b9bb8e72ec80.png",
+  "documento": "FDS 32 - PINTULACA BLANCO 7519 - PINTUCO.pdf",
+  "pagina": 5,
+  "ancho": 129,
+  "alto": 80,
+  "texto_ocr": "Ducha de emergencia",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000006_fa1abed3d228c0b8ea088d58abc473e71a288ed0e170e5ba165ea35991ecab0e.png",
+  "ruta_relativa": "../imagenes/FDS_032/image_000006_fa1abed3d228c0b8ea088d58abc473e71a288ed0e170e5ba165ea35991ecab0e.png",
+  "documento": "FDS 32 - PINTULACA BLANCO 7519 - PINTUCO.pdf",
+  "pagina": 5,
+  "ancho": 58,
+  "alto": 75,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_6174f3054b3102e4f29b881a55ba89bc198b7a9334169c6d03df504d76bf5d29.png",
+  "ruta_relativa": "../imagenes/FDS_032/image_000000_6174f3054b3102e4f29b881a55ba89bc198b7a9334169c6d03df504d76bf5d29.png",
+  "documento": "FDS 32 - PINTULACA BLANCO 7519 - PINTUCO.pdf",
+  "pagina": 6,
+  "ancho": 141,
+  "alto": 99,
+  "texto_ocr": "El Color de la Ze",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000000_c66d440449e1488370a83172091903edccca69d535dfd04b4ff2dbe6b3ae7ca0.png",
+  "ruta_relativa": "../imagenes/FDS_032/image_000000_c66d440449e1488370a83172091903edccca69d535dfd04b4ff2dbe6b3ae7ca0.png",
+  "documento": "FDS 32 - PINTULACA BLANCO 7519 - PINTUCO.pdf",
+  "pagina": 7,
+  "ancho": 142,
+  "alto": 99,
+  "texto_ocr": "El Color de la Ae",
+  "nota": "imagen repetida en 9 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_8c5be3c65b330e73ba7e0f919796ffede56799bb317ddaaae1a92ffcccd8a485.png",
+  "ruta_relativa": "../imagenes/FDS_032/image_000001_8c5be3c65b330e73ba7e0f919796ffede56799bb317ddaaae1a92ffcccd8a485.png",
+  "documento": "FDS 32 - PINTULACA BLANCO 7519 - PINTUCO.pdf",
+  "pagina": 7,
+  "ancho": 31,
+  "alto": 34,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_c66d440449e1488370a83172091903edccca69d535dfd04b4ff2dbe6b3ae7ca0.png",
+  "ruta_relativa": "../imagenes/FDS_032/image_000000_c66d440449e1488370a83172091903edccca69d535dfd04b4ff2dbe6b3ae7ca0.png",
+  "documento": "FDS 32 - PINTULACA BLANCO 7519 - PINTUCO.pdf",
+  "pagina": 8,
+  "ancho": 142,
+  "alto": 99,
+  "texto_ocr": "El Color de la Ae",
+  "nota": "imagen repetida en 9 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_0dfe72477044940a9f77e687b2408dbb7f02b7e2c94036d7c28c2a261d39d92f.png",
+  "ruta_relativa": "../imagenes/FDS_032/image_000000_0dfe72477044940a9f77e687b2408dbb7f02b7e2c94036d7c28c2a261d39d92f.png",
+  "documento": "FDS 32 - PINTULACA BLANCO 7519 - PINTUCO.pdf",
+  "pagina": 9,
+  "ancho": 141,
+  "alto": 99,
+  "texto_ocr": "El Color de la Ae",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000000_0dfe72477044940a9f77e687b2408dbb7f02b7e2c94036d7c28c2a261d39d92f.png",
+  "ruta_relativa": "../imagenes/FDS_032/image_000000_0dfe72477044940a9f77e687b2408dbb7f02b7e2c94036d7c28c2a261d39d92f.png",
+  "documento": "FDS 32 - PINTULACA BLANCO 7519 - PINTUCO.pdf",
+  "pagina": 10,
+  "ancho": 141,
+  "alto": 99,
+  "texto_ocr": "El Color de la Ae",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000000_4be2f3191f05aff235d1dac15c6d52c4887a154b40b20af40a0a279e2b027260.png",
+  "ruta_relativa": "../imagenes/FDS_032/image_000000_4be2f3191f05aff235d1dac15c6d52c4887a154b40b20af40a0a279e2b027260.png",
+  "documento": "FDS 32 - PINTULACA BLANCO 7519 - PINTUCO.pdf",
+  "pagina": 11,
+  "ancho": 142,
+  "alto": 98,
+  "texto_ocr": "El Color de la Ae",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000001_74319ff1d6c0257f4607983042806f18a4577918985a27e1bdb6832d61f616ea.png",
+  "ruta_relativa": "../imagenes/FDS_032/image_000001_74319ff1d6c0257f4607983042806f18a4577918985a27e1bdb6832d61f616ea.png",
+  "documento": "FDS 32 - PINTULACA BLANCO 7519 - PINTUCO.pdf",
+  "pagina": 11,
+  "ancho": 32,
+  "alto": 33,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_c66d440449e1488370a83172091903edccca69d535dfd04b4ff2dbe6b3ae7ca0.png",
+  "ruta_relativa": "../imagenes/FDS_032/image_000000_c66d440449e1488370a83172091903edccca69d535dfd04b4ff2dbe6b3ae7ca0.png",
+  "documento": "FDS 32 - PINTULACA BLANCO 7519 - PINTUCO.pdf",
+  "pagina": 12,
+  "ancho": 142,
+  "alto": 99,
+  "texto_ocr": "El Color de la Ae",
+  "nota": "imagen repetida en 9 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_718968d4b518d6542c8fdc2deceda6823550882e2c0f112ce5ef68049dde2cef.png",
+  "ruta_relativa": "../imagenes/FDS_032/image_000001_718968d4b518d6542c8fdc2deceda6823550882e2c0f112ce5ef68049dde2cef.png",
+  "documento": "FDS 32 - PINTULACA BLANCO 7519 - PINTUCO.pdf",
+  "pagina": 12,
+  "ancho": 121,
+  "alto": 121,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_e08524a8f9d58933bc1a6edb3f3e89310b9fcbf20704d4a417a421ecd7584848.png",
+  "ruta_relativa": "../imagenes/FDS_032/image_000002_e08524a8f9d58933bc1a6edb3f3e89310b9fcbf20704d4a417a421ecd7584848.png",
+  "documento": "FDS 32 - PINTULACA BLANCO 7519 - PINTUCO.pdf",
+  "pagina": 12,
+  "ancho": 122,
+  "alto": 121,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_cf32d40187998d424be3e7b6f969800a0eec245e3daa3b502c1d9f8cc380569b.png",
+  "ruta_relativa": "../imagenes/FDS_032/image_000003_cf32d40187998d424be3e7b6f969800a0eec245e3daa3b502c1d9f8cc380569b.png",
+  "documento": "FDS 32 - PINTULACA BLANCO 7519 - PINTUCO.pdf",
+  "pagina": 12,
+  "ancho": 122,
+  "alto": 154,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_c66d440449e1488370a83172091903edccca69d535dfd04b4ff2dbe6b3ae7ca0.png",
+  "ruta_relativa": "../imagenes/FDS_032/image_000000_c66d440449e1488370a83172091903edccca69d535dfd04b4ff2dbe6b3ae7ca0.png",
+  "documento": "FDS 32 - PINTULACA BLANCO 7519 - PINTUCO.pdf",
+  "pagina": 13,
+  "ancho": 142,
+  "alto": 99,
+  "texto_ocr": "El Color de la Ae",
+  "nota": "imagen repetida en 9 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_44fa59b165fc3e3ef2651ca21e51d9a3f08efa4a626de1fc92b0889e72f75410.png",
+  "ruta_relativa": "../imagenes/FDS_032/image_000000_44fa59b165fc3e3ef2651ca21e51d9a3f08efa4a626de1fc92b0889e72f75410.png",
+  "documento": "FDS 32 - PINTULACA BLANCO 7519 - PINTUCO.pdf",
+  "pagina": 14,
+  "ancho": 141,
+  "alto": 98,
+  "texto_ocr": "El Color de la Ae",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000001_7a71d968a8154b287eda9f9cd3b4f4af5aaabea6cf5d8849da0c645d419991ac.png",
+  "ruta_relativa": "../imagenes/FDS_032/image_000001_7a71d968a8154b287eda9f9cd3b4f4af5aaabea6cf5d8849da0c645d419991ac.png",
+  "documento": "FDS 32 - PINTULACA BLANCO 7519 - PINTUCO.pdf",
+  "pagina": 14,
+  "ancho": 950,
+  "alto": 88,
+  "texto_ocr": "El Color de la Calidad?",
+  "nota": ""
+ }
+]

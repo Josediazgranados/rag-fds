@@ -1,0 +1,612 @@
+[
+ {
+  "archivo": "image_000000_66d6755498af6e839bc85384cbb810da69d8b671fdd6c6c458012e36d65c1942.png",
+  "ruta_relativa": "../imagenes/FDS_055/image_000000_66d6755498af6e839bc85384cbb810da69d8b671fdd6c6c458012e36d65c1942.png",
+  "documento": "FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf",
+  "pagina": 1,
+  "ancho": 184,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000001_18a8ec8d432afe40ae4cf069dc31123e517b290df81e9e76ae969b8e65204155.png",
+  "ruta_relativa": "../imagenes/FDS_055/image_000001_18a8ec8d432afe40ae4cf069dc31123e517b290df81e9e76ae969b8e65204155.png",
+  "documento": "FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf",
+  "pagina": 1,
+  "ancho": 57,
+  "alto": 58,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_2345e204174aa6ce0144be6b427ec61a9b326e97945cfd7938c79d29b94bf761.png",
+  "ruta_relativa": "../imagenes/FDS_055/image_000002_2345e204174aa6ce0144be6b427ec61a9b326e97945cfd7938c79d29b94bf761.png",
+  "documento": "FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf",
+  "pagina": 1,
+  "ancho": 63,
+  "alto": 58,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_1fea81a6c15b53dcbc8e41a6288df7590bffd452fc0014c9faabd99190046ff2.png",
+  "ruta_relativa": "../imagenes/FDS_055/image_000003_1fea81a6c15b53dcbc8e41a6288df7590bffd452fc0014c9faabd99190046ff2.png",
+  "documento": "FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf",
+  "pagina": 1,
+  "ancho": 56,
+  "alto": 56,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000004_cfd74d32615c6af88e5be2492fc78995a93daf93bbf96b5733d70cd98ef3db07.png",
+  "ruta_relativa": "../imagenes/FDS_055/image_000004_cfd74d32615c6af88e5be2492fc78995a93daf93bbf96b5733d70cd98ef3db07.png",
+  "documento": "FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf",
+  "pagina": 1,
+  "ancho": 84,
+  "alto": 85,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000005_491ec30835865ac69d2d6bc37641dea637472b82ee27c8abb72558a6459d642f.png",
+  "ruta_relativa": "../imagenes/FDS_055/image_000005_491ec30835865ac69d2d6bc37641dea637472b82ee27c8abb72558a6459d642f.png",
+  "documento": "FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf",
+  "pagina": 1,
+  "ancho": 87,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000006_969d618ac6777c6a03852760bb6b36d1196fea33b5d79e2907aae47b4e8c312d.png",
+  "ruta_relativa": "../imagenes/FDS_055/image_000006_969d618ac6777c6a03852760bb6b36d1196fea33b5d79e2907aae47b4e8c312d.png",
+  "documento": "FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf",
+  "pagina": 1,
+  "ancho": 81,
+  "alto": 83,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000007_f6f6ad5d08420097cc9a0464cd68f1e64098e9584f7f50f0b5f2056ba95b40f0.png",
+  "ruta_relativa": "../imagenes/FDS_055/image_000007_f6f6ad5d08420097cc9a0464cd68f1e64098e9584f7f50f0b5f2056ba95b40f0.png",
+  "documento": "FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf",
+  "pagina": 1,
+  "ancho": 199,
+  "alto": 253,
+  "texto_ocr": "@ Pintula 1 :",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000000_5b660eb81f7e4fc897e24db25c218bfe273b8f77a4b1c996a5b5c13ce5bd961d.png",
+  "ruta_relativa": "../imagenes/FDS_055/image_000000_5b660eb81f7e4fc897e24db25c218bfe273b8f77a4b1c996a5b5c13ce5bd961d.png",
+  "documento": "FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf",
+  "pagina": 2,
+  "ancho": 184,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 9 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_cfd74d32615c6af88e5be2492fc78995a93daf93bbf96b5733d70cd98ef3db07.png",
+  "ruta_relativa": "../imagenes/FDS_055/image_000001_cfd74d32615c6af88e5be2492fc78995a93daf93bbf96b5733d70cd98ef3db07.png",
+  "documento": "FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf",
+  "pagina": 2,
+  "ancho": 84,
+  "alto": 85,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 5 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000002_8de47e500caa5abe3dc35b5d6c4f7250db4c4156a578a81b4ab8c52bd5fb7c68.png",
+  "ruta_relativa": "../imagenes/FDS_055/image_000002_8de47e500caa5abe3dc35b5d6c4f7250db4c4156a578a81b4ab8c52bd5fb7c68.png",
+  "documento": "FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf",
+  "pagina": 2,
+  "ancho": 87,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 5 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000003_969d618ac6777c6a03852760bb6b36d1196fea33b5d79e2907aae47b4e8c312d.png",
+  "ruta_relativa": "../imagenes/FDS_055/image_000003_969d618ac6777c6a03852760bb6b36d1196fea33b5d79e2907aae47b4e8c312d.png",
+  "documento": "FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf",
+  "pagina": 2,
+  "ancho": 81,
+  "alto": 83,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_5b660eb81f7e4fc897e24db25c218bfe273b8f77a4b1c996a5b5c13ce5bd961d.png",
+  "ruta_relativa": "../imagenes/FDS_055/image_000000_5b660eb81f7e4fc897e24db25c218bfe273b8f77a4b1c996a5b5c13ce5bd961d.png",
+  "documento": "FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf",
+  "pagina": 3,
+  "ancho": 184,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 9 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_cfd74d32615c6af88e5be2492fc78995a93daf93bbf96b5733d70cd98ef3db07.png",
+  "ruta_relativa": "../imagenes/FDS_055/image_000001_cfd74d32615c6af88e5be2492fc78995a93daf93bbf96b5733d70cd98ef3db07.png",
+  "documento": "FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf",
+  "pagina": 3,
+  "ancho": 84,
+  "alto": 85,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 5 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000002_8de47e500caa5abe3dc35b5d6c4f7250db4c4156a578a81b4ab8c52bd5fb7c68.png",
+  "ruta_relativa": "../imagenes/FDS_055/image_000002_8de47e500caa5abe3dc35b5d6c4f7250db4c4156a578a81b4ab8c52bd5fb7c68.png",
+  "documento": "FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf",
+  "pagina": 3,
+  "ancho": 87,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 5 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000003_f474ccd24a3264e6675e1425f9228732618a2ddee616640f3ffda0048db6862f.png",
+  "ruta_relativa": "../imagenes/FDS_055/image_000003_f474ccd24a3264e6675e1425f9228732618a2ddee616640f3ffda0048db6862f.png",
+  "documento": "FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf",
+  "pagina": 3,
+  "ancho": 82,
+  "alto": 83,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_5b660eb81f7e4fc897e24db25c218bfe273b8f77a4b1c996a5b5c13ce5bd961d.png",
+  "ruta_relativa": "../imagenes/FDS_055/image_000000_5b660eb81f7e4fc897e24db25c218bfe273b8f77a4b1c996a5b5c13ce5bd961d.png",
+  "documento": "FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf",
+  "pagina": 4,
+  "ancho": 184,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 9 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_cfd74d32615c6af88e5be2492fc78995a93daf93bbf96b5733d70cd98ef3db07.png",
+  "ruta_relativa": "../imagenes/FDS_055/image_000001_cfd74d32615c6af88e5be2492fc78995a93daf93bbf96b5733d70cd98ef3db07.png",
+  "documento": "FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf",
+  "pagina": 4,
+  "ancho": 84,
+  "alto": 85,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 5 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000002_8de47e500caa5abe3dc35b5d6c4f7250db4c4156a578a81b4ab8c52bd5fb7c68.png",
+  "ruta_relativa": "../imagenes/FDS_055/image_000002_8de47e500caa5abe3dc35b5d6c4f7250db4c4156a578a81b4ab8c52bd5fb7c68.png",
+  "documento": "FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf",
+  "pagina": 4,
+  "ancho": 87,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 5 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000003_f474ccd24a3264e6675e1425f9228732618a2ddee616640f3ffda0048db6862f.png",
+  "ruta_relativa": "../imagenes/FDS_055/image_000003_f474ccd24a3264e6675e1425f9228732618a2ddee616640f3ffda0048db6862f.png",
+  "documento": "FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf",
+  "pagina": 4,
+  "ancho": 82,
+  "alto": 83,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_4c82060677ce4fd12079c0bb1423358277ea268cd38a9c1d6b727e89c816508d.png",
+  "ruta_relativa": "../imagenes/FDS_055/image_000000_4c82060677ce4fd12079c0bb1423358277ea268cd38a9c1d6b727e89c816508d.png",
+  "documento": "FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf",
+  "pagina": 5,
+  "ancho": 183,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000001_f4dc350693ec99876d784cadeaefc544c44466213fcc313145a008220be2cf5a.png",
+  "ruta_relativa": "../imagenes/FDS_055/image_000001_f4dc350693ec99876d784cadeaefc544c44466213fcc313145a008220be2cf5a.png",
+  "documento": "FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf",
+  "pagina": 5,
+  "ancho": 940,
+  "alto": 166,
+  "texto_ocr": "[_Petooema JR es | NOMATIVIDAD APLICABLE: NTC 1584, NTC 1589, NTC 3851 y NTC 1728. Más left nte pal ss y val Reemplazar cuando se detecte olor o sabor del contaminante en el interior de la s sara rante para gases y vapores | máscara o adaptador facial. Cuando el contaminante no tiene buenas propiedades O de aviso se recomienda el uso de equipos aislantes. respiratorias A 4. So",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000002_64f10547764f3293c362b8462f485cf19d38470902c88dc202b0c4e135897caa.png",
+  "ruta_relativa": "../imagenes/FDS_055/image_000002_64f10547764f3293c362b8462f485cf19d38470902c88dc202b0c4e135897caa.png",
+  "documento": "FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf",
+  "pagina": 5,
+  "ancho": 122,
+  "alto": 125,
+  "texto_ocr": "Pictograma Protección obligatoria de la cara",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000003_3278208c4f966e1445af16e264b33c7918c855bd511b1f0225299a465d3492e5.png",
+  "ruta_relativa": "../imagenes/FDS_055/image_000003_3278208c4f966e1445af16e264b33c7918c855bd511b1f0225299a465d3492e5.png",
+  "documento": "FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf",
+  "pagina": 5,
+  "ancho": 266,
+  "alto": 87,
+  "texto_ocr": "DOGS",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000000_5b660eb81f7e4fc897e24db25c218bfe273b8f77a4b1c996a5b5c13ce5bd961d.png",
+  "ruta_relativa": "../imagenes/FDS_055/image_000000_5b660eb81f7e4fc897e24db25c218bfe273b8f77a4b1c996a5b5c13ce5bd961d.png",
+  "documento": "FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf",
+  "pagina": 6,
+  "ancho": 184,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 9 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_c32c79e6c8fc4ddfbd919221a1b221dcfb055a77f67f4983c845ca8c29b2bbd7.png",
+  "ruta_relativa": "../imagenes/FDS_055/image_000001_c32c79e6c8fc4ddfbd919221a1b221dcfb055a77f67f4983c845ca8c29b2bbd7.png",
+  "documento": "FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf",
+  "pagina": 6,
+  "ancho": 72,
+  "alto": 72,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_43b0c769749cc51a8b99d3a37ad9ef2fc2528d1c6d4c96a13467b6dfeee17e76.png",
+  "ruta_relativa": "../imagenes/FDS_055/image_000002_43b0c769749cc51a8b99d3a37ad9ef2fc2528d1c6d4c96a13467b6dfeee17e76.png",
+  "documento": "FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf",
+  "pagina": 6,
+  "ancho": 55,
+  "alto": 57,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_cfd74d32615c6af88e5be2492fc78995a93daf93bbf96b5733d70cd98ef3db07.png",
+  "ruta_relativa": "../imagenes/FDS_055/image_000003_cfd74d32615c6af88e5be2492fc78995a93daf93bbf96b5733d70cd98ef3db07.png",
+  "documento": "FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf",
+  "pagina": 6,
+  "ancho": 84,
+  "alto": 85,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000004_8de47e500caa5abe3dc35b5d6c4f7250db4c4156a578a81b4ab8c52bd5fb7c68.png",
+  "ruta_relativa": "../imagenes/FDS_055/image_000004_8de47e500caa5abe3dc35b5d6c4f7250db4c4156a578a81b4ab8c52bd5fb7c68.png",
+  "documento": "FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf",
+  "pagina": 6,
+  "ancho": 87,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000005_969d618ac6777c6a03852760bb6b36d1196fea33b5d79e2907aae47b4e8c312d.png",
+  "ruta_relativa": "../imagenes/FDS_055/image_000005_969d618ac6777c6a03852760bb6b36d1196fea33b5d79e2907aae47b4e8c312d.png",
+  "documento": "FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf",
+  "pagina": 6,
+  "ancho": 81,
+  "alto": 83,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000006_7eb090896f9cbc96b36625103edf36f2e3814f01ece4d8cbf2c9e197a81c1715.png",
+  "ruta_relativa": "../imagenes/FDS_055/image_000006_7eb090896f9cbc96b36625103edf36f2e3814f01ece4d8cbf2c9e197a81c1715.png",
+  "documento": "FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf",
+  "pagina": 6,
+  "ancho": 54,
+  "alto": 59,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_4c82060677ce4fd12079c0bb1423358277ea268cd38a9c1d6b727e89c816508d.png",
+  "ruta_relativa": "../imagenes/FDS_055/image_000000_4c82060677ce4fd12079c0bb1423358277ea268cd38a9c1d6b727e89c816508d.png",
+  "documento": "FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf",
+  "pagina": 7,
+  "ancho": 183,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000001_cfd74d32615c6af88e5be2492fc78995a93daf93bbf96b5733d70cd98ef3db07.png",
+  "ruta_relativa": "../imagenes/FDS_055/image_000001_cfd74d32615c6af88e5be2492fc78995a93daf93bbf96b5733d70cd98ef3db07.png",
+  "documento": "FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf",
+  "pagina": 7,
+  "ancho": 84,
+  "alto": 85,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 5 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000002_8de47e500caa5abe3dc35b5d6c4f7250db4c4156a578a81b4ab8c52bd5fb7c68.png",
+  "ruta_relativa": "../imagenes/FDS_055/image_000002_8de47e500caa5abe3dc35b5d6c4f7250db4c4156a578a81b4ab8c52bd5fb7c68.png",
+  "documento": "FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf",
+  "pagina": 7,
+  "ancho": 87,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 5 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000003_969d618ac6777c6a03852760bb6b36d1196fea33b5d79e2907aae47b4e8c312d.png",
+  "ruta_relativa": "../imagenes/FDS_055/image_000003_969d618ac6777c6a03852760bb6b36d1196fea33b5d79e2907aae47b4e8c312d.png",
+  "documento": "FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf",
+  "pagina": 7,
+  "ancho": 81,
+  "alto": 83,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_5b660eb81f7e4fc897e24db25c218bfe273b8f77a4b1c996a5b5c13ce5bd961d.png",
+  "ruta_relativa": "../imagenes/FDS_055/image_000000_5b660eb81f7e4fc897e24db25c218bfe273b8f77a4b1c996a5b5c13ce5bd961d.png",
+  "documento": "FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf",
+  "pagina": 8,
+  "ancho": 184,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 9 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_cfd74d32615c6af88e5be2492fc78995a93daf93bbf96b5733d70cd98ef3db07.png",
+  "ruta_relativa": "../imagenes/FDS_055/image_000001_cfd74d32615c6af88e5be2492fc78995a93daf93bbf96b5733d70cd98ef3db07.png",
+  "documento": "FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf",
+  "pagina": 8,
+  "ancho": 84,
+  "alto": 85,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 5 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000002_8de47e500caa5abe3dc35b5d6c4f7250db4c4156a578a81b4ab8c52bd5fb7c68.png",
+  "ruta_relativa": "../imagenes/FDS_055/image_000002_8de47e500caa5abe3dc35b5d6c4f7250db4c4156a578a81b4ab8c52bd5fb7c68.png",
+  "documento": "FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf",
+  "pagina": 8,
+  "ancho": 87,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 5 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000003_e258b7c1a9319668aea6f2060ab8605d6ef1ff19a0101cf7eac92b1a217add40.png",
+  "ruta_relativa": "../imagenes/FDS_055/image_000003_e258b7c1a9319668aea6f2060ab8605d6ef1ff19a0101cf7eac92b1a217add40.png",
+  "documento": "FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf",
+  "pagina": 8,
+  "ancho": 82,
+  "alto": 84,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_5b660eb81f7e4fc897e24db25c218bfe273b8f77a4b1c996a5b5c13ce5bd961d.png",
+  "ruta_relativa": "../imagenes/FDS_055/image_000000_5b660eb81f7e4fc897e24db25c218bfe273b8f77a4b1c996a5b5c13ce5bd961d.png",
+  "documento": "FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf",
+  "pagina": 9,
+  "ancho": 184,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 9 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_3278208c4f966e1445af16e264b33c7918c855bd511b1f0225299a465d3492e5.png",
+  "ruta_relativa": "../imagenes/FDS_055/image_000001_3278208c4f966e1445af16e264b33c7918c855bd511b1f0225299a465d3492e5.png",
+  "documento": "FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf",
+  "pagina": 9,
+  "ancho": 266,
+  "alto": 87,
+  "texto_ocr": "DOGS",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000000_5b660eb81f7e4fc897e24db25c218bfe273b8f77a4b1c996a5b5c13ce5bd961d.png",
+  "ruta_relativa": "../imagenes/FDS_055/image_000000_5b660eb81f7e4fc897e24db25c218bfe273b8f77a4b1c996a5b5c13ce5bd961d.png",
+  "documento": "FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf",
+  "pagina": 10,
+  "ancho": 184,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 9 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_f3ceb4a8c30efd8c4a5772b312640302cac153423127b7c4763c8f3f4259725d.png",
+  "ruta_relativa": "../imagenes/FDS_055/image_000001_f3ceb4a8c30efd8c4a5772b312640302cac153423127b7c4763c8f3f4259725d.png",
+  "documento": "FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf",
+  "pagina": 10,
+  "ancho": 121,
+  "alto": 138,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_cfd74d32615c6af88e5be2492fc78995a93daf93bbf96b5733d70cd98ef3db07.png",
+  "ruta_relativa": "../imagenes/FDS_055/image_000002_cfd74d32615c6af88e5be2492fc78995a93daf93bbf96b5733d70cd98ef3db07.png",
+  "documento": "FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf",
+  "pagina": 10,
+  "ancho": 84,
+  "alto": 85,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_8de47e500caa5abe3dc35b5d6c4f7250db4c4156a578a81b4ab8c52bd5fb7c68.png",
+  "ruta_relativa": "../imagenes/FDS_055/image_000003_8de47e500caa5abe3dc35b5d6c4f7250db4c4156a578a81b4ab8c52bd5fb7c68.png",
+  "documento": "FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf",
+  "pagina": 10,
+  "ancho": 87,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000004_969d618ac6777c6a03852760bb6b36d1196fea33b5d79e2907aae47b4e8c312d.png",
+  "ruta_relativa": "../imagenes/FDS_055/image_000004_969d618ac6777c6a03852760bb6b36d1196fea33b5d79e2907aae47b4e8c312d.png",
+  "documento": "FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf",
+  "pagina": 10,
+  "ancho": 81,
+  "alto": 83,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_5b660eb81f7e4fc897e24db25c218bfe273b8f77a4b1c996a5b5c13ce5bd961d.png",
+  "ruta_relativa": "../imagenes/FDS_055/image_000000_5b660eb81f7e4fc897e24db25c218bfe273b8f77a4b1c996a5b5c13ce5bd961d.png",
+  "documento": "FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf",
+  "pagina": 11,
+  "ancho": 184,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 9 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_aad59a977d93633a9cc578e13e9e87c9943338fd52dbf6caf968a297f9531ea4.png",
+  "ruta_relativa": "../imagenes/FDS_055/image_000001_aad59a977d93633a9cc578e13e9e87c9943338fd52dbf6caf968a297f9531ea4.png",
+  "documento": "FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf",
+  "pagina": 11,
+  "ancho": 121,
+  "alto": 120,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_42a87c98f6ddfbc6cd860068d15950c3a97551583f09530d5e5664fa84294200.png",
+  "ruta_relativa": "../imagenes/FDS_055/image_000002_42a87c98f6ddfbc6cd860068d15950c3a97551583f09530d5e5664fa84294200.png",
+  "documento": "FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf",
+  "pagina": 11,
+  "ancho": 196,
+  "alto": 299,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_cc6c2c89eb9be7b8df65468e39b051d79f257f1012f3d4db912683174ac8e86f.png",
+  "ruta_relativa": "../imagenes/FDS_055/image_000003_cc6c2c89eb9be7b8df65468e39b051d79f257f1012f3d4db912683174ac8e86f.png",
+  "documento": "FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf",
+  "pagina": 11,
+  "ancho": 111,
+  "alto": 176,
+  "texto_ocr": "3 3 I No para el usuari",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000004_cfd74d32615c6af88e5be2492fc78995a93daf93bbf96b5733d70cd98ef3db07.png",
+  "ruta_relativa": "../imagenes/FDS_055/image_000004_cfd74d32615c6af88e5be2492fc78995a93daf93bbf96b5733d70cd98ef3db07.png",
+  "documento": "FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf",
+  "pagina": 11,
+  "ancho": 84,
+  "alto": 85,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000005_8de47e500caa5abe3dc35b5d6c4f7250db4c4156a578a81b4ab8c52bd5fb7c68.png",
+  "ruta_relativa": "../imagenes/FDS_055/image_000005_8de47e500caa5abe3dc35b5d6c4f7250db4c4156a578a81b4ab8c52bd5fb7c68.png",
+  "documento": "FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf",
+  "pagina": 11,
+  "ancho": 87,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000006_969d618ac6777c6a03852760bb6b36d1196fea33b5d79e2907aae47b4e8c312d.png",
+  "ruta_relativa": "../imagenes/FDS_055/image_000006_969d618ac6777c6a03852760bb6b36d1196fea33b5d79e2907aae47b4e8c312d.png",
+  "documento": "FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf",
+  "pagina": 11,
+  "ancho": 81,
+  "alto": 83,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000007_0b47d38d40807b1b6e41c82f2993eac1aa52875fc4abbbc1a5c4f4ab068e4ba5.png",
+  "ruta_relativa": "../imagenes/FDS_055/image_000007_0b47d38d40807b1b6e41c82f2993eac1aa52875fc4abbbc1a5c4f4ab068e4ba5.png",
+  "documento": "FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf",
+  "pagina": 11,
+  "ancho": 427,
+  "alto": 219,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_5b660eb81f7e4fc897e24db25c218bfe273b8f77a4b1c996a5b5c13ce5bd961d.png",
+  "ruta_relativa": "../imagenes/FDS_055/image_000000_5b660eb81f7e4fc897e24db25c218bfe273b8f77a4b1c996a5b5c13ce5bd961d.png",
+  "documento": "FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf",
+  "pagina": 12,
+  "ancho": 184,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 9 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_c0f798b7adc82005ddaadca48190bbf367b42327ac533f0b226448d6676f49d3.png",
+  "ruta_relativa": "../imagenes/FDS_055/image_000001_c0f798b7adc82005ddaadca48190bbf367b42327ac533f0b226448d6676f49d3.png",
+  "documento": "FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf",
+  "pagina": 12,
+  "ancho": 266,
+  "alto": 88,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_5dff6d7294425cb7c7baa11ada47726093e7ddcca60835af70913a6f3d67c42a.png",
+  "ruta_relativa": "../imagenes/FDS_055/image_000000_5dff6d7294425cb7c7baa11ada47726093e7ddcca60835af70913a6f3d67c42a.png",
+  "documento": "FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf",
+  "pagina": 13,
+  "ancho": 182,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000001_467bb2f83ac4b46d1cd38702aa4c39f351b743960860ab3352541d53de0c26a4.png",
+  "ruta_relativa": "../imagenes/FDS_055/image_000001_467bb2f83ac4b46d1cd38702aa4c39f351b743960860ab3352541d53de0c26a4.png",
+  "documento": "FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf",
+  "pagina": 13,
+  "ancho": 266,
+  "alto": 87,
+  "texto_ocr": "DOGS",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000000_66d6755498af6e839bc85384cbb810da69d8b671fdd6c6c458012e36d65c1942.png",
+  "ruta_relativa": "../imagenes/FDS_055/image_000000_66d6755498af6e839bc85384cbb810da69d8b671fdd6c6c458012e36d65c1942.png",
+  "documento": "FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf",
+  "pagina": 14,
+  "ancho": 184,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000001_e57c8e0a0b1ec223e5a406a981f5be7372b0b74dd64a557316ffa444c0b21e7b.png",
+  "ruta_relativa": "../imagenes/FDS_055/image_000001_e57c8e0a0b1ec223e5a406a981f5be7372b0b74dd64a557316ffa444c0b21e7b.png",
+  "documento": "FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf",
+  "pagina": 14,
+  "ancho": 1109,
+  "alto": 520,
+  "texto_ocr": "( Pintuland",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000002_544ff9a278b7d537998396e2ab49b9879a899a20c432b62d81765586c3ccbbbe.png",
+  "ruta_relativa": "../imagenes/FDS_055/image_000002_544ff9a278b7d537998396e2ab49b9879a899a20c432b62d81765586c3ccbbbe.png",
+  "documento": "FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf",
+  "pagina": 14,
+  "ancho": 267,
+  "alto": 87,
+  "texto_ocr": "DÍGD",
+  "nota": ""
+ }
+]

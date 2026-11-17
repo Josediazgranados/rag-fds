@@ -1,0 +1,32 @@
+[
+ {
+  "archivo": "image_000000_39440a5d369e2e9d3f7d12979e2aa2c18c4ec8b440dc382e79b1bf7af400be59.png",
+  "ruta_relativa": "../imagenes/FDS_063/image_000000_39440a5d369e2e9d3f7d12979e2aa2c18c4ec8b440dc382e79b1bf7af400be59.png",
+  "documento": "FDS 63 AMERCOAT 68HS POWDER (PINTURA EPÓXICA) - PPG.pdf",
+  "pagina": 1,
+  "ancho": 135,
+  "alto": 105,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_a38ae0b739986bac4bc46b3fb2ddbcbe0db4bf9feca41280c91d58847c861fb6.png",
+  "ruta_relativa": "../imagenes/FDS_063/image_000000_a38ae0b739986bac4bc46b3fb2ddbcbe0db4bf9feca41280c91d58847c861fb6.png",
+  "documento": "FDS 63 AMERCOAT 68HS POWDER (PINTURA EPÓXICA) - PPG.pdf",
+  "pagina": 2,
+  "ancho": 97,
+  "alto": 98,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_0050886bb3ee306c8eb31b89f52eb8f873be8f00eb6cc64a1a584e9e711150ff.png",
+  "ruta_relativa": "../imagenes/FDS_063/image_000000_0050886bb3ee306c8eb31b89f52eb8f873be8f00eb6cc64a1a584e9e711150ff.png",
+  "documento": "FDS 63 AMERCOAT 68HS POWDER (PINTURA EPÓXICA) - PPG.pdf",
+  "pagina": 12,
+  "ancho": 21,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ }
+]

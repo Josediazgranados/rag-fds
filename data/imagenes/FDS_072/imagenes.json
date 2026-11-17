@@ -1,0 +1,182 @@
+[
+ {
+  "archivo": "image_000000_481ec20adba02247621c5673f3fb4e7da2568f4f7cb67dbc7d625888e672bf3e.png",
+  "ruta_relativa": "../imagenes/FDS_072/image_000000_481ec20adba02247621c5673f3fb4e7da2568f4f7cb67dbc7d625888e672bf3e.png",
+  "documento": "FDS 72 - Sikafloor®-2430 CO Comp.B - SIKA.pdf",
+  "pagina": 1,
+  "ancho": 151,
+  "alto": 132,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 4 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_481ec20adba02247621c5673f3fb4e7da2568f4f7cb67dbc7d625888e672bf3e.png",
+  "ruta_relativa": "../imagenes/FDS_072/image_000000_481ec20adba02247621c5673f3fb4e7da2568f4f7cb67dbc7d625888e672bf3e.png",
+  "documento": "FDS 72 - Sikafloor®-2430 CO Comp.B - SIKA.pdf",
+  "pagina": 2,
+  "ancho": 151,
+  "alto": 132,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 4 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_11013c88b9240f0d44e1cfe5463b046f2535bbc29f8727426fa654369a5c9aec.png",
+  "ruta_relativa": "../imagenes/FDS_072/image_000001_11013c88b9240f0d44e1cfe5463b046f2535bbc29f8727426fa654369a5c9aec.png",
+  "documento": "FDS 72 - Sikafloor®-2430 CO Comp.B - SIKA.pdf",
+  "pagina": 2,
+  "ancho": 103,
+  "alto": 106,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_513f64a39a42ed25e4786293cce87adca61d544a6bc9c4915252f08b779fc759.png",
+  "ruta_relativa": "../imagenes/FDS_072/image_000002_513f64a39a42ed25e4786293cce87adca61d544a6bc9c4915252f08b779fc759.png",
+  "documento": "FDS 72 - Sikafloor®-2430 CO Comp.B - SIKA.pdf",
+  "pagina": 2,
+  "ancho": 104,
+  "alto": 106,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_1d06ecec1c08c45f3e8891c1be5cf30bd8b46c631c7604bab2055ad563ce28f8.png",
+  "ruta_relativa": "../imagenes/FDS_072/image_000003_1d06ecec1c08c45f3e8891c1be5cf30bd8b46c631c7604bab2055ad563ce28f8.png",
+  "documento": "FDS 72 - Sikafloor®-2430 CO Comp.B - SIKA.pdf",
+  "pagina": 2,
+  "ancho": 104,
+  "alto": 103,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000004_4b8cc7e5114fcdb67b4da046e021bf5faa2b86b4872c0dae45d9694a0ef9208f.png",
+  "ruta_relativa": "../imagenes/FDS_072/image_000004_4b8cc7e5114fcdb67b4da046e021bf5faa2b86b4872c0dae45d9694a0ef9208f.png",
+  "documento": "FDS 72 - Sikafloor®-2430 CO Comp.B - SIKA.pdf",
+  "pagina": 2,
+  "ancho": 103,
+  "alto": 106,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_ae8b0a562800646e62e84ce224f584d161862b2d4c472a15e78edcf80d97be89.png",
+  "ruta_relativa": "../imagenes/FDS_072/image_000000_ae8b0a562800646e62e84ce224f584d161862b2d4c472a15e78edcf80d97be89.png",
+  "documento": "FDS 72 - Sikafloor®-2430 CO Comp.B - SIKA.pdf",
+  "pagina": 3,
+  "ancho": 151,
+  "alto": 131,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 8 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_ae8b0a562800646e62e84ce224f584d161862b2d4c472a15e78edcf80d97be89.png",
+  "ruta_relativa": "../imagenes/FDS_072/image_000000_ae8b0a562800646e62e84ce224f584d161862b2d4c472a15e78edcf80d97be89.png",
+  "documento": "FDS 72 - Sikafloor®-2430 CO Comp.B - SIKA.pdf",
+  "pagina": 4,
+  "ancho": 151,
+  "alto": 131,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 8 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_ae8b0a562800646e62e84ce224f584d161862b2d4c472a15e78edcf80d97be89.png",
+  "ruta_relativa": "../imagenes/FDS_072/image_000000_ae8b0a562800646e62e84ce224f584d161862b2d4c472a15e78edcf80d97be89.png",
+  "documento": "FDS 72 - Sikafloor®-2430 CO Comp.B - SIKA.pdf",
+  "pagina": 5,
+  "ancho": 151,
+  "alto": 131,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 8 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_ae8b0a562800646e62e84ce224f584d161862b2d4c472a15e78edcf80d97be89.png",
+  "ruta_relativa": "../imagenes/FDS_072/image_000000_ae8b0a562800646e62e84ce224f584d161862b2d4c472a15e78edcf80d97be89.png",
+  "documento": "FDS 72 - Sikafloor®-2430 CO Comp.B - SIKA.pdf",
+  "pagina": 6,
+  "ancho": 151,
+  "alto": 131,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 8 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_481ec20adba02247621c5673f3fb4e7da2568f4f7cb67dbc7d625888e672bf3e.png",
+  "ruta_relativa": "../imagenes/FDS_072/image_000000_481ec20adba02247621c5673f3fb4e7da2568f4f7cb67dbc7d625888e672bf3e.png",
+  "documento": "FDS 72 - Sikafloor®-2430 CO Comp.B - SIKA.pdf",
+  "pagina": 7,
+  "ancho": 151,
+  "alto": 132,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 4 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_ae8b0a562800646e62e84ce224f584d161862b2d4c472a15e78edcf80d97be89.png",
+  "ruta_relativa": "../imagenes/FDS_072/image_000000_ae8b0a562800646e62e84ce224f584d161862b2d4c472a15e78edcf80d97be89.png",
+  "documento": "FDS 72 - Sikafloor®-2430 CO Comp.B - SIKA.pdf",
+  "pagina": 8,
+  "ancho": 151,
+  "alto": 131,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 8 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_ae8b0a562800646e62e84ce224f584d161862b2d4c472a15e78edcf80d97be89.png",
+  "ruta_relativa": "../imagenes/FDS_072/image_000000_ae8b0a562800646e62e84ce224f584d161862b2d4c472a15e78edcf80d97be89.png",
+  "documento": "FDS 72 - Sikafloor®-2430 CO Comp.B - SIKA.pdf",
+  "pagina": 9,
+  "ancho": 151,
+  "alto": 131,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 8 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_ae8b0a562800646e62e84ce224f584d161862b2d4c472a15e78edcf80d97be89.png",
+  "ruta_relativa": "../imagenes/FDS_072/image_000000_ae8b0a562800646e62e84ce224f584d161862b2d4c472a15e78edcf80d97be89.png",
+  "documento": "FDS 72 - Sikafloor®-2430 CO Comp.B - SIKA.pdf",
+  "pagina": 10,
+  "ancho": 151,
+  "alto": 131,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 8 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_481ec20adba02247621c5673f3fb4e7da2568f4f7cb67dbc7d625888e672bf3e.png",
+  "ruta_relativa": "../imagenes/FDS_072/image_000000_481ec20adba02247621c5673f3fb4e7da2568f4f7cb67dbc7d625888e672bf3e.png",
+  "documento": "FDS 72 - Sikafloor®-2430 CO Comp.B - SIKA.pdf",
+  "pagina": 11,
+  "ancho": 151,
+  "alto": 132,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 4 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_abed579aa17ef3ac6caa4fd448674724cfce9e2122b2e748f8782bf9f86c2fba.png",
+  "ruta_relativa": "../imagenes/FDS_072/image_000001_abed579aa17ef3ac6caa4fd448674724cfce9e2122b2e748f8782bf9f86c2fba.png",
+  "documento": "FDS 72 - Sikafloor®-2430 CO Comp.B - SIKA.pdf",
+  "pagina": 11,
+  "ancho": 382,
+  "alto": 376,
+  "texto_ocr": "Inflamabilidad Salud $, Inestabilidad Peligro especial",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000002_e4d54c9ae936583aa395fab0aaffa2ed29eaf521bed9478233424d49320dcea9.png",
+  "ruta_relativa": "../imagenes/FDS_072/image_000002_e4d54c9ae936583aa395fab0aaffa2ed29eaf521bed9478233424d49320dcea9.png",
+  "documento": "FDS 72 - Sikafloor®-2430 CO Comp.B - SIKA.pdf",
+  "pagina": 11,
+  "ancho": 372,
+  "alto": 203,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_ae8b0a562800646e62e84ce224f584d161862b2d4c472a15e78edcf80d97be89.png",
+  "ruta_relativa": "../imagenes/FDS_072/image_000000_ae8b0a562800646e62e84ce224f584d161862b2d4c472a15e78edcf80d97be89.png",
+  "documento": "FDS 72 - Sikafloor®-2430 CO Comp.B - SIKA.pdf",
+  "pagina": 12,
+  "ancho": 151,
+  "alto": 131,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 8 paginas (probable logotipo); OCR no incluido en el Markdown"
+ }
+]

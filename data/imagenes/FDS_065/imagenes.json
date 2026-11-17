@@ -1,0 +1,62 @@
+[
+ {
+  "archivo": "image_000000_39440a5d369e2e9d3f7d12979e2aa2c18c4ec8b440dc382e79b1bf7af400be59.png",
+  "ruta_relativa": "../imagenes/FDS_065/image_000000_39440a5d369e2e9d3f7d12979e2aa2c18c4ec8b440dc382e79b1bf7af400be59.png",
+  "documento": "FDS 65 - SIGMADUR ONE BUFF 3142 - PPG.pdf",
+  "pagina": 1,
+  "ancho": 135,
+  "alto": 105,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_4e29d184ee6f401e64e2e7f3d284cf4537b98e6b455a379b7f5d7ac233151e64.png",
+  "ruta_relativa": "../imagenes/FDS_065/image_000000_4e29d184ee6f401e64e2e7f3d284cf4537b98e6b455a379b7f5d7ac233151e64.png",
+  "documento": "FDS 65 - SIGMADUR ONE BUFF 3142 - PPG.pdf",
+  "pagina": 2,
+  "ancho": 100,
+  "alto": 103,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000001_6f26ba5443c4b304094ad0ca87bf24f23ef8d1afb3f6adabe6f4b52106e5b9bc.png",
+  "ruta_relativa": "../imagenes/FDS_065/image_000001_6f26ba5443c4b304094ad0ca87bf24f23ef8d1afb3f6adabe6f4b52106e5b9bc.png",
+  "documento": "FDS 65 - SIGMADUR ONE BUFF 3142 - PPG.pdf",
+  "pagina": 2,
+  "ancho": 99,
+  "alto": 97,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_c30d8d7f29a67475f2d9a04c284a6d6e58f6239c915dd17d90caa121780c9f5d.png",
+  "ruta_relativa": "../imagenes/FDS_065/image_000002_c30d8d7f29a67475f2d9a04c284a6d6e58f6239c915dd17d90caa121780c9f5d.png",
+  "documento": "FDS 65 - SIGMADUR ONE BUFF 3142 - PPG.pdf",
+  "pagina": 2,
+  "ancho": 98,
+  "alto": 97,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_a0ad0d33ab4afb7aaaeca850d96f126f700756fb37853d0154ed3f44d68cfc86.png",
+  "ruta_relativa": "../imagenes/FDS_065/image_000003_a0ad0d33ab4afb7aaaeca850d96f126f700756fb37853d0154ed3f44d68cfc86.png",
+  "documento": "FDS 65 - SIGMADUR ONE BUFF 3142 - PPG.pdf",
+  "pagina": 2,
+  "ancho": 25,
+  "alto": 22,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_b61de20fc6972060baa310a0050df32755b926cf77a441836169822d9a89790b.png",
+  "ruta_relativa": "../imagenes/FDS_065/image_000000_b61de20fc6972060baa310a0050df32755b926cf77a441836169822d9a89790b.png",
+  "documento": "FDS 65 - SIGMADUR ONE BUFF 3142 - PPG.pdf",
+  "pagina": 15,
+  "ancho": 21,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ }
+]

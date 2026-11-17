@@ -1,0 +1,5 @@
+Q01 k=3 faithfulness: 0.0 (582.6 s)
+Q01 k=3 context_precision: FALLO RuntimeError: Event loop is closed (0.2 s)
+Q01 k=3 context_recall: 1.0 (520.7 s)
+FIN_RAGAS
+PRUEBA_FIN

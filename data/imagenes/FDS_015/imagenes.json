@@ -1,0 +1,272 @@
+[
+ {
+  "archivo": "image_000000_8d4134855347eb5abddca845f4fec67d359164e380e22c30bed5fe2f714597c0.png",
+  "ruta_relativa": "../imagenes/FDS_015/image_000000_8d4134855347eb5abddca845f4fec67d359164e380e22c30bed5fe2f714597c0.png",
+  "documento": "FDS 15 - impra.pdf",
+  "pagina": 1,
+  "ancho": 197,
+  "alto": 98,
+  "texto_ocr": "TECNIS-DECOR",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000001_87394e069c2a2e707abe02eca62e095e709def2084ff3190b26ccbadb4fadc8f.png",
+  "ruta_relativa": "../imagenes/FDS_015/image_000001_87394e069c2a2e707abe02eca62e095e709def2084ff3190b26ccbadb4fadc8f.png",
+  "documento": "FDS 15 - impra.pdf",
+  "pagina": 1,
+  "ancho": 82,
+  "alto": 80,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_2cba163b4966f7178203cc9b836d261c64b4d9168622666caa93b7de4fc33af5.png",
+  "ruta_relativa": "../imagenes/FDS_015/image_000002_2cba163b4966f7178203cc9b836d261c64b4d9168622666caa93b7de4fc33af5.png",
+  "documento": "FDS 15 - impra.pdf",
+  "pagina": 1,
+  "ancho": 28,
+  "alto": 40,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_78219d0767d04ae15b3c647559a5fa8b95673e73977cf4676a6a3cfeb8a186a3.png",
+  "ruta_relativa": "../imagenes/FDS_015/image_000003_78219d0767d04ae15b3c647559a5fa8b95673e73977cf4676a6a3cfeb8a186a3.png",
+  "documento": "FDS 15 - impra.pdf",
+  "pagina": 1,
+  "ancho": 39,
+  "alto": 35,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000004_4616ff2d58dbdeb26f3bb9be286bec3992716fc416208e783002c4ed50ce5f60.png",
+  "ruta_relativa": "../imagenes/FDS_015/image_000004_4616ff2d58dbdeb26f3bb9be286bec3992716fc416208e783002c4ed50ce5f60.png",
+  "documento": "FDS 15 - impra.pdf",
+  "pagina": 1,
+  "ancho": 38,
+  "alto": 36,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000005_7a545b080d1c5953292b86b9175142a1c02df7f242e29b359a6a17a200cacf7d.png",
+  "ruta_relativa": "../imagenes/FDS_015/image_000005_7a545b080d1c5953292b86b9175142a1c02df7f242e29b359a6a17a200cacf7d.png",
+  "documento": "FDS 15 - impra.pdf",
+  "pagina": 1,
+  "ancho": 297,
+  "alto": 141,
+  "texto_ocr": "SALUD INFLAMABLE ¡EM PELIGRO FÍSICO. EM PROTECCIÓN PERSONAL",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000006_2fc063d735a8a8ec70863a84d61988b56f018109041cd6e741ef9b8b8cc0ae42.png",
+  "ruta_relativa": "../imagenes/FDS_015/image_000006_2fc063d735a8a8ec70863a84d61988b56f018109041cd6e741ef9b8b8cc0ae42.png",
+  "documento": "FDS 15 - impra.pdf",
+  "pagina": 1,
+  "ancho": 42,
+  "alto": 44,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000007_4d0a087930a704fcdf60aef8a7c887c99febaf8b8e8917e82dcd1bddfce70a00.png",
+  "ruta_relativa": "../imagenes/FDS_015/image_000007_4d0a087930a704fcdf60aef8a7c887c99febaf8b8e8917e82dcd1bddfce70a00.png",
+  "documento": "FDS 15 - impra.pdf",
+  "pagina": 1,
+  "ancho": 115,
+  "alto": 113,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000008_032feb23b343561bcbf8cfa7852cc5db19cca539bbf2ca5ffd81c45b212afba7.png",
+  "ruta_relativa": "../imagenes/FDS_015/image_000008_032feb23b343561bcbf8cfa7852cc5db19cca539bbf2ca5ffd81c45b212afba7.png",
+  "documento": "FDS 15 - impra.pdf",
+  "pagina": 1,
+  "ancho": 145,
+  "alto": 138,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_4292a38c703684318bf321455755b2425289ff7fdb81464739d99b6b93ef313f.png",
+  "ruta_relativa": "../imagenes/FDS_015/image_000000_4292a38c703684318bf321455755b2425289ff7fdb81464739d99b6b93ef313f.png",
+  "documento": "FDS 15 - impra.pdf",
+  "pagina": 2,
+  "ancho": 198,
+  "alto": 98,
+  "texto_ocr": "TECNIS-DECOR",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000001_21f3a8eefcd937ad5799e54806796d2a281755b4e5cd1226482dce9e2ab2a07a.png",
+  "ruta_relativa": "../imagenes/FDS_015/image_000001_21f3a8eefcd937ad5799e54806796d2a281755b4e5cd1226482dce9e2ab2a07a.png",
+  "documento": "FDS 15 - impra.pdf",
+  "pagina": 2,
+  "ancho": 81,
+  "alto": 80,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_dfb043470678d803ac85175cc8adefd00f852fcfb2e9fce3400d4d3f1ff24b6c.png",
+  "ruta_relativa": "../imagenes/FDS_015/image_000002_dfb043470678d803ac85175cc8adefd00f852fcfb2e9fce3400d4d3f1ff24b6c.png",
+  "documento": "FDS 15 - impra.pdf",
+  "pagina": 2,
+  "ancho": 36,
+  "alto": 33,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_ea33a39b0f83eac052ca22d9f3c91c9be05254a4d3a74d0240c470cd045427e8.png",
+  "ruta_relativa": "../imagenes/FDS_015/image_000003_ea33a39b0f83eac052ca22d9f3c91c9be05254a4d3a74d0240c470cd045427e8.png",
+  "documento": "FDS 15 - impra.pdf",
+  "pagina": 2,
+  "ancho": 46,
+  "alto": 40,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000004_1903d6839e417c601196ebf2f93d60ca9db6e6bf466f1ada1fca95637eeb0bc7.png",
+  "ruta_relativa": "../imagenes/FDS_015/image_000004_1903d6839e417c601196ebf2f93d60ca9db6e6bf466f1ada1fca95637eeb0bc7.png",
+  "documento": "FDS 15 - impra.pdf",
+  "pagina": 2,
+  "ancho": 49,
+  "alto": 38,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000005_3f47a94cea8f2ea00947c93613b24bf6e30202c8014a6b0189d91ee629e09f9f.png",
+  "ruta_relativa": "../imagenes/FDS_015/image_000005_3f47a94cea8f2ea00947c93613b24bf6e30202c8014a6b0189d91ee629e09f9f.png",
+  "documento": "FDS 15 - impra.pdf",
+  "pagina": 2,
+  "ancho": 36,
+  "alto": 35,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_0fa758099d4464a75d17d731b2ce16530cd731ffd47b4d7889cfa9ac93799579.png",
+  "ruta_relativa": "../imagenes/FDS_015/image_000000_0fa758099d4464a75d17d731b2ce16530cd731ffd47b4d7889cfa9ac93799579.png",
+  "documento": "FDS 15 - impra.pdf",
+  "pagina": 3,
+  "ancho": 198,
+  "alto": 98,
+  "texto_ocr": "TECNIS-DECOR *",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000001_87394e069c2a2e707abe02eca62e095e709def2084ff3190b26ccbadb4fadc8f.png",
+  "ruta_relativa": "../imagenes/FDS_015/image_000001_87394e069c2a2e707abe02eca62e095e709def2084ff3190b26ccbadb4fadc8f.png",
+  "documento": "FDS 15 - impra.pdf",
+  "pagina": 3,
+  "ancho": 82,
+  "alto": 80,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_cfecf99ff3df987f0d825032ff4fa5acccf9894f61612caa17f9892b4d3c3bb1.png",
+  "ruta_relativa": "../imagenes/FDS_015/image_000002_cfecf99ff3df987f0d825032ff4fa5acccf9894f61612caa17f9892b4d3c3bb1.png",
+  "documento": "FDS 15 - impra.pdf",
+  "pagina": 3,
+  "ancho": 53,
+  "alto": 34,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_883490e0f4179214fb3ee6ceaf0db41cf79b8491e61c0b27adb6b350c82cb89f.png",
+  "ruta_relativa": "../imagenes/FDS_015/image_000003_883490e0f4179214fb3ee6ceaf0db41cf79b8491e61c0b27adb6b350c82cb89f.png",
+  "documento": "FDS 15 - impra.pdf",
+  "pagina": 3,
+  "ancho": 39,
+  "alto": 40,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000004_a76ae961b145793b048f15017f5366ad3dc521deb794478874f76b171a1a00ea.png",
+  "ruta_relativa": "../imagenes/FDS_015/image_000004_a76ae961b145793b048f15017f5366ad3dc521deb794478874f76b171a1a00ea.png",
+  "documento": "FDS 15 - impra.pdf",
+  "pagina": 3,
+  "ancho": 46,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000005_8199f20dec0280485dc4a9bfcad935439d1e6757453e62d027e11ad2fa12889c.png",
+  "ruta_relativa": "../imagenes/FDS_015/image_000005_8199f20dec0280485dc4a9bfcad935439d1e6757453e62d027e11ad2fa12889c.png",
+  "documento": "FDS 15 - impra.pdf",
+  "pagina": 3,
+  "ancho": 47,
+  "alto": 44,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000006_1521132e478edca5a042bc029f0dfc33c78316a575d5ec3ba4673665adb5bd29.png",
+  "ruta_relativa": "../imagenes/FDS_015/image_000006_1521132e478edca5a042bc029f0dfc33c78316a575d5ec3ba4673665adb5bd29.png",
+  "documento": "FDS 15 - impra.pdf",
+  "pagina": 3,
+  "ancho": 44,
+  "alto": 41,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000007_e9215a8a9baa6497f754926f4e10cb55dc2f363e19f196c3770e71a744e95ba5.png",
+  "ruta_relativa": "../imagenes/FDS_015/image_000007_e9215a8a9baa6497f754926f4e10cb55dc2f363e19f196c3770e71a744e95ba5.png",
+  "documento": "FDS 15 - impra.pdf",
+  "pagina": 3,
+  "ancho": 41,
+  "alto": 43,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_8d4134855347eb5abddca845f4fec67d359164e380e22c30bed5fe2f714597c0.png",
+  "ruta_relativa": "../imagenes/FDS_015/image_000000_8d4134855347eb5abddca845f4fec67d359164e380e22c30bed5fe2f714597c0.png",
+  "documento": "FDS 15 - impra.pdf",
+  "pagina": 4,
+  "ancho": 197,
+  "alto": 98,
+  "texto_ocr": "TECNIS-DECOR",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000001_21f3a8eefcd937ad5799e54806796d2a281755b4e5cd1226482dce9e2ab2a07a.png",
+  "ruta_relativa": "../imagenes/FDS_015/image_000001_21f3a8eefcd937ad5799e54806796d2a281755b4e5cd1226482dce9e2ab2a07a.png",
+  "documento": "FDS 15 - impra.pdf",
+  "pagina": 4,
+  "ancho": 81,
+  "alto": 80,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_7ee83b2aa31a9dfbed068bbf709161d81e8400054bcd6e4a263a530d06976294.png",
+  "ruta_relativa": "../imagenes/FDS_015/image_000002_7ee83b2aa31a9dfbed068bbf709161d81e8400054bcd6e4a263a530d06976294.png",
+  "documento": "FDS 15 - impra.pdf",
+  "pagina": 4,
+  "ancho": 35,
+  "alto": 38,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_f89d614f046c5546a509e0b3aea83170f7b33ec84da8c9eaea216c2047796d61.png",
+  "ruta_relativa": "../imagenes/FDS_015/image_000003_f89d614f046c5546a509e0b3aea83170f7b33ec84da8c9eaea216c2047796d61.png",
+  "documento": "FDS 15 - impra.pdf",
+  "pagina": 4,
+  "ancho": 43,
+  "alto": 38,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ }
+]

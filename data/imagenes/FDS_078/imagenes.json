@@ -1,0 +1,532 @@
+[
+ {
+  "archivo": "image_000000_66d6755498af6e839bc85384cbb810da69d8b671fdd6c6c458012e36d65c1942.png",
+  "ruta_relativa": "../imagenes/FDS_078/image_000000_66d6755498af6e839bc85384cbb810da69d8b671fdd6c6c458012e36d65c1942.png",
+  "documento": "FDS 78 -  ESMALTE PROTEKLAND BLANCO, 2 en 1 - PINTULAND.pdf",
+  "pagina": 1,
+  "ancho": 184,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 10 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_82a77d168d69be55c5d9bf236b5a050416b3711d0ee043257dbd19c020893477.png",
+  "ruta_relativa": "../imagenes/FDS_078/image_000001_82a77d168d69be55c5d9bf236b5a050416b3711d0ee043257dbd19c020893477.png",
+  "documento": "FDS 78 -  ESMALTE PROTEKLAND BLANCO, 2 en 1 - PINTULAND.pdf",
+  "pagina": 1,
+  "ancho": 54,
+  "alto": 60,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_e0b4288b317369eb375bc765d2fabd56fa76c2413f1989551889dc7321706c5d.png",
+  "ruta_relativa": "../imagenes/FDS_078/image_000002_e0b4288b317369eb375bc765d2fabd56fa76c2413f1989551889dc7321706c5d.png",
+  "documento": "FDS 78 -  ESMALTE PROTEKLAND BLANCO, 2 en 1 - PINTULAND.pdf",
+  "pagina": 1,
+  "ancho": 57,
+  "alto": 60,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_243f0032c8cf4c01c5993ce3b7353499904d13875c152f93c182d89a28f460c3.png",
+  "ruta_relativa": "../imagenes/FDS_078/image_000003_243f0032c8cf4c01c5993ce3b7353499904d13875c152f93c182d89a28f460c3.png",
+  "documento": "FDS 78 -  ESMALTE PROTEKLAND BLANCO, 2 en 1 - PINTULAND.pdf",
+  "pagina": 1,
+  "ancho": 58,
+  "alto": 61,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000004_59ee87ff36708d20010b94abf354efe15177bd32a508db9ff37ec3530acc0d5c.png",
+  "ruta_relativa": "../imagenes/FDS_078/image_000004_59ee87ff36708d20010b94abf354efe15177bd32a508db9ff37ec3530acc0d5c.png",
+  "documento": "FDS 78 -  ESMALTE PROTEKLAND BLANCO, 2 en 1 - PINTULAND.pdf",
+  "pagina": 1,
+  "ancho": 83,
+  "alto": 85,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000005_491ec30835865ac69d2d6bc37641dea637472b82ee27c8abb72558a6459d642f.png",
+  "ruta_relativa": "../imagenes/FDS_078/image_000005_491ec30835865ac69d2d6bc37641dea637472b82ee27c8abb72558a6459d642f.png",
+  "documento": "FDS 78 -  ESMALTE PROTEKLAND BLANCO, 2 en 1 - PINTULAND.pdf",
+  "pagina": 1,
+  "ancho": 87,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000006_dac7b125ae5fe299f6a19df6b1e573dea83058714e0c76aed0bff9f90b175aab.png",
+  "ruta_relativa": "../imagenes/FDS_078/image_000006_dac7b125ae5fe299f6a19df6b1e573dea83058714e0c76aed0bff9f90b175aab.png",
+  "documento": "FDS 78 -  ESMALTE PROTEKLAND BLANCO, 2 en 1 - PINTULAND.pdf",
+  "pagina": 1,
+  "ancho": 84,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_66d6755498af6e839bc85384cbb810da69d8b671fdd6c6c458012e36d65c1942.png",
+  "ruta_relativa": "../imagenes/FDS_078/image_000000_66d6755498af6e839bc85384cbb810da69d8b671fdd6c6c458012e36d65c1942.png",
+  "documento": "FDS 78 -  ESMALTE PROTEKLAND BLANCO, 2 en 1 - PINTULAND.pdf",
+  "pagina": 2,
+  "ancho": 184,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 10 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_238665c2a0a2f5c4ca2c56f24501ac321b9537a3234ef78c31f7efa605ec8285.png",
+  "ruta_relativa": "../imagenes/FDS_078/image_000001_238665c2a0a2f5c4ca2c56f24501ac321b9537a3234ef78c31f7efa605ec8285.png",
+  "documento": "FDS 78 -  ESMALTE PROTEKLAND BLANCO, 2 en 1 - PINTULAND.pdf",
+  "pagina": 2,
+  "ancho": 267,
+  "alto": 88,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 5 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000002_da56c6c3c1c891270f3252ec46b6d3a7031a4c1e2ccdd92ecdbc6f37cbf220d5.png",
+  "ruta_relativa": "../imagenes/FDS_078/image_000002_da56c6c3c1c891270f3252ec46b6d3a7031a4c1e2ccdd92ecdbc6f37cbf220d5.png",
+  "documento": "FDS 78 -  ESMALTE PROTEKLAND BLANCO, 2 en 1 - PINTULAND.pdf",
+  "pagina": 2,
+  "ancho": 70,
+  "alto": 24,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_8fba4e50a2f7d8cbad90fba44713ba44d2a2f3f6852b4a2b48a1749aece0c219.png",
+  "ruta_relativa": "../imagenes/FDS_078/image_000003_8fba4e50a2f7d8cbad90fba44713ba44d2a2f3f6852b4a2b48a1749aece0c219.png",
+  "documento": "FDS 78 -  ESMALTE PROTEKLAND BLANCO, 2 en 1 - PINTULAND.pdf",
+  "pagina": 2,
+  "ancho": 71,
+  "alto": 29,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_66d6755498af6e839bc85384cbb810da69d8b671fdd6c6c458012e36d65c1942.png",
+  "ruta_relativa": "../imagenes/FDS_078/image_000000_66d6755498af6e839bc85384cbb810da69d8b671fdd6c6c458012e36d65c1942.png",
+  "documento": "FDS 78 -  ESMALTE PROTEKLAND BLANCO, 2 en 1 - PINTULAND.pdf",
+  "pagina": 3,
+  "ancho": 184,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 10 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_238665c2a0a2f5c4ca2c56f24501ac321b9537a3234ef78c31f7efa605ec8285.png",
+  "ruta_relativa": "../imagenes/FDS_078/image_000001_238665c2a0a2f5c4ca2c56f24501ac321b9537a3234ef78c31f7efa605ec8285.png",
+  "documento": "FDS 78 -  ESMALTE PROTEKLAND BLANCO, 2 en 1 - PINTULAND.pdf",
+  "pagina": 3,
+  "ancho": 267,
+  "alto": 88,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 5 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_f879eb3c96910e5590c9b671031ad0daea50fdb39303ccfabeaf94ee90a3434e.png",
+  "ruta_relativa": "../imagenes/FDS_078/image_000000_f879eb3c96910e5590c9b671031ad0daea50fdb39303ccfabeaf94ee90a3434e.png",
+  "documento": "FDS 78 -  ESMALTE PROTEKLAND BLANCO, 2 en 1 - PINTULAND.pdf",
+  "pagina": 4,
+  "ancho": 183,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 4 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_b4a6352276bd447fa74567283bea6e78c3a1ead2b4dfa67f189edba886a4c8a9.png",
+  "ruta_relativa": "../imagenes/FDS_078/image_000001_b4a6352276bd447fa74567283bea6e78c3a1ead2b4dfa67f189edba886a4c8a9.png",
+  "documento": "FDS 78 -  ESMALTE PROTEKLAND BLANCO, 2 en 1 - PINTULAND.pdf",
+  "pagina": 4,
+  "ancho": 267,
+  "alto": 87,
+  "texto_ocr": "DOOD",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000000_66d6755498af6e839bc85384cbb810da69d8b671fdd6c6c458012e36d65c1942.png",
+  "ruta_relativa": "../imagenes/FDS_078/image_000000_66d6755498af6e839bc85384cbb810da69d8b671fdd6c6c458012e36d65c1942.png",
+  "documento": "FDS 78 -  ESMALTE PROTEKLAND BLANCO, 2 en 1 - PINTULAND.pdf",
+  "pagina": 5,
+  "ancho": 184,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 10 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_6219a1184c809cd7c27861c8e9a4f79bfb9388d40e47ee6319d1377f10c3676d.png",
+  "ruta_relativa": "../imagenes/FDS_078/image_000001_6219a1184c809cd7c27861c8e9a4f79bfb9388d40e47ee6319d1377f10c3676d.png",
+  "documento": "FDS 78 -  ESMALTE PROTEKLAND BLANCO, 2 en 1 - PINTULAND.pdf",
+  "pagina": 5,
+  "ancho": 71,
+  "alto": 72,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_0a393444562bc56e83c79ee3c0aef694021bc4ba893c988463691a4d810170de.png",
+  "ruta_relativa": "../imagenes/FDS_078/image_000002_0a393444562bc56e83c79ee3c0aef694021bc4ba893c988463691a4d810170de.png",
+  "documento": "FDS 78 -  ESMALTE PROTEKLAND BLANCO, 2 en 1 - PINTULAND.pdf",
+  "pagina": 5,
+  "ancho": 76,
+  "alto": 70,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_3a5b8ff76cb8234d8706ff5debf01e79fedcc71ca4557b07c82ce5fd5210f087.png",
+  "ruta_relativa": "../imagenes/FDS_078/image_000003_3a5b8ff76cb8234d8706ff5debf01e79fedcc71ca4557b07c82ce5fd5210f087.png",
+  "documento": "FDS 78 -  ESMALTE PROTEKLAND BLANCO, 2 en 1 - PINTULAND.pdf",
+  "pagina": 5,
+  "ancho": 74,
+  "alto": 70,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000004_7df4bb67fe8dfffb329a5ad167bc1614813e251e9b15a543174c07379b06cbfb.png",
+  "ruta_relativa": "../imagenes/FDS_078/image_000004_7df4bb67fe8dfffb329a5ad167bc1614813e251e9b15a543174c07379b06cbfb.png",
+  "documento": "FDS 78 -  ESMALTE PROTEKLAND BLANCO, 2 en 1 - PINTULAND.pdf",
+  "pagina": 5,
+  "ancho": 73,
+  "alto": 70,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000005_238665c2a0a2f5c4ca2c56f24501ac321b9537a3234ef78c31f7efa605ec8285.png",
+  "ruta_relativa": "../imagenes/FDS_078/image_000005_238665c2a0a2f5c4ca2c56f24501ac321b9537a3234ef78c31f7efa605ec8285.png",
+  "documento": "FDS 78 -  ESMALTE PROTEKLAND BLANCO, 2 en 1 - PINTULAND.pdf",
+  "pagina": 5,
+  "ancho": 267,
+  "alto": 88,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_66d6755498af6e839bc85384cbb810da69d8b671fdd6c6c458012e36d65c1942.png",
+  "ruta_relativa": "../imagenes/FDS_078/image_000000_66d6755498af6e839bc85384cbb810da69d8b671fdd6c6c458012e36d65c1942.png",
+  "documento": "FDS 78 -  ESMALTE PROTEKLAND BLANCO, 2 en 1 - PINTULAND.pdf",
+  "pagina": 6,
+  "ancho": 184,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 10 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_b9aa2203c8caad63ab1cf1f09a327ea4dd970ea859b6d4b778c0e613d4023d1c.png",
+  "ruta_relativa": "../imagenes/FDS_078/image_000001_b9aa2203c8caad63ab1cf1f09a327ea4dd970ea859b6d4b778c0e613d4023d1c.png",
+  "documento": "FDS 78 -  ESMALTE PROTEKLAND BLANCO, 2 en 1 - PINTULAND.pdf",
+  "pagina": 6,
+  "ancho": 25,
+  "alto": 27,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_889b54761870ed3848c8db86e539b9537c283dacc9f13aefbedaf5310589b046.png",
+  "ruta_relativa": "../imagenes/FDS_078/image_000002_889b54761870ed3848c8db86e539b9537c283dacc9f13aefbedaf5310589b046.png",
+  "documento": "FDS 78 -  ESMALTE PROTEKLAND BLANCO, 2 en 1 - PINTULAND.pdf",
+  "pagina": 6,
+  "ancho": 83,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_491ec30835865ac69d2d6bc37641dea637472b82ee27c8abb72558a6459d642f.png",
+  "ruta_relativa": "../imagenes/FDS_078/image_000003_491ec30835865ac69d2d6bc37641dea637472b82ee27c8abb72558a6459d642f.png",
+  "documento": "FDS 78 -  ESMALTE PROTEKLAND BLANCO, 2 en 1 - PINTULAND.pdf",
+  "pagina": 6,
+  "ancho": 87,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000004_dac7b125ae5fe299f6a19df6b1e573dea83058714e0c76aed0bff9f90b175aab.png",
+  "ruta_relativa": "../imagenes/FDS_078/image_000004_dac7b125ae5fe299f6a19df6b1e573dea83058714e0c76aed0bff9f90b175aab.png",
+  "documento": "FDS 78 -  ESMALTE PROTEKLAND BLANCO, 2 en 1 - PINTULAND.pdf",
+  "pagina": 6,
+  "ancho": 84,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_f879eb3c96910e5590c9b671031ad0daea50fdb39303ccfabeaf94ee90a3434e.png",
+  "ruta_relativa": "../imagenes/FDS_078/image_000000_f879eb3c96910e5590c9b671031ad0daea50fdb39303ccfabeaf94ee90a3434e.png",
+  "documento": "FDS 78 -  ESMALTE PROTEKLAND BLANCO, 2 en 1 - PINTULAND.pdf",
+  "pagina": 7,
+  "ancho": 183,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 4 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_59ee87ff36708d20010b94abf354efe15177bd32a508db9ff37ec3530acc0d5c.png",
+  "ruta_relativa": "../imagenes/FDS_078/image_000001_59ee87ff36708d20010b94abf354efe15177bd32a508db9ff37ec3530acc0d5c.png",
+  "documento": "FDS 78 -  ESMALTE PROTEKLAND BLANCO, 2 en 1 - PINTULAND.pdf",
+  "pagina": 7,
+  "ancho": 83,
+  "alto": 85,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_491ec30835865ac69d2d6bc37641dea637472b82ee27c8abb72558a6459d642f.png",
+  "ruta_relativa": "../imagenes/FDS_078/image_000002_491ec30835865ac69d2d6bc37641dea637472b82ee27c8abb72558a6459d642f.png",
+  "documento": "FDS 78 -  ESMALTE PROTEKLAND BLANCO, 2 en 1 - PINTULAND.pdf",
+  "pagina": 7,
+  "ancho": 87,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_dac7b125ae5fe299f6a19df6b1e573dea83058714e0c76aed0bff9f90b175aab.png",
+  "ruta_relativa": "../imagenes/FDS_078/image_000003_dac7b125ae5fe299f6a19df6b1e573dea83058714e0c76aed0bff9f90b175aab.png",
+  "documento": "FDS 78 -  ESMALTE PROTEKLAND BLANCO, 2 en 1 - PINTULAND.pdf",
+  "pagina": 7,
+  "ancho": 84,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_f879eb3c96910e5590c9b671031ad0daea50fdb39303ccfabeaf94ee90a3434e.png",
+  "ruta_relativa": "../imagenes/FDS_078/image_000000_f879eb3c96910e5590c9b671031ad0daea50fdb39303ccfabeaf94ee90a3434e.png",
+  "documento": "FDS 78 -  ESMALTE PROTEKLAND BLANCO, 2 en 1 - PINTULAND.pdf",
+  "pagina": 8,
+  "ancho": 183,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 4 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_238665c2a0a2f5c4ca2c56f24501ac321b9537a3234ef78c31f7efa605ec8285.png",
+  "ruta_relativa": "../imagenes/FDS_078/image_000001_238665c2a0a2f5c4ca2c56f24501ac321b9537a3234ef78c31f7efa605ec8285.png",
+  "documento": "FDS 78 -  ESMALTE PROTEKLAND BLANCO, 2 en 1 - PINTULAND.pdf",
+  "pagina": 8,
+  "ancho": 267,
+  "alto": 88,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 5 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_f879eb3c96910e5590c9b671031ad0daea50fdb39303ccfabeaf94ee90a3434e.png",
+  "ruta_relativa": "../imagenes/FDS_078/image_000000_f879eb3c96910e5590c9b671031ad0daea50fdb39303ccfabeaf94ee90a3434e.png",
+  "documento": "FDS 78 -  ESMALTE PROTEKLAND BLANCO, 2 en 1 - PINTULAND.pdf",
+  "pagina": 9,
+  "ancho": 183,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 4 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_238665c2a0a2f5c4ca2c56f24501ac321b9537a3234ef78c31f7efa605ec8285.png",
+  "ruta_relativa": "../imagenes/FDS_078/image_000001_238665c2a0a2f5c4ca2c56f24501ac321b9537a3234ef78c31f7efa605ec8285.png",
+  "documento": "FDS 78 -  ESMALTE PROTEKLAND BLANCO, 2 en 1 - PINTULAND.pdf",
+  "pagina": 9,
+  "ancho": 267,
+  "alto": 88,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 5 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_66d6755498af6e839bc85384cbb810da69d8b671fdd6c6c458012e36d65c1942.png",
+  "ruta_relativa": "../imagenes/FDS_078/image_000000_66d6755498af6e839bc85384cbb810da69d8b671fdd6c6c458012e36d65c1942.png",
+  "documento": "FDS 78 -  ESMALTE PROTEKLAND BLANCO, 2 en 1 - PINTULAND.pdf",
+  "pagina": 10,
+  "ancho": 184,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 10 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_238665c2a0a2f5c4ca2c56f24501ac321b9537a3234ef78c31f7efa605ec8285.png",
+  "ruta_relativa": "../imagenes/FDS_078/image_000001_238665c2a0a2f5c4ca2c56f24501ac321b9537a3234ef78c31f7efa605ec8285.png",
+  "documento": "FDS 78 -  ESMALTE PROTEKLAND BLANCO, 2 en 1 - PINTULAND.pdf",
+  "pagina": 10,
+  "ancho": 267,
+  "alto": 88,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 5 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_66d6755498af6e839bc85384cbb810da69d8b671fdd6c6c458012e36d65c1942.png",
+  "ruta_relativa": "../imagenes/FDS_078/image_000000_66d6755498af6e839bc85384cbb810da69d8b671fdd6c6c458012e36d65c1942.png",
+  "documento": "FDS 78 -  ESMALTE PROTEKLAND BLANCO, 2 en 1 - PINTULAND.pdf",
+  "pagina": 11,
+  "ancho": 184,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 10 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_a547637e6715436773207c2770acf748fff69a9525cc21e2f6dd2c9eb224ae43.png",
+  "ruta_relativa": "../imagenes/FDS_078/image_000001_a547637e6715436773207c2770acf748fff69a9525cc21e2f6dd2c9eb224ae43.png",
+  "documento": "FDS 78 -  ESMALTE PROTEKLAND BLANCO, 2 en 1 - PINTULAND.pdf",
+  "pagina": 11,
+  "ancho": 121,
+  "alto": 122,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_98569848855aa5585b10659a1739a86e827d302554aa7a6fc71c25ca77acefd7.png",
+  "ruta_relativa": "../imagenes/FDS_078/image_000002_98569848855aa5585b10659a1739a86e827d302554aa7a6fc71c25ca77acefd7.png",
+  "documento": "FDS 78 -  ESMALTE PROTEKLAND BLANCO, 2 en 1 - PINTULAND.pdf",
+  "pagina": 11,
+  "ancho": 122,
+  "alto": 120,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_25bcd5fcaa92b1487d11befe1734b8d327665cf0a83b4a3d03c85c2b3047f081.png",
+  "ruta_relativa": "../imagenes/FDS_078/image_000003_25bcd5fcaa92b1487d11befe1734b8d327665cf0a83b4a3d03c85c2b3047f081.png",
+  "documento": "FDS 78 -  ESMALTE PROTEKLAND BLANCO, 2 en 1 - PINTULAND.pdf",
+  "pagina": 11,
+  "ancho": 244,
+  "alto": 216,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000004_51e49ef846ece85360994921fbcf38b467a1f78ad03090012b6eda66b58458a6.png",
+  "ruta_relativa": "../imagenes/FDS_078/image_000004_51e49ef846ece85360994921fbcf38b467a1f78ad03090012b6eda66b58458a6.png",
+  "documento": "FDS 78 -  ESMALTE PROTEKLAND BLANCO, 2 en 1 - PINTULAND.pdf",
+  "pagina": 11,
+  "ancho": 268,
+  "alto": 88,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_66d6755498af6e839bc85384cbb810da69d8b671fdd6c6c458012e36d65c1942.png",
+  "ruta_relativa": "../imagenes/FDS_078/image_000000_66d6755498af6e839bc85384cbb810da69d8b671fdd6c6c458012e36d65c1942.png",
+  "documento": "FDS 78 -  ESMALTE PROTEKLAND BLANCO, 2 en 1 - PINTULAND.pdf",
+  "pagina": 12,
+  "ancho": 184,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 10 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_e6ccceb5ae3e4e1ef8f976d48b59dd854ea83ee661ea6816dfb237ec367d6f24.png",
+  "ruta_relativa": "../imagenes/FDS_078/image_000001_e6ccceb5ae3e4e1ef8f976d48b59dd854ea83ee661ea6816dfb237ec367d6f24.png",
+  "documento": "FDS 78 -  ESMALTE PROTEKLAND BLANCO, 2 en 1 - PINTULAND.pdf",
+  "pagina": 12,
+  "ancho": 121,
+  "alto": 121,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_59ee87ff36708d20010b94abf354efe15177bd32a508db9ff37ec3530acc0d5c.png",
+  "ruta_relativa": "../imagenes/FDS_078/image_000002_59ee87ff36708d20010b94abf354efe15177bd32a508db9ff37ec3530acc0d5c.png",
+  "documento": "FDS 78 -  ESMALTE PROTEKLAND BLANCO, 2 en 1 - PINTULAND.pdf",
+  "pagina": 12,
+  "ancho": 83,
+  "alto": 85,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_491ec30835865ac69d2d6bc37641dea637472b82ee27c8abb72558a6459d642f.png",
+  "ruta_relativa": "../imagenes/FDS_078/image_000003_491ec30835865ac69d2d6bc37641dea637472b82ee27c8abb72558a6459d642f.png",
+  "documento": "FDS 78 -  ESMALTE PROTEKLAND BLANCO, 2 en 1 - PINTULAND.pdf",
+  "pagina": 12,
+  "ancho": 87,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000004_dac7b125ae5fe299f6a19df6b1e573dea83058714e0c76aed0bff9f90b175aab.png",
+  "ruta_relativa": "../imagenes/FDS_078/image_000004_dac7b125ae5fe299f6a19df6b1e573dea83058714e0c76aed0bff9f90b175aab.png",
+  "documento": "FDS 78 -  ESMALTE PROTEKLAND BLANCO, 2 en 1 - PINTULAND.pdf",
+  "pagina": 12,
+  "ancho": 84,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_66d6755498af6e839bc85384cbb810da69d8b671fdd6c6c458012e36d65c1942.png",
+  "ruta_relativa": "../imagenes/FDS_078/image_000000_66d6755498af6e839bc85384cbb810da69d8b671fdd6c6c458012e36d65c1942.png",
+  "documento": "FDS 78 -  ESMALTE PROTEKLAND BLANCO, 2 en 1 - PINTULAND.pdf",
+  "pagina": 13,
+  "ancho": 184,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 10 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_da5c3afdddffaed4ad89b88a40130029bcb5ca79c61d3499a81a18d6bfa21cfd.png",
+  "ruta_relativa": "../imagenes/FDS_078/image_000001_da5c3afdddffaed4ad89b88a40130029bcb5ca79c61d3499a81a18d6bfa21cfd.png",
+  "documento": "FDS 78 -  ESMALTE PROTEKLAND BLANCO, 2 en 1 - PINTULAND.pdf",
+  "pagina": 13,
+  "ancho": 84,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_491ec30835865ac69d2d6bc37641dea637472b82ee27c8abb72558a6459d642f.png",
+  "ruta_relativa": "../imagenes/FDS_078/image_000002_491ec30835865ac69d2d6bc37641dea637472b82ee27c8abb72558a6459d642f.png",
+  "documento": "FDS 78 -  ESMALTE PROTEKLAND BLANCO, 2 en 1 - PINTULAND.pdf",
+  "pagina": 13,
+  "ancho": 87,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_dac7b125ae5fe299f6a19df6b1e573dea83058714e0c76aed0bff9f90b175aab.png",
+  "ruta_relativa": "../imagenes/FDS_078/image_000003_dac7b125ae5fe299f6a19df6b1e573dea83058714e0c76aed0bff9f90b175aab.png",
+  "documento": "FDS 78 -  ESMALTE PROTEKLAND BLANCO, 2 en 1 - PINTULAND.pdf",
+  "pagina": 13,
+  "ancho": 84,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_66d6755498af6e839bc85384cbb810da69d8b671fdd6c6c458012e36d65c1942.png",
+  "ruta_relativa": "../imagenes/FDS_078/image_000000_66d6755498af6e839bc85384cbb810da69d8b671fdd6c6c458012e36d65c1942.png",
+  "documento": "FDS 78 -  ESMALTE PROTEKLAND BLANCO, 2 en 1 - PINTULAND.pdf",
+  "pagina": 14,
+  "ancho": 184,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 10 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_a3399046ee88a151984574308942fee27d85c6cda54300c3fa19dbffcf5f4e25.png",
+  "ruta_relativa": "../imagenes/FDS_078/image_000001_a3399046ee88a151984574308942fee27d85c6cda54300c3fa19dbffcf5f4e25.png",
+  "documento": "FDS 78 -  ESMALTE PROTEKLAND BLANCO, 2 en 1 - PINTULAND.pdf",
+  "pagina": 14,
+  "ancho": 1066,
+  "alto": 219,
+  "texto_ocr": "Pintuland",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000002_51e49ef846ece85360994921fbcf38b467a1f78ad03090012b6eda66b58458a6.png",
+  "ruta_relativa": "../imagenes/FDS_078/image_000002_51e49ef846ece85360994921fbcf38b467a1f78ad03090012b6eda66b58458a6.png",
+  "documento": "FDS 78 -  ESMALTE PROTEKLAND BLANCO, 2 en 1 - PINTULAND.pdf",
+  "pagina": 14,
+  "ancho": 268,
+  "alto": 88,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ }
+]

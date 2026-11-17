@@ -1,0 +1,192 @@
+[
+ {
+  "archivo": "image_000000_458beb4e79abd697eb014fae6a0ab6fd035500e32003753a158d3f5bad21c885.png",
+  "ruta_relativa": "../imagenes/FDS_041/image_000000_458beb4e79abd697eb014fae6a0ab6fd035500e32003753a158d3f5bad21c885.png",
+  "documento": "FDS 41 - PINTURA ACRILICA CONSTRUCCION ALTA ASEPSIA BLANCO 27580 - PINTUCO .pdf",
+  "pagina": 1,
+  "ancho": 143,
+  "alto": 100,
+  "texto_ocr": "e LC $ El Color t awit",
+  "nota": "imagen repetida en 6 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_7a54e3a43fd3c98515957b2ff7f23c2b16d5ba00445bfa882601a3a97e080fcf.png",
+  "ruta_relativa": "../imagenes/FDS_041/image_000000_7a54e3a43fd3c98515957b2ff7f23c2b16d5ba00445bfa882601a3a97e080fcf.png",
+  "documento": "FDS 41 - PINTURA ACRILICA CONSTRUCCION ALTA ASEPSIA BLANCO 27580 - PINTUCO .pdf",
+  "pagina": 2,
+  "ancho": 143,
+  "alto": 99,
+  "texto_ocr": "Pint SS rat",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000001_335e05b7c2318bbef876087f67343e1a852cab77123902696377c4c75579b9bc.png",
+  "ruta_relativa": "../imagenes/FDS_041/image_000001_335e05b7c2318bbef876087f67343e1a852cab77123902696377c4c75579b9bc.png",
+  "documento": "FDS 41 - PINTURA ACRILICA CONSTRUCCION ALTA ASEPSIA BLANCO 27580 - PINTUCO .pdf",
+  "pagina": 2,
+  "ancho": 31,
+  "alto": 33,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_458beb4e79abd697eb014fae6a0ab6fd035500e32003753a158d3f5bad21c885.png",
+  "ruta_relativa": "../imagenes/FDS_041/image_000000_458beb4e79abd697eb014fae6a0ab6fd035500e32003753a158d3f5bad21c885.png",
+  "documento": "FDS 41 - PINTURA ACRILICA CONSTRUCCION ALTA ASEPSIA BLANCO 27580 - PINTUCO .pdf",
+  "pagina": 3,
+  "ancho": 143,
+  "alto": 100,
+  "texto_ocr": "e LC $ El Color t awit",
+  "nota": "imagen repetida en 6 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_8bbdd2b7faa4529be5e3e5a5be71ccba9bab7c77985e4b3a08b323389bd063ba.png",
+  "ruta_relativa": "../imagenes/FDS_041/image_000001_8bbdd2b7faa4529be5e3e5a5be71ccba9bab7c77985e4b3a08b323389bd063ba.png",
+  "documento": "FDS 41 - PINTURA ACRILICA CONSTRUCCION ALTA ASEPSIA BLANCO 27580 - PINTUCO .pdf",
+  "pagina": 3,
+  "ancho": 109,
+  "alto": 140,
+  "texto_ocr": "Pictograma © Protección obligatoria de las vías respiratorias",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000002_99ca42c3968464989d85112a09a5c626147fc9604cd17983992e6ad78c41371e.png",
+  "ruta_relativa": "../imagenes/FDS_041/image_000002_99ca42c3968464989d85112a09a5c626147fc9604cd17983992e6ad78c41371e.png",
+  "documento": "FDS 41 - PINTURA ACRILICA CONSTRUCCION ALTA ASEPSIA BLANCO 27580 - PINTUCO .pdf",
+  "pagina": 3,
+  "ancho": 97,
+  "alto": 135,
+  "texto_ocr": "Pictograma Protección obligatoria de las manos.",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000000_458beb4e79abd697eb014fae6a0ab6fd035500e32003753a158d3f5bad21c885.png",
+  "ruta_relativa": "../imagenes/FDS_041/image_000000_458beb4e79abd697eb014fae6a0ab6fd035500e32003753a158d3f5bad21c885.png",
+  "documento": "FDS 41 - PINTURA ACRILICA CONSTRUCCION ALTA ASEPSIA BLANCO 27580 - PINTUCO .pdf",
+  "pagina": 4,
+  "ancho": 143,
+  "alto": 100,
+  "texto_ocr": "e LC $ El Color t awit",
+  "nota": "imagen repetida en 6 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_a85fbd6f56930cc9bca463a2f3216dd0dc1259ac9ca6d0a22750fe624293656c.png",
+  "ruta_relativa": "../imagenes/FDS_041/image_000001_a85fbd6f56930cc9bca463a2f3216dd0dc1259ac9ca6d0a22750fe624293656c.png",
+  "documento": "FDS 41 - PINTURA ACRILICA CONSTRUCCION ALTA ASEPSIA BLANCO 27580 - PINTUCO .pdf",
+  "pagina": 4,
+  "ancho": 117,
+  "alto": 117,
+  "texto_ocr": "Protección obligatoria de la cara",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000002_e4d89ae81e155a6d9c6a3ca1f93982817131c32b7cb6ed6c911f1efe42fa1ec6.png",
+  "ruta_relativa": "../imagenes/FDS_041/image_000002_e4d89ae81e155a6d9c6a3ca1f93982817131c32b7cb6ed6c911f1efe42fa1ec6.png",
+  "documento": "FDS 41 - PINTURA ACRILICA CONSTRUCCION ALTA ASEPSIA BLANCO 27580 - PINTUCO .pdf",
+  "pagina": 4,
+  "ancho": 72,
+  "alto": 71,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_9c46617192b22315cd5784b009c8cf3e73bfbcd1320eb5e04f947300d5c872c0.png",
+  "ruta_relativa": "../imagenes/FDS_041/image_000003_9c46617192b22315cd5784b009c8cf3e73bfbcd1320eb5e04f947300d5c872c0.png",
+  "documento": "FDS 41 - PINTURA ACRILICA CONSTRUCCION ALTA ASEPSIA BLANCO 27580 - PINTUCO .pdf",
+  "pagina": 4,
+  "ancho": 74,
+  "alto": 73,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000004_bfef91f200185c2772f29b5841f5b9e5f290247b4663df6928899e5982542c50.png",
+  "ruta_relativa": "../imagenes/FDS_041/image_000004_bfef91f200185c2772f29b5841f5b9e5f290247b4663df6928899e5982542c50.png",
+  "documento": "FDS 41 - PINTURA ACRILICA CONSTRUCCION ALTA ASEPSIA BLANCO 27580 - PINTUCO .pdf",
+  "pagina": 4,
+  "ancho": 130,
+  "alto": 77,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000005_61c8330bd923b0db8b4c3ceba39e18ec0ff92985f329b6464e73f13ce69811a0.png",
+  "ruta_relativa": "../imagenes/FDS_041/image_000005_61c8330bd923b0db8b4c3ceba39e18ec0ff92985f329b6464e73f13ce69811a0.png",
+  "documento": "FDS 41 - PINTURA ACRILICA CONSTRUCCION ALTA ASEPSIA BLANCO 27580 - PINTUCO .pdf",
+  "pagina": 4,
+  "ancho": 362,
+  "alto": 84,
+  "texto_ocr": "Calidad",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000006_ae32edc73565bb188388a2d987db074c3e36019639025bd6b4f47a0063f8d059.png",
+  "ruta_relativa": "../imagenes/FDS_041/image_000006_ae32edc73565bb188388a2d987db074c3e36019639025bd6b4f47a0063f8d059.png",
+  "documento": "FDS 41 - PINTURA ACRILICA CONSTRUCCION ALTA ASEPSIA BLANCO 27580 - PINTUCO .pdf",
+  "pagina": 4,
+  "ancho": 59,
+  "alto": 76,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_458beb4e79abd697eb014fae6a0ab6fd035500e32003753a158d3f5bad21c885.png",
+  "ruta_relativa": "../imagenes/FDS_041/image_000000_458beb4e79abd697eb014fae6a0ab6fd035500e32003753a158d3f5bad21c885.png",
+  "documento": "FDS 41 - PINTURA ACRILICA CONSTRUCCION ALTA ASEPSIA BLANCO 27580 - PINTUCO .pdf",
+  "pagina": 5,
+  "ancho": 143,
+  "alto": 100,
+  "texto_ocr": "e LC $ El Color t awit",
+  "nota": "imagen repetida en 6 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_4164bf28b8c3b4118d6566b8a79f6fe4364e631f94ccc086a14191c81af05856.png",
+  "ruta_relativa": "../imagenes/FDS_041/image_000001_4164bf28b8c3b4118d6566b8a79f6fe4364e631f94ccc086a14191c81af05856.png",
+  "documento": "FDS 41 - PINTURA ACRILICA CONSTRUCCION ALTA ASEPSIA BLANCO 27580 - PINTUCO .pdf",
+  "pagina": 5,
+  "ancho": 33,
+  "alto": 34,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_7a54e3a43fd3c98515957b2ff7f23c2b16d5ba00445bfa882601a3a97e080fcf.png",
+  "ruta_relativa": "../imagenes/FDS_041/image_000000_7a54e3a43fd3c98515957b2ff7f23c2b16d5ba00445bfa882601a3a97e080fcf.png",
+  "documento": "FDS 41 - PINTURA ACRILICA CONSTRUCCION ALTA ASEPSIA BLANCO 27580 - PINTUCO .pdf",
+  "pagina": 6,
+  "ancho": 143,
+  "alto": 99,
+  "texto_ocr": "Pint SS rat",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000000_458beb4e79abd697eb014fae6a0ab6fd035500e32003753a158d3f5bad21c885.png",
+  "ruta_relativa": "../imagenes/FDS_041/image_000000_458beb4e79abd697eb014fae6a0ab6fd035500e32003753a158d3f5bad21c885.png",
+  "documento": "FDS 41 - PINTURA ACRILICA CONSTRUCCION ALTA ASEPSIA BLANCO 27580 - PINTUCO .pdf",
+  "pagina": 7,
+  "ancho": 143,
+  "alto": 100,
+  "texto_ocr": "e LC $ El Color t awit",
+  "nota": "imagen repetida en 6 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_458beb4e79abd697eb014fae6a0ab6fd035500e32003753a158d3f5bad21c885.png",
+  "ruta_relativa": "../imagenes/FDS_041/image_000000_458beb4e79abd697eb014fae6a0ab6fd035500e32003753a158d3f5bad21c885.png",
+  "documento": "FDS 41 - PINTURA ACRILICA CONSTRUCCION ALTA ASEPSIA BLANCO 27580 - PINTUCO .pdf",
+  "pagina": 8,
+  "ancho": 143,
+  "alto": 100,
+  "texto_ocr": "e LC $ El Color t awit",
+  "nota": "imagen repetida en 6 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_29eb79d2d71a3fe7b0c64f938e2b943e602167546cd8bddb9c4227982c1b0fff.png",
+  "ruta_relativa": "../imagenes/FDS_041/image_000001_29eb79d2d71a3fe7b0c64f938e2b943e602167546cd8bddb9c4227982c1b0fff.png",
+  "documento": "FDS 41 - PINTURA ACRILICA CONSTRUCCION ALTA ASEPSIA BLANCO 27580 - PINTUCO .pdf",
+  "pagina": 8,
+  "ancho": 364,
+  "alto": 84,
+  "texto_ocr": "Calidad\"",
+  "nota": ""
+ }
+]

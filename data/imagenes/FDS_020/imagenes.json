@@ -1,0 +1,72 @@
+[
+ {
+  "archivo": "image_000000_a34efc9d3cec05ca733628eeab8dbac36f06f66154f632e518394d7474f701b4.png",
+  "ruta_relativa": "../imagenes/FDS_020/image_000000_a34efc9d3cec05ca733628eeab8dbac36f06f66154f632e518394d7474f701b4.png",
+  "documento": "FDS 20 - Esmalte Alquídico Serie 31.pdf",
+  "pagina": 1,
+  "ancho": 218,
+  "alto": 77,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_e16e8ed9001796d441563de8f9449235919c884b3d377bff4f97b0200b851aab.png",
+  "ruta_relativa": "../imagenes/FDS_020/image_000000_e16e8ed9001796d441563de8f9449235919c884b3d377bff4f97b0200b851aab.png",
+  "documento": "FDS 20 - Esmalte Alquídico Serie 31.pdf",
+  "pagina": 2,
+  "ancho": 80,
+  "alto": 80,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000001_e241e48a9eaa44bd570cc5f802ad744c486facef94df5148082c27e0aa4927d9.png",
+  "ruta_relativa": "../imagenes/FDS_020/image_000001_e241e48a9eaa44bd570cc5f802ad744c486facef94df5148082c27e0aa4927d9.png",
+  "documento": "FDS 20 - Esmalte Alquídico Serie 31.pdf",
+  "pagina": 2,
+  "ancho": 91,
+  "alto": 89,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_94770e7cba0cf6c37129cd6b9e4d6437d0750095429ba5b14771db6d1f13f6f5.png",
+  "ruta_relativa": "../imagenes/FDS_020/image_000002_94770e7cba0cf6c37129cd6b9e4d6437d0750095429ba5b14771db6d1f13f6f5.png",
+  "documento": "FDS 20 - Esmalte Alquídico Serie 31.pdf",
+  "pagina": 2,
+  "ancho": 80,
+  "alto": 80,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_b44e60709731966ec81f1a2b28c0f1708a95fefb3c8a30c1c5ef24a34f9784bd.png",
+  "ruta_relativa": "../imagenes/FDS_020/image_000000_b44e60709731966ec81f1a2b28c0f1708a95fefb3c8a30c1c5ef24a34f9784bd.png",
+  "documento": "FDS 20 - Esmalte Alquídico Serie 31.pdf",
+  "pagina": 9,
+  "ancho": 67,
+  "alto": 65,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000001_cf50c4786c5f7814ca6b957e337ba6257998f5abee286b1ba2cd8f4d7e75505f.png",
+  "ruta_relativa": "../imagenes/FDS_020/image_000001_cf50c4786c5f7814ca6b957e337ba6257998f5abee286b1ba2cd8f4d7e75505f.png",
+  "documento": "FDS 20 - Esmalte Alquídico Serie 31.pdf",
+  "pagina": 9,
+  "ancho": 67,
+  "alto": 66,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_fc00d70acd67d5891535cd55d502c8dc8897e2ca09927f4b365fab1261351feb.png",
+  "ruta_relativa": "../imagenes/FDS_020/image_000002_fc00d70acd67d5891535cd55d502c8dc8897e2ca09927f4b365fab1261351feb.png",
+  "documento": "FDS 20 - Esmalte Alquídico Serie 31.pdf",
+  "pagina": 9,
+  "ancho": 66,
+  "alto": 64,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ }
+]

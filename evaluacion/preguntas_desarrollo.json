@@ -1,0 +1,15 @@
+{
+  "descripcion": "Preguntas de DESARROLLO (distintas de las 12 de evaluacion) para calibrar el prompt y el umbral de evidencia insuficiente sin ajustar el sistema a las preguntas finales. Referencias verificadas con pdftotext; las dos sin respuesta se comprobaron ausentes del corpus ('capas|manos de aplicacion' y 'precio|costo': 0 fichas).",
+  "preguntas": [
+    {"id": "D1", "tipo": "directa", "pregunta": "¿Cuál es el punto de inflamación de la Pintura para Canchas Blanco (código 51630001) de Pintuland?",
+     "referencia": "No inflamable (>93 ºC).", "documentos_esperados": ["FDS_059"]},
+    {"id": "D2", "tipo": "directa", "pregunta": "¿Cuál es el punto de inflamación del Barniz Solar de Pinturas Bler?",
+     "referencia": "41 ºC.", "documentos_esperados": ["FDS_101"]},
+    {"id": "D3", "tipo": "directa", "pregunta": "¿Cuál es el punto de inflamación de la pintura Ecosphere Premium (G012P20I000)?",
+     "referencia": "No inflamable (>60 ºC).", "documentos_esperados": ["FDS_011"]},
+    {"id": "D4", "tipo": "sin_respuesta", "pregunta": "¿Cuántas manos de aplicación se recomiendan para el Acriland Blanco de Pintuland?",
+     "referencia": "No hay evidencia en las FDS.", "documentos_esperados": []},
+    {"id": "D5", "tipo": "sin_respuesta", "pregunta": "¿Cuál es el precio por galón del Vinilo Superlavable Blanco de Pintuland?",
+     "referencia": "No hay evidencia en las FDS.", "documentos_esperados": []}
+  ]
+}

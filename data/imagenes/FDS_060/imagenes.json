@@ -1,0 +1,612 @@
+[
+ {
+  "archivo": "image_000000_66d6755498af6e839bc85384cbb810da69d8b671fdd6c6c458012e36d65c1942.png",
+  "ruta_relativa": "../imagenes/FDS_060/image_000000_66d6755498af6e839bc85384cbb810da69d8b671fdd6c6c458012e36d65c1942.png",
+  "documento": "FDS 60 - PRIMER EPOXICO POLIAMIDA ROJO, Componente A - PINTULAND.pdf",
+  "pagina": 1,
+  "ancho": 184,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 4 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_f25c1b86b827b98265024a1b0c23fb7e3ac0818f44c96d05c67bb8b16d56281b.png",
+  "ruta_relativa": "../imagenes/FDS_060/image_000001_f25c1b86b827b98265024a1b0c23fb7e3ac0818f44c96d05c67bb8b16d56281b.png",
+  "documento": "FDS 60 - PRIMER EPOXICO POLIAMIDA ROJO, Componente A - PINTULAND.pdf",
+  "pagina": 1,
+  "ancho": 57,
+  "alto": 56,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_e85353fed74aa757c56ec0cce8c3456429bcbed837a101e9b59adc3f39e554f7.png",
+  "ruta_relativa": "../imagenes/FDS_060/image_000002_e85353fed74aa757c56ec0cce8c3456429bcbed837a101e9b59adc3f39e554f7.png",
+  "documento": "FDS 60 - PRIMER EPOXICO POLIAMIDA ROJO, Componente A - PINTULAND.pdf",
+  "pagina": 1,
+  "ancho": 58,
+  "alto": 57,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_621b1d2c052b4c8fee52c37021d3379516f996e301cfab1a45ae0c02b0d41b26.png",
+  "ruta_relativa": "../imagenes/FDS_060/image_000003_621b1d2c052b4c8fee52c37021d3379516f996e301cfab1a45ae0c02b0d41b26.png",
+  "documento": "FDS 60 - PRIMER EPOXICO POLIAMIDA ROJO, Componente A - PINTULAND.pdf",
+  "pagina": 1,
+  "ancho": 57,
+  "alto": 58,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000004_cfd74d32615c6af88e5be2492fc78995a93daf93bbf96b5733d70cd98ef3db07.png",
+  "ruta_relativa": "../imagenes/FDS_060/image_000004_cfd74d32615c6af88e5be2492fc78995a93daf93bbf96b5733d70cd98ef3db07.png",
+  "documento": "FDS 60 - PRIMER EPOXICO POLIAMIDA ROJO, Componente A - PINTULAND.pdf",
+  "pagina": 1,
+  "ancho": 84,
+  "alto": 85,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000005_491ec30835865ac69d2d6bc37641dea637472b82ee27c8abb72558a6459d642f.png",
+  "ruta_relativa": "../imagenes/FDS_060/image_000005_491ec30835865ac69d2d6bc37641dea637472b82ee27c8abb72558a6459d642f.png",
+  "documento": "FDS 60 - PRIMER EPOXICO POLIAMIDA ROJO, Componente A - PINTULAND.pdf",
+  "pagina": 1,
+  "ancho": 87,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000006_dac7b125ae5fe299f6a19df6b1e573dea83058714e0c76aed0bff9f90b175aab.png",
+  "ruta_relativa": "../imagenes/FDS_060/image_000006_dac7b125ae5fe299f6a19df6b1e573dea83058714e0c76aed0bff9f90b175aab.png",
+  "documento": "FDS 60 - PRIMER EPOXICO POLIAMIDA ROJO, Componente A - PINTULAND.pdf",
+  "pagina": 1,
+  "ancho": 84,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_5b660eb81f7e4fc897e24db25c218bfe273b8f77a4b1c996a5b5c13ce5bd961d.png",
+  "ruta_relativa": "../imagenes/FDS_060/image_000000_5b660eb81f7e4fc897e24db25c218bfe273b8f77a4b1c996a5b5c13ce5bd961d.png",
+  "documento": "FDS 60 - PRIMER EPOXICO POLIAMIDA ROJO, Componente A - PINTULAND.pdf",
+  "pagina": 2,
+  "ancho": 184,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 11 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_cfd74d32615c6af88e5be2492fc78995a93daf93bbf96b5733d70cd98ef3db07.png",
+  "ruta_relativa": "../imagenes/FDS_060/image_000001_cfd74d32615c6af88e5be2492fc78995a93daf93bbf96b5733d70cd98ef3db07.png",
+  "documento": "FDS 60 - PRIMER EPOXICO POLIAMIDA ROJO, Componente A - PINTULAND.pdf",
+  "pagina": 2,
+  "ancho": 84,
+  "alto": 85,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_8de47e500caa5abe3dc35b5d6c4f7250db4c4156a578a81b4ab8c52bd5fb7c68.png",
+  "ruta_relativa": "../imagenes/FDS_060/image_000002_8de47e500caa5abe3dc35b5d6c4f7250db4c4156a578a81b4ab8c52bd5fb7c68.png",
+  "documento": "FDS 60 - PRIMER EPOXICO POLIAMIDA ROJO, Componente A - PINTULAND.pdf",
+  "pagina": 2,
+  "ancho": 87,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_ebbf68dd61ae8906a7ddd637cc2b73bc252d6ed370ba385b24dc4509a0ee477a.png",
+  "ruta_relativa": "../imagenes/FDS_060/image_000003_ebbf68dd61ae8906a7ddd637cc2b73bc252d6ed370ba385b24dc4509a0ee477a.png",
+  "documento": "FDS 60 - PRIMER EPOXICO POLIAMIDA ROJO, Componente A - PINTULAND.pdf",
+  "pagina": 2,
+  "ancho": 84,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 4 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_5b660eb81f7e4fc897e24db25c218bfe273b8f77a4b1c996a5b5c13ce5bd961d.png",
+  "ruta_relativa": "../imagenes/FDS_060/image_000000_5b660eb81f7e4fc897e24db25c218bfe273b8f77a4b1c996a5b5c13ce5bd961d.png",
+  "documento": "FDS 60 - PRIMER EPOXICO POLIAMIDA ROJO, Componente A - PINTULAND.pdf",
+  "pagina": 3,
+  "ancho": 184,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 11 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_857bc3284b17820e2c6853a339b2cbcf284387bd20f932a4d3611af5a15f9644.png",
+  "ruta_relativa": "../imagenes/FDS_060/image_000001_857bc3284b17820e2c6853a339b2cbcf284387bd20f932a4d3611af5a15f9644.png",
+  "documento": "FDS 60 - PRIMER EPOXICO POLIAMIDA ROJO, Componente A - PINTULAND.pdf",
+  "pagina": 3,
+  "ancho": 87,
+  "alto": 85,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_5b660eb81f7e4fc897e24db25c218bfe273b8f77a4b1c996a5b5c13ce5bd961d.png",
+  "ruta_relativa": "../imagenes/FDS_060/image_000000_5b660eb81f7e4fc897e24db25c218bfe273b8f77a4b1c996a5b5c13ce5bd961d.png",
+  "documento": "FDS 60 - PRIMER EPOXICO POLIAMIDA ROJO, Componente A - PINTULAND.pdf",
+  "pagina": 4,
+  "ancho": 184,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 11 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_857bc3284b17820e2c6853a339b2cbcf284387bd20f932a4d3611af5a15f9644.png",
+  "ruta_relativa": "../imagenes/FDS_060/image_000001_857bc3284b17820e2c6853a339b2cbcf284387bd20f932a4d3611af5a15f9644.png",
+  "documento": "FDS 60 - PRIMER EPOXICO POLIAMIDA ROJO, Componente A - PINTULAND.pdf",
+  "pagina": 4,
+  "ancho": 87,
+  "alto": 85,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_66d6755498af6e839bc85384cbb810da69d8b671fdd6c6c458012e36d65c1942.png",
+  "ruta_relativa": "../imagenes/FDS_060/image_000000_66d6755498af6e839bc85384cbb810da69d8b671fdd6c6c458012e36d65c1942.png",
+  "documento": "FDS 60 - PRIMER EPOXICO POLIAMIDA ROJO, Componente A - PINTULAND.pdf",
+  "pagina": 5,
+  "ancho": 184,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 4 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_238665c2a0a2f5c4ca2c56f24501ac321b9537a3234ef78c31f7efa605ec8285.png",
+  "ruta_relativa": "../imagenes/FDS_060/image_000001_238665c2a0a2f5c4ca2c56f24501ac321b9537a3234ef78c31f7efa605ec8285.png",
+  "documento": "FDS 60 - PRIMER EPOXICO POLIAMIDA ROJO, Componente A - PINTULAND.pdf",
+  "pagina": 5,
+  "ancho": 267,
+  "alto": 88,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_66d6755498af6e839bc85384cbb810da69d8b671fdd6c6c458012e36d65c1942.png",
+  "ruta_relativa": "../imagenes/FDS_060/image_000000_66d6755498af6e839bc85384cbb810da69d8b671fdd6c6c458012e36d65c1942.png",
+  "documento": "FDS 60 - PRIMER EPOXICO POLIAMIDA ROJO, Componente A - PINTULAND.pdf",
+  "pagina": 6,
+  "ancho": 184,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 4 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_d95e72fe5349c7120dbc5dc6a36519239f5d705ea684530f2fdb75098f68fea3.png",
+  "ruta_relativa": "../imagenes/FDS_060/image_000001_d95e72fe5349c7120dbc5dc6a36519239f5d705ea684530f2fdb75098f68fea3.png",
+  "documento": "FDS 60 - PRIMER EPOXICO POLIAMIDA ROJO, Componente A - PINTULAND.pdf",
+  "pagina": 6,
+  "ancho": 120,
+  "alto": 113,
+  "texto_ocr": "Protección obligatoria de la manos",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000002_4b5f8a7d909acc2098fa69e2ac971c1e55666b53ea6ca107a79b03c02417f1a1.png",
+  "ruta_relativa": "../imagenes/FDS_060/image_000002_4b5f8a7d909acc2098fa69e2ac971c1e55666b53ea6ca107a79b03c02417f1a1.png",
+  "documento": "FDS 60 - PRIMER EPOXICO POLIAMIDA ROJO, Componente A - PINTULAND.pdf",
+  "pagina": 6,
+  "ancho": 117,
+  "alto": 102,
+  "texto_ocr": "Protección obligatoria de los pies",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000003_ac9177e6fad8575393ac5b1d18316654c75d93522f415d5ecf5e94d34d46d30a.png",
+  "ruta_relativa": "../imagenes/FDS_060/image_000003_ac9177e6fad8575393ac5b1d18316654c75d93522f415d5ecf5e94d34d46d30a.png",
+  "documento": "FDS 60 - PRIMER EPOXICO POLIAMIDA ROJO, Componente A - PINTULAND.pdf",
+  "pagina": 6,
+  "ancho": 55,
+  "alto": 54,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000004_238665c2a0a2f5c4ca2c56f24501ac321b9537a3234ef78c31f7efa605ec8285.png",
+  "ruta_relativa": "../imagenes/FDS_060/image_000004_238665c2a0a2f5c4ca2c56f24501ac321b9537a3234ef78c31f7efa605ec8285.png",
+  "documento": "FDS 60 - PRIMER EPOXICO POLIAMIDA ROJO, Componente A - PINTULAND.pdf",
+  "pagina": 6,
+  "ancho": 267,
+  "alto": 88,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000005_cdbe9a90349097163937b9c64177fb0e3ca3d8021469687f0b95c3902de128ef.png",
+  "ruta_relativa": "../imagenes/FDS_060/image_000005_cdbe9a90349097163937b9c64177fb0e3ca3d8021469687f0b95c3902de128ef.png",
+  "documento": "FDS 60 - PRIMER EPOXICO POLIAMIDA ROJO, Componente A - PINTULAND.pdf",
+  "pagina": 6,
+  "ancho": 54,
+  "alto": 58,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_5b660eb81f7e4fc897e24db25c218bfe273b8f77a4b1c996a5b5c13ce5bd961d.png",
+  "ruta_relativa": "../imagenes/FDS_060/image_000000_5b660eb81f7e4fc897e24db25c218bfe273b8f77a4b1c996a5b5c13ce5bd961d.png",
+  "documento": "FDS 60 - PRIMER EPOXICO POLIAMIDA ROJO, Componente A - PINTULAND.pdf",
+  "pagina": 7,
+  "ancho": 184,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 11 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_da5c3afdddffaed4ad89b88a40130029bcb5ca79c61d3499a81a18d6bfa21cfd.png",
+  "ruta_relativa": "../imagenes/FDS_060/image_000001_da5c3afdddffaed4ad89b88a40130029bcb5ca79c61d3499a81a18d6bfa21cfd.png",
+  "documento": "FDS 60 - PRIMER EPOXICO POLIAMIDA ROJO, Componente A - PINTULAND.pdf",
+  "pagina": 7,
+  "ancho": 84,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_8de47e500caa5abe3dc35b5d6c4f7250db4c4156a578a81b4ab8c52bd5fb7c68.png",
+  "ruta_relativa": "../imagenes/FDS_060/image_000002_8de47e500caa5abe3dc35b5d6c4f7250db4c4156a578a81b4ab8c52bd5fb7c68.png",
+  "documento": "FDS 60 - PRIMER EPOXICO POLIAMIDA ROJO, Componente A - PINTULAND.pdf",
+  "pagina": 7,
+  "ancho": 87,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_ebbf68dd61ae8906a7ddd637cc2b73bc252d6ed370ba385b24dc4509a0ee477a.png",
+  "ruta_relativa": "../imagenes/FDS_060/image_000003_ebbf68dd61ae8906a7ddd637cc2b73bc252d6ed370ba385b24dc4509a0ee477a.png",
+  "documento": "FDS 60 - PRIMER EPOXICO POLIAMIDA ROJO, Componente A - PINTULAND.pdf",
+  "pagina": 7,
+  "ancho": 84,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 4 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000004_a694e9f8916445f11cce8b819a4eb72c9387ad80d625587b83662eb32d8472b0.png",
+  "ruta_relativa": "../imagenes/FDS_060/image_000004_a694e9f8916445f11cce8b819a4eb72c9387ad80d625587b83662eb32d8472b0.png",
+  "documento": "FDS 60 - PRIMER EPOXICO POLIAMIDA ROJO, Componente A - PINTULAND.pdf",
+  "pagina": 7,
+  "ancho": 430,
+  "alto": 220,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_4c82060677ce4fd12079c0bb1423358277ea268cd38a9c1d6b727e89c816508d.png",
+  "ruta_relativa": "../imagenes/FDS_060/image_000000_4c82060677ce4fd12079c0bb1423358277ea268cd38a9c1d6b727e89c816508d.png",
+  "documento": "FDS 60 - PRIMER EPOXICO POLIAMIDA ROJO, Componente A - PINTULAND.pdf",
+  "pagina": 8,
+  "ancho": 183,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000001_cfd74d32615c6af88e5be2492fc78995a93daf93bbf96b5733d70cd98ef3db07.png",
+  "ruta_relativa": "../imagenes/FDS_060/image_000001_cfd74d32615c6af88e5be2492fc78995a93daf93bbf96b5733d70cd98ef3db07.png",
+  "documento": "FDS 60 - PRIMER EPOXICO POLIAMIDA ROJO, Componente A - PINTULAND.pdf",
+  "pagina": 8,
+  "ancho": 84,
+  "alto": 85,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_92e7f18d72aadad83fc8b5d872ee4bce0f47be9d07c077b7aad56104aa4e6c17.png",
+  "ruta_relativa": "../imagenes/FDS_060/image_000002_92e7f18d72aadad83fc8b5d872ee4bce0f47be9d07c077b7aad56104aa4e6c17.png",
+  "documento": "FDS 60 - PRIMER EPOXICO POLIAMIDA ROJO, Componente A - PINTULAND.pdf",
+  "pagina": 8,
+  "ancho": 86,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_ebbf68dd61ae8906a7ddd637cc2b73bc252d6ed370ba385b24dc4509a0ee477a.png",
+  "ruta_relativa": "../imagenes/FDS_060/image_000003_ebbf68dd61ae8906a7ddd637cc2b73bc252d6ed370ba385b24dc4509a0ee477a.png",
+  "documento": "FDS 60 - PRIMER EPOXICO POLIAMIDA ROJO, Componente A - PINTULAND.pdf",
+  "pagina": 8,
+  "ancho": 84,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 4 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_5b660eb81f7e4fc897e24db25c218bfe273b8f77a4b1c996a5b5c13ce5bd961d.png",
+  "ruta_relativa": "../imagenes/FDS_060/image_000000_5b660eb81f7e4fc897e24db25c218bfe273b8f77a4b1c996a5b5c13ce5bd961d.png",
+  "documento": "FDS 60 - PRIMER EPOXICO POLIAMIDA ROJO, Componente A - PINTULAND.pdf",
+  "pagina": 9,
+  "ancho": 184,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 11 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_faf43292ce204da64134f1148c1a6066e94a047a489a7ff1bae1e387bca99fea.png",
+  "ruta_relativa": "../imagenes/FDS_060/image_000001_faf43292ce204da64134f1148c1a6066e94a047a489a7ff1bae1e387bca99fea.png",
+  "documento": "FDS 60 - PRIMER EPOXICO POLIAMIDA ROJO, Componente A - PINTULAND.pdf",
+  "pagina": 9,
+  "ancho": 267,
+  "alto": 88,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 3 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_5b660eb81f7e4fc897e24db25c218bfe273b8f77a4b1c996a5b5c13ce5bd961d.png",
+  "ruta_relativa": "../imagenes/FDS_060/image_000000_5b660eb81f7e4fc897e24db25c218bfe273b8f77a4b1c996a5b5c13ce5bd961d.png",
+  "documento": "FDS 60 - PRIMER EPOXICO POLIAMIDA ROJO, Componente A - PINTULAND.pdf",
+  "pagina": 10,
+  "ancho": 184,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 11 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_26564451807a230fcb0a99e6d6818802c8d47921e3d04c20bb56bf2c28bcbf26.png",
+  "ruta_relativa": "../imagenes/FDS_060/image_000001_26564451807a230fcb0a99e6d6818802c8d47921e3d04c20bb56bf2c28bcbf26.png",
+  "documento": "FDS 60 - PRIMER EPOXICO POLIAMIDA ROJO, Componente A - PINTULAND.pdf",
+  "pagina": 10,
+  "ancho": 88,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_5b660eb81f7e4fc897e24db25c218bfe273b8f77a4b1c996a5b5c13ce5bd961d.png",
+  "ruta_relativa": "../imagenes/FDS_060/image_000000_5b660eb81f7e4fc897e24db25c218bfe273b8f77a4b1c996a5b5c13ce5bd961d.png",
+  "documento": "FDS 60 - PRIMER EPOXICO POLIAMIDA ROJO, Componente A - PINTULAND.pdf",
+  "pagina": 11,
+  "ancho": 184,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 11 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_faf43292ce204da64134f1148c1a6066e94a047a489a7ff1bae1e387bca99fea.png",
+  "ruta_relativa": "../imagenes/FDS_060/image_000001_faf43292ce204da64134f1148c1a6066e94a047a489a7ff1bae1e387bca99fea.png",
+  "documento": "FDS 60 - PRIMER EPOXICO POLIAMIDA ROJO, Componente A - PINTULAND.pdf",
+  "pagina": 11,
+  "ancho": 267,
+  "alto": 88,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 3 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_5b660eb81f7e4fc897e24db25c218bfe273b8f77a4b1c996a5b5c13ce5bd961d.png",
+  "ruta_relativa": "../imagenes/FDS_060/image_000000_5b660eb81f7e4fc897e24db25c218bfe273b8f77a4b1c996a5b5c13ce5bd961d.png",
+  "documento": "FDS 60 - PRIMER EPOXICO POLIAMIDA ROJO, Componente A - PINTULAND.pdf",
+  "pagina": 12,
+  "ancho": 184,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 11 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_faf43292ce204da64134f1148c1a6066e94a047a489a7ff1bae1e387bca99fea.png",
+  "ruta_relativa": "../imagenes/FDS_060/image_000001_faf43292ce204da64134f1148c1a6066e94a047a489a7ff1bae1e387bca99fea.png",
+  "documento": "FDS 60 - PRIMER EPOXICO POLIAMIDA ROJO, Componente A - PINTULAND.pdf",
+  "pagina": 12,
+  "ancho": 267,
+  "alto": 88,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 3 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_5b660eb81f7e4fc897e24db25c218bfe273b8f77a4b1c996a5b5c13ce5bd961d.png",
+  "ruta_relativa": "../imagenes/FDS_060/image_000000_5b660eb81f7e4fc897e24db25c218bfe273b8f77a4b1c996a5b5c13ce5bd961d.png",
+  "documento": "FDS 60 - PRIMER EPOXICO POLIAMIDA ROJO, Componente A - PINTULAND.pdf",
+  "pagina": 13,
+  "ancho": 184,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 11 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_06422c3df10be1745acbd353c18169ec14e39db7228725d885bc5a98d02a68ac.png",
+  "ruta_relativa": "../imagenes/FDS_060/image_000001_06422c3df10be1745acbd353c18169ec14e39db7228725d885bc5a98d02a68ac.png",
+  "documento": "FDS 60 - PRIMER EPOXICO POLIAMIDA ROJO, Componente A - PINTULAND.pdf",
+  "pagina": 13,
+  "ancho": 121,
+  "alto": 122,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_b8d6930279f3e82d67ee99b0008f749b81b327a8f8e4e5f0e6ce9a635c9b7c85.png",
+  "ruta_relativa": "../imagenes/FDS_060/image_000002_b8d6930279f3e82d67ee99b0008f749b81b327a8f8e4e5f0e6ce9a635c9b7c85.png",
+  "documento": "FDS 60 - PRIMER EPOXICO POLIAMIDA ROJO, Componente A - PINTULAND.pdf",
+  "pagina": 13,
+  "ancho": 122,
+  "alto": 120,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_9221ec4b5716aac64d7ae807c0ab39b2641f836dac869907f7ed752f1be716f6.png",
+  "ruta_relativa": "../imagenes/FDS_060/image_000003_9221ec4b5716aac64d7ae807c0ab39b2641f836dac869907f7ed752f1be716f6.png",
+  "documento": "FDS 60 - PRIMER EPOXICO POLIAMIDA ROJO, Componente A - PINTULAND.pdf",
+  "pagina": 13,
+  "ancho": 244,
+  "alto": 215,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000004_cfd74d32615c6af88e5be2492fc78995a93daf93bbf96b5733d70cd98ef3db07.png",
+  "ruta_relativa": "../imagenes/FDS_060/image_000004_cfd74d32615c6af88e5be2492fc78995a93daf93bbf96b5733d70cd98ef3db07.png",
+  "documento": "FDS 60 - PRIMER EPOXICO POLIAMIDA ROJO, Componente A - PINTULAND.pdf",
+  "pagina": 13,
+  "ancho": 84,
+  "alto": 85,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000005_26564451807a230fcb0a99e6d6818802c8d47921e3d04c20bb56bf2c28bcbf26.png",
+  "ruta_relativa": "../imagenes/FDS_060/image_000005_26564451807a230fcb0a99e6d6818802c8d47921e3d04c20bb56bf2c28bcbf26.png",
+  "documento": "FDS 60 - PRIMER EPOXICO POLIAMIDA ROJO, Componente A - PINTULAND.pdf",
+  "pagina": 13,
+  "ancho": 88,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000006_ebbf68dd61ae8906a7ddd637cc2b73bc252d6ed370ba385b24dc4509a0ee477a.png",
+  "ruta_relativa": "../imagenes/FDS_060/image_000006_ebbf68dd61ae8906a7ddd637cc2b73bc252d6ed370ba385b24dc4509a0ee477a.png",
+  "documento": "FDS 60 - PRIMER EPOXICO POLIAMIDA ROJO, Componente A - PINTULAND.pdf",
+  "pagina": 13,
+  "ancho": 84,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_5b660eb81f7e4fc897e24db25c218bfe273b8f77a4b1c996a5b5c13ce5bd961d.png",
+  "ruta_relativa": "../imagenes/FDS_060/image_000000_5b660eb81f7e4fc897e24db25c218bfe273b8f77a4b1c996a5b5c13ce5bd961d.png",
+  "documento": "FDS 60 - PRIMER EPOXICO POLIAMIDA ROJO, Componente A - PINTULAND.pdf",
+  "pagina": 14,
+  "ancho": 184,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 11 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_5f723fd5381bd1d5b664a970bc6fb93c97b764902a9ff75767c8e52680c7b342.png",
+  "ruta_relativa": "../imagenes/FDS_060/image_000001_5f723fd5381bd1d5b664a970bc6fb93c97b764902a9ff75767c8e52680c7b342.png",
+  "documento": "FDS 60 - PRIMER EPOXICO POLIAMIDA ROJO, Componente A - PINTULAND.pdf",
+  "pagina": 14,
+  "ancho": 121,
+  "alto": 121,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_cfd74d32615c6af88e5be2492fc78995a93daf93bbf96b5733d70cd98ef3db07.png",
+  "ruta_relativa": "../imagenes/FDS_060/image_000002_cfd74d32615c6af88e5be2492fc78995a93daf93bbf96b5733d70cd98ef3db07.png",
+  "documento": "FDS 60 - PRIMER EPOXICO POLIAMIDA ROJO, Componente A - PINTULAND.pdf",
+  "pagina": 14,
+  "ancho": 84,
+  "alto": 85,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_8de47e500caa5abe3dc35b5d6c4f7250db4c4156a578a81b4ab8c52bd5fb7c68.png",
+  "ruta_relativa": "../imagenes/FDS_060/image_000003_8de47e500caa5abe3dc35b5d6c4f7250db4c4156a578a81b4ab8c52bd5fb7c68.png",
+  "documento": "FDS 60 - PRIMER EPOXICO POLIAMIDA ROJO, Componente A - PINTULAND.pdf",
+  "pagina": 14,
+  "ancho": 87,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000004_ebbf68dd61ae8906a7ddd637cc2b73bc252d6ed370ba385b24dc4509a0ee477a.png",
+  "ruta_relativa": "../imagenes/FDS_060/image_000004_ebbf68dd61ae8906a7ddd637cc2b73bc252d6ed370ba385b24dc4509a0ee477a.png",
+  "documento": "FDS 60 - PRIMER EPOXICO POLIAMIDA ROJO, Componente A - PINTULAND.pdf",
+  "pagina": 14,
+  "ancho": 84,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_5b660eb81f7e4fc897e24db25c218bfe273b8f77a4b1c996a5b5c13ce5bd961d.png",
+  "ruta_relativa": "../imagenes/FDS_060/image_000000_5b660eb81f7e4fc897e24db25c218bfe273b8f77a4b1c996a5b5c13ce5bd961d.png",
+  "documento": "FDS 60 - PRIMER EPOXICO POLIAMIDA ROJO, Componente A - PINTULAND.pdf",
+  "pagina": 15,
+  "ancho": 184,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 11 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_da5c3afdddffaed4ad89b88a40130029bcb5ca79c61d3499a81a18d6bfa21cfd.png",
+  "ruta_relativa": "../imagenes/FDS_060/image_000001_da5c3afdddffaed4ad89b88a40130029bcb5ca79c61d3499a81a18d6bfa21cfd.png",
+  "documento": "FDS 60 - PRIMER EPOXICO POLIAMIDA ROJO, Componente A - PINTULAND.pdf",
+  "pagina": 15,
+  "ancho": 84,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_857bc3284b17820e2c6853a339b2cbcf284387bd20f932a4d3611af5a15f9644.png",
+  "ruta_relativa": "../imagenes/FDS_060/image_000002_857bc3284b17820e2c6853a339b2cbcf284387bd20f932a4d3611af5a15f9644.png",
+  "documento": "FDS 60 - PRIMER EPOXICO POLIAMIDA ROJO, Componente A - PINTULAND.pdf",
+  "pagina": 15,
+  "ancho": 87,
+  "alto": 85,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_ebbf68dd61ae8906a7ddd637cc2b73bc252d6ed370ba385b24dc4509a0ee477a.png",
+  "ruta_relativa": "../imagenes/FDS_060/image_000003_ebbf68dd61ae8906a7ddd637cc2b73bc252d6ed370ba385b24dc4509a0ee477a.png",
+  "documento": "FDS 60 - PRIMER EPOXICO POLIAMIDA ROJO, Componente A - PINTULAND.pdf",
+  "pagina": 15,
+  "ancho": 84,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 4 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_66d6755498af6e839bc85384cbb810da69d8b671fdd6c6c458012e36d65c1942.png",
+  "ruta_relativa": "../imagenes/FDS_060/image_000000_66d6755498af6e839bc85384cbb810da69d8b671fdd6c6c458012e36d65c1942.png",
+  "documento": "FDS 60 - PRIMER EPOXICO POLIAMIDA ROJO, Componente A - PINTULAND.pdf",
+  "pagina": 16,
+  "ancho": 184,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 4 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_97b22b7c0ba368de186d00ef1209937d3f40d6f40eab5484deefe681f1fe9d51.png",
+  "ruta_relativa": "../imagenes/FDS_060/image_000001_97b22b7c0ba368de186d00ef1209937d3f40d6f40eab5484deefe681f1fe9d51.png",
+  "documento": "FDS 60 - PRIMER EPOXICO POLIAMIDA ROJO, Componente A - PINTULAND.pdf",
+  "pagina": 16,
+  "ancho": 266,
+  "alto": 243,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_ab34c53624aa685f89cdbd8fffea1bc0ba1315c3d24f700ac896f5caa7e52960.png",
+  "ruta_relativa": "../imagenes/FDS_060/image_000002_ab34c53624aa685f89cdbd8fffea1bc0ba1315c3d24f700ac896f5caa7e52960.png",
+  "documento": "FDS 60 - PRIMER EPOXICO POLIAMIDA ROJO, Componente A - PINTULAND.pdf",
+  "pagina": 16,
+  "ancho": 1062,
+  "alto": 218,
+  "texto_ocr": "Pintuland",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000003_f2777a94d8049326c53ad18f2d026eaed9492304283e9fda293271a530c9d821.png",
+  "ruta_relativa": "../imagenes/FDS_060/image_000003_f2777a94d8049326c53ad18f2d026eaed9492304283e9fda293271a530c9d821.png",
+  "documento": "FDS 60 - PRIMER EPOXICO POLIAMIDA ROJO, Componente A - PINTULAND.pdf",
+  "pagina": 16,
+  "ancho": 88,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000004_da4e299b9ce81c7baa8ea84d96e0219892be422123b10955bffd63cd14011f53.png",
+  "ruta_relativa": "../imagenes/FDS_060/image_000004_da4e299b9ce81c7baa8ea84d96e0219892be422123b10955bffd63cd14011f53.png",
+  "documento": "FDS 60 - PRIMER EPOXICO POLIAMIDA ROJO, Componente A - PINTULAND.pdf",
+  "pagina": 16,
+  "ancho": 40,
+  "alto": 41,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ }
+]

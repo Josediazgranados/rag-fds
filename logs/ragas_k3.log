@@ -1,0 +1,51 @@
+Q01 k=3 faithfulness: 0.0 (351.9 s)
+Q01 k=3 context_precision: 0.9999999999 (298.0 s)
+Q01 k=3 context_recall: 1.0 (207.1 s)
+FIN_RAGAS
+Q02 k=3 faithfulness: 0.0 (322.9 s)
+Q02 k=3 context_precision: 0.9999999999666667 (230.8 s)
+Q02 k=3 context_recall: 0.5 (169.1 s)
+FIN_RAGAS
+FIN_RAGAS
+FIN_RAGAS
+Q03 k=3 faithfulness: 0.0 (541.9 s)
+Q03 k=3 context_precision: 0.3333333333 (265.9 s)
+Q03 k=3 context_recall: 1.0 (297.9 s)
+FIN_RAGAS
+Q04 k=3 faithfulness: 0.0 (311.6 s)
+Q04 k=3 context_precision: 0.99999999995 (199.7 s)
+Q04 k=3 context_recall: 1.0 (203.6 s)
+FIN_RAGAS
+Q05 k=3 faithfulness: 0.0 (308.8 s)
+Q05 k=3 context_precision: 0.99999999995 (237.8 s)
+Q05 k=3 context_recall: 1.0 (161.1 s)
+FIN_RAGAS
+Q06 k=3 faithfulness: 0.0 (244.0 s)
+Q06 k=3 context_precision: 0.99999999995 (248.5 s)
+Q06 k=3 context_recall: 1.0 (225.1 s)
+FIN_RAGAS
+Q07 k=3 faithfulness: 0.0 (283.7 s)
+Q07 k=3 context_precision: 0.0 (211.1 s)
+Q07 k=3 context_recall: 1.0 (218.7 s)
+FIN_RAGAS
+Q08 k=3 faithfulness: 0.3333333333333333 (323.8 s)
+Q08 k=3 context_precision: 0.99999999995 (207.4 s)
+Q08 k=3 context_recall: 1.0 (187.1 s)
+FIN_RAGAS
+Q09 k=3 faithfulness: 0.0 (388.9 s)
+Q09 k=3 context_precision: 0.99999999995 (251.7 s)
+Q09 k=3 context_recall: 1.0 (250.8 s)
+FIN_RAGAS
+Q10 k=3 faithfulness: 0.0 (328.8 s)
+Q10 k=3 context_precision: 0.99999999995 (228.1 s)
+FIN_RAGAS
+FIN_RAGAS
+FIN_RAGAS
+FIN_RAGAS
+FIN_RAGAS
+FIN_RAGAS
+FIN_RAGAS
+FIN_RAGAS
+FIN_RAGAS
+Q10 k=3 context_recall: 1.0 (293.3 s)
+FIN_RAGAS

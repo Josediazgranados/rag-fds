@@ -1,0 +1,72 @@
+[
+ {
+  "archivo": "image_000000_39440a5d369e2e9d3f7d12979e2aa2c18c4ec8b440dc382e79b1bf7af400be59.png",
+  "ruta_relativa": "../imagenes/FDS_102/image_000000_39440a5d369e2e9d3f7d12979e2aa2c18c4ec8b440dc382e79b1bf7af400be59.png",
+  "documento": "FDS 102 - AMERCOAT 370 RESIN OXIDE RED - PPG.pdf",
+  "pagina": 1,
+  "ancho": 135,
+  "alto": 105,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_df4c79dd9282fd1ed48828fc5dbbf728a8bb2c667657623621005441b9554a3d.png",
+  "ruta_relativa": "../imagenes/FDS_102/image_000000_df4c79dd9282fd1ed48828fc5dbbf728a8bb2c667657623621005441b9554a3d.png",
+  "documento": "FDS 102 - AMERCOAT 370 RESIN OXIDE RED - PPG.pdf",
+  "pagina": 2,
+  "ancho": 98,
+  "alto": 99,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000001_7352d26a77915b814b2fcb273078e90271c3cb780c77397c4572ec795c084f5f.png",
+  "ruta_relativa": "../imagenes/FDS_102/image_000001_7352d26a77915b814b2fcb273078e90271c3cb780c77397c4572ec795c084f5f.png",
+  "documento": "FDS 102 - AMERCOAT 370 RESIN OXIDE RED - PPG.pdf",
+  "pagina": 2,
+  "ancho": 99,
+  "alto": 99,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_d0f45d480638fc404ad96ffbbbbd9f1077716783b976c2c29deee768cb895908.png",
+  "ruta_relativa": "../imagenes/FDS_102/image_000002_d0f45d480638fc404ad96ffbbbbd9f1077716783b976c2c29deee768cb895908.png",
+  "documento": "FDS 102 - AMERCOAT 370 RESIN OXIDE RED - PPG.pdf",
+  "pagina": 2,
+  "ancho": 98,
+  "alto": 97,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_645843158c3493b99ff9d133947b466e2d7a95c7da569efa7325d45dc336e00d.png",
+  "ruta_relativa": "../imagenes/FDS_102/image_000000_645843158c3493b99ff9d133947b466e2d7a95c7da569efa7325d45dc336e00d.png",
+  "documento": "FDS 102 - AMERCOAT 370 RESIN OXIDE RED - PPG.pdf",
+  "pagina": 12,
+  "ancho": 21,
+  "alto": 24,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000001_f534c6e8d2af72832584ba34dafc60fee10430d839c7aa7eb1f42bef99c5c957.png",
+  "ruta_relativa": "../imagenes/FDS_102/image_000001_f534c6e8d2af72832584ba34dafc60fee10430d839c7aa7eb1f42bef99c5c957.png",
+  "documento": "FDS 102 - AMERCOAT 370 RESIN OXIDE RED - PPG.pdf",
+  "pagina": 12,
+  "ancho": 25,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_0cea5a11b7c80b96ec15d0c742fc7f5bf1c2350c582a50addd735948d781d05c.png",
+  "ruta_relativa": "../imagenes/FDS_102/image_000000_0cea5a11b7c80b96ec15d0c742fc7f5bf1c2350c582a50addd735948d781d05c.png",
+  "documento": "FDS 102 - AMERCOAT 370 RESIN OXIDE RED - PPG.pdf",
+  "pagina": 16,
+  "ancho": 21,
+  "alto": 25,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ }
+]

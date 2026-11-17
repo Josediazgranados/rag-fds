@@ -1,0 +1,52 @@
+[
+ {
+  "archivo": "image_000000_c77bab63e775bfb6f19e21ab4756e6f4c3fae651dee26eec508bc2fbe9f31508.png",
+  "ruta_relativa": "../imagenes/FDS_036/image_000000_c77bab63e775bfb6f19e21ab4756e6f4c3fae651dee26eec508bc2fbe9f31508.png",
+  "documento": "FDS 36 - Esmalte_Uretano_AR - SIKA.pdf",
+  "pagina": 1,
+  "ancho": 219,
+  "alto": 77,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_763c91340bf4340010928a1b30e9b67007d4a9313204f22800045845238e53c0.png",
+  "ruta_relativa": "../imagenes/FDS_036/image_000000_763c91340bf4340010928a1b30e9b67007d4a9313204f22800045845238e53c0.png",
+  "documento": "FDS 36 - Esmalte_Uretano_AR - SIKA.pdf",
+  "pagina": 2,
+  "ancho": 300,
+  "alto": 108,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_7043e63c66f2af19d32a96fc1df30923890699e20ba81948fb63780d2ec71e31.png",
+  "ruta_relativa": "../imagenes/FDS_036/image_000000_7043e63c66f2af19d32a96fc1df30923890699e20ba81948fb63780d2ec71e31.png",
+  "documento": "FDS 36 - Esmalte_Uretano_AR - SIKA.pdf",
+  "pagina": 10,
+  "ancho": 68,
+  "alto": 67,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000001_6f1fef4b558091e5d26017dc425c03323937df11af969152e59ff72bdfe772fb.png",
+  "ruta_relativa": "../imagenes/FDS_036/image_000001_6f1fef4b558091e5d26017dc425c03323937df11af969152e59ff72bdfe772fb.png",
+  "documento": "FDS 36 - Esmalte_Uretano_AR - SIKA.pdf",
+  "pagina": 10,
+  "ancho": 69,
+  "alto": 67,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_ecd8729ffdd6214f094ec8a9f74e5547b08fccafb80c72b92fba68b7369ec192.png",
+  "ruta_relativa": "../imagenes/FDS_036/image_000002_ecd8729ffdd6214f094ec8a9f74e5547b08fccafb80c72b92fba68b7369ec192.png",
+  "documento": "FDS 36 - Esmalte_Uretano_AR - SIKA.pdf",
+  "pagina": 10,
+  "ancho": 69,
+  "alto": 66,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ }
+]

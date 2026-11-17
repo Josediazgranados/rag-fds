@@ -1,0 +1,242 @@
+[
+ {
+  "archivo": "image_000000_53266fd1b5483e28fe4049eb9533afa1eeff30795c6c6f9dcb96845dce548536.png",
+  "ruta_relativa": "../imagenes/FDS_003/image_000000_53266fd1b5483e28fe4049eb9533afa1eeff30795c6c6f9dcb96845dce548536.png",
+  "documento": "FDS 3 - ESMALTE-POLIURETANO.pdf",
+  "pagina": 1,
+  "ancho": 235,
+  "alto": 42,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000001_d70300bcb3330eeed60de90fe4e5a82118b541a8a760b91d21f2408cccdcc77c.png",
+  "ruta_relativa": "../imagenes/FDS_003/image_000001_d70300bcb3330eeed60de90fe4e5a82118b541a8a760b91d21f2408cccdcc77c.png",
+  "documento": "FDS 3 - ESMALTE-POLIURETANO.pdf",
+  "pagina": 1,
+  "ancho": 83,
+  "alto": 80,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 3 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000002_4fdc9ae0bd0360501639dbd09a302ae7df130831f6e19bbe1dccc7daf9de4607.png",
+  "ruta_relativa": "../imagenes/FDS_003/image_000002_4fdc9ae0bd0360501639dbd09a302ae7df130831f6e19bbe1dccc7daf9de4607.png",
+  "documento": "FDS 3 - ESMALTE-POLIURETANO.pdf",
+  "pagina": 1,
+  "ancho": 28,
+  "alto": 39,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_b21e18310577fd3fbe86f703c341473a62c111789bbfe6b8f59fb01ac8b6e928.png",
+  "ruta_relativa": "../imagenes/FDS_003/image_000003_b21e18310577fd3fbe86f703c341473a62c111789bbfe6b8f59fb01ac8b6e928.png",
+  "documento": "FDS 3 - ESMALTE-POLIURETANO.pdf",
+  "pagina": 1,
+  "ancho": 39,
+  "alto": 34,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000004_2db6e96f063b1de9eb9edb3e44de21eddaddd859801b5bd3dd1ac5d493098207.png",
+  "ruta_relativa": "../imagenes/FDS_003/image_000004_2db6e96f063b1de9eb9edb3e44de21eddaddd859801b5bd3dd1ac5d493098207.png",
+  "documento": "FDS 3 - ESMALTE-POLIURETANO.pdf",
+  "pagina": 1,
+  "ancho": 38,
+  "alto": 36,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000005_4dcfe0d4853e0246df95159ea8438a316a74f00a25ece4c7fcada753eeda2317.png",
+  "ruta_relativa": "../imagenes/FDS_003/image_000005_4dcfe0d4853e0246df95159ea8438a316a74f00a25ece4c7fcada753eeda2317.png",
+  "documento": "FDS 3 - ESMALTE-POLIURETANO.pdf",
+  "pagina": 1,
+  "ancho": 783,
+  "alto": 140,
+  "texto_ocr": "SALUD INFLAMABLE PELIGRO FÍSICO fo | | PROTECCION PERSONAL ©O@",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000006_62e1afeb0d3a4bf8d57c7aa269db8a550d3bc8e5ec64e50fb80b8223003969a9.png",
+  "ruta_relativa": "../imagenes/FDS_003/image_000006_62e1afeb0d3a4bf8d57c7aa269db8a550d3bc8e5ec64e50fb80b8223003969a9.png",
+  "documento": "FDS 3 - ESMALTE-POLIURETANO.pdf",
+  "pagina": 1,
+  "ancho": 43,
+  "alto": 44,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_28307a2cbaa17468c0fc364736b37d3f31e17a5e8d3eda917de390f1907c1748.png",
+  "ruta_relativa": "../imagenes/FDS_003/image_000000_28307a2cbaa17468c0fc364736b37d3f31e17a5e8d3eda917de390f1907c1748.png",
+  "documento": "FDS 3 - ESMALTE-POLIURETANO.pdf",
+  "pagina": 2,
+  "ancho": 307,
+  "alto": 83,
+  "texto_ocr": "100 Tecnidecor",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000001_d70300bcb3330eeed60de90fe4e5a82118b541a8a760b91d21f2408cccdcc77c.png",
+  "ruta_relativa": "../imagenes/FDS_003/image_000001_d70300bcb3330eeed60de90fe4e5a82118b541a8a760b91d21f2408cccdcc77c.png",
+  "documento": "FDS 3 - ESMALTE-POLIURETANO.pdf",
+  "pagina": 2,
+  "ancho": 83,
+  "alto": 80,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 3 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000002_9255dfb0d94a49f9ff0bc9051de55d211dcea2e66bb2998a957ffb2e0bbda954.png",
+  "ruta_relativa": "../imagenes/FDS_003/image_000002_9255dfb0d94a49f9ff0bc9051de55d211dcea2e66bb2998a957ffb2e0bbda954.png",
+  "documento": "FDS 3 - ESMALTE-POLIURETANO.pdf",
+  "pagina": 2,
+  "ancho": 37,
+  "alto": 35,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_f4701dd6b9c7f568b82df354bc05feca1e9c623963fc3c952bca2fc89e2b917f.png",
+  "ruta_relativa": "../imagenes/FDS_003/image_000003_f4701dd6b9c7f568b82df354bc05feca1e9c623963fc3c952bca2fc89e2b917f.png",
+  "documento": "FDS 3 - ESMALTE-POLIURETANO.pdf",
+  "pagina": 2,
+  "ancho": 45,
+  "alto": 40,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000004_46145a99ccdc07149b28784fd6ae337131f64d6bc0bebf209434e83a485db3cf.png",
+  "ruta_relativa": "../imagenes/FDS_003/image_000004_46145a99ccdc07149b28784fd6ae337131f64d6bc0bebf209434e83a485db3cf.png",
+  "documento": "FDS 3 - ESMALTE-POLIURETANO.pdf",
+  "pagina": 2,
+  "ancho": 48,
+  "alto": 38,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_d70300bcb3330eeed60de90fe4e5a82118b541a8a760b91d21f2408cccdcc77c.png",
+  "ruta_relativa": "../imagenes/FDS_003/image_000000_d70300bcb3330eeed60de90fe4e5a82118b541a8a760b91d21f2408cccdcc77c.png",
+  "documento": "FDS 3 - ESMALTE-POLIURETANO.pdf",
+  "pagina": 3,
+  "ancho": 83,
+  "alto": 80,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000001_302f31b8a84d193dd340ae9e2b9a3f7b02fa0994387e86a4d6c65d616f3791ae.png",
+  "ruta_relativa": "../imagenes/FDS_003/image_000001_302f31b8a84d193dd340ae9e2b9a3f7b02fa0994387e86a4d6c65d616f3791ae.png",
+  "documento": "FDS 3 - ESMALTE-POLIURETANO.pdf",
+  "pagina": 3,
+  "ancho": 36,
+  "alto": 35,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_19113986eccb9c703076388b19198c445112dd1d747e30be5fddc241c897c78d.png",
+  "ruta_relativa": "../imagenes/FDS_003/image_000002_19113986eccb9c703076388b19198c445112dd1d747e30be5fddc241c897c78d.png",
+  "documento": "FDS 3 - ESMALTE-POLIURETANO.pdf",
+  "pagina": 3,
+  "ancho": 54,
+  "alto": 36,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_746b8c7b45e0b4dff8dbf330592f709eb2608b65d6a3db0d7a2542ad183fc76e.png",
+  "ruta_relativa": "../imagenes/FDS_003/image_000003_746b8c7b45e0b4dff8dbf330592f709eb2608b65d6a3db0d7a2542ad183fc76e.png",
+  "documento": "FDS 3 - ESMALTE-POLIURETANO.pdf",
+  "pagina": 3,
+  "ancho": 39,
+  "alto": 41,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000004_9b91a9ed3e0e177f3943c3aa43beba3ce6b40375aee82360c27e834bb7eaabb8.png",
+  "ruta_relativa": "../imagenes/FDS_003/image_000004_9b91a9ed3e0e177f3943c3aa43beba3ce6b40375aee82360c27e834bb7eaabb8.png",
+  "documento": "FDS 3 - ESMALTE-POLIURETANO.pdf",
+  "pagina": 3,
+  "ancho": 45,
+  "alto": 38,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_a58310819338728c8b760367f1f0d076781bb8cba54e40dc7a670614ae266eef.png",
+  "ruta_relativa": "../imagenes/FDS_003/image_000000_a58310819338728c8b760367f1f0d076781bb8cba54e40dc7a670614ae266eef.png",
+  "documento": "FDS 3 - ESMALTE-POLIURETANO.pdf",
+  "pagina": 4,
+  "ancho": 311,
+  "alto": 91,
+  "texto_ocr": "10 | Tecnidecor",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000001_d70300bcb3330eeed60de90fe4e5a82118b541a8a760b91d21f2408cccdcc77c.png",
+  "ruta_relativa": "../imagenes/FDS_003/image_000001_d70300bcb3330eeed60de90fe4e5a82118b541a8a760b91d21f2408cccdcc77c.png",
+  "documento": "FDS 3 - ESMALTE-POLIURETANO.pdf",
+  "pagina": 4,
+  "ancho": 83,
+  "alto": 80,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 3 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000002_9ad839e004fd4c2815d9b2c54ed82950806b973765316b33a43e4b8e07ddb786.png",
+  "ruta_relativa": "../imagenes/FDS_003/image_000002_9ad839e004fd4c2815d9b2c54ed82950806b973765316b33a43e4b8e07ddb786.png",
+  "documento": "FDS 3 - ESMALTE-POLIURETANO.pdf",
+  "pagina": 4,
+  "ancho": 47,
+  "alto": 45,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_7a1076630e783af877560a1630eca10aad85baec9999de44e780603cd6203171.png",
+  "ruta_relativa": "../imagenes/FDS_003/image_000003_7a1076630e783af877560a1630eca10aad85baec9999de44e780603cd6203171.png",
+  "documento": "FDS 3 - ESMALTE-POLIURETANO.pdf",
+  "pagina": 4,
+  "ancho": 45,
+  "alto": 44,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000004_7e2ebab13689b525feacf26428d4de5501854ee399df0e68442ea6a00cef1bb3.png",
+  "ruta_relativa": "../imagenes/FDS_003/image_000004_7e2ebab13689b525feacf26428d4de5501854ee399df0e68442ea6a00cef1bb3.png",
+  "documento": "FDS 3 - ESMALTE-POLIURETANO.pdf",
+  "pagina": 4,
+  "ancho": 40,
+  "alto": 46,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000005_beb475b72f57c47a339b5c46b62c83a60b87e1e8b530efd2a0241c638ffb3dee.png",
+  "ruta_relativa": "../imagenes/FDS_003/image_000005_beb475b72f57c47a339b5c46b62c83a60b87e1e8b530efd2a0241c638ffb3dee.png",
+  "documento": "FDS 3 - ESMALTE-POLIURETANO.pdf",
+  "pagina": 4,
+  "ancho": 34,
+  "alto": 39,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000006_1f9e90853cf09f709bc5c90cf4a8d0b249c7f9be17fc74ef976e1ec6c515dbab.png",
+  "ruta_relativa": "../imagenes/FDS_003/image_000006_1f9e90853cf09f709bc5c90cf4a8d0b249c7f9be17fc74ef976e1ec6c515dbab.png",
+  "documento": "FDS 3 - ESMALTE-POLIURETANO.pdf",
+  "pagina": 4,
+  "ancho": 42,
+  "alto": 39,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ }
+]

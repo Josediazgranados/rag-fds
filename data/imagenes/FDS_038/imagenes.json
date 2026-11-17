@@ -1,0 +1,242 @@
+[
+ {
+  "archivo": "image_000000_458beb4e79abd697eb014fae6a0ab6fd035500e32003753a158d3f5bad21c885.png",
+  "ruta_relativa": "../imagenes/FDS_038/image_000000_458beb4e79abd697eb014fae6a0ab6fd035500e32003753a158d3f5bad21c885.png",
+  "documento": "FDS 38 - ESMALTE TOP QUALITY ROJO BERMELLON 9409 - PINTUCO .pdf",
+  "pagina": 1,
+  "ancho": 143,
+  "alto": 100,
+  "texto_ocr": "e LC $ El Color t awit",
+  "nota": "imagen repetida en 6 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_279b17ed20aa78e007ef6c791ad962f9c4740d9701bb9e03fb74e6a2ac3c67da.png",
+  "ruta_relativa": "../imagenes/FDS_038/image_000001_279b17ed20aa78e007ef6c791ad962f9c4740d9701bb9e03fb74e6a2ac3c67da.png",
+  "documento": "FDS 38 - ESMALTE TOP QUALITY ROJO BERMELLON 9409 - PINTUCO .pdf",
+  "pagina": 1,
+  "ancho": 57,
+  "alto": 57,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_23e7a621463efa1fd66b5b49d39bcd72650191c6d740ab23abacbb22fbbb4691.png",
+  "ruta_relativa": "../imagenes/FDS_038/image_000002_23e7a621463efa1fd66b5b49d39bcd72650191c6d740ab23abacbb22fbbb4691.png",
+  "documento": "FDS 38 - ESMALTE TOP QUALITY ROJO BERMELLON 9409 - PINTUCO .pdf",
+  "pagina": 1,
+  "ancho": 56,
+  "alto": 56,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_0f53f313291e9e49b04ef1180ef98ecedad41a7d77d051c51808739c98321d57.png",
+  "ruta_relativa": "../imagenes/FDS_038/image_000003_0f53f313291e9e49b04ef1180ef98ecedad41a7d77d051c51808739c98321d57.png",
+  "documento": "FDS 38 - ESMALTE TOP QUALITY ROJO BERMELLON 9409 - PINTUCO .pdf",
+  "pagina": 1,
+  "ancho": 58,
+  "alto": 57,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_7a54e3a43fd3c98515957b2ff7f23c2b16d5ba00445bfa882601a3a97e080fcf.png",
+  "ruta_relativa": "../imagenes/FDS_038/image_000000_7a54e3a43fd3c98515957b2ff7f23c2b16d5ba00445bfa882601a3a97e080fcf.png",
+  "documento": "FDS 38 - ESMALTE TOP QUALITY ROJO BERMELLON 9409 - PINTUCO .pdf",
+  "pagina": 2,
+  "ancho": 143,
+  "alto": 99,
+  "texto_ocr": "Pint SS rat",
+  "nota": "imagen repetida en 4 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_7a54e3a43fd3c98515957b2ff7f23c2b16d5ba00445bfa882601a3a97e080fcf.png",
+  "ruta_relativa": "../imagenes/FDS_038/image_000000_7a54e3a43fd3c98515957b2ff7f23c2b16d5ba00445bfa882601a3a97e080fcf.png",
+  "documento": "FDS 38 - ESMALTE TOP QUALITY ROJO BERMELLON 9409 - PINTUCO .pdf",
+  "pagina": 3,
+  "ancho": 143,
+  "alto": 99,
+  "texto_ocr": "Pint SS rat",
+  "nota": "imagen repetida en 4 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_458beb4e79abd697eb014fae6a0ab6fd035500e32003753a158d3f5bad21c885.png",
+  "ruta_relativa": "../imagenes/FDS_038/image_000000_458beb4e79abd697eb014fae6a0ab6fd035500e32003753a158d3f5bad21c885.png",
+  "documento": "FDS 38 - ESMALTE TOP QUALITY ROJO BERMELLON 9409 - PINTUCO .pdf",
+  "pagina": 4,
+  "ancho": 143,
+  "alto": 100,
+  "texto_ocr": "e LC $ El Color t awit",
+  "nota": "imagen repetida en 6 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_190f0b44ae78e32ccaae056398f13428f9ac0a6f5c7241ed5ce8146ddfd5bd0b.png",
+  "ruta_relativa": "../imagenes/FDS_038/image_000001_190f0b44ae78e32ccaae056398f13428f9ac0a6f5c7241ed5ce8146ddfd5bd0b.png",
+  "documento": "FDS 38 - ESMALTE TOP QUALITY ROJO BERMELLON 9409 - PINTUCO .pdf",
+  "pagina": 4,
+  "ancho": 94,
+  "alto": 113,
+  "texto_ocr": "© Protección obligatoria de las vías respiratorias",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000002_fe496b4d16c6413ac532c4e5868a7b1ee3eb53db332870bbb29fe973c7d491b2.png",
+  "ruta_relativa": "../imagenes/FDS_038/image_000002_fe496b4d16c6413ac532c4e5868a7b1ee3eb53db332870bbb29fe973c7d491b2.png",
+  "documento": "FDS 38 - ESMALTE TOP QUALITY ROJO BERMELLON 9409 - PINTUCO .pdf",
+  "pagina": 4,
+  "ancho": 122,
+  "alto": 139,
+  "texto_ocr": "Pictograma Protección obligatoria de las manos.",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000003_50ec7226e49e4ac0d2dad4cfe724dc5ce4308c5e842a7aa54412ed0b0ba12e40.png",
+  "ruta_relativa": "../imagenes/FDS_038/image_000003_50ec7226e49e4ac0d2dad4cfe724dc5ce4308c5e842a7aa54412ed0b0ba12e40.png",
+  "documento": "FDS 38 - ESMALTE TOP QUALITY ROJO BERMELLON 9409 - PINTUCO .pdf",
+  "pagina": 4,
+  "ancho": 118,
+  "alto": 113,
+  "texto_ocr": "Protección obligatoria de la cara",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000000_458beb4e79abd697eb014fae6a0ab6fd035500e32003753a158d3f5bad21c885.png",
+  "ruta_relativa": "../imagenes/FDS_038/image_000000_458beb4e79abd697eb014fae6a0ab6fd035500e32003753a158d3f5bad21c885.png",
+  "documento": "FDS 38 - ESMALTE TOP QUALITY ROJO BERMELLON 9409 - PINTUCO .pdf",
+  "pagina": 5,
+  "ancho": 143,
+  "alto": 100,
+  "texto_ocr": "e LC $ El Color t awit",
+  "nota": "imagen repetida en 6 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_f27276628b5131f70d04ec51a5286941ad564f19e2172e0cc33035e9e6e23040.png",
+  "ruta_relativa": "../imagenes/FDS_038/image_000001_f27276628b5131f70d04ec51a5286941ad564f19e2172e0cc33035e9e6e23040.png",
+  "documento": "FDS 38 - ESMALTE TOP QUALITY ROJO BERMELLON 9409 - PINTUCO .pdf",
+  "pagina": 5,
+  "ancho": 77,
+  "alto": 115,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_a32304b0296ac4aa474c4e1cd2b06905d6317774ff13057e8c19e8baa4c8e25a.png",
+  "ruta_relativa": "../imagenes/FDS_038/image_000002_a32304b0296ac4aa474c4e1cd2b06905d6317774ff13057e8c19e8baa4c8e25a.png",
+  "documento": "FDS 38 - ESMALTE TOP QUALITY ROJO BERMELLON 9409 - PINTUCO .pdf",
+  "pagina": 5,
+  "ancho": 94,
+  "alto": 113,
+  "texto_ocr": "Protección obligatoria de los pies",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000003_8d93f00f7e5f825c14913ba088f9410f00d4e45b67d61697c6686f50c35a6073.png",
+  "ruta_relativa": "../imagenes/FDS_038/image_000003_8d93f00f7e5f825c14913ba088f9410f00d4e45b67d61697c6686f50c35a6073.png",
+  "documento": "FDS 38 - ESMALTE TOP QUALITY ROJO BERMELLON 9409 - PINTUCO .pdf",
+  "pagina": 5,
+  "ancho": 131,
+  "alto": 80,
+  "texto_ocr": "Ducha de emergencia",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000004_f7acf747380552fdf35c71434af9bb34836b83bdaaa6c0991dfa54c779658fb9.png",
+  "ruta_relativa": "../imagenes/FDS_038/image_000004_f7acf747380552fdf35c71434af9bb34836b83bdaaa6c0991dfa54c779658fb9.png",
+  "documento": "FDS 38 - ESMALTE TOP QUALITY ROJO BERMELLON 9409 - PINTUCO .pdf",
+  "pagina": 5,
+  "ancho": 59,
+  "alto": 71,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_458beb4e79abd697eb014fae6a0ab6fd035500e32003753a158d3f5bad21c885.png",
+  "ruta_relativa": "../imagenes/FDS_038/image_000000_458beb4e79abd697eb014fae6a0ab6fd035500e32003753a158d3f5bad21c885.png",
+  "documento": "FDS 38 - ESMALTE TOP QUALITY ROJO BERMELLON 9409 - PINTUCO .pdf",
+  "pagina": 6,
+  "ancho": 143,
+  "alto": 100,
+  "texto_ocr": "e LC $ El Color t awit",
+  "nota": "imagen repetida en 6 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_7a54e3a43fd3c98515957b2ff7f23c2b16d5ba00445bfa882601a3a97e080fcf.png",
+  "ruta_relativa": "../imagenes/FDS_038/image_000000_7a54e3a43fd3c98515957b2ff7f23c2b16d5ba00445bfa882601a3a97e080fcf.png",
+  "documento": "FDS 38 - ESMALTE TOP QUALITY ROJO BERMELLON 9409 - PINTUCO .pdf",
+  "pagina": 7,
+  "ancho": 143,
+  "alto": 99,
+  "texto_ocr": "Pint SS rat",
+  "nota": "imagen repetida en 4 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_458beb4e79abd697eb014fae6a0ab6fd035500e32003753a158d3f5bad21c885.png",
+  "ruta_relativa": "../imagenes/FDS_038/image_000000_458beb4e79abd697eb014fae6a0ab6fd035500e32003753a158d3f5bad21c885.png",
+  "documento": "FDS 38 - ESMALTE TOP QUALITY ROJO BERMELLON 9409 - PINTUCO .pdf",
+  "pagina": 8,
+  "ancho": 143,
+  "alto": 100,
+  "texto_ocr": "e LC $ El Color t awit",
+  "nota": "imagen repetida en 6 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_c7001b8a9c67af241eb8b0a0ecbfb00ae779efc2902c03df2c72b2430e58ac30.png",
+  "ruta_relativa": "../imagenes/FDS_038/image_000001_c7001b8a9c67af241eb8b0a0ecbfb00ae779efc2902c03df2c72b2430e58ac30.png",
+  "documento": "FDS 38 - ESMALTE TOP QUALITY ROJO BERMELLON 9409 - PINTUCO .pdf",
+  "pagina": 8,
+  "ancho": 70,
+  "alto": 64,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_7a54e3a43fd3c98515957b2ff7f23c2b16d5ba00445bfa882601a3a97e080fcf.png",
+  "ruta_relativa": "../imagenes/FDS_038/image_000000_7a54e3a43fd3c98515957b2ff7f23c2b16d5ba00445bfa882601a3a97e080fcf.png",
+  "documento": "FDS 38 - ESMALTE TOP QUALITY ROJO BERMELLON 9409 - PINTUCO .pdf",
+  "pagina": 9,
+  "ancho": 143,
+  "alto": 99,
+  "texto_ocr": "Pint SS rat",
+  "nota": "imagen repetida en 4 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_191b575246c752e19e4c9e77f881ad5a6759ed91e6471b081e88a776ede6f8e2.png",
+  "ruta_relativa": "../imagenes/FDS_038/image_000001_191b575246c752e19e4c9e77f881ad5a6759ed91e6471b081e88a776ede6f8e2.png",
+  "documento": "FDS 38 - ESMALTE TOP QUALITY ROJO BERMELLON 9409 - PINTUCO .pdf",
+  "pagina": 9,
+  "ancho": 70,
+  "alto": 66,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_1181359e89880a8d4a16f0a1259c9039e5c4df67f04633f57d23817be147b914.png",
+  "ruta_relativa": "../imagenes/FDS_038/image_000002_1181359e89880a8d4a16f0a1259c9039e5c4df67f04633f57d23817be147b914.png",
+  "documento": "FDS 38 - ESMALTE TOP QUALITY ROJO BERMELLON 9409 - PINTUCO .pdf",
+  "pagina": 9,
+  "ancho": 70,
+  "alto": 66,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_458beb4e79abd697eb014fae6a0ab6fd035500e32003753a158d3f5bad21c885.png",
+  "ruta_relativa": "../imagenes/FDS_038/image_000000_458beb4e79abd697eb014fae6a0ab6fd035500e32003753a158d3f5bad21c885.png",
+  "documento": "FDS 38 - ESMALTE TOP QUALITY ROJO BERMELLON 9409 - PINTUCO .pdf",
+  "pagina": 10,
+  "ancho": 143,
+  "alto": 100,
+  "texto_ocr": "e LC $ El Color t awit",
+  "nota": "imagen repetida en 6 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_0d67608e3c36aec2996d7da0e124fd5ac2eeeadefb3e9435db04fe3717d4f261.png",
+  "ruta_relativa": "../imagenes/FDS_038/image_000000_0d67608e3c36aec2996d7da0e124fd5ac2eeeadefb3e9435db04fe3717d4f261.png",
+  "documento": "FDS 38 - ESMALTE TOP QUALITY ROJO BERMELLON 9409 - PINTUCO .pdf",
+  "pagina": 11,
+  "ancho": 142,
+  "alto": 99,
+  "texto_ocr": "(Pint Pin ide NN El Color ‘ rat",
+  "nota": ""
+ }
+]

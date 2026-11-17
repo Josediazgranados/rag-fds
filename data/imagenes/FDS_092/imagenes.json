@@ -1,0 +1,432 @@
+[
+ {
+  "archivo": "image_000000_06b10e16b623926a108c7a7ec7b6d2baa98dfb3b6f690ec2e6dee11f8f256980.png",
+  "ruta_relativa": "../imagenes/FDS_092/image_000000_06b10e16b623926a108c7a7ec7b6d2baa98dfb3b6f690ec2e6dee11f8f256980.png",
+  "documento": "FDS 92 - PINTURA COOLGUARD - CORONA.pdf",
+  "pagina": 1,
+  "ancho": 201,
+  "alto": 51,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 12 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_8e9edabf880a0531c3508369536443b2c5203d1e162e1d5c5ce9a68754a12f45.png",
+  "ruta_relativa": "../imagenes/FDS_092/image_000001_8e9edabf880a0531c3508369536443b2c5203d1e162e1d5c5ce9a68754a12f45.png",
+  "documento": "FDS 92 - PINTURA COOLGUARD - CORONA.pdf",
+  "pagina": 1,
+  "ancho": 57,
+  "alto": 55,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_7527dd56679e432d17208471a910f2d9a8c8653292a7b2d53a795d59c4a85270.png",
+  "ruta_relativa": "../imagenes/FDS_092/image_000002_7527dd56679e432d17208471a910f2d9a8c8653292a7b2d53a795d59c4a85270.png",
+  "documento": "FDS 92 - PINTURA COOLGUARD - CORONA.pdf",
+  "pagina": 1,
+  "ancho": 57,
+  "alto": 57,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_178bdbc4784c072051c739ff0002caa8bbf08f7d4e0ee894e49b35accb46bf9d.png",
+  "ruta_relativa": "../imagenes/FDS_092/image_000003_178bdbc4784c072051c739ff0002caa8bbf08f7d4e0ee894e49b35accb46bf9d.png",
+  "documento": "FDS 92 - PINTURA COOLGUARD - CORONA.pdf",
+  "pagina": 1,
+  "ancho": 177,
+  "alto": 87,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_06b10e16b623926a108c7a7ec7b6d2baa98dfb3b6f690ec2e6dee11f8f256980.png",
+  "ruta_relativa": "../imagenes/FDS_092/image_000000_06b10e16b623926a108c7a7ec7b6d2baa98dfb3b6f690ec2e6dee11f8f256980.png",
+  "documento": "FDS 92 - PINTURA COOLGUARD - CORONA.pdf",
+  "pagina": 2,
+  "ancho": 201,
+  "alto": 51,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 12 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_7b63290395f035df06ff470060bf9a24eb014266905ec425b06c904ba41c2e41.png",
+  "ruta_relativa": "../imagenes/FDS_092/image_000001_7b63290395f035df06ff470060bf9a24eb014266905ec425b06c904ba41c2e41.png",
+  "documento": "FDS 92 - PINTURA COOLGUARD - CORONA.pdf",
+  "pagina": 2,
+  "ancho": 23,
+  "alto": 21,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_58f57a95f36b0fb942bb7b73f32f9c77197d3aa6cc51f4d2a0c57732977e9f34.png",
+  "ruta_relativa": "../imagenes/FDS_092/image_000002_58f57a95f36b0fb942bb7b73f32f9c77197d3aa6cc51f4d2a0c57732977e9f34.png",
+  "documento": "FDS 92 - PINTURA COOLGUARD - CORONA.pdf",
+  "pagina": 2,
+  "ancho": 23,
+  "alto": 21,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_f5ab7acb3581f83a5d47a228fd7f29eda521ea1f1cbf14c4bb0bebf1188fc2b8.png",
+  "ruta_relativa": "../imagenes/FDS_092/image_000003_f5ab7acb3581f83a5d47a228fd7f29eda521ea1f1cbf14c4bb0bebf1188fc2b8.png",
+  "documento": "FDS 92 - PINTURA COOLGUARD - CORONA.pdf",
+  "pagina": 2,
+  "ancho": 24,
+  "alto": 22,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000004_a930f4aa898e8cca2c45dce5423a8350cd2396b7107e3276ed749e861cf7eb21.png",
+  "ruta_relativa": "../imagenes/FDS_092/image_000004_a930f4aa898e8cca2c45dce5423a8350cd2396b7107e3276ed749e861cf7eb21.png",
+  "documento": "FDS 92 - PINTURA COOLGUARD - CORONA.pdf",
+  "pagina": 2,
+  "ancho": 22,
+  "alto": 20,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000005_d9162ce78f8a56b688fe6d03c3913772f1ba1e23f0846cee5eaefd8e73e5d6c2.png",
+  "ruta_relativa": "../imagenes/FDS_092/image_000005_d9162ce78f8a56b688fe6d03c3913772f1ba1e23f0846cee5eaefd8e73e5d6c2.png",
+  "documento": "FDS 92 - PINTURA COOLGUARD - CORONA.pdf",
+  "pagina": 2,
+  "ancho": 26,
+  "alto": 26,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000006_6c9e82598ab97328aad6f0f138d422eeb6a2fe95ae379d78c545b0c304626206.png",
+  "ruta_relativa": "../imagenes/FDS_092/image_000006_6c9e82598ab97328aad6f0f138d422eeb6a2fe95ae379d78c545b0c304626206.png",
+  "documento": "FDS 92 - PINTURA COOLGUARD - CORONA.pdf",
+  "pagina": 2,
+  "ancho": 21,
+  "alto": 22,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000007_178bdbc4784c072051c739ff0002caa8bbf08f7d4e0ee894e49b35accb46bf9d.png",
+  "ruta_relativa": "../imagenes/FDS_092/image_000007_178bdbc4784c072051c739ff0002caa8bbf08f7d4e0ee894e49b35accb46bf9d.png",
+  "documento": "FDS 92 - PINTURA COOLGUARD - CORONA.pdf",
+  "pagina": 2,
+  "ancho": 177,
+  "alto": 87,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_06b10e16b623926a108c7a7ec7b6d2baa98dfb3b6f690ec2e6dee11f8f256980.png",
+  "ruta_relativa": "../imagenes/FDS_092/image_000000_06b10e16b623926a108c7a7ec7b6d2baa98dfb3b6f690ec2e6dee11f8f256980.png",
+  "documento": "FDS 92 - PINTURA COOLGUARD - CORONA.pdf",
+  "pagina": 3,
+  "ancho": 201,
+  "alto": 51,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 12 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_fa04935bef25282eef83bf427a00081d3a8c46018a4911a457a087bc930284b8.png",
+  "ruta_relativa": "../imagenes/FDS_092/image_000001_fa04935bef25282eef83bf427a00081d3a8c46018a4911a457a087bc930284b8.png",
+  "documento": "FDS 92 - PINTURA COOLGUARD - CORONA.pdf",
+  "pagina": 3,
+  "ancho": 178,
+  "alto": 87,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 5 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_06b10e16b623926a108c7a7ec7b6d2baa98dfb3b6f690ec2e6dee11f8f256980.png",
+  "ruta_relativa": "../imagenes/FDS_092/image_000000_06b10e16b623926a108c7a7ec7b6d2baa98dfb3b6f690ec2e6dee11f8f256980.png",
+  "documento": "FDS 92 - PINTURA COOLGUARD - CORONA.pdf",
+  "pagina": 4,
+  "ancho": 201,
+  "alto": 51,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 12 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_fa04935bef25282eef83bf427a00081d3a8c46018a4911a457a087bc930284b8.png",
+  "ruta_relativa": "../imagenes/FDS_092/image_000001_fa04935bef25282eef83bf427a00081d3a8c46018a4911a457a087bc930284b8.png",
+  "documento": "FDS 92 - PINTURA COOLGUARD - CORONA.pdf",
+  "pagina": 4,
+  "ancho": 178,
+  "alto": 87,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 5 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_06b10e16b623926a108c7a7ec7b6d2baa98dfb3b6f690ec2e6dee11f8f256980.png",
+  "ruta_relativa": "../imagenes/FDS_092/image_000000_06b10e16b623926a108c7a7ec7b6d2baa98dfb3b6f690ec2e6dee11f8f256980.png",
+  "documento": "FDS 92 - PINTURA COOLGUARD - CORONA.pdf",
+  "pagina": 5,
+  "ancho": 201,
+  "alto": 51,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 12 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_ce658d464ca16361a61e6845d4f8e5815f1ed695aa31d1bb93b7fe0e0e31693f.png",
+  "ruta_relativa": "../imagenes/FDS_092/image_000001_ce658d464ca16361a61e6845d4f8e5815f1ed695aa31d1bb93b7fe0e0e31693f.png",
+  "documento": "FDS 92 - PINTURA COOLGUARD - CORONA.pdf",
+  "pagina": 5,
+  "ancho": 70,
+  "alto": 70,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_2352acab54bfee24fbfd0fc5ae9be980508a70015ec0d9b13488f748aecc0706.png",
+  "ruta_relativa": "../imagenes/FDS_092/image_000002_2352acab54bfee24fbfd0fc5ae9be980508a70015ec0d9b13488f748aecc0706.png",
+  "documento": "FDS 92 - PINTURA COOLGUARD - CORONA.pdf",
+  "pagina": 5,
+  "ancho": 55,
+  "alto": 56,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_35adb2fee50256b3b9c924324d7b89f91abe1142e09402b150673c7d664b173a.png",
+  "ruta_relativa": "../imagenes/FDS_092/image_000003_35adb2fee50256b3b9c924324d7b89f91abe1142e09402b150673c7d664b173a.png",
+  "documento": "FDS 92 - PINTURA COOLGUARD - CORONA.pdf",
+  "pagina": 5,
+  "ancho": 54,
+  "alto": 59,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000004_178bdbc4784c072051c739ff0002caa8bbf08f7d4e0ee894e49b35accb46bf9d.png",
+  "ruta_relativa": "../imagenes/FDS_092/image_000004_178bdbc4784c072051c739ff0002caa8bbf08f7d4e0ee894e49b35accb46bf9d.png",
+  "documento": "FDS 92 - PINTURA COOLGUARD - CORONA.pdf",
+  "pagina": 5,
+  "ancho": 177,
+  "alto": 87,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_06b10e16b623926a108c7a7ec7b6d2baa98dfb3b6f690ec2e6dee11f8f256980.png",
+  "ruta_relativa": "../imagenes/FDS_092/image_000000_06b10e16b623926a108c7a7ec7b6d2baa98dfb3b6f690ec2e6dee11f8f256980.png",
+  "documento": "FDS 92 - PINTURA COOLGUARD - CORONA.pdf",
+  "pagina": 6,
+  "ancho": 201,
+  "alto": 51,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 12 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_77b545b2cef0384c9e0e3981cbd1b174404bf1ca07a1fc2e417faa298c52c87b.png",
+  "ruta_relativa": "../imagenes/FDS_092/image_000001_77b545b2cef0384c9e0e3981cbd1b174404bf1ca07a1fc2e417faa298c52c87b.png",
+  "documento": "FDS 92 - PINTURA COOLGUARD - CORONA.pdf",
+  "pagina": 6,
+  "ancho": 348,
+  "alto": 174,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_7ab23c2dd0bd720a057745c692f6bdf77f47980e6547e08b0cb4d215023781b7.png",
+  "ruta_relativa": "../imagenes/FDS_092/image_000002_7ab23c2dd0bd720a057745c692f6bdf77f47980e6547e08b0cb4d215023781b7.png",
+  "documento": "FDS 92 - PINTURA COOLGUARD - CORONA.pdf",
+  "pagina": 6,
+  "ancho": 178,
+  "alto": 88,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_06b10e16b623926a108c7a7ec7b6d2baa98dfb3b6f690ec2e6dee11f8f256980.png",
+  "ruta_relativa": "../imagenes/FDS_092/image_000000_06b10e16b623926a108c7a7ec7b6d2baa98dfb3b6f690ec2e6dee11f8f256980.png",
+  "documento": "FDS 92 - PINTURA COOLGUARD - CORONA.pdf",
+  "pagina": 7,
+  "ancho": 201,
+  "alto": 51,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 12 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_fa04935bef25282eef83bf427a00081d3a8c46018a4911a457a087bc930284b8.png",
+  "ruta_relativa": "../imagenes/FDS_092/image_000001_fa04935bef25282eef83bf427a00081d3a8c46018a4911a457a087bc930284b8.png",
+  "documento": "FDS 92 - PINTURA COOLGUARD - CORONA.pdf",
+  "pagina": 7,
+  "ancho": 178,
+  "alto": 87,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 5 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_06b10e16b623926a108c7a7ec7b6d2baa98dfb3b6f690ec2e6dee11f8f256980.png",
+  "ruta_relativa": "../imagenes/FDS_092/image_000000_06b10e16b623926a108c7a7ec7b6d2baa98dfb3b6f690ec2e6dee11f8f256980.png",
+  "documento": "FDS 92 - PINTURA COOLGUARD - CORONA.pdf",
+  "pagina": 8,
+  "ancho": 201,
+  "alto": 51,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 12 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_fa04935bef25282eef83bf427a00081d3a8c46018a4911a457a087bc930284b8.png",
+  "ruta_relativa": "../imagenes/FDS_092/image_000001_fa04935bef25282eef83bf427a00081d3a8c46018a4911a457a087bc930284b8.png",
+  "documento": "FDS 92 - PINTURA COOLGUARD - CORONA.pdf",
+  "pagina": 8,
+  "ancho": 178,
+  "alto": 87,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 5 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_06b10e16b623926a108c7a7ec7b6d2baa98dfb3b6f690ec2e6dee11f8f256980.png",
+  "ruta_relativa": "../imagenes/FDS_092/image_000000_06b10e16b623926a108c7a7ec7b6d2baa98dfb3b6f690ec2e6dee11f8f256980.png",
+  "documento": "FDS 92 - PINTURA COOLGUARD - CORONA.pdf",
+  "pagina": 9,
+  "ancho": 201,
+  "alto": 51,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 12 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_fa04935bef25282eef83bf427a00081d3a8c46018a4911a457a087bc930284b8.png",
+  "ruta_relativa": "../imagenes/FDS_092/image_000001_fa04935bef25282eef83bf427a00081d3a8c46018a4911a457a087bc930284b8.png",
+  "documento": "FDS 92 - PINTURA COOLGUARD - CORONA.pdf",
+  "pagina": 9,
+  "ancho": 178,
+  "alto": 87,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 5 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_06b10e16b623926a108c7a7ec7b6d2baa98dfb3b6f690ec2e6dee11f8f256980.png",
+  "ruta_relativa": "../imagenes/FDS_092/image_000000_06b10e16b623926a108c7a7ec7b6d2baa98dfb3b6f690ec2e6dee11f8f256980.png",
+  "documento": "FDS 92 - PINTURA COOLGUARD - CORONA.pdf",
+  "pagina": 10,
+  "ancho": 201,
+  "alto": 51,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 12 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_a4d5d247bdf487897fa1226d6c631c9a8557edab5daa93e03d8ecaae1793b3f3.png",
+  "ruta_relativa": "../imagenes/FDS_092/image_000001_a4d5d247bdf487897fa1226d6c631c9a8557edab5daa93e03d8ecaae1793b3f3.png",
+  "documento": "FDS 92 - PINTURA COOLGUARD - CORONA.pdf",
+  "pagina": 10,
+  "ancho": 68,
+  "alto": 64,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_f428458a14465a36318edf931b1fc61f20259224dae8024e8d1d7e19ecc6e5df.png",
+  "ruta_relativa": "../imagenes/FDS_092/image_000002_f428458a14465a36318edf931b1fc61f20259224dae8024e8d1d7e19ecc6e5df.png",
+  "documento": "FDS 92 - PINTURA COOLGUARD - CORONA.pdf",
+  "pagina": 10,
+  "ancho": 65,
+  "alto": 65,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_83231167e43604a48d3983f6390ca7f539d8b9da90931c2686a21c12e9e9c26d.png",
+  "ruta_relativa": "../imagenes/FDS_092/image_000003_83231167e43604a48d3983f6390ca7f539d8b9da90931c2686a21c12e9e9c26d.png",
+  "documento": "FDS 92 - PINTURA COOLGUARD - CORONA.pdf",
+  "pagina": 10,
+  "ancho": 347,
+  "alto": 171,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000004_be97561bb45ee4f0249c26149ef474b18aa12a9d83af4c5d149005444311ae1f.png",
+  "ruta_relativa": "../imagenes/FDS_092/image_000004_be97561bb45ee4f0249c26149ef474b18aa12a9d83af4c5d149005444311ae1f.png",
+  "documento": "FDS 92 - PINTURA COOLGUARD - CORONA.pdf",
+  "pagina": 10,
+  "ancho": 66,
+  "alto": 65,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000005_01b11258cb2d4d293819b68188aacc39c1500438c46c0cfbb13036db1ce0c035.png",
+  "ruta_relativa": "../imagenes/FDS_092/image_000005_01b11258cb2d4d293819b68188aacc39c1500438c46c0cfbb13036db1ce0c035.png",
+  "documento": "FDS 92 - PINTURA COOLGUARD - CORONA.pdf",
+  "pagina": 10,
+  "ancho": 66,
+  "alto": 67,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000006_fa04935bef25282eef83bf427a00081d3a8c46018a4911a457a087bc930284b8.png",
+  "ruta_relativa": "../imagenes/FDS_092/image_000006_fa04935bef25282eef83bf427a00081d3a8c46018a4911a457a087bc930284b8.png",
+  "documento": "FDS 92 - PINTURA COOLGUARD - CORONA.pdf",
+  "pagina": 10,
+  "ancho": 178,
+  "alto": 87,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_06b10e16b623926a108c7a7ec7b6d2baa98dfb3b6f690ec2e6dee11f8f256980.png",
+  "ruta_relativa": "../imagenes/FDS_092/image_000000_06b10e16b623926a108c7a7ec7b6d2baa98dfb3b6f690ec2e6dee11f8f256980.png",
+  "documento": "FDS 92 - PINTURA COOLGUARD - CORONA.pdf",
+  "pagina": 11,
+  "ancho": 201,
+  "alto": 51,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 12 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_a2e8a6209b02af9351e7848bc25c255f256b05d56d623adc79f688807c85c421.png",
+  "ruta_relativa": "../imagenes/FDS_092/image_000001_a2e8a6209b02af9351e7848bc25c255f256b05d56d623adc79f688807c85c421.png",
+  "documento": "FDS 92 - PINTURA COOLGUARD - CORONA.pdf",
+  "pagina": 11,
+  "ancho": 67,
+  "alto": 66,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_4f795fc385ded035ab8a1d796ad07df54751e6fe7137e21e70c4fb3c2824cfbc.png",
+  "ruta_relativa": "../imagenes/FDS_092/image_000002_4f795fc385ded035ab8a1d796ad07df54751e6fe7137e21e70c4fb3c2824cfbc.png",
+  "documento": "FDS 92 - PINTURA COOLGUARD - CORONA.pdf",
+  "pagina": 11,
+  "ancho": 65,
+  "alto": 66,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_178bdbc4784c072051c739ff0002caa8bbf08f7d4e0ee894e49b35accb46bf9d.png",
+  "ruta_relativa": "../imagenes/FDS_092/image_000003_178bdbc4784c072051c739ff0002caa8bbf08f7d4e0ee894e49b35accb46bf9d.png",
+  "documento": "FDS 92 - PINTURA COOLGUARD - CORONA.pdf",
+  "pagina": 11,
+  "ancho": 177,
+  "alto": 87,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_06b10e16b623926a108c7a7ec7b6d2baa98dfb3b6f690ec2e6dee11f8f256980.png",
+  "ruta_relativa": "../imagenes/FDS_092/image_000000_06b10e16b623926a108c7a7ec7b6d2baa98dfb3b6f690ec2e6dee11f8f256980.png",
+  "documento": "FDS 92 - PINTURA COOLGUARD - CORONA.pdf",
+  "pagina": 12,
+  "ancho": 201,
+  "alto": 51,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 12 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_178bdbc4784c072051c739ff0002caa8bbf08f7d4e0ee894e49b35accb46bf9d.png",
+  "ruta_relativa": "../imagenes/FDS_092/image_000001_178bdbc4784c072051c739ff0002caa8bbf08f7d4e0ee894e49b35accb46bf9d.png",
+  "documento": "FDS 92 - PINTURA COOLGUARD - CORONA.pdf",
+  "pagina": 12,
+  "ancho": 177,
+  "alto": 87,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ }
+]

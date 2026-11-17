@@ -1,0 +1,1135 @@
+id,pagina,palabras_pdf,cobertura,bajo_umbral,faltantes_ejemplo
+FDS_001,1,224,0.991,,peligro fisico
+FDS_001,2,290,1.0,,
+FDS_001,3,173,1.0,,
+FDS_002,1,146,0.973,,salud inflamable peligro fisico
+FDS_002,2,237,1.0,,
+FDS_002,3,137,1.0,,
+FDS_003,1,184,1.0,,
+FDS_003,2,276,1.0,,
+FDS_003,3,194,1.0,,
+FDS_003,4,240,1.0,,
+FDS_004,1,221,0.982,,salud inflamable peligro fisico
+FDS_004,2,332,1.0,,
+FDS_004,3,198,1.0,,
+FDS_004,4,257,1.0,,
+FDS_004,5,87,1.0,,
+FDS_005,1,192,1.0,,
+FDS_005,2,345,1.0,,
+FDS_005,3,299,1.0,,
+FDS_005,4,167,1.0,,
+FDS_005,5,203,1.0,,
+FDS_005,6,409,1.0,,
+FDS_005,7,159,1.0,,
+FDS_005,8,364,0.992,,datos seguridad ficha
+FDS_006,1,230,1.0,,
+FDS_006,2,314,1.0,,
+FDS_006,3,393,1.0,,
+FDS_006,4,288,1.0,,
+FDS_006,5,150,1.0,,
+FDS_006,6,230,1.0,,
+FDS_006,7,338,1.0,,
+FDS_006,8,169,1.0,,
+FDS_006,9,334,1.0,,
+FDS_006,10,132,0.356,si,esta informacion seguridad producto ficha datos cuanto este
+FDS_007,1,215,1.0,,
+FDS_007,2,323,1.0,,
+FDS_007,3,381,1.0,,
+FDS_007,4,257,1.0,,
+FDS_007,5,162,1.0,,
+FDS_007,6,214,1.0,,
+FDS_007,7,362,1.0,,
+FDS_007,8,145,1.0,,
+FDS_007,9,168,1.0,,
+FDS_007,10,286,0.997,,pagina
+FDS_007,11,163,0.485,si,esta seguridad informacion ficha datos producto cuanto este
+FDS_008,1,242,1.0,,
+FDS_008,2,287,1.0,,
+FDS_008,3,447,1.0,,
+FDS_008,4,249,1.0,,
+FDS_008,5,167,1.0,,
+FDS_008,6,204,1.0,,
+FDS_008,7,308,1.0,,
+FDS_008,8,156,1.0,,
+FDS_008,9,144,1.0,,
+FDS_008,10,356,0.986,,emision revision version sustituye pagina
+FDS_008,11,161,0.453,si,esta seguridad informacion ficha datos producto cuanto este
+FDS_009,1,181,0.983,,inflamable peligro fisico
+FDS_009,2,276,1.0,,
+FDS_009,3,193,1.0,,
+FDS_009,4,63,1.0,,
+FDS_010,1,236,1.0,,
+FDS_010,2,223,1.0,,
+FDS_010,3,344,1.0,,
+FDS_010,4,303,1.0,,
+FDS_010,5,213,1.0,,
+FDS_010,6,151,1.0,,
+FDS_010,7,321,1.0,,
+FDS_010,8,238,1.0,,
+FDS_010,9,116,1.0,,
+FDS_010,10,182,0.973,,emision revision version sustituye pagina
+FDS_010,11,173,0.971,,emision revision version sustituye pagina
+FDS_010,12,349,0.986,,emision revision version sustituye pagina
+FDS_010,13,132,0.356,si,esta informacion seguridad producto ficha datos cuanto este
+FDS_011,1,206,1.0,,
+FDS_011,2,391,0.972,,intoxica cion rapida mente aspi racion dificaciones almacena
+FDS_011,3,261,0.996,,locidades
+FDS_011,4,286,0.997,,vencion
+FDS_011,5,197,0.99,,racteristicas excesi
+FDS_011,6,394,0.975,,stancias quemadu sustan cias presen tando clasifica plen
+FDS_011,7,173,0.988,,rela cionadas
+FDS_011,8,240,0.992,,tancia ejem
+FDS_011,9,276,0.993,,seguri individua
+FDS_013,1,251,0.988,,inflamable peligro fisico
+FDS_013,2,268,1.0,,
+FDS_013,3,195,1.0,,
+FDS_014,1,181,0.983,,inflamable peligro fisico
+FDS_014,2,280,1.0,,
+FDS_014,3,181,1.0,,
+FDS_014,4,47,1.0,,
+FDS_015,1,172,1.0,,
+FDS_015,2,332,1.0,,
+FDS_015,3,216,1.0,,
+FDS_015,4,83,1.0,,
+FDS_016,1,207,0.995,,salud
+FDS_016,2,361,1.0,,
+FDS_016,3,226,1.0,,
+FDS_016,4,69,1.0,,
+FDS_017,1,201,1.0,,
+FDS_017,2,320,1.0,,
+FDS_017,3,200,1.0,,
+FDS_017,4,49,1.0,,
+FDS_018,1,190,1.0,,
+FDS_018,2,317,1.0,,
+FDS_018,3,342,1.0,,
+FDS_018,4,168,1.0,,
+FDS_018,5,188,1.0,,
+FDS_018,6,414,1.0,,
+FDS_018,7,175,1.0,,
+FDS_018,8,370,0.776,si,seguridad esta informacion datos producto ficha este cuanto
+FDS_019,1,190,1.0,,
+FDS_019,2,366,1.0,,
+FDS_019,3,329,1.0,,
+FDS_019,4,200,1.0,,
+FDS_019,5,174,0.989,,seguridad continua
+FDS_019,6,352,1.0,,
+FDS_019,7,211,1.0,,
+FDS_019,8,327,1.0,,
+FDS_019,9,156,0.487,si,esta informacion seguridad producto ficha datos cuanto este
+FDS_020,1,114,1.0,,
+FDS_020,2,226,0.996,,calientes
+FDS_020,3,208,1.0,,
+FDS_020,4,255,0.988,,adecua informa ciones
+FDS_020,5,295,1.0,,
+FDS_020,6,268,1.0,,
+FDS_020,7,167,1.0,,
+FDS_020,8,149,1.0,,
+FDS_020,9,135,1.0,,
+FDS_020,10,49,0.939,,fecha emision msds
+FDS_021,1,208,1.0,,
+FDS_021,2,278,1.0,,
+FDS_021,3,431,1.0,,
+FDS_021,4,274,1.0,,
+FDS_021,5,166,1.0,,
+FDS_021,6,195,1.0,,
+FDS_021,7,385,1.0,,
+FDS_021,8,131,1.0,,
+FDS_021,9,165,1.0,,
+FDS_021,10,135,0.978,,emision version pagina
+FDS_021,11,308,0.99,,emision version pagina
+FDS_021,12,130,0.362,si,esta informacion seguridad producto ficha datos cuanto este
+FDS_022,1,101,1.0,,
+FDS_022,2,185,1.0,,
+FDS_022,3,196,0.98,,alrede dores tonomo adecua
+FDS_022,4,308,0.994,,informa ciones
+FDS_022,5,208,1.0,,
+FDS_022,6,132,1.0,,
+FDS_022,7,164,1.0,,
+FDS_022,8,166,1.0,,
+FDS_023,1,132,0.992,,espanol
+FDS_023,2,266,1.0,,
+FDS_023,3,318,1.0,,
+FDS_023,4,247,1.0,,
+FDS_023,5,378,1.0,,
+FDS_023,6,208,1.0,,
+FDS_023,7,332,1.0,,
+FDS_023,8,171,1.0,,
+FDS_023,9,130,1.0,,
+FDS_023,10,186,0.984,,fecha emision version
+FDS_023,11,229,0.987,,fecha emision version
+FDS_023,12,143,0.979,,fecha emision version
+FDS_023,13,291,0.986,,salud fecha emision version
+FDS_023,14,220,0.986,,fecha emision version
+FDS_024,1,131,0.992,,espanol
+FDS_024,2,211,0.995,,clasificacion
+FDS_024,3,294,1.0,,
+FDS_024,4,253,1.0,,
+FDS_024,5,348,1.0,,
+FDS_024,6,256,1.0,,
+FDS_024,7,299,1.0,,
+FDS_024,8,169,0.994,,octanol
+FDS_024,9,144,1.0,,
+FDS_024,10,174,0.983,,fecha emision version
+FDS_024,11,178,0.983,,fecha emision version
+FDS_024,12,250,0.988,,fecha emision version
+FDS_024,13,229,0.983,,salud fecha emision version
+FDS_024,14,237,0.987,,version fecha emision
+FDS_025,1,138,0.993,,espanol
+FDS_025,2,245,1.0,,
+FDS_025,3,343,1.0,,
+FDS_025,4,209,1.0,,
+FDS_025,5,337,1.0,,
+FDS_025,6,277,1.0,,
+FDS_025,7,265,1.0,,
+FDS_025,8,184,0.995,,octanol
+FDS_025,9,187,1.0,,
+FDS_025,10,155,1.0,,
+FDS_025,11,163,1.0,,
+FDS_025,12,166,1.0,,
+FDS_025,13,181,1.0,,
+FDS_025,14,237,1.0,,
+FDS_025,15,287,0.997,,salud
+FDS_025,16,29,1.0,,
+FDS_026,1,101,1.0,,
+FDS_026,2,227,1.0,,
+FDS_026,3,182,1.0,,
+FDS_026,4,311,1.0,,
+FDS_026,5,268,0.996,,pervision
+FDS_026,6,254,0.992,,quimico resistentes
+FDS_026,7,143,1.0,,
+FDS_026,8,147,1.0,,
+FDS_026,9,166,1.0,,
+FDS_027,1,107,1.0,,
+FDS_027,2,187,1.0,,
+FDS_027,3,177,1.0,,
+FDS_027,4,245,1.0,,
+FDS_027,5,170,1.0,,
+FDS_027,6,146,1.0,,
+FDS_027,7,155,1.0,,
+FDS_027,8,100,1.0,,
+FDS_028,1,118,1.0,,
+FDS_028,2,155,1.0,,
+FDS_028,3,223,0.996,,adecua
+FDS_028,4,233,1.0,,
+FDS_028,5,128,1.0,,
+FDS_028,6,155,1.0,,
+FDS_028,7,159,1.0,,
+FDS_028,8,34,1.0,,
+FDS_029,1,173,1.0,,
+FDS_029,2,299,1.0,,
+FDS_029,3,322,1.0,,
+FDS_029,4,267,1.0,,
+FDS_029,5,158,1.0,,
+FDS_029,6,292,1.0,,
+FDS_029,7,303,1.0,,
+FDS_029,8,309,1.0,,
+FDS_029,9,207,1.0,,
+FDS_030,1,240,1.0,,
+FDS_030,2,302,1.0,,
+FDS_030,3,425,1.0,,
+FDS_030,4,275,1.0,,
+FDS_030,5,152,1.0,,
+FDS_030,6,217,1.0,,
+FDS_030,7,425,1.0,,
+FDS_030,8,139,1.0,,
+FDS_030,9,168,1.0,,
+FDS_030,10,353,0.986,,emision revision version sustituye pagina
+FDS_030,11,132,0.356,si,esta informacion seguridad producto ficha datos cuanto este
+FDS_031,1,92,1.0,,
+FDS_031,2,291,1.0,,
+FDS_031,3,359,1.0,,
+FDS_031,4,210,1.0,,
+FDS_031,5,86,1.0,,
+FDS_031,6,176,1.0,,
+FDS_031,7,356,1.0,,
+FDS_031,8,195,1.0,,
+FDS_031,9,62,1.0,,
+FDS_031,10,290,0.99,,emision version pagina
+FDS_031,11,242,0.645,si,esta seguridad producto datos informacion ficha este cuanto
+FDS_032,1,207,1.0,,
+FDS_032,2,179,1.0,,
+FDS_032,3,349,1.0,,
+FDS_032,4,278,1.0,,
+FDS_032,5,274,1.0,,
+FDS_032,6,136,1.0,,
+FDS_032,7,321,1.0,,
+FDS_032,8,229,1.0,,
+FDS_032,9,150,1.0,,
+FDS_032,10,107,0.953,,emision revision version sustituye pagina
+FDS_032,11,197,0.975,,emision revision version sustituye pagina
+FDS_032,12,149,0.966,,emision revision version sustituye pagina
+FDS_032,13,340,0.985,,emision revision version sustituye pagina
+FDS_032,14,161,0.453,si,esta seguridad informacion ficha datos producto cuanto este
+FDS_033,1,240,1.0,,
+FDS_033,2,300,0.993,,ebido erre
+FDS_033,3,426,0.995,,empleado ignic
+FDS_033,4,262,1.0,,
+FDS_033,5,152,1.0,,
+FDS_033,6,214,1.0,,
+FDS_033,7,277,0.996,,naus
+FDS_033,8,159,0.994,,tado
+FDS_033,9,134,1.0,,
+FDS_033,10,330,0.982,,etiquet emision revision version sustituye pagina
+FDS_033,11,132,0.333,si,esta seguridad informacion ficha datos producto cuanto este
+FDS_034,1,248,1.0,,
+FDS_034,2,186,1.0,,
+FDS_034,3,360,1.0,,
+FDS_034,4,297,1.0,,
+FDS_034,5,246,1.0,,
+FDS_034,6,155,1.0,,
+FDS_034,7,272,1.0,,
+FDS_034,8,243,1.0,,
+FDS_034,9,155,1.0,,
+FDS_034,10,143,1.0,,
+FDS_034,11,101,1.0,,
+FDS_034,12,165,1.0,,
+FDS_034,13,174,1.0,,
+FDS_034,14,333,1.0,,
+FDS_034,15,156,0.468,si,esta seguridad informacion ficha datos producto cuanto este
+FDS_035,1,234,1.0,,
+FDS_035,2,323,1.0,,
+FDS_035,3,412,1.0,,
+FDS_035,4,257,1.0,,
+FDS_035,5,162,1.0,,
+FDS_035,6,214,1.0,,
+FDS_035,7,361,1.0,,
+FDS_035,8,159,1.0,,
+FDS_035,9,134,1.0,,
+FDS_035,10,330,0.985,,emision revision version sustituye pagina
+FDS_035,11,132,0.356,si,esta informacion seguridad producto ficha datos cuanto este
+FDS_036,1,110,1.0,,
+FDS_036,2,223,1.0,,
+FDS_036,3,164,1.0,,
+FDS_036,4,243,1.0,,
+FDS_036,5,283,0.996,,informacio
+FDS_036,6,253,0.988,,pervision quimico resistentes
+FDS_036,7,219,1.0,,
+FDS_036,8,148,1.0,,
+FDS_036,9,180,1.0,,
+FDS_036,10,138,0.978,,fecha emision msds
+FDS_036,11,70,0.957,,fecha emision msds
+FDS_037,1,239,1.0,,
+FDS_037,2,309,1.0,,
+FDS_037,3,425,1.0,,
+FDS_037,4,262,1.0,,
+FDS_037,5,156,1.0,,
+FDS_037,6,217,1.0,,
+FDS_037,7,291,1.0,,
+FDS_037,8,149,1.0,,
+FDS_037,9,142,1.0,,
+FDS_037,10,313,0.984,,emision revision version sustituye pagina
+FDS_037,11,253,0.652,si,esta seguridad producto datos informacion ficha este cuanto
+FDS_038,1,231,1.0,,
+FDS_038,2,330,1.0,,
+FDS_038,3,407,1.0,,
+FDS_038,4,256,1.0,,
+FDS_038,5,156,1.0,,
+FDS_038,6,214,1.0,,
+FDS_038,7,358,1.0,,
+FDS_038,8,154,1.0,,
+FDS_038,9,134,1.0,,
+FDS_038,10,319,0.984,,emision revision version sustituye pagina
+FDS_038,11,132,0.356,si,esta informacion seguridad producto ficha datos cuanto este
+FDS_039,1,200,1.0,,
+FDS_039,2,331,1.0,,
+FDS_039,3,282,1.0,,
+FDS_039,4,269,1.0,,
+FDS_039,5,156,1.0,,
+FDS_039,6,271,1.0,,
+FDS_039,7,415,1.0,,
+FDS_039,8,167,1.0,,
+FDS_039,9,404,0.993,,datos seguridad ficha
+FDS_040,1,190,1.0,,
+FDS_040,2,332,1.0,,
+FDS_040,3,224,1.0,,
+FDS_040,4,289,1.0,,
+FDS_040,5,139,1.0,,
+FDS_040,6,292,1.0,,
+FDS_040,7,385,1.0,,
+FDS_040,8,301,1.0,,
+FDS_040,9,226,0.987,,datos seguridad ficha
+FDS_041,1,201,1.0,,
+FDS_041,2,345,1.0,,
+FDS_041,3,307,1.0,,
+FDS_041,4,169,1.0,,
+FDS_041,5,191,1.0,,
+FDS_041,6,413,1.0,,
+FDS_041,7,170,1.0,,
+FDS_041,8,364,1.0,,
+FDS_042,1,181,1.0,,
+FDS_042,2,216,1.0,,
+FDS_042,3,378,1.0,,
+FDS_042,4,266,1.0,,
+FDS_042,5,159,1.0,,
+FDS_042,6,202,1.0,,
+FDS_042,7,412,1.0,,
+FDS_042,8,159,1.0,,
+FDS_042,9,343,1.0,,
+FDS_042,10,88,1.0,,
+FDS_043,1,155,1.0,,
+FDS_043,2,284,1.0,,
+FDS_043,3,309,1.0,,
+FDS_043,4,270,1.0,,
+FDS_043,5,161,1.0,,
+FDS_043,6,215,1.0,,
+FDS_043,7,406,1.0,,
+FDS_043,8,154,1.0,,
+FDS_043,9,395,0.992,,datos seguridad ficha
+FDS_044,1,194,1.0,,
+FDS_044,2,246,1.0,,
+FDS_044,3,326,1.0,,
+FDS_044,4,282,1.0,,
+FDS_044,5,171,1.0,,
+FDS_044,6,202,1.0,,
+FDS_044,7,349,1.0,,
+FDS_044,8,154,1.0,,
+FDS_044,9,338,1.0,,
+FDS_044,10,88,1.0,,
+FDS_045,1,200,1.0,,
+FDS_045,2,274,1.0,,
+FDS_045,3,372,1.0,,
+FDS_045,4,267,1.0,,
+FDS_045,5,162,1.0,,
+FDS_045,6,200,1.0,,
+FDS_045,7,353,1.0,,
+FDS_045,8,140,1.0,,
+FDS_045,9,361,1.0,,
+FDS_045,10,294,0.701,si,esta seguridad producto datos informacion ficha este cuanto
+FDS_046,1,189,1.0,,
+FDS_046,2,333,1.0,,
+FDS_046,3,311,1.0,,
+FDS_046,4,212,1.0,,
+FDS_046,5,144,0.938,,almacenamiento cumplen instrucciones tecnicas productos quimicos indicadas manipulacion
+FDS_046,6,362,1.0,,
+FDS_046,7,238,1.0,,
+FDS_046,8,342,1.0,,
+FDS_046,9,183,0.546,si,esta seguridad informacion ficha datos producto cuanto este
+FDS_047,1,108,1.0,,
+FDS_047,2,212,1.0,,
+FDS_047,3,248,1.0,,
+FDS_047,4,265,1.0,,
+FDS_047,5,349,1.0,,
+FDS_047,6,254,0.988,,seguridad encuentren cerca
+FDS_047,7,246,1.0,,
+FDS_047,8,161,1.0,,
+FDS_047,9,155,1.0,,
+FDS_047,10,241,0.992,,spanish colombia
+FDS_047,11,164,1.0,,
+FDS_047,12,188,1.0,,
+FDS_047,13,174,0.989,,spanish colombia
+FDS_047,14,97,0.979,,spanish colombia
+FDS_048,1,123,1.0,,
+FDS_048,2,171,1.0,,
+FDS_048,3,264,1.0,,
+FDS_048,4,264,1.0,,
+FDS_048,5,288,1.0,,
+FDS_048,6,204,0.951,,normas adecuadas monitoreo documentos guia nacionales sobre metodos
+FDS_048,7,266,1.0,,
+FDS_048,8,154,1.0,,
+FDS_048,9,147,1.0,,
+FDS_048,10,156,1.0,,
+FDS_048,11,179,1.0,,
+FDS_048,12,126,1.0,,
+FDS_048,13,198,1.0,,
+FDS_048,14,148,1.0,,
+FDS_048,15,131,1.0,,
+FDS_049,1,154,1.0,,
+FDS_049,2,241,1.0,,
+FDS_049,3,333,1.0,,
+FDS_049,4,267,1.0,,
+FDS_049,5,176,1.0,,
+FDS_049,6,199,0.995,,continua
+FDS_049,7,427,1.0,,
+FDS_049,8,153,1.0,,
+FDS_049,9,338,1.0,,
+FDS_049,10,132,1.0,,
+FDS_050,1,240,1.0,,
+FDS_050,2,262,1.0,,
+FDS_050,3,311,1.0,,
+FDS_050,4,238,1.0,,
+FDS_050,5,271,1.0,,
+FDS_050,6,152,1.0,,
+FDS_050,7,235,1.0,,
+FDS_050,8,373,1.0,,
+FDS_050,9,105,1.0,,
+FDS_050,10,76,0.961,,emision version pagina
+FDS_050,11,172,0.983,,emision version pagina
+FDS_050,12,143,0.979,,emision version pagina
+FDS_050,13,368,0.992,,emision version pagina
+FDS_050,14,166,0.506,si,esta seguridad informacion ficha producto datos cuanto este
+FDS_051,1,251,1.0,,
+FDS_051,2,276,1.0,,
+FDS_051,3,311,1.0,,
+FDS_051,4,256,1.0,,
+FDS_051,5,274,1.0,,
+FDS_051,6,165,1.0,,
+FDS_051,7,276,1.0,,
+FDS_051,8,391,1.0,,
+FDS_051,9,168,1.0,,
+FDS_051,10,145,0.966,,emision revision version sustituye pagina
+FDS_051,11,384,0.987,,emision revision version sustituye pagina
+FDS_051,12,134,0.396,si,esta informacion seguridad producto ficha cuanto este contenida
+FDS_052,1,228,1.0,,
+FDS_052,2,266,1.0,,
+FDS_052,3,408,1.0,,
+FDS_052,4,262,1.0,,
+FDS_052,5,197,1.0,,
+FDS_052,6,176,1.0,,
+FDS_052,7,409,1.0,,
+FDS_052,8,210,1.0,,
+FDS_052,9,142,1.0,,
+FDS_052,10,143,0.979,,emision version pagina
+FDS_052,11,375,0.992,,emision version pagina
+FDS_052,12,82,0.0,si,esta seguridad informacion ficha producto datos cuanto este
+FDS_053,1,252,1.0,,
+FDS_053,2,276,1.0,,
+FDS_053,3,325,1.0,,
+FDS_053,4,222,1.0,,
+FDS_053,5,266,1.0,,
+FDS_053,6,167,1.0,,
+FDS_053,7,239,1.0,,
+FDS_053,8,430,1.0,,
+FDS_053,9,106,1.0,,
+FDS_053,10,104,0.952,,emision revision version sustituye pagina
+FDS_053,11,140,0.964,,emision revision version sustituye pagina
+FDS_053,12,147,0.966,,emision revision version sustituye pagina
+FDS_053,13,365,0.986,,emision revision version sustituye pagina
+FDS_053,14,134,0.396,si,esta informacion seguridad producto ficha cuanto este contenida
+FDS_054,1,176,1.0,,
+FDS_054,2,347,1.0,,
+FDS_054,3,285,1.0,,
+FDS_054,4,251,1.0,,
+FDS_054,5,175,1.0,,
+FDS_054,6,179,1.0,,
+FDS_054,7,399,1.0,,
+FDS_054,8,214,1.0,,
+FDS_054,9,182,1.0,,
+FDS_054,10,372,0.987,,emision revision version sustituye pagina
+FDS_054,11,84,0.94,,emision revision version sustituye pagina
+FDS_055,1,193,1.0,,
+FDS_055,2,263,1.0,,
+FDS_055,3,365,0.995,,vapor aire
+FDS_055,4,342,1.0,,
+FDS_055,5,270,0.985,,observaciones mascara autofiltrante vias
+FDS_055,6,170,1.0,,
+FDS_055,7,206,1.0,,
+FDS_055,8,360,1.0,,
+FDS_055,9,135,1.0,,
+FDS_055,10,153,0.993,,pagina
+FDS_055,11,151,0.993,,pagina
+FDS_055,12,267,0.996,,pagina
+FDS_055,13,289,0.997,,pagina
+FDS_055,14,99,0.99,,pagina
+FDS_056,1,192,1.0,,
+FDS_056,2,313,1.0,,
+FDS_056,3,324,1.0,,
+FDS_056,4,276,1.0,,
+FDS_056,5,155,1.0,,
+FDS_056,6,216,1.0,,
+FDS_056,7,349,1.0,,
+FDS_056,8,135,1.0,,
+FDS_056,9,167,1.0,,
+FDS_056,10,368,0.997,,pagina
+FDS_056,11,181,0.994,,pagina
+FDS_057,1,185,1.0,,
+FDS_057,2,310,1.0,,
+FDS_057,3,345,1.0,,
+FDS_057,4,266,1.0,,
+FDS_057,5,182,1.0,,
+FDS_057,6,190,1.0,,
+FDS_057,7,321,1.0,,
+FDS_057,8,186,1.0,,
+FDS_057,9,353,1.0,,
+FDS_057,10,83,0.0,si,esta seguridad informacion ficha producto datos cuanto este
+FDS_058,1,230,1.0,,
+FDS_058,2,266,1.0,,
+FDS_058,3,357,1.0,,
+FDS_058,4,389,0.995,,vapor aire
+FDS_058,5,252,1.0,,
+FDS_058,6,205,1.0,,
+FDS_058,7,149,1.0,,
+FDS_058,8,337,1.0,,
+FDS_058,9,202,1.0,,
+FDS_058,10,182,1.0,,
+FDS_058,11,170,1.0,,
+FDS_058,12,120,1.0,,
+FDS_058,13,311,1.0,,
+FDS_058,14,293,1.0,,
+FDS_058,15,178,0.949,,https para solicitar seguridad especifico pintuland form consulta
+FDS_059,1,217,1.0,,
+FDS_059,2,283,1.0,,
+FDS_059,3,349,1.0,,
+FDS_059,4,281,1.0,,
+FDS_059,5,179,1.0,,
+FDS_059,6,170,1.0,,
+FDS_059,7,385,1.0,,
+FDS_059,8,140,1.0,,
+FDS_059,9,312,1.0,,
+FDS_059,10,364,0.997,,pagina
+FDS_060,1,181,1.0,,
+FDS_060,2,227,1.0,,
+FDS_060,3,360,1.0,,
+FDS_060,4,376,0.995,,vapor aire
+FDS_060,5,133,1.0,,
+FDS_060,6,274,1.0,,
+FDS_060,7,157,1.0,,
+FDS_060,8,245,1.0,,
+FDS_060,9,321,1.0,,
+FDS_060,10,168,1.0,,
+FDS_060,11,133,1.0,,
+FDS_060,12,172,1.0,,
+FDS_060,13,90,1.0,,
+FDS_060,14,299,1.0,,
+FDS_060,15,285,1.0,,
+FDS_060,16,73,0.932,,codigo seguridad interno ficha datos
+FDS_061,1,169,1.0,,
+FDS_061,2,236,1.0,,
+FDS_061,3,368,1.0,,
+FDS_061,4,259,1.0,,
+FDS_061,5,227,1.0,,
+FDS_061,6,140,1.0,,
+FDS_061,7,363,1.0,,
+FDS_061,8,239,1.0,,
+FDS_061,9,309,1.0,,
+FDS_061,10,255,0.996,,pagina
+FDS_062,1,179,1.0,,
+FDS_062,2,349,1.0,,
+FDS_062,3,312,1.0,,
+FDS_062,4,272,1.0,,
+FDS_062,5,157,1.0,,
+FDS_062,6,229,1.0,,
+FDS_062,7,370,1.0,,
+FDS_062,8,91,1.0,,
+FDS_062,9,311,1.0,,
+FDS_062,10,320,0.734,si,seguridad esta ficha producto informacion datos este cuanto
+FDS_063,1,116,1.0,,
+FDS_063,2,180,1.0,,
+FDS_063,3,290,1.0,,
+FDS_063,4,338,1.0,,
+FDS_063,5,288,1.0,,
+FDS_063,6,223,0.996,,octanol
+FDS_063,7,155,1.0,,
+FDS_063,8,153,1.0,,
+FDS_063,9,193,1.0,,
+FDS_063,10,174,0.989,,spanish colombia
+FDS_063,11,184,0.989,,spanish colombia
+FDS_063,12,170,0.988,,spanish colombia
+FDS_064,1,118,1.0,,
+FDS_064,2,180,1.0,,
+FDS_064,3,290,1.0,,
+FDS_064,4,338,1.0,,
+FDS_064,5,288,1.0,,
+FDS_064,6,223,0.996,,octanol
+FDS_064,7,159,1.0,,
+FDS_064,8,153,1.0,,
+FDS_064,9,195,1.0,,
+FDS_064,10,174,0.989,,spanish colombia
+FDS_064,11,186,0.989,,spanish colombia
+FDS_064,12,170,0.988,,spanish colombia
+FDS_065,1,117,1.0,,
+FDS_065,2,249,1.0,,
+FDS_065,3,204,1.0,,
+FDS_065,4,255,1.0,,
+FDS_065,5,335,1.0,,
+FDS_065,6,247,1.0,,
+FDS_065,7,323,1.0,,
+FDS_065,8,148,0.993,,octanol
+FDS_065,9,178,1.0,,
+FDS_065,10,158,1.0,,
+FDS_065,11,193,1.0,,
+FDS_065,12,280,1.0,,
+FDS_065,13,126,1.0,,
+FDS_065,14,182,1.0,,
+FDS_065,15,201,1.0,,
+FDS_066,1,232,1.0,,
+FDS_066,2,231,1.0,,
+FDS_066,3,360,1.0,,
+FDS_066,4,389,0.995,,vapor aire
+FDS_066,5,113,1.0,,
+FDS_066,6,263,1.0,,
+FDS_066,7,197,1.0,,
+FDS_066,8,161,1.0,,
+FDS_066,9,328,1.0,,
+FDS_066,10,188,1.0,,
+FDS_066,11,167,1.0,,
+FDS_066,12,140,1.0,,
+FDS_066,13,108,1.0,,
+FDS_066,14,151,1.0,,
+FDS_066,15,90,1.0,,
+FDS_066,16,294,1.0,,
+FDS_066,17,283,1.0,,
+FDS_066,18,129,1.0,,
+FDS_067,1,180,1.0,,
+FDS_067,2,260,1.0,,
+FDS_067,3,320,1.0,,
+FDS_067,4,256,1.0,,
+FDS_067,5,227,1.0,,
+FDS_067,6,140,1.0,,
+FDS_067,7,339,1.0,,
+FDS_067,8,284,1.0,,
+FDS_067,9,137,1.0,,
+FDS_067,10,161,0.969,,emision revision version sustituye pagina
+FDS_067,11,365,0.986,,emision revision version sustituye pagina
+FDS_067,12,134,1.0,,
+FDS_068,1,186,1.0,,
+FDS_068,2,265,1.0,,
+FDS_068,3,320,1.0,,
+FDS_068,4,287,1.0,,
+FDS_068,5,209,1.0,,
+FDS_068,6,162,1.0,,
+FDS_068,7,365,1.0,,
+FDS_068,8,227,1.0,,
+FDS_068,9,172,1.0,,
+FDS_068,10,302,0.983,,emision revision version sustituye pagina
+FDS_068,11,303,0.99,,emision revision pagina
+FDS_069,1,108,0.926,,especifi expo sicion siciones acua tico
+FDS_069,2,177,1.0,,
+FDS_069,3,131,0.954,,consul produc extin cion elimi nacion
+FDS_069,4,189,0.984,,apropia inapro piados
+FDS_069,5,218,0.977,,tincion espe cial cedimientos formar
+FDS_069,6,144,0.972,,cion exposi venti lacion
+FDS_069,7,142,1.0,,
+FDS_069,8,116,0.991,,recomenda
+FDS_069,9,150,1.0,,
+FDS_069,10,157,1.0,,
+FDS_069,11,113,0.982,,resi duos
+FDS_069,12,124,0.984,,clasi cacion
+FDS_069,13,188,0.957,,inflamabilidad salud riesgo fisico represen gistration chemi cals
+FDS_070,1,105,0.943,,especifi expo sicion siciones
+FDS_070,2,177,0.989,,acua tico
+FDS_070,3,149,0.953,,consul dico produc extin cion elimi nacion
+FDS_070,4,176,0.983,,apropia inapro piados
+FDS_070,5,226,0.934,,tincion espe cial cedimientos formar protec cion descu
+FDS_070,6,139,0.986,,venti lacion
+FDS_070,7,158,1.0,,
+FDS_070,8,111,0.982,,recomenda tarse
+FDS_070,9,154,0.987,,inhala cion
+FDS_070,10,133,0.985,,resi duos
+FDS_070,11,158,0.987,,trans porte
+FDS_070,12,153,0.954,,clasi cacion inflamabilidad salud riesgo fisico represen
+FDS_070,13,64,1.0,,
+FDS_071,1,88,0.932,,electroni especifi expo siciones acua tico
+FDS_071,2,178,1.0,,
+FDS_071,3,152,0.941,,produc extin cion elimi nacion servi importan abun
+FDS_071,4,184,0.946,,portante retarda apropia inapro piados tincion espe cial
+FDS_071,5,197,1.0,,
+FDS_071,6,95,1.0,,
+FDS_071,7,158,1.0,,
+FDS_071,8,110,0.955,,explosivi infe rior recomenda tarse
+FDS_071,9,118,1.0,,
+FDS_071,10,123,0.976,,plementaria resi duos
+FDS_071,11,156,0.974,,trans porte clasi cacion
+FDS_071,12,166,0.946,,inflamabilidad salud riesgo fisico represen chandises gistration chemi
+FDS_071,13,39,1.0,,
+FDS_072,1,105,0.924,,especifi expo sicion siciones acua tico
+FDS_072,2,180,0.95,,acua tico noci descubier elec trostaticas manipula cion
+FDS_072,3,155,0.968,,produc extin cion elimi nacion
+FDS_072,4,174,0.943,,portante retarda longadas apropia inapro piados tincion espe
+FDS_072,5,197,0.934,,cion protec descu plosiones bierto manipu lacion aplica
+FDS_072,6,173,1.0,,
+FDS_072,7,95,0.968,,explosivi disol ventes
+FDS_072,8,120,0.992,,recomenda
+FDS_072,9,150,0.987,,resi duos
+FDS_072,10,153,1.0,,
+FDS_072,11,148,0.953,,clasi cacion inflamabilidad salud riesgo fisico represen
+FDS_072,12,67,1.0,,
+FDS_073,1,91,0.967,,electroni acua tico
+FDS_073,2,166,1.0,,
+FDS_073,3,162,0.981,,servi importan retarda
+FDS_073,4,214,0.958,,tincion conta minada espe cial cedimientos alcantarilla formar
+FDS_073,5,175,1.0,,
+FDS_073,6,110,0.918,,explosivi infe rior disol ventes descomposi cion recomenda
+FDS_073,7,130,1.0,,
+FDS_073,8,146,0.986,,resi duos
+FDS_073,9,133,0.985,,trans porte
+FDS_073,10,147,0.932,,salud xicos procesa miento clasi cacion inflamabilidad riesgo
+FDS_073,11,115,1.0,,
+FDS_074,1,95,0.979,,acua tico
+FDS_074,2,176,1.0,,
+FDS_074,3,149,0.946,,elimi nacion servi importan cica trizan abun dantemente
+FDS_074,4,188,0.947,,portante retarda apropia circuns tancias tincion conta minada
+FDS_074,5,196,0.929,,cion alcantarilla formar minacion protec cendios plosiones manipu
+FDS_074,6,163,1.0,,
+FDS_074,7,108,0.944,,infe rior disol ventes recomenda tarse
+FDS_074,8,143,1.0,,
+FDS_074,9,157,1.0,,
+FDS_074,10,110,0.982,,resi duos
+FDS_074,11,165,0.976,,trans porte clasi cacion
+FDS_074,12,180,0.956,,inflamabilidad salud riesgo fisico represen gistration chemi cals
+FDS_075,1,155,1.0,,
+FDS_075,2,255,1.0,,
+FDS_075,3,342,1.0,,
+FDS_075,4,262,1.0,,
+FDS_075,5,191,1.0,,
+FDS_075,6,175,1.0,,
+FDS_075,7,390,1.0,,
+FDS_075,8,208,1.0,,
+FDS_075,9,303,1.0,,
+FDS_075,10,294,0.993,,revision pagina
+FDS_076,1,154,1.0,,
+FDS_076,2,258,1.0,,
+FDS_076,3,342,1.0,,
+FDS_076,4,262,1.0,,
+FDS_076,5,191,1.0,,
+FDS_076,6,175,1.0,,
+FDS_076,7,390,1.0,,
+FDS_076,8,208,1.0,,
+FDS_076,9,303,1.0,,
+FDS_076,10,294,0.993,,revision pagina
+FDS_077,1,193,1.0,,
+FDS_077,2,313,1.0,,
+FDS_077,3,324,1.0,,
+FDS_077,4,267,1.0,,
+FDS_077,5,153,1.0,,
+FDS_077,6,206,1.0,,
+FDS_077,7,375,1.0,,
+FDS_077,8,137,1.0,,
+FDS_077,9,181,1.0,,
+FDS_077,10,362,0.997,,pagina
+FDS_077,11,183,0.995,,pagina
+FDS_078,1,232,1.0,,
+FDS_078,2,286,1.0,,
+FDS_078,3,330,0.994,,vapor aire
+FDS_078,4,242,1.0,,
+FDS_078,5,283,1.0,,
+FDS_078,6,154,1.0,,
+FDS_078,7,219,1.0,,
+FDS_078,8,375,0.997,,xileno
+FDS_078,9,146,0.979,,noec
+FDS_078,10,162,0.994,,pagina
+FDS_078,11,93,0.989,,pagina
+FDS_078,12,301,1.0,,
+FDS_078,13,274,0.996,,pagina
+FDS_078,14,147,0.993,,pagina
+FDS_079,1,69,1.0,,
+FDS_079,2,238,1.0,,
+FDS_079,3,209,1.0,,
+FDS_079,4,298,1.0,,
+FDS_079,5,306,1.0,,
+FDS_079,6,395,1.0,,
+FDS_079,7,189,1.0,,
+FDS_079,8,333,1.0,,
+FDS_079,9,128,1.0,,
+FDS_079,10,177,1.0,,
+FDS_079,11,161,1.0,,
+FDS_079,12,185,1.0,,
+FDS_079,13,235,1.0,,
+FDS_079,14,228,1.0,,
+FDS_079,15,123,1.0,,
+FDS_079,16,315,1.0,,
+FDS_079,17,82,1.0,,
+FDS_080,1,68,1.0,,
+FDS_080,2,203,1.0,,
+FDS_080,3,303,1.0,,
+FDS_080,4,269,1.0,,
+FDS_080,5,388,1.0,,
+FDS_080,6,299,1.0,,
+FDS_080,7,329,1.0,,
+FDS_080,8,132,0.992,,octanol
+FDS_080,9,154,1.0,,
+FDS_080,10,177,1.0,,
+FDS_080,11,145,1.0,,
+FDS_080,12,221,1.0,,
+FDS_080,13,230,1.0,,
+FDS_080,14,185,1.0,,
+FDS_080,15,257,1.0,,
+FDS_081,1,68,1.0,,
+FDS_081,2,234,1.0,,
+FDS_081,3,270,1.0,,
+FDS_081,4,277,1.0,,
+FDS_081,5,335,1.0,,
+FDS_081,6,365,1.0,,
+FDS_081,7,308,1.0,,
+FDS_081,8,235,1.0,,
+FDS_081,9,130,0.977,,octanol auto inflamacion
+FDS_081,10,134,1.0,,
+FDS_081,11,199,1.0,,
+FDS_081,12,140,1.0,,
+FDS_081,13,192,1.0,,
+FDS_081,14,200,1.0,,
+FDS_081,15,282,1.0,,
+FDS_082,1,102,1.0,,
+FDS_082,2,271,1.0,,
+FDS_082,3,284,1.0,,
+FDS_082,4,304,1.0,,
+FDS_082,5,342,1.0,,
+FDS_082,6,235,1.0,,
+FDS_082,7,256,1.0,,
+FDS_082,8,124,0.976,,octanol auto inflamacion
+FDS_082,9,161,1.0,,
+FDS_082,10,112,1.0,,
+FDS_082,11,181,1.0,,
+FDS_082,12,210,1.0,,
+FDS_082,13,271,1.0,,
+FDS_082,14,271,1.0,,
+FDS_082,15,192,1.0,,
+FDS_082,16,187,1.0,,
+FDS_082,17,295,1.0,,
+FDS_083,1,111,1.0,,
+FDS_083,2,244,1.0,,
+FDS_083,3,298,1.0,,
+FDS_083,4,322,1.0,,
+FDS_083,5,248,0.988,,inflamacion octanol auto
+FDS_083,6,121,1.0,,
+FDS_083,7,152,1.0,,
+FDS_083,8,220,1.0,,
+FDS_083,9,277,1.0,,
+FDS_083,10,228,0.978,,anterior fecha emision validacion
+FDS_083,11,345,0.986,,anterior fecha emision validacion
+FDS_083,12,36,0.861,si,anterior fecha emision validacion
+FDS_084,1,113,1.0,,
+FDS_084,2,272,1.0,,
+FDS_084,3,286,1.0,,
+FDS_084,4,299,1.0,,
+FDS_084,5,323,1.0,,
+FDS_084,6,341,1.0,,
+FDS_084,7,111,0.991,,octanol
+FDS_084,8,147,1.0,,
+FDS_084,9,137,1.0,,
+FDS_084,10,172,1.0,,
+FDS_084,11,193,1.0,,
+FDS_084,12,238,1.0,,
+FDS_084,13,237,1.0,,
+FDS_084,14,204,1.0,,
+FDS_084,15,243,1.0,,
+FDS_085,1,108,1.0,,
+FDS_085,2,243,1.0,,
+FDS_085,3,295,1.0,,
+FDS_085,4,339,1.0,,
+FDS_085,5,279,1.0,,
+FDS_085,6,318,1.0,,
+FDS_085,7,101,0.97,,octanol auto inflamacion
+FDS_085,8,157,1.0,,
+FDS_085,9,129,1.0,,
+FDS_085,10,165,0.97,,anterior fecha emision validacion
+FDS_085,11,282,0.982,,anterior fecha emision validacion
+FDS_085,12,242,0.979,,anterior fecha emision validacion
+FDS_085,13,162,0.969,,anterior fecha emision validacion
+FDS_085,14,287,0.983,,anterior fecha emision validacion
+FDS_086,1,79,0.975,,acua tico
+FDS_086,2,137,0.964,,noci supues consul elimi nacion
+FDS_086,3,182,0.956,,importan portante retarda apropia circuns tancias espe cial
+FDS_086,4,210,1.0,,
+FDS_086,5,138,0.978,,explosivi infe rior
+FDS_086,6,108,0.981,,disol ventes
+FDS_086,7,126,1.0,,
+FDS_086,8,145,0.972,,resi duos clasi cacion
+FDS_086,9,150,0.947,,inflamabilidad salud riesgo fisico represen istration chemi cals
+FDS_086,10,29,1.0,,
+FDS_087,1,87,0.943,,especifi expo siciones acua tico
+FDS_087,2,204,1.0,,
+FDS_087,3,143,0.972,,elimi nacion servi importan
+FDS_087,4,185,0.941,,portante retarda longadas apropia inapro piados tincion espe
+FDS_087,5,201,1.0,,
+FDS_087,6,146,1.0,,
+FDS_087,7,117,0.974,,cuadas infe rior
+FDS_087,8,120,0.975,,cion recomenda inhala
+FDS_087,9,149,1.0,,
+FDS_087,10,118,0.975,,plementaria resi duos
+FDS_087,11,163,0.988,,clasi cacion
+FDS_087,12,188,0.957,,inflamabilidad salud riesgo fisico represen gistration chemi cals
+FDS_087,13,0,1.0,,
+FDS_088,1,180,1.0,,
+FDS_088,2,265,1.0,,
+FDS_088,3,291,1.0,,
+FDS_088,4,284,1.0,,
+FDS_088,5,227,1.0,,
+FDS_088,6,140,1.0,,
+FDS_088,7,339,1.0,,
+FDS_088,8,279,1.0,,
+FDS_088,9,131,1.0,,
+FDS_088,10,206,0.976,,emision revision version sustituye pagina
+FDS_088,11,320,0.984,,emision revision version sustituye pagina
+FDS_088,12,134,1.0,,
+FDS_089,1,180,1.0,,
+FDS_089,2,270,1.0,,
+FDS_089,3,321,1.0,,
+FDS_089,4,285,1.0,,
+FDS_089,5,209,1.0,,
+FDS_089,6,163,1.0,,
+FDS_089,7,367,1.0,,
+FDS_089,8,245,1.0,,
+FDS_089,9,140,1.0,,
+FDS_089,10,204,0.985,,emision version pagina
+FDS_089,11,332,0.991,,emision version pagina
+FDS_089,12,132,1.0,,
+FDS_090,1,182,1.0,,
+FDS_090,2,331,1.0,,
+FDS_090,3,298,1.0,,
+FDS_090,4,274,1.0,,
+FDS_090,5,159,1.0,,
+FDS_090,6,250,1.0,,
+FDS_090,7,329,1.0,,
+FDS_090,8,125,1.0,,
+FDS_090,9,299,1.0,,
+FDS_090,10,262,0.966,,ficha datos seguridad codigo interno pagina
+FDS_091,1,198,1.0,,
+FDS_091,2,262,1.0,,
+FDS_091,3,338,1.0,,
+FDS_091,4,290,1.0,,
+FDS_091,5,238,1.0,,
+FDS_091,6,147,1.0,,
+FDS_091,7,335,1.0,,
+FDS_091,8,277,1.0,,
+FDS_091,9,131,1.0,,
+FDS_091,10,197,0.995,,pagina
+FDS_091,11,329,0.997,,pagina
+FDS_091,12,134,0.993,,pagina
+FDS_092,1,200,1.0,,
+FDS_092,2,263,1.0,,
+FDS_092,3,328,1.0,,
+FDS_092,4,220,1.0,,
+FDS_092,5,294,1.0,,
+FDS_092,6,153,1.0,,
+FDS_092,7,270,1.0,,
+FDS_092,8,353,1.0,,
+FDS_092,9,135,1.0,,
+FDS_092,10,171,0.994,,pagina
+FDS_092,11,308,0.997,,pagina
+FDS_092,12,306,0.748,si,esta producto seguridad informacion este ficha cuanto para
+FDS_093,1,188,1.0,,
+FDS_093,2,266,1.0,,
+FDS_093,3,338,1.0,,
+FDS_093,4,292,1.0,,
+FDS_093,5,238,1.0,,
+FDS_093,6,148,1.0,,
+FDS_093,7,336,1.0,,
+FDS_093,8,277,1.0,,
+FDS_093,9,131,1.0,,
+FDS_093,10,197,0.995,,pagina
+FDS_093,11,343,0.997,,pagina
+FDS_093,12,134,0.993,,pagina
+FDS_094,1,248,1.0,,
+FDS_094,2,275,1.0,,
+FDS_094,3,355,1.0,,
+FDS_094,4,349,1.0,,
+FDS_094,5,249,0.996,,limite
+FDS_094,6,186,1.0,,
+FDS_094,7,209,1.0,,
+FDS_094,8,343,1.0,,
+FDS_094,9,198,1.0,,
+FDS_094,10,166,0.97,,emision revision version sustituye pagina
+FDS_094,11,148,0.966,,emision revision version sustituye pagina
+FDS_094,12,188,0.973,,emision revision version sustituye pagina
+FDS_094,13,377,0.987,,emision revision version sustituye pagina
+FDS_094,14,220,0.977,,emision revision version sustituye pagina
+FDS_095,1,106,1.0,,
+FDS_095,2,207,1.0,,
+FDS_095,3,308,1.0,,
+FDS_095,4,331,1.0,,
+FDS_095,5,413,1.0,,
+FDS_095,6,352,1.0,,
+FDS_095,7,161,0.981,,inflamacion octanol auto
+FDS_095,8,153,1.0,,
+FDS_095,9,140,1.0,,
+FDS_095,10,153,0.967,,anterior fecha emision validacion
+FDS_095,11,243,1.0,,
+FDS_095,12,198,0.975,,anterior fecha emision validacion
+FDS_095,13,181,0.972,,anterior fecha emision validacion
+FDS_095,14,247,0.98,,anterior fecha emision validacion
+FDS_096,1,103,1.0,,
+FDS_096,2,213,1.0,,
+FDS_096,3,363,1.0,,
+FDS_096,4,256,1.0,,
+FDS_096,5,369,1.0,,
+FDS_096,6,343,1.0,,
+FDS_096,7,240,1.0,,
+FDS_096,8,129,0.977,,octanol auto inflamacion
+FDS_096,9,159,1.0,,
+FDS_096,10,137,1.0,,
+FDS_096,11,146,1.0,,
+FDS_096,12,259,1.0,,
+FDS_096,13,215,1.0,,
+FDS_096,14,120,1.0,,
+FDS_096,15,339,1.0,,
+FDS_096,16,31,1.0,,
+FDS_097,1,115,1.0,,
+FDS_097,2,216,1.0,,
+FDS_097,3,342,1.0,,
+FDS_097,4,315,1.0,,
+FDS_097,5,381,1.0,,
+FDS_097,6,289,0.997,,containing
+FDS_097,7,229,1.0,,
+FDS_097,8,153,0.993,,octanol
+FDS_097,9,166,1.0,,
+FDS_097,10,187,1.0,,
+FDS_097,11,208,1.0,,
+FDS_097,12,232,1.0,,
+FDS_097,13,190,1.0,,
+FDS_097,14,179,1.0,,
+FDS_097,15,258,1.0,,
+FDS_097,16,111,0.991,,peligro
+FDS_097,17,0,1.0,,
+FDS_098,1,102,0.99,,atencion
+FDS_098,2,191,1.0,,
+FDS_098,3,333,1.0,,
+FDS_098,4,312,1.0,,
+FDS_098,5,410,1.0,,
+FDS_098,6,278,1.0,,
+FDS_098,7,212,1.0,,
+FDS_098,8,119,0.975,,octanol auto inflamacion
+FDS_098,9,165,1.0,,
+FDS_098,10,150,1.0,,
+FDS_098,11,131,1.0,,
+FDS_098,12,281,1.0,,
+FDS_098,13,289,1.0,,
+FDS_098,14,196,1.0,,
+FDS_098,15,210,1.0,,
+FDS_098,16,306,1.0,,
+FDS_099,1,107,1.0,,
+FDS_099,2,212,1.0,,
+FDS_099,3,334,1.0,,
+FDS_099,4,315,1.0,,
+FDS_099,5,379,1.0,,
+FDS_099,6,347,1.0,,
+FDS_099,7,222,1.0,,
+FDS_099,8,147,0.98,,octanol auto inflamacion
+FDS_099,9,131,1.0,,
+FDS_099,10,182,0.984,,fecha emision anterior
+FDS_099,11,184,0.984,,fecha emision anterior
+FDS_099,12,195,0.985,,fecha emision anterior
+FDS_099,13,200,0.985,,fecha emision anterior
+FDS_099,14,284,0.989,,anterior fecha emision
+FDS_100,1,244,1.0,,
+FDS_100,2,311,1.0,,
+FDS_100,3,357,1.0,,
+FDS_100,4,366,1.0,,
+FDS_100,5,250,1.0,,
+FDS_100,6,185,1.0,,
+FDS_100,7,185,1.0,,
+FDS_100,8,353,1.0,,
+FDS_100,9,144,1.0,,
+FDS_100,10,174,0.983,,relevante pagina
+FDS_100,11,141,0.993,,pagina
+FDS_100,12,336,0.997,,pagina
+FDS_100,13,386,0.801,si,esta producto seguridad informacion este ficha cuanto para
+FDS_101,1,226,1.0,,
+FDS_101,2,257,1.0,,
+FDS_101,3,391,1.0,,
+FDS_101,4,388,1.0,,
+FDS_101,5,247,1.0,,
+FDS_101,6,196,1.0,,
+FDS_101,7,178,1.0,,
+FDS_101,8,339,1.0,,
+FDS_101,9,129,1.0,,
+FDS_101,10,159,0.994,,pagina
+FDS_101,11,160,0.994,,pagina
+FDS_101,12,306,0.997,,pagina
+FDS_101,13,340,0.997,,pagina
+FDS_101,14,134,0.403,si,esta seguridad informacion ficha producto datos cuanto este
+FDS_102,1,119,1.0,,
+FDS_102,2,237,1.0,,
+FDS_102,3,209,1.0,,
+FDS_102,4,258,1.0,,
+FDS_102,5,335,1.0,,
+FDS_102,6,223,1.0,,
+FDS_102,7,342,1.0,,
+FDS_102,8,144,0.993,,octanol
+FDS_102,9,159,1.0,,
+FDS_102,10,130,1.0,,
+FDS_102,11,175,1.0,,
+FDS_102,12,259,1.0,,
+FDS_102,13,126,1.0,,
+FDS_102,14,182,1.0,,
+FDS_102,15,151,1.0,,
+FDS_102,16,77,1.0,,

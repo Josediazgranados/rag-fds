@@ -1,0 +1,162 @@
+[
+ {
+  "archivo": "image_000000_c66d440449e1488370a83172091903edccca69d535dfd04b4ff2dbe6b3ae7ca0.png",
+  "ruta_relativa": "../imagenes/FDS_019/image_000000_c66d440449e1488370a83172091903edccca69d535dfd04b4ff2dbe6b3ae7ca0.png",
+  "documento": "FDS 19 - KORAZA NEGRO 20380 _ 10016550 _COL (Versión 2).pdf",
+  "pagina": 1,
+  "ancho": 142,
+  "alto": 99,
+  "texto_ocr": "El Color de la Ae",
+  "nota": "imagen repetida en 8 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_c66d440449e1488370a83172091903edccca69d535dfd04b4ff2dbe6b3ae7ca0.png",
+  "ruta_relativa": "../imagenes/FDS_019/image_000000_c66d440449e1488370a83172091903edccca69d535dfd04b4ff2dbe6b3ae7ca0.png",
+  "documento": "FDS 19 - KORAZA NEGRO 20380 _ 10016550 _COL (Versión 2).pdf",
+  "pagina": 2,
+  "ancho": 142,
+  "alto": 99,
+  "texto_ocr": "El Color de la Ae",
+  "nota": "imagen repetida en 8 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_c66d440449e1488370a83172091903edccca69d535dfd04b4ff2dbe6b3ae7ca0.png",
+  "ruta_relativa": "../imagenes/FDS_019/image_000000_c66d440449e1488370a83172091903edccca69d535dfd04b4ff2dbe6b3ae7ca0.png",
+  "documento": "FDS 19 - KORAZA NEGRO 20380 _ 10016550 _COL (Versión 2).pdf",
+  "pagina": 3,
+  "ancho": 142,
+  "alto": 99,
+  "texto_ocr": "El Color de la Ae",
+  "nota": "imagen repetida en 8 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_e3914fbd2f844e1a8ef65254991fe47fe18fda95d377259ad9957a1795eed922.png",
+  "ruta_relativa": "../imagenes/FDS_019/image_000001_e3914fbd2f844e1a8ef65254991fe47fe18fda95d377259ad9957a1795eed922.png",
+  "documento": "FDS 19 - KORAZA NEGRO 20380 _ 10016550 _COL (Versión 2).pdf",
+  "pagina": 3,
+  "ancho": 58,
+  "alto": 44,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_c66d440449e1488370a83172091903edccca69d535dfd04b4ff2dbe6b3ae7ca0.png",
+  "ruta_relativa": "../imagenes/FDS_019/image_000000_c66d440449e1488370a83172091903edccca69d535dfd04b4ff2dbe6b3ae7ca0.png",
+  "documento": "FDS 19 - KORAZA NEGRO 20380 _ 10016550 _COL (Versión 2).pdf",
+  "pagina": 4,
+  "ancho": 142,
+  "alto": 99,
+  "texto_ocr": "El Color de la Ae",
+  "nota": "imagen repetida en 8 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_eca809076b5e28dad1d1bcb70e4df8e9ac876b24a8405204c95f81d0fab48944.png",
+  "ruta_relativa": "../imagenes/FDS_019/image_000001_eca809076b5e28dad1d1bcb70e4df8e9ac876b24a8405204c95f81d0fab48944.png",
+  "documento": "FDS 19 - KORAZA NEGRO 20380 _ 10016550 _COL (Versión 2).pdf",
+  "pagina": 4,
+  "ancho": 84,
+  "alto": 114,
+  "texto_ocr": "Proteccion obligatoria de la manos",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000002_d5534cffffd39137cbe005fe01118bd1f1007d6c143a04b7955699b22b069d08.png",
+  "ruta_relativa": "../imagenes/FDS_019/image_000002_d5534cffffd39137cbe005fe01118bd1f1007d6c143a04b7955699b22b069d08.png",
+  "documento": "FDS 19 - KORAZA NEGRO 20380 _ 10016550 _COL (Versión 2).pdf",
+  "pagina": 4,
+  "ancho": 124,
+  "alto": 130,
+  "texto_ocr": "Pictograma Proteccion obligatoria de la cara",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000003_908150b3ff4777cffb284e775f120a65b4baddc909f372489e3ee11dbd9f36ae.png",
+  "ruta_relativa": "../imagenes/FDS_019/image_000003_908150b3ff4777cffb284e775f120a65b4baddc909f372489e3ee11dbd9f36ae.png",
+  "documento": "FDS 19 - KORAZA NEGRO 20380 _ 10016550 _COL (Versión 2).pdf",
+  "pagina": 4,
+  "ancho": 130,
+  "alto": 80,
+  "texto_ocr": "Ducha de emergencia",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000004_73c4907054fa64dc5f93618bf0f00339b7753079e23cd207f27121aa736fb0c2.png",
+  "ruta_relativa": "../imagenes/FDS_019/image_000004_73c4907054fa64dc5f93618bf0f00339b7753079e23cd207f27121aa736fb0c2.png",
+  "documento": "FDS 19 - KORAZA NEGRO 20380 _ 10016550 _COL (Versión 2).pdf",
+  "pagina": 4,
+  "ancho": 58,
+  "alto": 76,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_c66d440449e1488370a83172091903edccca69d535dfd04b4ff2dbe6b3ae7ca0.png",
+  "ruta_relativa": "../imagenes/FDS_019/image_000000_c66d440449e1488370a83172091903edccca69d535dfd04b4ff2dbe6b3ae7ca0.png",
+  "documento": "FDS 19 - KORAZA NEGRO 20380 _ 10016550 _COL (Versión 2).pdf",
+  "pagina": 5,
+  "ancho": 142,
+  "alto": 99,
+  "texto_ocr": "El Color de la Ae",
+  "nota": "imagen repetida en 8 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_c66d440449e1488370a83172091903edccca69d535dfd04b4ff2dbe6b3ae7ca0.png",
+  "ruta_relativa": "../imagenes/FDS_019/image_000000_c66d440449e1488370a83172091903edccca69d535dfd04b4ff2dbe6b3ae7ca0.png",
+  "documento": "FDS 19 - KORAZA NEGRO 20380 _ 10016550 _COL (Versión 2).pdf",
+  "pagina": 6,
+  "ancho": 142,
+  "alto": 99,
+  "texto_ocr": "El Color de la Ae",
+  "nota": "imagen repetida en 8 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_c66d440449e1488370a83172091903edccca69d535dfd04b4ff2dbe6b3ae7ca0.png",
+  "ruta_relativa": "../imagenes/FDS_019/image_000000_c66d440449e1488370a83172091903edccca69d535dfd04b4ff2dbe6b3ae7ca0.png",
+  "documento": "FDS 19 - KORAZA NEGRO 20380 _ 10016550 _COL (Versión 2).pdf",
+  "pagina": 7,
+  "ancho": 142,
+  "alto": 99,
+  "texto_ocr": "El Color de la Ae",
+  "nota": "imagen repetida en 8 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_c66d440449e1488370a83172091903edccca69d535dfd04b4ff2dbe6b3ae7ca0.png",
+  "ruta_relativa": "../imagenes/FDS_019/image_000000_c66d440449e1488370a83172091903edccca69d535dfd04b4ff2dbe6b3ae7ca0.png",
+  "documento": "FDS 19 - KORAZA NEGRO 20380 _ 10016550 _COL (Versión 2).pdf",
+  "pagina": 8,
+  "ancho": 142,
+  "alto": 99,
+  "texto_ocr": "El Color de la Ae",
+  "nota": "imagen repetida en 8 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_8d8f63d4480780e7f77d8d52dbc74ae63c539ec3607a39dce8e01e737ae953ad.png",
+  "ruta_relativa": "../imagenes/FDS_019/image_000001_8d8f63d4480780e7f77d8d52dbc74ae63c539ec3607a39dce8e01e737ae953ad.png",
+  "documento": "FDS 19 - KORAZA NEGRO 20380 _ 10016550 _COL (Versión 2).pdf",
+  "pagina": 8,
+  "ancho": 31,
+  "alto": 30,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_44fa59b165fc3e3ef2651ca21e51d9a3f08efa4a626de1fc92b0889e72f75410.png",
+  "ruta_relativa": "../imagenes/FDS_019/image_000000_44fa59b165fc3e3ef2651ca21e51d9a3f08efa4a626de1fc92b0889e72f75410.png",
+  "documento": "FDS 19 - KORAZA NEGRO 20380 _ 10016550 _COL (Versión 2).pdf",
+  "pagina": 9,
+  "ancho": 141,
+  "alto": 98,
+  "texto_ocr": "El Color de la Ae",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000001_233a418a161c62ed55dc550d30f94ecd63b05cdac6cfb046709f28999fe9f5ba.png",
+  "ruta_relativa": "../imagenes/FDS_019/image_000001_233a418a161c62ed55dc550d30f94ecd63b05cdac6cfb046709f28999fe9f5ba.png",
+  "documento": "FDS 19 - KORAZA NEGRO 20380 _ 10016550 _COL (Versión 2).pdf",
+  "pagina": 9,
+  "ancho": 950,
+  "alto": 89,
+  "texto_ocr": "El Color de la Calidad*",
+  "nota": ""
+ }
+]

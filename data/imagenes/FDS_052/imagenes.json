@@ -1,0 +1,462 @@
+[
+ {
+  "archivo": "image_000000_c7b3f2534bb91eb2abb5a00013aed71669e792e04e7ed183cecefbb3295dc8ae.png",
+  "ruta_relativa": "../imagenes/FDS_052/image_000000_c7b3f2534bb91eb2abb5a00013aed71669e792e04e7ed183cecefbb3295dc8ae.png",
+  "documento": "FDS 52 - HS-P-P-029 - Premier - INVESA.pdf",
+  "pagina": 1,
+  "ancho": 195,
+  "alto": 84,
+  "texto_ocr": "La Compañía Amiga",
+  "nota": "imagen repetida en 12 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_6072181ece38400c179145c96ba726be62c2ed8e95788c22e7941950e633eb2a.png",
+  "ruta_relativa": "../imagenes/FDS_052/image_000001_6072181ece38400c179145c96ba726be62c2ed8e95788c22e7941950e633eb2a.png",
+  "documento": "FDS 52 - HS-P-P-029 - Premier - INVESA.pdf",
+  "pagina": 1,
+  "ancho": 84,
+  "alto": 87,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_ab8748b0efac2adc9bc40ab4e853bdb0083f309a1510a057bf24ca00fa2abf50.png",
+  "ruta_relativa": "../imagenes/FDS_052/image_000002_ab8748b0efac2adc9bc40ab4e853bdb0083f309a1510a057bf24ca00fa2abf50.png",
+  "documento": "FDS 52 - HS-P-P-029 - Premier - INVESA.pdf",
+  "pagina": 1,
+  "ancho": 87,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_32eb899842f8cd0cee8826a001d26c8b518d06fb12cf5d4b18d0184c0bbf9227.png",
+  "ruta_relativa": "../imagenes/FDS_052/image_000003_32eb899842f8cd0cee8826a001d26c8b518d06fb12cf5d4b18d0184c0bbf9227.png",
+  "documento": "FDS 52 - HS-P-P-029 - Premier - INVESA.pdf",
+  "pagina": 1,
+  "ancho": 84,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000004_2aaf7583270f25a4ef419b412027921debc6b318b030f83fe2d7ca6f293b02af.png",
+  "ruta_relativa": "../imagenes/FDS_052/image_000004_2aaf7583270f25a4ef419b412027921debc6b318b030f83fe2d7ca6f293b02af.png",
+  "documento": "FDS 52 - HS-P-P-029 - Premier - INVESA.pdf",
+  "pagina": 1,
+  "ancho": 57,
+  "alto": 56,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000005_e98e6667365976d25770695ef17d54bce8b2eef24dc7017631cb717b065af5ef.png",
+  "ruta_relativa": "../imagenes/FDS_052/image_000005_e98e6667365976d25770695ef17d54bce8b2eef24dc7017631cb717b065af5ef.png",
+  "documento": "FDS 52 - HS-P-P-029 - Premier - INVESA.pdf",
+  "pagina": 1,
+  "ancho": 58,
+  "alto": 55,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000006_774179ac0658a68cbe64c45920173e5694dbf01c045f153ce74de525309bd89a.png",
+  "ruta_relativa": "../imagenes/FDS_052/image_000006_774179ac0658a68cbe64c45920173e5694dbf01c045f153ce74de525309bd89a.png",
+  "documento": "FDS 52 - HS-P-P-029 - Premier - INVESA.pdf",
+  "pagina": 1,
+  "ancho": 57,
+  "alto": 57,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_c7b3f2534bb91eb2abb5a00013aed71669e792e04e7ed183cecefbb3295dc8ae.png",
+  "ruta_relativa": "../imagenes/FDS_052/image_000000_c7b3f2534bb91eb2abb5a00013aed71669e792e04e7ed183cecefbb3295dc8ae.png",
+  "documento": "FDS 52 - HS-P-P-029 - Premier - INVESA.pdf",
+  "pagina": 2,
+  "ancho": 195,
+  "alto": 84,
+  "texto_ocr": "La Compañía Amiga",
+  "nota": "imagen repetida en 12 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_4ef8c3adc8df8c570669d062e4c99c2614565a12d34bee19d2f74ae8550a5438.png",
+  "ruta_relativa": "../imagenes/FDS_052/image_000001_4ef8c3adc8df8c570669d062e4c99c2614565a12d34bee19d2f74ae8550a5438.png",
+  "documento": "FDS 52 - HS-P-P-029 - Premier - INVESA.pdf",
+  "pagina": 2,
+  "ancho": 268,
+  "alto": 88,
+  "texto_ocr": "DG Dd",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000000_c7b3f2534bb91eb2abb5a00013aed71669e792e04e7ed183cecefbb3295dc8ae.png",
+  "ruta_relativa": "../imagenes/FDS_052/image_000000_c7b3f2534bb91eb2abb5a00013aed71669e792e04e7ed183cecefbb3295dc8ae.png",
+  "documento": "FDS 52 - HS-P-P-029 - Premier - INVESA.pdf",
+  "pagina": 3,
+  "ancho": 195,
+  "alto": 84,
+  "texto_ocr": "La Compañía Amiga",
+  "nota": "imagen repetida en 12 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_5fe14c3b26f697b1162ed0e7918ade00fbc6aca321d402da069d25d27b442387.png",
+  "ruta_relativa": "../imagenes/FDS_052/image_000001_5fe14c3b26f697b1162ed0e7918ade00fbc6aca321d402da069d25d27b442387.png",
+  "documento": "FDS 52 - HS-P-P-029 - Premier - INVESA.pdf",
+  "pagina": 3,
+  "ancho": 269,
+  "alto": 88,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_c7b3f2534bb91eb2abb5a00013aed71669e792e04e7ed183cecefbb3295dc8ae.png",
+  "ruta_relativa": "../imagenes/FDS_052/image_000000_c7b3f2534bb91eb2abb5a00013aed71669e792e04e7ed183cecefbb3295dc8ae.png",
+  "documento": "FDS 52 - HS-P-P-029 - Premier - INVESA.pdf",
+  "pagina": 4,
+  "ancho": 195,
+  "alto": 84,
+  "texto_ocr": "La Compañía Amiga",
+  "nota": "imagen repetida en 12 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_fb0450a1284283523c64a82da51c3a3307407801da71d74d1bae62100bcbac8c.png",
+  "ruta_relativa": "../imagenes/FDS_052/image_000001_fb0450a1284283523c64a82da51c3a3307407801da71d74d1bae62100bcbac8c.png",
+  "documento": "FDS 52 - HS-P-P-029 - Premier - INVESA.pdf",
+  "pagina": 4,
+  "ancho": 90,
+  "alto": 115,
+  "texto_ocr": "Protección obligatoria de las vias respiratorias",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000002_e789fe9e79cf3699c5b9c8f223a60e490eb74bd49d675d989e822fec0c92bfb9.png",
+  "ruta_relativa": "../imagenes/FDS_052/image_000002_e789fe9e79cf3699c5b9c8f223a60e490eb74bd49d675d989e822fec0c92bfb9.png",
+  "documento": "FDS 52 - HS-P-P-029 - Premier - INVESA.pdf",
+  "pagina": 4,
+  "ancho": 95,
+  "alto": 135,
+  "texto_ocr": "Pictograma Protección obligatoria de la",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000003_d06ee1cc21ad1eac67fd94f1d802ef1afdb9560e76aa437d7d03723ef7874bf3.png",
+  "ruta_relativa": "../imagenes/FDS_052/image_000003_d06ee1cc21ad1eac67fd94f1d802ef1afdb9560e76aa437d7d03723ef7874bf3.png",
+  "documento": "FDS 52 - HS-P-P-029 - Premier - INVESA.pdf",
+  "pagina": 4,
+  "ancho": 268,
+  "alto": 88,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_c7b3f2534bb91eb2abb5a00013aed71669e792e04e7ed183cecefbb3295dc8ae.png",
+  "ruta_relativa": "../imagenes/FDS_052/image_000000_c7b3f2534bb91eb2abb5a00013aed71669e792e04e7ed183cecefbb3295dc8ae.png",
+  "documento": "FDS 52 - HS-P-P-029 - Premier - INVESA.pdf",
+  "pagina": 5,
+  "ancho": 195,
+  "alto": 84,
+  "texto_ocr": "La Compañía Amiga",
+  "nota": "imagen repetida en 12 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_14a36bd40759918ef6c2b44ccd2e88a5dc31e7bd5d7c3bf15c7f698914e43914.png",
+  "ruta_relativa": "../imagenes/FDS_052/image_000001_14a36bd40759918ef6c2b44ccd2e88a5dc31e7bd5d7c3bf15c7f698914e43914.png",
+  "documento": "FDS 52 - HS-P-P-029 - Premier - INVESA.pdf",
+  "pagina": 5,
+  "ancho": 118,
+  "alto": 123,
+  "texto_ocr": "Pictograma Protección obligatoria de la cara",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000002_4c7bb6def43d418786304e60123bda67e4e6679c6c81e1b3e51f7941f6fa5c33.png",
+  "ruta_relativa": "../imagenes/FDS_052/image_000002_4c7bb6def43d418786304e60123bda67e4e6679c6c81e1b3e51f7941f6fa5c33.png",
+  "documento": "FDS 52 - HS-P-P-029 - Premier - INVESA.pdf",
+  "pagina": 5,
+  "ancho": 78,
+  "alto": 128,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_ef6e2621bab76e7b3cf9f20c7d974201b570ff3af55da38cfd88f09fb985a0c2.png",
+  "ruta_relativa": "../imagenes/FDS_052/image_000003_ef6e2621bab76e7b3cf9f20c7d974201b570ff3af55da38cfd88f09fb985a0c2.png",
+  "documento": "FDS 52 - HS-P-P-029 - Premier - INVESA.pdf",
+  "pagina": 5,
+  "ancho": 93,
+  "alto": 113,
+  "texto_ocr": "Protección obligatoria de los pies",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000004_6072181ece38400c179145c96ba726be62c2ed8e95788c22e7941950e633eb2a.png",
+  "ruta_relativa": "../imagenes/FDS_052/image_000004_6072181ece38400c179145c96ba726be62c2ed8e95788c22e7941950e633eb2a.png",
+  "documento": "FDS 52 - HS-P-P-029 - Premier - INVESA.pdf",
+  "pagina": 5,
+  "ancho": 84,
+  "alto": 87,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000005_ab8748b0efac2adc9bc40ab4e853bdb0083f309a1510a057bf24ca00fa2abf50.png",
+  "ruta_relativa": "../imagenes/FDS_052/image_000005_ab8748b0efac2adc9bc40ab4e853bdb0083f309a1510a057bf24ca00fa2abf50.png",
+  "documento": "FDS 52 - HS-P-P-029 - Premier - INVESA.pdf",
+  "pagina": 5,
+  "ancho": 87,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000006_32eb899842f8cd0cee8826a001d26c8b518d06fb12cf5d4b18d0184c0bbf9227.png",
+  "ruta_relativa": "../imagenes/FDS_052/image_000006_32eb899842f8cd0cee8826a001d26c8b518d06fb12cf5d4b18d0184c0bbf9227.png",
+  "documento": "FDS 52 - HS-P-P-029 - Premier - INVESA.pdf",
+  "pagina": 5,
+  "ancho": 84,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000007_df2530979f369adbf04c459087783b14de7bc040beb5e1a95343a9ce0c99f542.png",
+  "ruta_relativa": "../imagenes/FDS_052/image_000007_df2530979f369adbf04c459087783b14de7bc040beb5e1a95343a9ce0c99f542.png",
+  "documento": "FDS 52 - HS-P-P-029 - Premier - INVESA.pdf",
+  "pagina": 5,
+  "ancho": 59,
+  "alto": 71,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_c7b3f2534bb91eb2abb5a00013aed71669e792e04e7ed183cecefbb3295dc8ae.png",
+  "ruta_relativa": "../imagenes/FDS_052/image_000000_c7b3f2534bb91eb2abb5a00013aed71669e792e04e7ed183cecefbb3295dc8ae.png",
+  "documento": "FDS 52 - HS-P-P-029 - Premier - INVESA.pdf",
+  "pagina": 6,
+  "ancho": 195,
+  "alto": 84,
+  "texto_ocr": "La Compañía Amiga",
+  "nota": "imagen repetida en 12 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_ab8748b0efac2adc9bc40ab4e853bdb0083f309a1510a057bf24ca00fa2abf50.png",
+  "ruta_relativa": "../imagenes/FDS_052/image_000001_ab8748b0efac2adc9bc40ab4e853bdb0083f309a1510a057bf24ca00fa2abf50.png",
+  "documento": "FDS 52 - HS-P-P-029 - Premier - INVESA.pdf",
+  "pagina": 6,
+  "ancho": 87,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_c7b3f2534bb91eb2abb5a00013aed71669e792e04e7ed183cecefbb3295dc8ae.png",
+  "ruta_relativa": "../imagenes/FDS_052/image_000000_c7b3f2534bb91eb2abb5a00013aed71669e792e04e7ed183cecefbb3295dc8ae.png",
+  "documento": "FDS 52 - HS-P-P-029 - Premier - INVESA.pdf",
+  "pagina": 7,
+  "ancho": 195,
+  "alto": 84,
+  "texto_ocr": "La Compañía Amiga",
+  "nota": "imagen repetida en 12 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_d06ee1cc21ad1eac67fd94f1d802ef1afdb9560e76aa437d7d03723ef7874bf3.png",
+  "ruta_relativa": "../imagenes/FDS_052/image_000001_d06ee1cc21ad1eac67fd94f1d802ef1afdb9560e76aa437d7d03723ef7874bf3.png",
+  "documento": "FDS 52 - HS-P-P-029 - Premier - INVESA.pdf",
+  "pagina": 7,
+  "ancho": 268,
+  "alto": 88,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_c7b3f2534bb91eb2abb5a00013aed71669e792e04e7ed183cecefbb3295dc8ae.png",
+  "ruta_relativa": "../imagenes/FDS_052/image_000000_c7b3f2534bb91eb2abb5a00013aed71669e792e04e7ed183cecefbb3295dc8ae.png",
+  "documento": "FDS 52 - HS-P-P-029 - Premier - INVESA.pdf",
+  "pagina": 8,
+  "ancho": 195,
+  "alto": 84,
+  "texto_ocr": "La Compañía Amiga",
+  "nota": "imagen repetida en 12 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_d06ee1cc21ad1eac67fd94f1d802ef1afdb9560e76aa437d7d03723ef7874bf3.png",
+  "ruta_relativa": "../imagenes/FDS_052/image_000001_d06ee1cc21ad1eac67fd94f1d802ef1afdb9560e76aa437d7d03723ef7874bf3.png",
+  "documento": "FDS 52 - HS-P-P-029 - Premier - INVESA.pdf",
+  "pagina": 8,
+  "ancho": 268,
+  "alto": 88,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_c7b3f2534bb91eb2abb5a00013aed71669e792e04e7ed183cecefbb3295dc8ae.png",
+  "ruta_relativa": "../imagenes/FDS_052/image_000000_c7b3f2534bb91eb2abb5a00013aed71669e792e04e7ed183cecefbb3295dc8ae.png",
+  "documento": "FDS 52 - HS-P-P-029 - Premier - INVESA.pdf",
+  "pagina": 9,
+  "ancho": 195,
+  "alto": 84,
+  "texto_ocr": "La Compañía Amiga",
+  "nota": "imagen repetida en 12 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_cc9712fa9f98a4a35c7c7bfa5219f8ec6fe78835031fe74d00b31a95cb5f9073.png",
+  "ruta_relativa": "../imagenes/FDS_052/image_000001_cc9712fa9f98a4a35c7c7bfa5219f8ec6fe78835031fe74d00b31a95cb5f9073.png",
+  "documento": "FDS 52 - HS-P-P-029 - Premier - INVESA.pdf",
+  "pagina": 9,
+  "ancho": 121,
+  "alto": 121,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_dffd60981200b9e8903acc4971a48e8dcd17f3e1bcf462d60d2bc51a87893c9c.png",
+  "ruta_relativa": "../imagenes/FDS_052/image_000002_dffd60981200b9e8903acc4971a48e8dcd17f3e1bcf462d60d2bc51a87893c9c.png",
+  "documento": "FDS 52 - HS-P-P-029 - Premier - INVESA.pdf",
+  "pagina": 9,
+  "ancho": 84,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_ab8748b0efac2adc9bc40ab4e853bdb0083f309a1510a057bf24ca00fa2abf50.png",
+  "ruta_relativa": "../imagenes/FDS_052/image_000003_ab8748b0efac2adc9bc40ab4e853bdb0083f309a1510a057bf24ca00fa2abf50.png",
+  "documento": "FDS 52 - HS-P-P-029 - Premier - INVESA.pdf",
+  "pagina": 9,
+  "ancho": 87,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000004_32eb899842f8cd0cee8826a001d26c8b518d06fb12cf5d4b18d0184c0bbf9227.png",
+  "ruta_relativa": "../imagenes/FDS_052/image_000004_32eb899842f8cd0cee8826a001d26c8b518d06fb12cf5d4b18d0184c0bbf9227.png",
+  "documento": "FDS 52 - HS-P-P-029 - Premier - INVESA.pdf",
+  "pagina": 9,
+  "ancho": 84,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_c7b3f2534bb91eb2abb5a00013aed71669e792e04e7ed183cecefbb3295dc8ae.png",
+  "ruta_relativa": "../imagenes/FDS_052/image_000000_c7b3f2534bb91eb2abb5a00013aed71669e792e04e7ed183cecefbb3295dc8ae.png",
+  "documento": "FDS 52 - HS-P-P-029 - Premier - INVESA.pdf",
+  "pagina": 10,
+  "ancho": 195,
+  "alto": 84,
+  "texto_ocr": "La Compañía Amiga",
+  "nota": "imagen repetida en 12 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_b347239dda05fa14935d8360b66ebd62037ad1fcdb1cedc8a15404725d7a320f.png",
+  "ruta_relativa": "../imagenes/FDS_052/image_000001_b347239dda05fa14935d8360b66ebd62037ad1fcdb1cedc8a15404725d7a320f.png",
+  "documento": "FDS 52 - HS-P-P-029 - Premier - INVESA.pdf",
+  "pagina": 10,
+  "ancho": 121,
+  "alto": 121,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_0a5e6772b1cf5aeece8448e2ecc174518a7e606aed0031bc281d29547c44a617.png",
+  "ruta_relativa": "../imagenes/FDS_052/image_000002_0a5e6772b1cf5aeece8448e2ecc174518a7e606aed0031bc281d29547c44a617.png",
+  "documento": "FDS 52 - HS-P-P-029 - Premier - INVESA.pdf",
+  "pagina": 10,
+  "ancho": 121,
+  "alto": 121,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_6072181ece38400c179145c96ba726be62c2ed8e95788c22e7941950e633eb2a.png",
+  "ruta_relativa": "../imagenes/FDS_052/image_000003_6072181ece38400c179145c96ba726be62c2ed8e95788c22e7941950e633eb2a.png",
+  "documento": "FDS 52 - HS-P-P-029 - Premier - INVESA.pdf",
+  "pagina": 10,
+  "ancho": 84,
+  "alto": 87,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000004_ab8748b0efac2adc9bc40ab4e853bdb0083f309a1510a057bf24ca00fa2abf50.png",
+  "ruta_relativa": "../imagenes/FDS_052/image_000004_ab8748b0efac2adc9bc40ab4e853bdb0083f309a1510a057bf24ca00fa2abf50.png",
+  "documento": "FDS 52 - HS-P-P-029 - Premier - INVESA.pdf",
+  "pagina": 10,
+  "ancho": 87,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000005_32eb899842f8cd0cee8826a001d26c8b518d06fb12cf5d4b18d0184c0bbf9227.png",
+  "ruta_relativa": "../imagenes/FDS_052/image_000005_32eb899842f8cd0cee8826a001d26c8b518d06fb12cf5d4b18d0184c0bbf9227.png",
+  "documento": "FDS 52 - HS-P-P-029 - Premier - INVESA.pdf",
+  "pagina": 10,
+  "ancho": 84,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_c7b3f2534bb91eb2abb5a00013aed71669e792e04e7ed183cecefbb3295dc8ae.png",
+  "ruta_relativa": "../imagenes/FDS_052/image_000000_c7b3f2534bb91eb2abb5a00013aed71669e792e04e7ed183cecefbb3295dc8ae.png",
+  "documento": "FDS 52 - HS-P-P-029 - Premier - INVESA.pdf",
+  "pagina": 11,
+  "ancho": 195,
+  "alto": 84,
+  "texto_ocr": "La Compañía Amiga",
+  "nota": "imagen repetida en 12 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_6072181ece38400c179145c96ba726be62c2ed8e95788c22e7941950e633eb2a.png",
+  "ruta_relativa": "../imagenes/FDS_052/image_000001_6072181ece38400c179145c96ba726be62c2ed8e95788c22e7941950e633eb2a.png",
+  "documento": "FDS 52 - HS-P-P-029 - Premier - INVESA.pdf",
+  "pagina": 11,
+  "ancho": 84,
+  "alto": 87,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_ab8748b0efac2adc9bc40ab4e853bdb0083f309a1510a057bf24ca00fa2abf50.png",
+  "ruta_relativa": "../imagenes/FDS_052/image_000002_ab8748b0efac2adc9bc40ab4e853bdb0083f309a1510a057bf24ca00fa2abf50.png",
+  "documento": "FDS 52 - HS-P-P-029 - Premier - INVESA.pdf",
+  "pagina": 11,
+  "ancho": 87,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_32eb899842f8cd0cee8826a001d26c8b518d06fb12cf5d4b18d0184c0bbf9227.png",
+  "ruta_relativa": "../imagenes/FDS_052/image_000003_32eb899842f8cd0cee8826a001d26c8b518d06fb12cf5d4b18d0184c0bbf9227.png",
+  "documento": "FDS 52 - HS-P-P-029 - Premier - INVESA.pdf",
+  "pagina": 11,
+  "ancho": 84,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_c7b3f2534bb91eb2abb5a00013aed71669e792e04e7ed183cecefbb3295dc8ae.png",
+  "ruta_relativa": "../imagenes/FDS_052/image_000000_c7b3f2534bb91eb2abb5a00013aed71669e792e04e7ed183cecefbb3295dc8ae.png",
+  "documento": "FDS 52 - HS-P-P-029 - Premier - INVESA.pdf",
+  "pagina": 12,
+  "ancho": 195,
+  "alto": 84,
+  "texto_ocr": "La Compañía Amiga",
+  "nota": "imagen repetida en 12 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_4ef8c3adc8df8c570669d062e4c99c2614565a12d34bee19d2f74ae8550a5438.png",
+  "ruta_relativa": "../imagenes/FDS_052/image_000001_4ef8c3adc8df8c570669d062e4c99c2614565a12d34bee19d2f74ae8550a5438.png",
+  "documento": "FDS 52 - HS-P-P-029 - Premier - INVESA.pdf",
+  "pagina": 12,
+  "ancho": 268,
+  "alto": 88,
+  "texto_ocr": "DG Dd",
+  "nota": ""
+ }
+]

@@ -1,0 +1,472 @@
+[
+ {
+  "archivo": "image_000000_db34dc62ceca82943f431910dd811e179bd5e31a4f767286e3c9b42f4af09b5a.png",
+  "ruta_relativa": "../imagenes/FDS_053/image_000000_db34dc62ceca82943f431910dd811e179bd5e31a4f767286e3c9b42f4af09b5a.png",
+  "documento": "FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf",
+  "pagina": 1,
+  "ancho": 195,
+  "alto": 85,
+  "texto_ocr": "La Compañía Amiga",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000001_6072181ece38400c179145c96ba726be62c2ed8e95788c22e7941950e633eb2a.png",
+  "ruta_relativa": "../imagenes/FDS_053/image_000001_6072181ece38400c179145c96ba726be62c2ed8e95788c22e7941950e633eb2a.png",
+  "documento": "FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf",
+  "pagina": 1,
+  "ancho": 84,
+  "alto": 87,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 3 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000002_ab8748b0efac2adc9bc40ab4e853bdb0083f309a1510a057bf24ca00fa2abf50.png",
+  "ruta_relativa": "../imagenes/FDS_053/image_000002_ab8748b0efac2adc9bc40ab4e853bdb0083f309a1510a057bf24ca00fa2abf50.png",
+  "documento": "FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf",
+  "pagina": 1,
+  "ancho": 87,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 3 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000003_32eb899842f8cd0cee8826a001d26c8b518d06fb12cf5d4b18d0184c0bbf9227.png",
+  "ruta_relativa": "../imagenes/FDS_053/image_000003_32eb899842f8cd0cee8826a001d26c8b518d06fb12cf5d4b18d0184c0bbf9227.png",
+  "documento": "FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf",
+  "pagina": 1,
+  "ancho": 84,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000004_e8cde34456df37561473aefb8a62546fcbe2cbc3df40de7b9938b6796990f802.png",
+  "ruta_relativa": "../imagenes/FDS_053/image_000004_e8cde34456df37561473aefb8a62546fcbe2cbc3df40de7b9938b6796990f802.png",
+  "documento": "FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf",
+  "pagina": 1,
+  "ancho": 58,
+  "alto": 56,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000005_190bdb9fc7dbab83cf4038d8f392d6ebd4448d7f4fda5c38258a399d90a612f2.png",
+  "ruta_relativa": "../imagenes/FDS_053/image_000005_190bdb9fc7dbab83cf4038d8f392d6ebd4448d7f4fda5c38258a399d90a612f2.png",
+  "documento": "FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf",
+  "pagina": 1,
+  "ancho": 58,
+  "alto": 56,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000006_9c76771ce37d2b60e279fd17fd394010fd96658e81d5519c95a6a9a2ffde0739.png",
+  "ruta_relativa": "../imagenes/FDS_053/image_000006_9c76771ce37d2b60e279fd17fd394010fd96658e81d5519c95a6a9a2ffde0739.png",
+  "documento": "FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf",
+  "pagina": 1,
+  "ancho": 58,
+  "alto": 58,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_c7b3f2534bb91eb2abb5a00013aed71669e792e04e7ed183cecefbb3295dc8ae.png",
+  "ruta_relativa": "../imagenes/FDS_053/image_000000_c7b3f2534bb91eb2abb5a00013aed71669e792e04e7ed183cecefbb3295dc8ae.png",
+  "documento": "FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf",
+  "pagina": 2,
+  "ancho": 195,
+  "alto": 84,
+  "texto_ocr": "La Compañía Amiga",
+  "nota": "imagen repetida en 11 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_5fe14c3b26f697b1162ed0e7918ade00fbc6aca321d402da069d25d27b442387.png",
+  "ruta_relativa": "../imagenes/FDS_053/image_000001_5fe14c3b26f697b1162ed0e7918ade00fbc6aca321d402da069d25d27b442387.png",
+  "documento": "FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf",
+  "pagina": 2,
+  "ancho": 269,
+  "alto": 88,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_c7b3f2534bb91eb2abb5a00013aed71669e792e04e7ed183cecefbb3295dc8ae.png",
+  "ruta_relativa": "../imagenes/FDS_053/image_000000_c7b3f2534bb91eb2abb5a00013aed71669e792e04e7ed183cecefbb3295dc8ae.png",
+  "documento": "FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf",
+  "pagina": 3,
+  "ancho": 195,
+  "alto": 84,
+  "texto_ocr": "La Compañía Amiga",
+  "nota": "imagen repetida en 11 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_4ef8c3adc8df8c570669d062e4c99c2614565a12d34bee19d2f74ae8550a5438.png",
+  "ruta_relativa": "../imagenes/FDS_053/image_000001_4ef8c3adc8df8c570669d062e4c99c2614565a12d34bee19d2f74ae8550a5438.png",
+  "documento": "FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf",
+  "pagina": 3,
+  "ancho": 268,
+  "alto": 88,
+  "texto_ocr": "DG Dd",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000000_c7b3f2534bb91eb2abb5a00013aed71669e792e04e7ed183cecefbb3295dc8ae.png",
+  "ruta_relativa": "../imagenes/FDS_053/image_000000_c7b3f2534bb91eb2abb5a00013aed71669e792e04e7ed183cecefbb3295dc8ae.png",
+  "documento": "FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf",
+  "pagina": 4,
+  "ancho": 195,
+  "alto": 84,
+  "texto_ocr": "La Compañía Amiga",
+  "nota": "imagen repetida en 11 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_d06ee1cc21ad1eac67fd94f1d802ef1afdb9560e76aa437d7d03723ef7874bf3.png",
+  "ruta_relativa": "../imagenes/FDS_053/image_000001_d06ee1cc21ad1eac67fd94f1d802ef1afdb9560e76aa437d7d03723ef7874bf3.png",
+  "documento": "FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf",
+  "pagina": 4,
+  "ancho": 268,
+  "alto": 88,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 4 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_c7b3f2534bb91eb2abb5a00013aed71669e792e04e7ed183cecefbb3295dc8ae.png",
+  "ruta_relativa": "../imagenes/FDS_053/image_000000_c7b3f2534bb91eb2abb5a00013aed71669e792e04e7ed183cecefbb3295dc8ae.png",
+  "documento": "FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf",
+  "pagina": 5,
+  "ancho": 195,
+  "alto": 84,
+  "texto_ocr": "La Compañía Amiga",
+  "nota": "imagen repetida en 11 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_822254c6eccdb5e9ec8bc4146ac1da60363cbc3b75ba390374409b34ae773e86.png",
+  "ruta_relativa": "../imagenes/FDS_053/image_000001_822254c6eccdb5e9ec8bc4146ac1da60363cbc3b75ba390374409b34ae773e86.png",
+  "documento": "FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf",
+  "pagina": 5,
+  "ancho": 89,
+  "alto": 135,
+  "texto_ocr": "Pictograma Protección obligatoria de las vías respiratorias",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000002_e4772c64c62ae49ba96a3b7a263ad8e1a920c30c5f1137aa31f82bbf4480e7d0.png",
+  "ruta_relativa": "../imagenes/FDS_053/image_000002_e4772c64c62ae49ba96a3b7a263ad8e1a920c30c5f1137aa31f82bbf4480e7d0.png",
+  "documento": "FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf",
+  "pagina": 5,
+  "ancho": 71,
+  "alto": 69,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_bbc14e9360568f2d1dc44572401fc911bb3357e6ec3a5cafb3b8d573d6633f04.png",
+  "ruta_relativa": "../imagenes/FDS_053/image_000003_bbc14e9360568f2d1dc44572401fc911bb3357e6ec3a5cafb3b8d573d6633f04.png",
+  "documento": "FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf",
+  "pagina": 5,
+  "ancho": 69,
+  "alto": 71,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000004_d6aee99053ba41f2a10238ac9f62b569969f805b3ef937efeb06018bb438fb3d.png",
+  "ruta_relativa": "../imagenes/FDS_053/image_000004_d6aee99053ba41f2a10238ac9f62b569969f805b3ef937efeb06018bb438fb3d.png",
+  "documento": "FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf",
+  "pagina": 5,
+  "ancho": 92,
+  "alto": 112,
+  "texto_ocr": "Protección obligatoria de los pies",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000005_d06ee1cc21ad1eac67fd94f1d802ef1afdb9560e76aa437d7d03723ef7874bf3.png",
+  "ruta_relativa": "../imagenes/FDS_053/image_000005_d06ee1cc21ad1eac67fd94f1d802ef1afdb9560e76aa437d7d03723ef7874bf3.png",
+  "documento": "FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf",
+  "pagina": 5,
+  "ancho": 268,
+  "alto": 88,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000006_85f677e36e72180b03adf4dc37081fa882cc99ef787f5b02669518b42b1a0dc9.png",
+  "ruta_relativa": "../imagenes/FDS_053/image_000006_85f677e36e72180b03adf4dc37081fa882cc99ef787f5b02669518b42b1a0dc9.png",
+  "documento": "FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf",
+  "pagina": 5,
+  "ancho": 58,
+  "alto": 61,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_c7b3f2534bb91eb2abb5a00013aed71669e792e04e7ed183cecefbb3295dc8ae.png",
+  "ruta_relativa": "../imagenes/FDS_053/image_000000_c7b3f2534bb91eb2abb5a00013aed71669e792e04e7ed183cecefbb3295dc8ae.png",
+  "documento": "FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf",
+  "pagina": 6,
+  "ancho": 195,
+  "alto": 84,
+  "texto_ocr": "La Compañía Amiga",
+  "nota": "imagen repetida en 11 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_6072181ece38400c179145c96ba726be62c2ed8e95788c22e7941950e633eb2a.png",
+  "ruta_relativa": "../imagenes/FDS_053/image_000001_6072181ece38400c179145c96ba726be62c2ed8e95788c22e7941950e633eb2a.png",
+  "documento": "FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf",
+  "pagina": 6,
+  "ancho": 84,
+  "alto": 87,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 3 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000002_ab8748b0efac2adc9bc40ab4e853bdb0083f309a1510a057bf24ca00fa2abf50.png",
+  "ruta_relativa": "../imagenes/FDS_053/image_000002_ab8748b0efac2adc9bc40ab4e853bdb0083f309a1510a057bf24ca00fa2abf50.png",
+  "documento": "FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf",
+  "pagina": 6,
+  "ancho": 87,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 3 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000003_0cae24377c04bac876141de49676c422f8368e76a8ebe30f9e6a3b3625d132ca.png",
+  "ruta_relativa": "../imagenes/FDS_053/image_000003_0cae24377c04bac876141de49676c422f8368e76a8ebe30f9e6a3b3625d132ca.png",
+  "documento": "FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf",
+  "pagina": 6,
+  "ancho": 85,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_c7b3f2534bb91eb2abb5a00013aed71669e792e04e7ed183cecefbb3295dc8ae.png",
+  "ruta_relativa": "../imagenes/FDS_053/image_000000_c7b3f2534bb91eb2abb5a00013aed71669e792e04e7ed183cecefbb3295dc8ae.png",
+  "documento": "FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf",
+  "pagina": 7,
+  "ancho": 195,
+  "alto": 84,
+  "texto_ocr": "La Compañía Amiga",
+  "nota": "imagen repetida en 11 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_5fe14c3b26f697b1162ed0e7918ade00fbc6aca321d402da069d25d27b442387.png",
+  "ruta_relativa": "../imagenes/FDS_053/image_000001_5fe14c3b26f697b1162ed0e7918ade00fbc6aca321d402da069d25d27b442387.png",
+  "documento": "FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf",
+  "pagina": 7,
+  "ancho": 269,
+  "alto": 88,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_c7b3f2534bb91eb2abb5a00013aed71669e792e04e7ed183cecefbb3295dc8ae.png",
+  "ruta_relativa": "../imagenes/FDS_053/image_000000_c7b3f2534bb91eb2abb5a00013aed71669e792e04e7ed183cecefbb3295dc8ae.png",
+  "documento": "FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf",
+  "pagina": 8,
+  "ancho": 195,
+  "alto": 84,
+  "texto_ocr": "La Compañía Amiga",
+  "nota": "imagen repetida en 11 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_d06ee1cc21ad1eac67fd94f1d802ef1afdb9560e76aa437d7d03723ef7874bf3.png",
+  "ruta_relativa": "../imagenes/FDS_053/image_000001_d06ee1cc21ad1eac67fd94f1d802ef1afdb9560e76aa437d7d03723ef7874bf3.png",
+  "documento": "FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf",
+  "pagina": 8,
+  "ancho": 268,
+  "alto": 88,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 4 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_c7b3f2534bb91eb2abb5a00013aed71669e792e04e7ed183cecefbb3295dc8ae.png",
+  "ruta_relativa": "../imagenes/FDS_053/image_000000_c7b3f2534bb91eb2abb5a00013aed71669e792e04e7ed183cecefbb3295dc8ae.png",
+  "documento": "FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf",
+  "pagina": 9,
+  "ancho": 195,
+  "alto": 84,
+  "texto_ocr": "La Compañía Amiga",
+  "nota": "imagen repetida en 11 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_d06ee1cc21ad1eac67fd94f1d802ef1afdb9560e76aa437d7d03723ef7874bf3.png",
+  "ruta_relativa": "../imagenes/FDS_053/image_000001_d06ee1cc21ad1eac67fd94f1d802ef1afdb9560e76aa437d7d03723ef7874bf3.png",
+  "documento": "FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf",
+  "pagina": 9,
+  "ancho": 268,
+  "alto": 88,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 4 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_c7b3f2534bb91eb2abb5a00013aed71669e792e04e7ed183cecefbb3295dc8ae.png",
+  "ruta_relativa": "../imagenes/FDS_053/image_000000_c7b3f2534bb91eb2abb5a00013aed71669e792e04e7ed183cecefbb3295dc8ae.png",
+  "documento": "FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf",
+  "pagina": 10,
+  "ancho": 195,
+  "alto": 84,
+  "texto_ocr": "La Compañía Amiga",
+  "nota": "imagen repetida en 11 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_d06ee1cc21ad1eac67fd94f1d802ef1afdb9560e76aa437d7d03723ef7874bf3.png",
+  "ruta_relativa": "../imagenes/FDS_053/image_000001_d06ee1cc21ad1eac67fd94f1d802ef1afdb9560e76aa437d7d03723ef7874bf3.png",
+  "documento": "FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf",
+  "pagina": 10,
+  "ancho": 268,
+  "alto": 88,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 4 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_c7b3f2534bb91eb2abb5a00013aed71669e792e04e7ed183cecefbb3295dc8ae.png",
+  "ruta_relativa": "../imagenes/FDS_053/image_000000_c7b3f2534bb91eb2abb5a00013aed71669e792e04e7ed183cecefbb3295dc8ae.png",
+  "documento": "FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf",
+  "pagina": 11,
+  "ancho": 195,
+  "alto": 84,
+  "texto_ocr": "La Compañía Amiga",
+  "nota": "imagen repetida en 11 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_d8d98524897690c071744a54f35d967032f38fadcda2507bb07c78c6e05799d5.png",
+  "ruta_relativa": "../imagenes/FDS_053/image_000001_d8d98524897690c071744a54f35d967032f38fadcda2507bb07c78c6e05799d5.png",
+  "documento": "FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf",
+  "pagina": 11,
+  "ancho": 120,
+  "alto": 120,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_facaca942e952dda0a04a7398d06be4c2b4e5e4a03f3c36a4397bd2d47e3ae47.png",
+  "ruta_relativa": "../imagenes/FDS_053/image_000002_facaca942e952dda0a04a7398d06be4c2b4e5e4a03f3c36a4397bd2d47e3ae47.png",
+  "documento": "FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf",
+  "pagina": 11,
+  "ancho": 269,
+  "alto": 89,
+  "texto_ocr": "DOOD",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000000_c7b3f2534bb91eb2abb5a00013aed71669e792e04e7ed183cecefbb3295dc8ae.png",
+  "ruta_relativa": "../imagenes/FDS_053/image_000000_c7b3f2534bb91eb2abb5a00013aed71669e792e04e7ed183cecefbb3295dc8ae.png",
+  "documento": "FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf",
+  "pagina": 12,
+  "ancho": 195,
+  "alto": 84,
+  "texto_ocr": "La Compañía Amiga",
+  "nota": "imagen repetida en 11 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_7801dd867855fd67fd4fffc562977824795fc1964449df70865ab1696f326e16.png",
+  "ruta_relativa": "../imagenes/FDS_053/image_000001_7801dd867855fd67fd4fffc562977824795fc1964449df70865ab1696f326e16.png",
+  "documento": "FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf",
+  "pagina": 12,
+  "ancho": 124,
+  "alto": 119,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_4e686702883d3c7ef1d6d40b773a98d4014e23e80ad92505e5a35b0f0f7f6c4c.png",
+  "ruta_relativa": "../imagenes/FDS_053/image_000002_4e686702883d3c7ef1d6d40b773a98d4014e23e80ad92505e5a35b0f0f7f6c4c.png",
+  "documento": "FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf",
+  "pagina": 12,
+  "ancho": 121,
+  "alto": 121,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_6072181ece38400c179145c96ba726be62c2ed8e95788c22e7941950e633eb2a.png",
+  "ruta_relativa": "../imagenes/FDS_053/image_000003_6072181ece38400c179145c96ba726be62c2ed8e95788c22e7941950e633eb2a.png",
+  "documento": "FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf",
+  "pagina": 12,
+  "ancho": 84,
+  "alto": 87,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000004_ab8748b0efac2adc9bc40ab4e853bdb0083f309a1510a057bf24ca00fa2abf50.png",
+  "ruta_relativa": "../imagenes/FDS_053/image_000004_ab8748b0efac2adc9bc40ab4e853bdb0083f309a1510a057bf24ca00fa2abf50.png",
+  "documento": "FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf",
+  "pagina": 12,
+  "ancho": 87,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000005_32eb899842f8cd0cee8826a001d26c8b518d06fb12cf5d4b18d0184c0bbf9227.png",
+  "ruta_relativa": "../imagenes/FDS_053/image_000005_32eb899842f8cd0cee8826a001d26c8b518d06fb12cf5d4b18d0184c0bbf9227.png",
+  "documento": "FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf",
+  "pagina": 12,
+  "ancho": 84,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_db34dc62ceca82943f431910dd811e179bd5e31a4f767286e3c9b42f4af09b5a.png",
+  "ruta_relativa": "../imagenes/FDS_053/image_000000_db34dc62ceca82943f431910dd811e179bd5e31a4f767286e3c9b42f4af09b5a.png",
+  "documento": "FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf",
+  "pagina": 13,
+  "ancho": 195,
+  "alto": 85,
+  "texto_ocr": "La Compañía Amiga",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000001_6072181ece38400c179145c96ba726be62c2ed8e95788c22e7941950e633eb2a.png",
+  "ruta_relativa": "../imagenes/FDS_053/image_000001_6072181ece38400c179145c96ba726be62c2ed8e95788c22e7941950e633eb2a.png",
+  "documento": "FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf",
+  "pagina": 13,
+  "ancho": 84,
+  "alto": 87,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 3 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000002_ab8748b0efac2adc9bc40ab4e853bdb0083f309a1510a057bf24ca00fa2abf50.png",
+  "ruta_relativa": "../imagenes/FDS_053/image_000002_ab8748b0efac2adc9bc40ab4e853bdb0083f309a1510a057bf24ca00fa2abf50.png",
+  "documento": "FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf",
+  "pagina": 13,
+  "ancho": 87,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 3 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000003_32eb899842f8cd0cee8826a001d26c8b518d06fb12cf5d4b18d0184c0bbf9227.png",
+  "ruta_relativa": "../imagenes/FDS_053/image_000003_32eb899842f8cd0cee8826a001d26c8b518d06fb12cf5d4b18d0184c0bbf9227.png",
+  "documento": "FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf",
+  "pagina": 13,
+  "ancho": 84,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_cf3f8ef6b0c0887ab687db8bee8a8c13f751ee9d4633fd6fbe9e51e2a019cd7c.png",
+  "ruta_relativa": "../imagenes/FDS_053/image_000000_cf3f8ef6b0c0887ab687db8bee8a8c13f751ee9d4633fd6fbe9e51e2a019cd7c.png",
+  "documento": "FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf",
+  "pagina": 14,
+  "ancho": 194,
+  "alto": 84,
+  "texto_ocr": "La Compañía Amiga",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000001_facaca942e952dda0a04a7398d06be4c2b4e5e4a03f3c36a4397bd2d47e3ae47.png",
+  "ruta_relativa": "../imagenes/FDS_053/image_000001_facaca942e952dda0a04a7398d06be4c2b4e5e4a03f3c36a4397bd2d47e3ae47.png",
+  "documento": "FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf",
+  "pagina": 14,
+  "ancho": 269,
+  "alto": 89,
+  "texto_ocr": "DOOD",
+  "nota": ""
+ }
+]

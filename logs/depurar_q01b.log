@@ -1,0 +1,5 @@
+RESPUESTA EVALUADA: El punto de inflamación del Sellador Industrial Nitrocelulósico (código 40030020) de Química Cosmos es 20 ºC.
+AFIRMACIONES: ['El punto de inflamación del Sellador Industrial Nitrocelulósico (código 40030020) de Química Cosmos es 20 ºC.', 'El código 40030020 corresponde al Sellador Industrial Nitrocelulósico de Química Cosmos.']
+  veredicto=0 | "El punto de inflamación del Sellador Industrial Nitrocelulósico (código 40030020) de Quím | razon: El contexto proporciona información sobre los puntos de fusión y punto de congelación, pero no menciona el punto de inflamación del Sellador Industrial Nitrocel
+  veredicto=0 | "El código 40030020 corresponde al Sellador Industrial Nitrocelulósico de Química Cosmos." | razon: El contexto no proporciona información sobre el código 40030020 ni sobre si corresponde al Sellador Industrial Nitrocelulósico de Química Cosmos. Por lo tanto, 
+DEP_FIN

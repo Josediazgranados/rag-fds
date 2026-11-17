@@ -1,0 +1,202 @@
+[
+ {
+  "archivo": "image_000000_7e224fd26acb2fa7b93fadf3802dd36697d3a3ebfe56ece5ed620d614c609128.png",
+  "ruta_relativa": "../imagenes/FDS_083/image_000000_7e224fd26acb2fa7b93fadf3802dd36697d3a3ebfe56ece5ed620d614c609128.png",
+  "documento": "FDS 83 - epoxy-zinc-primer-10056.pdf",
+  "pagina": 1,
+  "ancho": 342,
+  "alto": 46,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000001_b21e31c9de88cb60e7436fa2171d3f4fe3b32325451ea41cbb538a4706c91f01.png",
+  "ruta_relativa": "../imagenes/FDS_083/image_000001_b21e31c9de88cb60e7436fa2171d3f4fe3b32325451ea41cbb538a4706c91f01.png",
+  "documento": "FDS 83 - epoxy-zinc-primer-10056.pdf",
+  "pagina": 1,
+  "ancho": 99,
+  "alto": 99,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_083/image_000002_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 83 - epoxy-zinc-primer-10056.pdf",
+  "pagina": 1,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_ede3e01b24df990e4d1fd265a97abe7a5d7097391ae74bf51030ca45272abc3e.png",
+  "ruta_relativa": "../imagenes/FDS_083/image_000000_ede3e01b24df990e4d1fd265a97abe7a5d7097391ae74bf51030ca45272abc3e.png",
+  "documento": "FDS 83 - epoxy-zinc-primer-10056.pdf",
+  "pagina": 2,
+  "ancho": 141,
+  "alto": 22,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_083/image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 83 - epoxy-zinc-primer-10056.pdf",
+  "pagina": 3,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 9 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_083/image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 83 - epoxy-zinc-primer-10056.pdf",
+  "pagina": 4,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 9 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_083/image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 83 - epoxy-zinc-primer-10056.pdf",
+  "pagina": 5,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 9 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_083/image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 83 - epoxy-zinc-primer-10056.pdf",
+  "pagina": 6,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 9 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_083/image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 83 - epoxy-zinc-primer-10056.pdf",
+  "pagina": 7,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 9 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_083/image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 83 - epoxy-zinc-primer-10056.pdf",
+  "pagina": 8,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 9 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_083/image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 83 - epoxy-zinc-primer-10056.pdf",
+  "pagina": 9,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 9 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_663e01734d4fdade1e4df604e9883c73f4e843b9b61081a1a6a1c3ba41374d84.png",
+  "ruta_relativa": "../imagenes/FDS_083/image_000000_663e01734d4fdade1e4df604e9883c73f4e843b9b61081a1a6a1c3ba41374d84.png",
+  "documento": "FDS 83 - epoxy-zinc-primer-10056.pdf",
+  "pagina": 10,
+  "ancho": 78,
+  "alto": 80,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000001_e2e5d4eee3f304ce3d4838451e02a171684a8856b12e5bdb3712d21df4b1441f.png",
+  "ruta_relativa": "../imagenes/FDS_083/image_000001_e2e5d4eee3f304ce3d4838451e02a171684a8856b12e5bdb3712d21df4b1441f.png",
+  "documento": "FDS 83 - epoxy-zinc-primer-10056.pdf",
+  "pagina": 10,
+  "ancho": 73,
+  "alto": 75,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_9aa213e4b1415ba195454c8e80eb1fef4687f65bee761cecff16a33d68a2ae78.png",
+  "ruta_relativa": "../imagenes/FDS_083/image_000002_9aa213e4b1415ba195454c8e80eb1fef4687f65bee761cecff16a33d68a2ae78.png",
+  "documento": "FDS 83 - epoxy-zinc-primer-10056.pdf",
+  "pagina": 10,
+  "ancho": 78,
+  "alto": 79,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_3ed8e59124206b3e13f121a881aadc823b6b1c08ac7e9302fa4821eed2e36768.png",
+  "ruta_relativa": "../imagenes/FDS_083/image_000003_3ed8e59124206b3e13f121a881aadc823b6b1c08ac7e9302fa4821eed2e36768.png",
+  "documento": "FDS 83 - epoxy-zinc-primer-10056.pdf",
+  "pagina": 10,
+  "ancho": 75,
+  "alto": 74,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000004_e1c3274f54bddb60379e723104802802d95862e72aceb00fc2d8bbb314e048e3.png",
+  "ruta_relativa": "../imagenes/FDS_083/image_000004_e1c3274f54bddb60379e723104802802d95862e72aceb00fc2d8bbb314e048e3.png",
+  "documento": "FDS 83 - epoxy-zinc-primer-10056.pdf",
+  "pagina": 10,
+  "ancho": 79,
+  "alto": 80,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000005_752938f23e37eea205920a67220779648b74fb280080a31741c77681a8b54e98.png",
+  "ruta_relativa": "../imagenes/FDS_083/image_000005_752938f23e37eea205920a67220779648b74fb280080a31741c77681a8b54e98.png",
+  "documento": "FDS 83 - epoxy-zinc-primer-10056.pdf",
+  "pagina": 10,
+  "ancho": 73,
+  "alto": 75,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000006_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_083/image_000006_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 83 - epoxy-zinc-primer-10056.pdf",
+  "pagina": 10,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_083/image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 83 - epoxy-zinc-primer-10056.pdf",
+  "pagina": 11,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 9 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_083/image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 83 - epoxy-zinc-primer-10056.pdf",
+  "pagina": 12,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 9 paginas (probable logotipo); OCR no incluido en el Markdown"
+ }
+]

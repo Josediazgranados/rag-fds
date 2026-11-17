@@ -1,0 +1,164 @@
+[
+ {
+  "top_k": 3,
+  "familia": "ragas",
+  "metrica": "faithfulness",
+  "promedio": 0.033,
+  "casos_validos": 10,
+  "fallos": 0,
+  "pendientes": 0
+ },
+ {
+  "top_k": 3,
+  "familia": "ragas",
+  "metrica": "context_precision",
+  "promedio": 0.833,
+  "casos_validos": 10,
+  "fallos": 0,
+  "pendientes": 0
+ },
+ {
+  "top_k": 3,
+  "familia": "ragas",
+  "metrica": "context_recall",
+  "promedio": 0.95,
+  "casos_validos": 10,
+  "fallos": 0,
+  "pendientes": 0
+ },
+ {
+  "top_k": 3,
+  "familia": "determinista",
+  "metrica": "doc_recall",
+  "promedio": 1.0,
+  "casos_validos": 10,
+  "fallos": 0,
+  "pendientes": 0
+ },
+ {
+  "top_k": 3,
+  "familia": "determinista",
+  "metrica": "ref_en_contextos",
+  "promedio": 0.896,
+  "casos_validos": 10,
+  "fallos": 0,
+  "pendientes": 0
+ },
+ {
+  "top_k": 3,
+  "familia": "determinista",
+  "metrica": "resp_cubre_ref",
+  "promedio": 0.684,
+  "casos_validos": 10,
+  "fallos": 0,
+  "pendientes": 0
+ },
+ {
+  "top_k": 3,
+  "familia": "determinista",
+  "metrica": "resp_apoyada",
+  "promedio": 1.0,
+  "casos_validos": 7,
+  "fallos": 0,
+  "pendientes": 0
+ },
+ {
+  "top_k": 3,
+  "familia": "determinista",
+  "metrica": "citas_en_doc_esperado",
+  "promedio": 1.0,
+  "casos_validos": 10,
+  "fallos": 0,
+  "pendientes": 0
+ },
+ {
+  "top_k": 3,
+  "familia": "determinista",
+  "metrica": "rechazo_correcto",
+  "promedio": 1.0,
+  "casos_validos": 2,
+  "fallos": 0,
+  "pendientes": 0
+ },
+ {
+  "top_k": 6,
+  "familia": "ragas",
+  "metrica": "faithfulness",
+  "promedio": 0.243,
+  "casos_validos": 10,
+  "fallos": 0,
+  "pendientes": 0
+ },
+ {
+  "top_k": 6,
+  "familia": "ragas",
+  "metrica": "context_precision",
+  "promedio": 0.829,
+  "casos_validos": 10,
+  "fallos": 0,
+  "pendientes": 0
+ },
+ {
+  "top_k": 6,
+  "familia": "ragas",
+  "metrica": "context_recall",
+  "promedio": 1.0,
+  "casos_validos": 10,
+  "fallos": 0,
+  "pendientes": 0
+ },
+ {
+  "top_k": 6,
+  "familia": "determinista",
+  "metrica": "doc_recall",
+  "promedio": 1.0,
+  "casos_validos": 10,
+  "fallos": 0,
+  "pendientes": 0
+ },
+ {
+  "top_k": 6,
+  "familia": "determinista",
+  "metrica": "ref_en_contextos",
+  "promedio": 0.946,
+  "casos_validos": 10,
+  "fallos": 0,
+  "pendientes": 0
+ },
+ {
+  "top_k": 6,
+  "familia": "determinista",
+  "metrica": "resp_cubre_ref",
+  "promedio": 0.711,
+  "casos_validos": 10,
+  "fallos": 0,
+  "pendientes": 0
+ },
+ {
+  "top_k": 6,
+  "familia": "determinista",
+  "metrica": "resp_apoyada",
+  "promedio": 1.0,
+  "casos_validos": 7,
+  "fallos": 0,
+  "pendientes": 0
+ },
+ {
+  "top_k": 6,
+  "familia": "determinista",
+  "metrica": "citas_en_doc_esperado",
+  "promedio": 1.0,
+  "casos_validos": 10,
+  "fallos": 0,
+  "pendientes": 0
+ },
+ {
+  "top_k": 6,
+  "familia": "determinista",
+  "metrica": "rechazo_correcto",
+  "promedio": 1.0,
+  "casos_validos": 2,
+  "fallos": 0,
+  "pendientes": 0
+ }
+]

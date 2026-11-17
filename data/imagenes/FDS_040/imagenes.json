@@ -1,0 +1,132 @@
+[
+ {
+  "archivo": "image_000000_cf3f8ef6b0c0887ab687db8bee8a8c13f751ee9d4633fd6fbe9e51e2a019cd7c.png",
+  "ruta_relativa": "../imagenes/FDS_040/image_000000_cf3f8ef6b0c0887ab687db8bee8a8c13f751ee9d4633fd6fbe9e51e2a019cd7c.png",
+  "documento": "FDS 40 - HS-P-P-007 - Vinicryl - INVESA.pdf",
+  "pagina": 1,
+  "ancho": 194,
+  "alto": 84,
+  "texto_ocr": "La Compañía Amiga",
+  "nota": "imagen repetida en 6 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_cf3f8ef6b0c0887ab687db8bee8a8c13f751ee9d4633fd6fbe9e51e2a019cd7c.png",
+  "ruta_relativa": "../imagenes/FDS_040/image_000000_cf3f8ef6b0c0887ab687db8bee8a8c13f751ee9d4633fd6fbe9e51e2a019cd7c.png",
+  "documento": "FDS 40 - HS-P-P-007 - Vinicryl - INVESA.pdf",
+  "pagina": 2,
+  "ancho": 194,
+  "alto": 84,
+  "texto_ocr": "La Compañía Amiga",
+  "nota": "imagen repetida en 6 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_cf3f8ef6b0c0887ab687db8bee8a8c13f751ee9d4633fd6fbe9e51e2a019cd7c.png",
+  "ruta_relativa": "../imagenes/FDS_040/image_000000_cf3f8ef6b0c0887ab687db8bee8a8c13f751ee9d4633fd6fbe9e51e2a019cd7c.png",
+  "documento": "FDS 40 - HS-P-P-007 - Vinicryl - INVESA.pdf",
+  "pagina": 3,
+  "ancho": 194,
+  "alto": 84,
+  "texto_ocr": "La Compañía Amiga",
+  "nota": "imagen repetida en 6 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_c7b3f2534bb91eb2abb5a00013aed71669e792e04e7ed183cecefbb3295dc8ae.png",
+  "ruta_relativa": "../imagenes/FDS_040/image_000000_c7b3f2534bb91eb2abb5a00013aed71669e792e04e7ed183cecefbb3295dc8ae.png",
+  "documento": "FDS 40 - HS-P-P-007 - Vinicryl - INVESA.pdf",
+  "pagina": 4,
+  "ancho": 195,
+  "alto": 84,
+  "texto_ocr": "La Compañía Amiga",
+  "nota": "imagen repetida en 3 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_b42796b93a8228e58ff12d9064ee0a822ff331d32241b2ccf53facf149bb285e.png",
+  "ruta_relativa": "../imagenes/FDS_040/image_000001_b42796b93a8228e58ff12d9064ee0a822ff331d32241b2ccf53facf149bb285e.png",
+  "documento": "FDS 40 - HS-P-P-007 - Vinicryl - INVESA.pdf",
+  "pagina": 4,
+  "ancho": 70,
+  "alto": 75,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_0bede146905b35fd95ef872445e7a06f0ad3ce707621b57ff860cf6cf77e12ba.png",
+  "ruta_relativa": "../imagenes/FDS_040/image_000002_0bede146905b35fd95ef872445e7a06f0ad3ce707621b57ff860cf6cf77e12ba.png",
+  "documento": "FDS 40 - HS-P-P-007 - Vinicryl - INVESA.pdf",
+  "pagina": 4,
+  "ancho": 90,
+  "alto": 112,
+  "texto_ocr": "Protección obligatoria de los pies",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000003_cedf480d91241d7f386efbd54c4ccd6b8f1a755c77f93bbaabc2970bf53db174.png",
+  "ruta_relativa": "../imagenes/FDS_040/image_000003_cedf480d91241d7f386efbd54c4ccd6b8f1a755c77f93bbaabc2970bf53db174.png",
+  "documento": "FDS 40 - HS-P-P-007 - Vinicryl - INVESA.pdf",
+  "pagina": 4,
+  "ancho": 57,
+  "alto": 61,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000004_f51f2b01bf7066f5d79f22fe44276158ecc36d829dace09f01cc446f6f9554f6.png",
+  "ruta_relativa": "../imagenes/FDS_040/image_000004_f51f2b01bf7066f5d79f22fe44276158ecc36d829dace09f01cc446f6f9554f6.png",
+  "documento": "FDS 40 - HS-P-P-007 - Vinicryl - INVESA.pdf",
+  "pagina": 4,
+  "ancho": 58,
+  "alto": 67,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_c7b3f2534bb91eb2abb5a00013aed71669e792e04e7ed183cecefbb3295dc8ae.png",
+  "ruta_relativa": "../imagenes/FDS_040/image_000000_c7b3f2534bb91eb2abb5a00013aed71669e792e04e7ed183cecefbb3295dc8ae.png",
+  "documento": "FDS 40 - HS-P-P-007 - Vinicryl - INVESA.pdf",
+  "pagina": 5,
+  "ancho": 195,
+  "alto": 84,
+  "texto_ocr": "La Compañía Amiga",
+  "nota": "imagen repetida en 3 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_c7b3f2534bb91eb2abb5a00013aed71669e792e04e7ed183cecefbb3295dc8ae.png",
+  "ruta_relativa": "../imagenes/FDS_040/image_000000_c7b3f2534bb91eb2abb5a00013aed71669e792e04e7ed183cecefbb3295dc8ae.png",
+  "documento": "FDS 40 - HS-P-P-007 - Vinicryl - INVESA.pdf",
+  "pagina": 6,
+  "ancho": 195,
+  "alto": 84,
+  "texto_ocr": "La Compañía Amiga",
+  "nota": "imagen repetida en 3 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_cf3f8ef6b0c0887ab687db8bee8a8c13f751ee9d4633fd6fbe9e51e2a019cd7c.png",
+  "ruta_relativa": "../imagenes/FDS_040/image_000000_cf3f8ef6b0c0887ab687db8bee8a8c13f751ee9d4633fd6fbe9e51e2a019cd7c.png",
+  "documento": "FDS 40 - HS-P-P-007 - Vinicryl - INVESA.pdf",
+  "pagina": 7,
+  "ancho": 194,
+  "alto": 84,
+  "texto_ocr": "La Compañía Amiga",
+  "nota": "imagen repetida en 6 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_cf3f8ef6b0c0887ab687db8bee8a8c13f751ee9d4633fd6fbe9e51e2a019cd7c.png",
+  "ruta_relativa": "../imagenes/FDS_040/image_000000_cf3f8ef6b0c0887ab687db8bee8a8c13f751ee9d4633fd6fbe9e51e2a019cd7c.png",
+  "documento": "FDS 40 - HS-P-P-007 - Vinicryl - INVESA.pdf",
+  "pagina": 8,
+  "ancho": 194,
+  "alto": 84,
+  "texto_ocr": "La Compañía Amiga",
+  "nota": "imagen repetida en 6 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_cf3f8ef6b0c0887ab687db8bee8a8c13f751ee9d4633fd6fbe9e51e2a019cd7c.png",
+  "ruta_relativa": "../imagenes/FDS_040/image_000000_cf3f8ef6b0c0887ab687db8bee8a8c13f751ee9d4633fd6fbe9e51e2a019cd7c.png",
+  "documento": "FDS 40 - HS-P-P-007 - Vinicryl - INVESA.pdf",
+  "pagina": 9,
+  "ancho": 194,
+  "alto": 84,
+  "texto_ocr": "La Compañía Amiga",
+  "nota": "imagen repetida en 6 paginas (probable logotipo); OCR no incluido en el Markdown"
+ }
+]

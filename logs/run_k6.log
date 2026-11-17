@@ -1,0 +1,16 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights: 100%|██████████| 199/199 [00:00<00:00, 4910.15it/s]
+Q01 k=6 308.5 s | 'El punto de inflamación del Sellador Industrial Nitrocelulósico (código 40030020) de Química Cosmos es 185 ºC '
+Q02 k=6 399.0 s | 'El número CAS del dióxido de titanio en la Pintura Coolguard de Corona es CAS: 13463-67-7 y se encuentra en el'
+Q03 k=6 392.5 s | 'El primeros auxilios en caso de ingestión del Esmalte Maestro de Pinturas Bler son: Requerir asistencia médica'
+Q04 k=6 435.3 s | 'El Dimetcote 302H Green Resin de PPG se puede extinguir utilizando polvo químico seco, CO₂, agua pulverizada o'
+Q05 k=6 393.0 s | '14.1 Número ONU: UN1263 [1]'
+Q06 k=6 558.7 s | 'Temperatura máxima: 35 ºC [2][3]'
+Q07 k=6 417.4 s | 'El punto de inflamación de Esmalte Maestro de Pinturas Bler es 60 ºC [1]. El punto de inflamación de Esmalte M'
+Q08 k=6 569.1 s | 'El punto de inflamación de SIGMADUR ONE BUFF 3142 es 37°C [2]'
+Q09 k=6 223.6 s | '[1]'
+Q10 k=6 280.1 s | 'El punto de inflamación de Esmalte Metal Master Premium de Corona es 60 ºC [1]. El número ONU de transporte es'
+Q11 k=6 235.4 s | 'No hay evidencia suficiente en las fichas de datos de seguridad recuperadas para responder esta pregunta.'
+Q12 k=6 268.7 s | 'No hay evidencia suficiente en las fichas de datos de seguridad recuperadas para responder esta pregunta.'
+FIN k=6: 12 preguntas en 4481 s -> evaluacion/resultados_k6.json
+K6_FIN

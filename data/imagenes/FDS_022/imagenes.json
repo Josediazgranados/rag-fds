@@ -1,0 +1,52 @@
+[
+ {
+  "archivo": "image_000000_a34efc9d3cec05ca733628eeab8dbac36f06f66154f632e518394d7474f701b4.png",
+  "ruta_relativa": "../imagenes/FDS_022/image_000000_a34efc9d3cec05ca733628eeab8dbac36f06f66154f632e518394d7474f701b4.png",
+  "documento": "FDS 22 - Esmalte Uretano AR Comp. B.pdf",
+  "pagina": 1,
+  "ancho": 218,
+  "alto": 77,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000001_2923153baa57fba1df966dff6a3c647c1663cfa03ebcd466514ae37e148cf915.png",
+  "ruta_relativa": "../imagenes/FDS_022/image_000001_2923153baa57fba1df966dff6a3c647c1663cfa03ebcd466514ae37e148cf915.png",
+  "documento": "FDS 22 - Esmalte Uretano AR Comp. B.pdf",
+  "pagina": 1,
+  "ancho": 102,
+  "alto": 102,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_549de150fa803846f57e1bf3670702757a4ceb7029236eff42143705dcc3d920.png",
+  "ruta_relativa": "../imagenes/FDS_022/image_000000_549de150fa803846f57e1bf3670702757a4ceb7029236eff42143705dcc3d920.png",
+  "documento": "FDS 22 - Esmalte Uretano AR Comp. B.pdf",
+  "pagina": 7,
+  "ancho": 102,
+  "alto": 100,
+  "texto_ocr": "atlh, ,",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000001_9cdf706cde7c7980af7c97288d50a3ab7f62291e20ae3c18f3a1937f0ac367eb.png",
+  "ruta_relativa": "../imagenes/FDS_022/image_000001_9cdf706cde7c7980af7c97288d50a3ab7f62291e20ae3c18f3a1937f0ac367eb.png",
+  "documento": "FDS 22 - Esmalte Uretano AR Comp. B.pdf",
+  "pagina": 7,
+  "ancho": 103,
+  "alto": 101,
+  "texto_ocr": "atlh, ,",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000002_52e8b59762cf1ffd243487473432beb0a1dfd5c8e59aa0afce266ba0d1cb4e6d.png",
+  "ruta_relativa": "../imagenes/FDS_022/image_000002_52e8b59762cf1ffd243487473432beb0a1dfd5c8e59aa0afce266ba0d1cb4e6d.png",
+  "documento": "FDS 22 - Esmalte Uretano AR Comp. B.pdf",
+  "pagina": 7,
+  "ancho": 102,
+  "alto": 102,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ }
+]

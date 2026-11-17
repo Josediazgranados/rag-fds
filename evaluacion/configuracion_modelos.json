@@ -1,0 +1,17 @@
+{
+  "descripcion": "Versiones, modelos y parametros usados en la evaluacion (el enunciado pide registrarlos). Mismo evaluador, prompt, corpus, chunking, embeddings y generador en las dos configuraciones; lo UNICO que cambia es top-k.",
+  "configuraciones": [{"nombre": "top-k = 3", "top_k": 3}, {"nombre": "top-k = 6", "top_k": 6}],
+  "hardware": "AWS EC2 t3.large (2 vCPU, 8 GiB RAM), sin GPU, Ubuntu 24.04, Python 3.12.3",
+  "extraccion": {"herramienta": "Docling 2.150.1 (docling-core 2.107.1)", "ocr_imagenes": "Tesseract 5.3.4 spa+eng", "poppler": "pdftotext 24.02.0"},
+  "chunking": {"max_caracteres": 1500, "solape_caracteres": 250, "corte": "por seccion SGA 1-16; tablas por filas con encabezado repetido", "fragmentos": 3362},
+  "embeddings": {"modelo": "intfloat/multilingual-e5-small", "prefijos": {"documento": "passage: ", "consulta": "query: "}, "normalizados": true, "libreria": "sentence-transformers 6.3.0 (torch 2.15.0+cpu)"},
+  "almacen_vectorial": {"motor": "ChromaDB 1.5.9", "distancia": "coseno"},
+  "recuperacion": {"estrategia": "2 etapas: documentos candidatos (BM25 de fabricante+producto+archivo, hasta 3, umbral relativo 0.6) y fragmentos por tema (denso + BM25 de cuerpo, RRF c=60); cada documento candidato aporta su mejor fragmento primero", "candidatos_por_ranking": 40, "top_k": "3 o 6 (unica variable)"},
+  "generador": {"modelo": "qwen2.5:3b (Ollama 0.40.16, 3.1 B parametros, cuantizacion Q4_K_M)", "temperatura": 0, "seed": 42, "num_ctx": 6144, "num_predict": 450, "prompt": "src/rag/generar.py (SISTEMA), 8 reglas; frase fija de evidencia insuficiente"},
+  "evaluador_ragas": {"libreria": "ragas 0.4.4 + langchain-ollama 1.1.0", "modelo": "qwen2.5:3b (mismo modelo que el generador; sesgo posible, ver informe)", "temperatura": 0, "seed": 42, "num_ctx": 8192, "formato_salida": "json (Ollama format=json)",
+                     "run_config": {"timeout_s": 1500, "max_workers": 1, "max_retries": 1},
+                     "metricas": ["Faithfulness", "LLMContextPrecisionWithReference", "LLMContextRecall"],
+                     "modificaciones": "Se anade una nota de idioma al final de las instrucciones de los prompts de RAGAS (NOTA_IDIOMA en src/evaluacion/evaluar_ragas.py): sin ella el evaluador traducia los productos al ingles. A la respuesta se le quitan las marcas de cita [n] solo para evaluar.",
+                     "validacion_previa": "prueba en 2 casos (Q01, Q02) antes de la corrida completa; resultados sin la nota de idioma en evaluacion/ragas_prueba2_sin_nota_idioma.json (en el servidor)"},
+  "metricas_deterministas": "src/evaluacion/metricas_deterministas.py (sin LLM); complemento, no sustituto de RAGAS"
+}

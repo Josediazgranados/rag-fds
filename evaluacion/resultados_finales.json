@@ -1,0 +1,1748 @@
+[
+ {
+  "id": "Q01",
+  "tipo": "directa",
+  "top_k": 3,
+  "user_input": "¿Cuál es el punto de inflamación del Sellador Industrial Nitrocelulósico (código 40030020) de Química Cosmos?",
+  "retrieved_contexts": [
+   "Concentración:\n\nNo relevante *\n\npH:\n\nNo relevante *\n\nDensidad de vapor a 20 ºC:\n\nNo relevante *\n\nCoeficiente de reparto n-octanol/agua a 20 ºC:\n\nNo relevante *\n\nSolubilidad en agua a 20 ºC:\n\nNo relevante *\n\nPropiedad de solubilidad:\n\nNo relevante *\n\nTemperatura de descomposición:\n\nNo relevante *\n\nPunto de fusión/punto de congelación:\n\nNo relevante *\n\n## Inflamabilidad:\n\nPunto de inflamación:\n\n20 ºC\n\nInflamabilidad (sólido, gas):\n\nNo relevante *\n\nTemperatura de auto-inflamación:\n\n185 ºC\n\nLímite de inflamabilidad inferior:\n\nNo determinado\n\nLímite de inflamabilidad superior:\n\nNo determinado\n\n## Características de las partículas:\n\nDiámetro medio equivalente:\n\nNo aplicable\n\n## 9.2 Información adicional:\n\n## Información relativa a las clases de peligro físico:\n\nPropiedades explosivas:\n\nNo relevante *\n\nPropiedades comburentes:\n\nNo relevante *\n\nCorrosivos para los metales:\n\nNo relevante *\n\nCalor de combustión:\n\nNo relevante *\n\nAerosoles-porcentaje total (en masa) de componentes\n\ninflamables:\n\n## Otras características de seguridad:\n\nTensión superficial a 20 ºC:\n\nÍndice de refracción:\n\nNo relevante *\n\nNo relevante *\n\n*No relevante debido a la naturaleza del producto, no aportando información característica de su peligrosidad.",
+   "CL50: Concentración Letal 50\n\nEC50: Concentración Efectiva 50\n\nLog POW: Logaritmo Coeficiente Partición Octanol-Agua\n\nKoc: Coeficiente de Partición del Carbono Orgánico\n\nIARC: Centro Internacional de Investigaciones sobre el Cáncer\n\n> Texto OCR de la imagen: ( Pintuland\n\nLa información contenida en esta Ficha de datos de seguridad está fundamentada en fuentes, conocimientos técnicos y legislación vigente COLOMBIANA, no pudiendo garantizar la exactitud de la misma. Esta información no es posible considerarla como una garantía de las propiedades del producto, se trata simplemente de una descripción en cuanto a los requerimientos en materia de seguridad. La metodología y condiciones de trabajo de los usuarios de este producto se encuentran fuera de nuestro conocimiento y control, siendo siempre responsabilidad última del usuario tomar las medidas necesarias para adecuarse a las exigencias legislativas en cuanto a manipulación, almacenamiento, uso y eliminación de productos químicos. La información de esta ficha de seguridad únicamente se refiere a este producto, el cual no debe emplearse con fines distintos a los que se especifican.\n\n> Texto OCR de la imagen: DOG D",
+   "Realizar la identificación de los peligros y la valoración de los riesgos de acuerdo a la Guia técnica colombiana GTC 45. De acuerdo al orden de prioridad para el control de la exposición profesional se recomienda la extracción localizada en la zona de trabajo como medida de protección colectiva para evitar sobrepasar los límites de exposición profesional. Para más información sobre los equipos de protección individual (almacenamiento, uso, limpieza, mantenimiento, clase de protección,…) consultar el folleto informativo facilitado por el fabricante del EPP. Las indicaciones contenidas en este punto se refieren al producto puro. Las medidas de protección para el producto diluido podrán variar en función de su grado de dilución, uso, método de aplicación, etc. Para determinar la obligación de instalación de duchas de emergencia y/o lavaojos en los almacenes se tendrá en cuenta la normativa referente al almacenamiento de productos químicos aplicable en cada caso. Para más información Ver epígrafes 7.1 y 7.2 de la FDS.\n\nToda la información aquí incluida es una recomendación siendo necesario su concreción por parte de los servicios de prevención de riesgos laborales al desconocer las medidas de prevención adicionales que la empresa pudiese disponer.\n\n## B.- Protección respiratoria."
+  ],
+  "response": "El punto de inflamación del Sellador Industrial Nitrocelulósico (código 40030020) de Química Cosmos es 20 ºC [1].",
+  "reference": "El punto de inflamación es 20 ºC.",
+  "sources": [
+   {
+    "n": 1,
+    "fabricante": "QUIMICA COSMOS S.A",
+    "producto": "40030020 - SELLADOR INDUSTRIAL NITRO",
+    "documento": "FDS 66 - 40030020 - SELLADOR INDUSTRIAL NITRO.pdf",
+    "paginas": "8",
+    "seccion": "9. Propiedades fisicas y quimicas",
+    "chunk_id": "FDS_066_s09_02"
+   }
+  ],
+  "retrieved": [
+   {
+    "n": 1,
+    "chunk_id": "FDS_066_s09_02",
+    "puntaje": 0.03279
+   },
+   {
+    "n": 2,
+    "chunk_id": "FDS_066_s16_06",
+    "puntaje": 0.03041
+   },
+   {
+    "n": 3,
+    "chunk_id": "FDS_066_s08_04",
+    "puntaje": 0.02976
+   }
+  ],
+  "documentos_esperados": [
+   "FDS_066"
+  ],
+  "modelo": "qwen2.5:3b",
+  "segundos": 138.7,
+  "ragas": {
+   "faithfulness": {
+    "estado": "valido",
+    "valor": 0.0
+   },
+   "context_precision": {
+    "estado": "valido",
+    "valor": 1.0
+   },
+   "context_recall": {
+    "estado": "valido",
+    "valor": 1.0
+   }
+  },
+  "evaluador": "qwen2.5:3b",
+  "deterministas": {
+   "doc_recall": 1.0,
+   "ref_en_contextos": 1.0,
+   "resp_cubre_ref": 1.0,
+   "resp_apoyada": 1.0,
+   "citas_en_doc_esperado": 1.0
+  }
+ },
+ {
+  "id": "Q02",
+  "tipo": "directa",
+  "top_k": 3,
+  "user_input": "¿Cuál es el número CAS del dióxido de titanio en la Pintura Coolguard de Corona y en qué rango de concentración se encuentra?",
+  "retrieved_contexts": [
+   "La monografía de IARC para esta sustancia indica que no hay exposición significativa al dióxido de titanio durante el uso normal de productos en los que dióxido de titanio está unido permanentemente a otros materiales, tales como pinturas (Ref: Monografía IARC, Vol. 93, 2010).\n\nEl lijado repetido de las superficies de película seca puede producir riesgo de sobreexposición al polvo dependiendo de la duración y nivel de lijado, para evitarla deben tomarse las medidas de protección adecuadas.\n\n## Información toxicológica específica de las sustancias:\n\n| Identificación | Toxicidad aguda | Toxicidad aguda | Género |\n|---|---|---|---|\n| Dioxido de titanio (diámetro aerodinámico ≤ 10 μm) CAS: 13463-67-7 | DL50 oral | 10000 mg/kg | Rata |\n| | DL50 cutánea | 10000 mg/kg | Conejo |\n| | CL50 Inhalación polvos | | |\n| Piritionato cincico CAS: 13463-41-7 | DL50 oral | 300 mg/kg | Rata |\n| | DL50 cutánea | | |\n| | CL50 inhalación nieblas | 0,14 mg/L | Rata |\n| Benzofenona | DL50 oral | 3350 mg/kg | Rata |\n| CAS: 119-61-9 | DL50 cutánea | 3535 mg/kg | |\n| CAS: 119-61-9 | CL50 Inhalación polvos | | |\n| 1,2-bencisotiazol-3(2H)-ona CAS: 2634-33-5 | DL50 oral | >490 mg/kg | Rata |\n| | DL50 cutánea | | |\n| | CL50 Inhalación polvos | | |\n\nEmisión: 18/11/2019\n\n## Ficha de datos de seguridad\n\nsegún Decreto 1496 de 2018 y Resolución 773 de 2021\n\n## PINTURA COOLGUARD\n\nRevisión: 08/09/2025\n\nVersión: 7 (sustituye a 6)",
+   "## Sección 3. Composición / información sobre los componentes\n\nSustancia/mezcla :\n\nOtros medios de identificación Mezcla\n\n: No disponible.\n\n## Número CAS/otros identificadores\n\nNúmero CAS\n\n: No aplicable.\n\n| Nombre de ingrediente | % | Número CAS |\n|---|---|---|\n| cinc en polvo (estabilizado) | 60 - 100 | 7440-66-6 |\n| Oxido de Cinc | 2 - <3 | 1314-13-2 |\n\nNo hay ningún ingrediente adicional presente que, bajo el conocimiento actual del proveedor y en las concentraciones aplicables, sea clasificado como de riesgo para la salud o el medio ambiente y por lo tanto deban ser reportados en esta sección.\n\nLos límites de exposición laboral, en caso de existir, figuran en la sección 8.\n\nCódigo SUB indica substancias sin número CAS registrados.",
+   "- G- Toxicidad específica en determinados órganos (STOT)-exposición repetida:\n- Toxicidad específica en determinados órganos (STOT)-exposición repetida: A la vista de los datos disponibles, no se cumplen los criterios de clasificación, sin embargo, presenta sustancias clasificadas como peligrosas por exposición repetitiva. Para más información ver sección 3 de la FDS.\n- Piel: A la vista de los datos disponibles, no se cumplen los criterios de clasificación, no presentando sustancias clasificadas como peligrosas por este efecto. Para más información ver sección 3 de la FDS.\n- H- Peligro por aspiración:\n\nA la vista de los datos disponibles, no se cumplen los criterios de clasificación, no presentando sustancias clasificadas como peligrosas por este efecto. Para más información ver sección 3 de la FDS.\n\n## Información adicional:\n\nCAS 13463-67-7 Dióxido de Titanio: IARC lista esta sustancia como un posible carcinógeno humano (grupo 2B), indicando que hay suficientes evidencias para considerarlo carcinógeno en animales pero insuficientes para considerarlo como carcinógeno para seres humanos.\n\nLa monografía de IARC para esta sustancia indica que no hay exposición significativa al dióxido de titanio durante el uso normal de productos en los que dióxido de titanio está unido permanentemente a otros materiales, tales como pinturas (Ref: Monografía IARC, Vol. 93, 2010)."
+  ],
+  "response": "El número CAS del dióxido de titanio en la Pintura Coolguard de Corona es 13463-67-7 [3].",
+  "reference": "El dióxido de titanio tiene el número CAS 13463-67-7 y una concentración de 20 a menos de 30 % (20 - <30%).",
+  "sources": [
+   {
+    "n": 3,
+    "fabricante": "Corona",
+    "producto": "PINTURA COOLGUARD",
+    "documento": "FDS 92 - PINTURA COOLGUARD - CORONA.pdf",
+    "paginas": "8",
+    "seccion": "11. Informacion toxicologica",
+    "chunk_id": "FDS_092_s11_04"
+   }
+  ],
+  "retrieved": [
+   {
+    "n": 1,
+    "chunk_id": "FDS_092_s11_05",
+    "puntaje": 0.03252
+   },
+   {
+    "n": 2,
+    "chunk_id": "FDS_064_s03_01",
+    "puntaje": 0.02964
+   },
+   {
+    "n": 3,
+    "chunk_id": "FDS_092_s11_04",
+    "puntaje": 0.03227
+   }
+  ],
+  "documentos_esperados": [
+   "FDS_092"
+  ],
+  "modelo": "qwen2.5:3b",
+  "segundos": 148.6,
+  "ragas": {
+   "faithfulness": {
+    "estado": "valido",
+    "valor": 0.0
+   },
+   "context_precision": {
+    "estado": "valido",
+    "valor": 1.0
+   },
+   "context_recall": {
+    "estado": "valido",
+    "valor": 0.5
+   }
+  },
+  "evaluador": "qwen2.5:3b",
+  "deterministas": {
+   "doc_recall": 1.0,
+   "ref_en_contextos": 1.0,
+   "resp_cubre_ref": 0.333,
+   "resp_apoyada": 1.0,
+   "citas_en_doc_esperado": 1.0
+  }
+ },
+ {
+  "id": "Q03",
+  "tipo": "directa",
+  "top_k": 3,
+  "user_input": "¿Qué primeros auxilios se indican en caso de ingestión del Esmalte Maestro de Pinturas Bler?",
+  "retrieved_contexts": [
+   "SECCIÓN 4: PRIMEROS AUXILIOS\n\nCOPIA CONTROLADA\n\n## 4.1 Descripción de los primeros auxilios necesarios:\n\nLos síntomas como consecuencia de una intoxicación pueden presentarse con posterioridad a la exposición, por lo que, en caso de duda, exposición directa al producto químico o persistencia del malestar solicitar atención médica, mostrándole la FDS de este producto.\n\n## Por inhalación:\n\nSacar al afectado del lugar de exposición, suministrarle aire limpio y mantenerlo en reposo. En casos graves como parada cardiorespiratoria, se aplicarán técnicas de respiración artificial si se tiene la formación adecuada (masaje cardíaco, suministro de oxígeno, etc.) requiriendo asistencia médica inmediata.\n\n## Por contacto con la piel:\n\nQuitar la ropa y los zapatos contaminados, aclarar la piel o duchar al afectado si procede con abundante agua fría y jabón neutro. En caso de afección importante acudir al médico. Si el producto produce quemaduras o congelación, no se debe quitar la ropa debido a que podría empeorar la lesión producida si esta se encuentra pegada a la piel. En el caso de formarse ampollas en la piel, éstas nunca deben reventarse ya que aumentaría el riesgo de infección.\n\nFicha de datos de seguridad\n\nsegún Decreto 1496 de 2018 y Resolución 773 de 2021\n\n## ESMALTE MAESTRO\n\nEmisión: 27/05/2020\n\nRevisión: 19/05/2025\n\nVersión: 2 (sustituye a 1)\n\nSECCIÓN 4: PRIMEROS AUXILIOS (continúa)\n\n## Por contacto con los ojos:",
+   "SECCIÓN 4: PRIMEROS AUXILIOS\n\n## 4.1 Descripción de los primeros auxilios necesarios:\n\nLos síntomas como consecuencia de una intoxicación pueden presentarse con posterioridad a la exposición, por lo que, en caso de duda, exposición directa al producto químico o persistencia del malestar solicitar atención médica, mostrándole la FDS de este producto.\n\nFicha de datos de seguridad\n\nsegún Decreto 1496 de 2018 y Resolución 773 de 2021\n\n## BARNIZ SOLAR\n\nEmisión: 31/08/2020\n\nRevisión: 23/09/2025\n\nVersión: 3 (sustituye a 2)\n\nSECCIÓN 4: PRIMEROS AUXILIOS (continúa)\n\n## Por inhalación:\n\nSacar al afectado del lugar de exposición, suministrarle aire limpio y mantenerlo en reposo. En casos graves como parada cardiorespiratoria, se aplicarán técnicas de respiración artificial si se tiene la formación adecuada (masaje cardíaco, suministro de oxígeno, etc.) requiriendo asistencia médica inmediata.\n\n## Por contacto con la piel:\n\nQuitar la ropa y los zapatos contaminados, aclarar la piel o duchar al afectado si procede con abundante agua fría y jabón neutro. En caso de afección importante acudir al médico. Si el producto produce quemaduras o congelación, no se debe quitar la ropa debido a que podría empeorar la lesión producida si esta se encuentra pegada a la piel. En el caso de formarse ampollas en la piel, éstas nunca deben reventarse ya que aumentaría el riesgo de infección.\n\n## Por contacto con los ojos:",
+   "Enjuagar los ojos con abundante agua a temperatura ambiente al menos durante 15 minutos. Evitar que el afectado se frote o cierre los ojos. En el caso de que el accidentado use lentes de contacto, éstas deben retirarse siempre que no estén pegadas a los ojos, de otro modo podría producirse un daño adicional. En todos los casos, después del lavado, se debe acudir al médico lo más rápidamente posible con la FDS del producto.\n\n## Por ingestión/aspiración:\n\nRequerir asistencia médica inmediata, mostrándole la FDS de este producto. No inducir al vómito, en el caso de que se produzca mantener inclinada la cabeza hacia delante para evitar la aspiración. En el caso de pérdida de consciencia no administrar nada por vía oral hasta la supervisión del médico. Enjuagar la boca y la garganta, ya que existe la posibilidad de que hayan sido afectadas en la ingestión. Mantener al afectado en reposo.\n\nCOPIA CONTROLADA 4.2 Síntomas/efectos más importantes, agudos o retardados: Los efectos agudos y retardados son los indicados en las secciones 2 y 11 de la FDS. 4.3 Indicación de la necesidad de recibir atención médica inmediata y, en su caso, de tratamiento especial: No relevante"
+  ],
+  "response": "El primeros auxilios en caso de ingestión del Esmalte Maestro de Pinturas Bler son: Requerir asistencia médica inmediata, mostrándole la FDS de este producto. No inducir al vómito, en el caso de que se produzca mantener inclinada la cabeza hacia delante para evitar la aspiración. En el caso de pérdida de consciencia no administrar nada por vía oral hasta la supervisión del médico. Enjuagar la boca y la garganta, ya que existe la posibilidad de que hayan sido afectadas en la ingestión. Mantener al afectado en reposo. [1]",
+  "reference": "Requerir asistencia médica inmediata mostrando la FDS del producto; no inducir el vómito (si se produce, mantener la cabeza inclinada hacia delante para evitar la aspiración); en caso de pérdida de consciencia no administrar nada por vía oral hasta la supervisión del médico; enjuagar la boca y la garganta; mantener al afectado en reposo.",
+  "sources": [
+   {
+    "n": 1,
+    "fabricante": "Bler",
+    "producto": "ESMALTE MAESTRO",
+    "documento": "FDS 100 - Esmalte maestro. Bler.pdf",
+    "paginas": "2-3",
+    "seccion": "4. Primeros auxilios",
+    "chunk_id": "FDS_100_s04_01"
+   }
+  ],
+  "retrieved": [
+   {
+    "n": 1,
+    "chunk_id": "FDS_100_s04_01",
+    "puntaje": 0.03226
+   },
+   {
+    "n": 2,
+    "chunk_id": "FDS_101_s04_01",
+    "puntaje": 0.03202
+   },
+   {
+    "n": 3,
+    "chunk_id": "FDS_100_s04_03",
+    "puntaje": 0.03202
+   }
+  ],
+  "documentos_esperados": [
+   "FDS_100"
+  ],
+  "modelo": "qwen2.5:3b",
+  "segundos": 172.4,
+  "ragas": {
+   "faithfulness": {
+    "estado": "valido",
+    "valor": 0.0
+   },
+   "context_precision": {
+    "estado": "valido",
+    "valor": 0.3333
+   },
+   "context_recall": {
+    "estado": "valido",
+    "valor": 1.0
+   }
+  },
+  "evaluador": "qwen2.5:3b",
+  "deterministas": {
+   "doc_recall": 1.0,
+   "ref_en_contextos": 0.96,
+   "resp_cubre_ref": 0.92,
+   "citas_en_doc_esperado": 1.0
+  }
+ },
+ {
+  "id": "Q04",
+  "tipo": "directa",
+  "top_k": 3,
+  "user_input": "¿Qué medios de extinción se pueden utilizar para el Dimetcote 302H Green Resin de PPG y cuál no se debe usar?",
+  "retrieved_contexts": [
+   "## Sección 5. Medidas contra incendios\n\n| Medios de extinción Medios de extinción | : | Utilizar polvo químico seco, CO₂, agua pulverizada o espuma (neblina). |\n|---|---|---|\n| apropiados Medios no apropiados de extinción | : | No usar chorro de agua. |\n| Peligros específicos de la sustancia química peligrosa o mezcla | : | Líquido y vapores inflamables. Los residuos líquidos que se filtran en el alcantarillado pueden causar un riesgo de incendio o de explosión. En caso de incendio o calentamiento, ocurrirá un aumento de presión y el recipiente estallará, con el riesgo de que ocurra una explosión. Este material es muy tóxico para la vida acuática con efectos de larga duración. Se debe impedir que el agua de extinción de incendios contaminada con este material entre en vías de agua, drenajes o alcantarillados. |\n| Productos de descomposición térmica peligrosos | : | Los productos de descomposición pueden incluir los siguientes materiales: óxidos de carbono óxido/óxidos metálico/metálicos |\n| Medidas especiales que deberán seguir los grupos de combate contra incendio | : | En caso de incendio, aísle rápidamente la zona evacuando a todas las personas de las proximidades del lugar del incidente. No se tomará ninguna medida que implique algún riesgo personal o que no contemple el entrenamiento adecuado. Desplazar los contenedores lejos del incendio si esto puede hacerse sin riesgo. Use agua pulverizada para refrigerar los envases expuestos al fuego. |",
+   "| Medios de extinción Medios de extinción | : | Utilizar polvo químico seco, CO₂, agua pulverizada o espuma (neblina). |\n|---|---|---|\n| Equipo de protección especial para los bomberos | : | Los bomberos deben llevar equipo de protección apropiado y un equipo de respiración autónomo con una máscara facial completa que opere en modo de presión positiva. |",
+   "| Nombre de ingrediente | | Límites de exposición |\n|---|---|---|\n| Control de la exposición medioambiental | : Emisiones de los equipos de ventilación o de procesos de trabajo deben ser evaluados para verificar que cumplen con los requisitos de la legislación de protección del medio ambiente. En algunos casos será necesario el uso de eliminadores de humo, filtros o modificaciones del diseño del equipo del proceso para reducir las emisiones a un nivel aceptable. Utilizar equipo de ventilación anti-explosión. | : Emisiones de los equipos de ventilación o de procesos de trabajo deben ser evaluados para verificar que cumplen con los requisitos de la legislación de protección del medio ambiente. En algunos casos será necesario el uso de eliminadores de humo, filtros o modificaciones del diseño del equipo del proceso para reducir las emisiones a un nivel aceptable. Utilizar equipo de ventilación anti-explosión. |\n| Medidas de protección individual | Medidas de protección individual | Medidas de protección individual |\n| Medidas de higiene : | Lave las manos, antebrazos y cara completamente después de manejar productos químicos, antes de comer, fumar y usar el lavabo y al final del período de trabajo. Usar las técnicas apropiadas para remover ropa contaminada. La ropa de trabajo contaminada no debe salir del lugar de trabajo. Lavar las ropas contaminadas antes de volver a usarlas. Verifique que las estaciones de lavado de ojos y duchas | de las estaciones de trabajo. |"
+  ],
+  "response": "El Medios de extinción se pueden utilizar para el Dimetcote 302H Green Resin de PPG son polvo químico seco, CO₂, agua pulverizada o espuma (neblina) [1].\nEl Medio de extinción no se debe utilizar para el Dimetcote 302H Green Resin de PPG es el chorro de agua [1].",
+  "reference": "Se puede utilizar polvo químico seco, CO2, agua pulverizada o espuma (neblina). No se debe usar chorro de agua.",
+  "sources": [
+   {
+    "n": 1,
+    "fabricante": "PPG",
+    "producto": "DIMETCOTE 302H GREEN RESIN",
+    "documento": "FDS 47 - DIMETCOTE 302H GREEN RESIN - PPG.pdf",
+    "paginas": "4",
+    "seccion": "5. Medidas de lucha contra incendios",
+    "chunk_id": "FDS_047_s05_01"
+   }
+  ],
+  "retrieved": [
+   {
+    "n": 1,
+    "chunk_id": "FDS_047_s05_01",
+    "puntaje": 0.03279
+   },
+   {
+    "n": 2,
+    "chunk_id": "FDS_047_s05_02",
+    "puntaje": 0.03226
+   },
+   {
+    "n": 3,
+    "chunk_id": "FDS_047_s08_04",
+    "puntaje": 0.03126
+   }
+  ],
+  "documentos_esperados": [
+   "FDS_047"
+  ],
+  "modelo": "qwen2.5:3b",
+  "segundos": 213.2,
+  "ragas": {
+   "faithfulness": {
+    "estado": "valido",
+    "valor": 0.0
+   },
+   "context_precision": {
+    "estado": "valido",
+    "valor": 1.0
+   },
+   "context_recall": {
+    "estado": "valido",
+    "valor": 1.0
+   }
+  },
+  "evaluador": "qwen2.5:3b",
+  "deterministas": {
+   "doc_recall": 1.0,
+   "ref_en_contextos": 1.0,
+   "resp_cubre_ref": 1.0,
+   "citas_en_doc_esperado": 1.0
+  }
+ },
+ {
+  "id": "Q05",
+  "tipo": "directa",
+  "top_k": 3,
+  "user_input": "¿Cuál es el número ONU del Sellador Industrial Nitrocelulósico (código 40030020) de Química Cosmos?",
+  "retrieved_contexts": [
+   "Precauciones especiales para el usuario\n\nDisposiciones especiales:\n\n367, 163\n\nCódigos FEm:\n\nF-E, S-E\n\nPropiedades físico-químicas:\n\nVer sección 9\n\nCantidades limitadas:\n\n5 L\n\nGrupo de segregación:\n\nNo relevante\n\n14.7 Transporte a granel con\n\narreglo al anexo II de\n\nMARPOL 73/78 y al Código\n\nIBC:\n\nTransporte aéreo de mercancías peligrosas:\n\nEn aplicación al IATA/OACI 2022:\n\nNo relevante\n\n> Texto OCR de la imagen: HOOD\n\n## Ficha de datos de seguridad\n\nsegún Decreto 1496 de 2018 y Resolución 773 de 2021\n\n## 40030020 - SELLADOR INDUSTRIAL NITRO\n\nEmisión: 24/03/2022\n\nRevisión: 5/10/2022\n\nVersión: 4 (sustituye a 3)\n\nSECCIÓN 14: INFORMACIÓN RELATIVA AL TRANSPORTE (continúa)\n\n| 14.1 | Número ONU: | UN1263 |\n|---|---|---|\n| 14.2 | Designación oficial de transporte de las Naciones Unidas: | PINTURA |\n| 14.3 | Clase(s) relativas al transporte: | 3 |\n| | Etiquetas: | 3 |\n| 14.4 | Grupo de embalaje/envasado si se aplica: | II |\n| 14.5 | Riesgos ambientales: | No |\n| 14.6 | Precauciones especiales para | el usuario |\n| | Propiedades físico-químicas: | Ver sección 9 |\n| 14.7 | Transporte a granel con arreglo al anexo II de MARPOL 73/78 y al Código IBC: | No relevante |",
+   "SECCIÓN 14: INFORMACIÓN RELATIVA AL TRANSPORTE\n\n## Transporte terrestre de mercancías peligrosas:\n\nEn aplicación a la norma técnica colombiana 1692:\n\n> Texto OCR de la imagen: DOGLHD\n\n## Ficha de datos de seguridad\n\nsegún Decreto 1496 de 2018 y Resolución 773 de 2021\n\n## 40030020 - SELLADOR INDUSTRIAL NITRO\n\nEmisión: 24/03/2022\n\nRevisión: 5/10/2022\n\nVersión: 4 (sustituye a 3)\n\nSECCIÓN 14: INFORMACIÓN RELATIVA AL TRANSPORTE (continúa)\n\n14.1 Número ONU:\n\n14.2 Designación oficial de\n\ntransporte de las Naciones\n\nUnidas:\n\n14.3 Clase(s) relativas al\n\ntransporte:\n\nEtiquetas:\n\nUN1263\n\nPINTURA\n\n3\n\n3\n\n14.4 Grupo de\n\nembalaje/envasado si se\n\naplica:\n\n14.5 Riesgos ambientales:\n\nII\n\nNo\n\n14.6 Precauciones especiales para el usuario\n\nPropiedades físico-químicas:\n\nVer sección 9\n\n14.7 Transporte a granel con\n\narreglo al anexo II de\n\nMARPOL 73/78 y al Código\n\nIBC:\n\nNo relevante\n\n## Transporte marítimo de mercancías peligrosas:\n\nEn aplicación al IMDG 40-20:\n\n14.1 Número ONU:\n\n14.2 Designación oficial de\n\ntransporte de las Naciones\n\nUnidas:\n\n14.3 Clase(s) relativas al\n\ntransporte:\n\nEtiquetas:\n\nUN1263\n\nPINTURA\n\n3\n\n3\n\n14.4 Grupo de\n\nembalaje/envasado si se\n\naplica:\n\nII\n\n14.5 Contaminante marino:\n\nNo\n\n14.6\n\nPrecauciones especiales para el usuario\n\nDisposiciones especiales:\n\n367, 163\n\nCódigos FEm:\n\nF-E, S-E\n\nPropiedades físico-químicas:\n\nVer sección 9\n\nCantidades limitadas:\n\n5 L\n\nGrupo de segregación:\n\nNo relevante\n\n14.7 Transporte a granel con\n\narreglo al anexo II de\n\nMARPOL 73/78 y al Código",
+   "CL50: Concentración Letal 50\n\nEC50: Concentración Efectiva 50\n\nLog POW: Logaritmo Coeficiente Partición Octanol-Agua\n\nKoc: Coeficiente de Partición del Carbono Orgánico\n\nIARC: Centro Internacional de Investigaciones sobre el Cáncer\n\n> Texto OCR de la imagen: ( Pintuland\n\nLa información contenida en esta Ficha de datos de seguridad está fundamentada en fuentes, conocimientos técnicos y legislación vigente COLOMBIANA, no pudiendo garantizar la exactitud de la misma. Esta información no es posible considerarla como una garantía de las propiedades del producto, se trata simplemente de una descripción en cuanto a los requerimientos en materia de seguridad. La metodología y condiciones de trabajo de los usuarios de este producto se encuentran fuera de nuestro conocimiento y control, siendo siempre responsabilidad última del usuario tomar las medidas necesarias para adecuarse a las exigencias legislativas en cuanto a manipulación, almacenamiento, uso y eliminación de productos químicos. La información de esta ficha de seguridad únicamente se refiere a este producto, el cual no debe emplearse con fines distintos a los que se especifican.\n\n> Texto OCR de la imagen: DOG D"
+  ],
+  "response": "14.1 Número ONU: UN1263 [3]",
+  "reference": "El número ONU es UN1263.",
+  "sources": [
+   {
+    "n": 3,
+    "fabricante": "QUIMICA COSMOS S.A",
+    "producto": "40030020 - SELLADOR INDUSTRIAL NITRO",
+    "documento": "FDS 66 - 40030020 - SELLADOR INDUSTRIAL NITRO.pdf",
+    "paginas": "18",
+    "seccion": "16. Otra informacion",
+    "chunk_id": "FDS_066_s16_06"
+   }
+  ],
+  "retrieved": [
+   {
+    "n": 1,
+    "chunk_id": "FDS_066_s14_02",
+    "puntaje": 0.03252
+   },
+   {
+    "n": 2,
+    "chunk_id": "FDS_066_s14_01",
+    "puntaje": 0.03252
+   },
+   {
+    "n": 3,
+    "chunk_id": "FDS_066_s16_06",
+    "puntaje": 0.03126
+   }
+  ],
+  "documentos_esperados": [
+   "FDS_066"
+  ],
+  "modelo": "qwen2.5:3b",
+  "segundos": 382.7,
+  "ragas": {
+   "faithfulness": {
+    "estado": "valido",
+    "valor": 0.0
+   },
+   "context_precision": {
+    "estado": "valido",
+    "valor": 1.0
+   },
+   "context_recall": {
+    "estado": "valido",
+    "valor": 1.0
+   }
+  },
+  "evaluador": "qwen2.5:3b",
+  "deterministas": {
+   "doc_recall": 1.0,
+   "ref_en_contextos": 1.0,
+   "resp_cubre_ref": 1.0,
+   "resp_apoyada": 1.0,
+   "citas_en_doc_esperado": 1.0
+  }
+ },
+ {
+  "id": "Q06",
+  "tipo": "directa",
+  "top_k": 3,
+  "user_input": "¿Cuáles son la temperatura máxima y el tiempo máximo de almacenamiento del Esmalte Maestro de Pinturas Bler?",
+  "retrieved_contexts": [
+   "C.- Recomendaciones técnicas para prevenir riesgos ergonómicos y toxicológicos. LAS MUJERES EMBARAZADAS NO DEBEN EXPONERSE A ESTE PRODUCTO. Manipular en lugares fijos que reúnan las debidas condiciones de seguridad (duchas de emergencia y lavaojos en las proximidades), empleando equipos de protección personal, en especial de cara y manos (ver sección 8 de la FDS). Limitar los trasvases manuales a recipientes de pequeñas cantidad. No comer, beber ni fumar en las zonas de trabajo\n\n- D.- Recomendaciones técnicas para prevenir riesgos medioambientales\n\nDebido a la peligrosidad de este producto para el medio ambiente se recomienda manipularlo dentro de un área que disponga de barreras de control de la contaminación en caso de vertido, así como disponer de material absorbente en las proximidades del mismo\n\n## 7.2 Condiciones de almacenamiento seguro, incluidas cualesquiera incompatibilidades:\n\n- A.- Requisitos de almacenamiento específicos\n- B.- Condiciones generales de almacenamiento.\n\nTemperatura mínima: 4 ºC\n\nTemperatura máxima: 35 ºC\n\nTiempo máximo:\n\n12 meses\n\nEvitar fuentes de calor, radiación, electricidad estática y el contacto con alimentos. Para información adicional ver epígrafe 10.5\n\n## Ficha de datos de seguridad\n\nsegún Decreto 1496 de 2018 y Resolución 773 de 2021\n\n## BARNIZ SOLAR\n\nEmisión: 31/08/2020\n\nRevisión: 23/09/2025\n\nVersión: 3 (sustituye a 2)\n\nSECCIÓN 7: MANIPULACIÓN Y ALMACENAMIENTO (continúa)\n\n## 7.3 Usos específicos finales:",
+   "Evitar la entrada del producto en desagües, alcantarillados o corrientes de agua. Absorber el vertido mediante arena o absorbente inerte y trasladarlo a un lugar seguro. No absorber en serrín u otros absorbentes combustibles. Recoger el producto en recipientes adecuados y gestionarlo de acuerdo a legislación vigente.\n\nVertidos en agua o mar:\n\nPequeños vertidos:\n\nContener el derrame con barreras o equipos similares. Utilice absorbentes adecuados para su recogida y trate el residuo de acuerdo a la legislación vigente.\n\nGrandes vertidos:\n\nSi es posible, contenga el vertido en aguas abiertas mediante barreras u otros equipos similares. Si no es posible, procure controlar su extensión y recoja el producto con medios mecánicos adecuados. Consulte siempre a expertos antes de utilizar dispersantes y asegúrese de que dispone de las autorizaciones necesarias si se van a utilizar. Trate el residuo de acuerdo a la legislación vigente.\n\nTemperatura mínima: 4 ºC\n\nTemperatura máxima: 35 ºC\n\nTiempo máximo:\n\n12 meses\n\nCOPIA CONTROLADA 6.4 Referencias a otras secciones: Ver secciones 8 y 13.",
+   "SECCIÓN 10: ESTABILIDAD Y REACTIVIDAD\n\n## 10.1 Reactividad:\n\nNo se esperan reacciones peligrosas si se cumplen las instrucciones técnicas de almacenamiento de productos químicos. Ver sección 7 de la FDS para mayor información.\n\n## 10.2 Estabilidad química:\n\nEstable químicamente bajo las condiciones indicadas de almacenamiento, manipulación y uso.\n\n## 10.3 Posibilidad de reacciones peligrosas:\n\nCOPIA CONTROLADA 41 ºC No relevante * 230 ºC No relevante * No relevante * No relevante * No relevante * No relevante * No relevante * No relevante * No relevante * No relevante *\n\nBajo las condiciones indicadas no se esperan reacciones peligrosas ni polimerización peligrosa que puedan producir una presión o temperaturas excesivas.\n\n## 10.4 Condiciones que deben evitarse:\n\nAplicables para manipulación y almacenamiento a temperatura ambiente:\n\n| Choque y fricción | Contacto con el aire | Calentamiento | Luz Solar | Humedad |\n|---|---|---|---|---|\n| No aplicable | No aplicable | Riesgo de inflamación | Evitar incidencia directa | No aplicable |\n\n## 10.5 Materiales incompatibles:\n\n| Ácidos | Agua | Materias comburentes | Materias combustibles | Otros |\n|---|---|---|---|---|\n| Evitar ácidos fuertes | No aplicable | Evitar | No aplicable | Evitar álcalis o bases fuertes |\n\n## 10.6 Productos de descomposición peligrosos:\n\nFicha de datos de seguridad\n\n## ESMALTE MAESTRO\n\nEmisión: 27/05/2020\n\nRevisión: 19/05/2025\n\nVersión: 2 (sustituye a 1)\n\nSECCIÓN 10: ESTABILIDAD Y REACTIVIDAD (continúa)"
+  ],
+  "response": "El tiempo máximo de almacenamiento del Esmalte Maestro de Pinturas Bler es 12 meses [2].",
+  "reference": "La temperatura máxima de almacenamiento es 35 ºC (la mínima es 4 ºC) y el tiempo máximo es 12 meses.",
+  "sources": [
+   {
+    "n": 2,
+    "fabricante": "Bler",
+    "producto": "ESMALTE MAESTRO",
+    "documento": "FDS 100 - Esmalte maestro. Bler.pdf",
+    "paginas": "4",
+    "seccion": "6. Medidas en caso de vertido accidental",
+    "chunk_id": "FDS_100_s06_03"
+   }
+  ],
+  "retrieved": [
+   {
+    "n": 1,
+    "chunk_id": "FDS_101_s07_02",
+    "puntaje": 0.03279
+   },
+   {
+    "n": 2,
+    "chunk_id": "FDS_100_s06_03",
+    "puntaje": 0.03226
+   },
+   {
+    "n": 3,
+    "chunk_id": "FDS_100_s10_01",
+    "puntaje": 0.03077
+   }
+  ],
+  "documentos_esperados": [
+   "FDS_100"
+  ],
+  "modelo": "qwen2.5:3b",
+  "segundos": 505.1,
+  "ragas": {
+   "faithfulness": {
+    "estado": "valido",
+    "valor": 0.0
+   },
+   "context_precision": {
+    "estado": "valido",
+    "valor": 1.0
+   },
+   "context_recall": {
+    "estado": "valido",
+    "valor": 1.0
+   }
+  },
+  "evaluador": "qwen2.5:3b",
+  "deterministas": {
+   "doc_recall": 1.0,
+   "ref_en_contextos": 1.0,
+   "resp_cubre_ref": 0.333,
+   "resp_apoyada": 1.0,
+   "citas_en_doc_esperado": 1.0
+  }
+ },
+ {
+  "id": "Q07",
+  "tipo": "comparativa",
+  "top_k": 3,
+  "user_input": "¿Cuál tiene mayor punto de inflamación: el Esmalte Maestro de Pinturas Bler o el Esmalte Metal Master Premium de Corona?",
+  "retrieved_contexts": [
+   "Densidad de vapor a 20 ºC:\n\nNo relevante *\n\nCoeficiente de reparto n-octanol/agua a 20 ºC:\n\nNo relevante *\n\nSolubilidad en agua a 20 ºC:\n\nNo relevante *\n\nPropiedad de solubilidad:\n\nNo relevante *\n\nTemperatura de descomposición:\n\nNo relevante *\n\nPunto de fusión/punto de congelación:\n\nNo relevante *\n\n## Inflamabilidad:\n\nPunto de inflamación:\n\n60 ºC\n\nInflamabilidad (sólido, gas):\n\nNo relevante *\n\nTemperatura de auto-inflamación:\n\n200 ºC\n\nLímite de inflamabilidad inferior:\n\nNo relevante *\n\nLímite de inflamabilidad superior:\n\nNo relevante *\n\n## Características de las partículas:\n\nDiámetro medio equivalente:\n\nNo relevante *\n\n## 9.2 Información adicional:\n\n## Información relativa a las clases de peligro físico:\n\nPropiedades explosivas:\n\nNo relevante *\n\nPropiedades comburentes:\n\nNo relevante *\n\nCorrosivos para los metales:\n\nNo relevante *\n\nCalor de combustión:\n\nNo relevante *\n\nAerosoles-porcentaje total (en masa) de componentes inflamables:\n\nOtras características de seguridad:\n\nTensión superficial a 20 ºC:\n\nNo relevante *\n\nNo relevante *\n\nÍndice de refracción:\n\nNo relevante *\n\n*No relevante debido a la naturaleza del producto, no aportando información característica de su peligrosidad.",
+   "SECCIÓN 9: PROPIEDADES FÍSICAS Y QUÍMICAS Y CARACTERÍSTICAS DE SEGURIDAD (continúa)\n\npH:\n\nNo relevante *\n\nDensidad de vapor a 25 ºC:\n\nNo relevante *\n\nCoeficiente de reparto n-octanol/agua a 25 ºC:\n\nNo relevante *\n\nSolubilidad en agua a 25 ºC:\n\nNo relevante *\n\nPropiedad de solubilidad:\n\nNo relevante *\n\nTemperatura de descomposición:\n\nNo relevante *\n\nPunto de fusión/punto de congelación:\n\nNo relevante *\n\n## Inflamabilidad:\n\nPunto de inflamación:\n\nInflamabilidad (sólido, gas):\n\nTemperatura de auto-inflamación:\n\nLímite de inflamabilidad inferior:\n\nLímite de inflamabilidad superior:\n\n## Características de las partículas:\n\nDiámetro medio equivalente:\n\n## 9.2 Información adicional:\n\n## Información relativa a las clases de peligro físico:\n\nPropiedades explosivas:\n\nPropiedades comburentes:\n\nCorrosivos para los metales:\n\nCalor de combustión:\n\nAerosoles-porcentaje total (en masa) de componentes inflamables: No relevante *\n\n## Otras características de seguridad:\n\nTensión superficial a 25 ºC:\n\nÍndice de refracción:\n\n*No relevante debido a la naturaleza del producto, no aportando información característica de su peligrosidad.",
+   "## F.- Medidas complementarias de emergencia\n\nSe recomienda implementar equipos de emergencia adicionales en lugares de trabajo que estén particularmente expuestos al producto o en situaciones donde las evaluaciones de riesgos destaquen la necesidad de dicho equipos.\n\n| Medida de emergencia | Normas | Medida de emergencia | Normas |\n|---|---|---|---|\n| Ducha de emergencia | ANSI Z358-1 ISO 3864-1:2011, ISO 3864-4:2011 | Lavaojos | DIN 12 899 ISO 3864-1:2011, ISO 3864-4:2011 |\n\n## Controles de la exposición del medio ambiente:\n\nSe recomienda evitar el vertido tanto del producto como de su envase al medio ambiente. Para información adicional ver epígrafe 7.1.D de la FDS.\n\nNTC 6018- Etiquetas ambientales tipo I. Sello ambiental colombiano. Criterios ambientales para pinturas y materiales de recubrimiento (determinados teóricamente conforme al ASTM D6886):\n\nCompuestos orgánicos volátiles: 49,22 % peso\n\nConcentración C.O.V. a 25 ºC:"
+  ],
+  "response": "El punto de inflamación de Esmalte Maestro de Pinturas Bler es 200 ºC [1]. El punto de inflamación de Esmalte Metal Master Premium de Corona es 60 ºC [1].",
+  "reference": "El Esmalte Metal Master Premium de Corona tiene el mayor punto de inflamación (60 ºC) frente a 41 ºC del Esmalte Maestro de Bler.",
+  "sources": [
+   {
+    "n": 1,
+    "fabricante": "Corona",
+    "producto": "ESMALTE METAL MASTER PREMIUM",
+    "documento": "FDS 94 - ESMALTE METAL MASTER PREMIUM - CORONA.pdf",
+    "paginas": "7",
+    "seccion": "9. Propiedades fisicas y quimicas",
+    "chunk_id": "FDS_094_s09_02"
+   }
+  ],
+  "retrieved": [
+   {
+    "n": 1,
+    "chunk_id": "FDS_094_s09_02",
+    "puntaje": 0.03252
+   },
+   {
+    "n": 2,
+    "chunk_id": "FDS_100_s09_02",
+    "puntaje": 0.03227
+   },
+   {
+    "n": 3,
+    "chunk_id": "FDS_100_s08_05",
+    "puntaje": 0.02921
+   }
+  ],
+  "documentos_esperados": [
+   "FDS_094",
+   "FDS_100"
+  ],
+  "modelo": "qwen2.5:3b",
+  "segundos": 233.1,
+  "ragas": {
+   "faithfulness": {
+    "estado": "valido",
+    "valor": 0.0
+   },
+   "context_precision": {
+    "estado": "valido",
+    "valor": 0.0
+   },
+   "context_recall": {
+    "estado": "valido",
+    "valor": 1.0
+   }
+  },
+  "evaluador": "qwen2.5:3b",
+  "deterministas": {
+   "doc_recall": 1.0,
+   "ref_en_contextos": 0.5,
+   "resp_cubre_ref": 0.5,
+   "resp_apoyada": 1.0,
+   "citas_en_doc_esperado": 1.0
+  }
+ },
+ {
+  "id": "Q08",
+  "tipo": "comparativa",
+  "top_k": 3,
+  "user_input": "Entre el Sigmadur One Buff 3142 y el Dimetcote 302H Green Resin, ambos de PPG, ¿cuál tiene el punto de inflamación más bajo y cuáles son los valores?",
+  "retrieved_contexts": [
+   "## Sección 9. Propiedades físicas y químicas\n\n## Apariencia\n\nEstado físico :\n\nColor\n\n:\n\nOlor :\n\npH :\n\nPunto de fusión :\n\nPunto de ebullición Líquido.\n\nAmarillo.\n\nAromático.\n\nNo aplicable.\n\nNo disponible.\n\n: >37.78°C (>100°F)\n\nPunto de inflamación :\n\nVelocidad de evaporación :\n\nVaso cerrado: 43°C (109.4°F)\n\nNo disponible.\n\nInflamabilidad (sólido o gas) : No disponible.\n\nLímites máximo y mínimo\n\n: No disponible.\n\nde explosión (inflamabilidad)\n\nPresión de vapor :\n\nDensidad de vapor :\n\nDensidad relativa :\n\nSolubilidad :\n\nCoeficiente de partición: noctanol/agua :\n\nTemperatura de ignición :\n\nespontánea\n\nTemperatura de\n\n: No disponible.\n\ndescomposición\n\nViscosidad :\n\nCinemática (40°C (104°F)): >21 mm 2 /s (>21 cSt)\n\nNo disponible.\n\nNo disponible.\n\n1.12\n\nInsoluble en los siguientes materiales: agua fría.\n\nNo aplicable.\n\nNo disponible.",
+   "## Sección 9. Propiedades físicas y químicas\n\n## Apariencia\n\nEstado físico :\n\nColor :\n\nOlor\n\n:\n\npH :\n\nPunto de fusión :\n\nPunto de ebullición Líquido.\n\nVerde.\n\nCaracterístico.\n\nNo aplicable.\n\nNo disponible.\n\n: >37.78°C (>100°F)\n\nPunto de inflamación :\n\nVaso cerrado: 37°C (98.6°F)\n\nVelocidad de evaporación :\n\n0.46 (aetato de butilo = 1)\n\nInflamabilidad (sólido o gas) : No disponible.\n\nLímites máximo y mínimo\n\nde explosión\n\n(inflamabilidad)\n\nPresión de vapor :\n\nDensidad de vapor :\n\nDensidad relativa :\n\nSolubilidad :\n\nAgua Solubilidad a\n\ntemperatura ambiente\n\n0.4 kPa (3 mm Hg)\n\nNo disponible.\n\n2.47\n\nInsoluble en los siguientes materiales: agua fría.\n\n: 0.1 g/l\n\n: No disponible.\n\n## Sección 9. Propiedades físicas y químicas\n\nCoeficiente de partición: n-\n\n:\n\noctanol/agua\n\nTemperatura de ignición :\n\nespontánea\n\nTemperatura de\n\n: No disponible.\n\ndescomposición\n\nViscosidad :\n\nCinemática (40°C (104°F)): >21 mm 2 /s (>21 cSt)\n\nNo aplicable.\n\nNo disponible.",
+   "No existen datos disponibles sobre la mezcla en sí. Un gran número de productos PPG hacen uso del TiO2 como materia prima en la formulación de recubrimientos líquidos. En este caso, las partículas de TiO2 están incorporadas en una matriz y el potencial de exposición humana a partículas libres de TiO2 no es significativo cuando el producto se aplica con brocha o rodillo. El lijado de una superficie recubierta o la brisa de aplicación por aspersión pueden ser dañinos dependiendo de la duración y el nivel de exposición por lo que se requiere el uso de equipo de protección personal apropiado y/o controles de ingeniería (ver Sección 8). La exposición a concentraciones de vapores de disolventes superiores a los límites de exposición ocupacional establecidos puede producir irritación de las mucosas y del aparato respiratorio, y efectos adversos sobre los riñones, el hígado y el sistema nervioso central. Los signos y síntomas pueden ser dolor de cabeza, mareo, fatiga, debilidad muscular, somnolencia y en casos extremos, pérdida de consciencia. Los disolventes pueden causar algunos de los efectos anteriores por absorción a través de la piel. Hay evidencias de que la repetida sobreexposición a vapores de solventes orgánicos y ruido fuerte constante pueden ocasionar una pérdida auditiva mayor de la esperada que la exposición únicamente al ruido. El contacto del líquido con los ojos puede causar irritación y lesiones reversibles. La ingestión puede causar náuseas, diarrea y vómitos."
+  ],
+  "response": "El punto de inflamación de Sigmadur One Buff 3142 es 37°C [2] y el de Dimetcote 302H Green Resin es 37°C [3]. Ambos tienen el mismo valor de punto de inflamación.",
+  "reference": "El Dimetcote 302H Green Resin tiene el punto de inflamación más bajo: 37 °C (vaso cerrado), frente a 43 °C (vaso cerrado) del Sigmadur One Buff 3142.",
+  "sources": [
+   {
+    "n": 2,
+    "fabricante": "PPG",
+    "producto": "DIMETCOTE 302H GREEN RESIN",
+    "documento": "FDS 47 - DIMETCOTE 302H GREEN RESIN - PPG.pdf",
+    "paginas": "7-8",
+    "seccion": "9. Propiedades fisicas y quimicas",
+    "chunk_id": "FDS_047_s09_01"
+   },
+   {
+    "n": 3,
+    "fabricante": "PPG",
+    "producto": "SIGMADUR ONE BUFF 3142",
+    "documento": "FDS 65 - SIGMADUR ONE BUFF 3142 - PPG.pdf",
+    "paginas": "12",
+    "seccion": "11. Informacion toxicologica",
+    "chunk_id": "FDS_065_s11_07"
+   }
+  ],
+  "retrieved": [
+   {
+    "n": 1,
+    "chunk_id": "FDS_065_s09_01",
+    "puntaje": 0.03279
+   },
+   {
+    "n": 2,
+    "chunk_id": "FDS_047_s09_01",
+    "puntaje": 0.02847
+   },
+   {
+    "n": 3,
+    "chunk_id": "FDS_065_s11_07",
+    "puntaje": 0.02792
+   }
+  ],
+  "documentos_esperados": [
+   "FDS_047",
+   "FDS_065"
+  ],
+  "modelo": "qwen2.5:3b",
+  "segundos": 153.0,
+  "ragas": {
+   "faithfulness": {
+    "estado": "valido",
+    "valor": 0.3333
+   },
+   "context_precision": {
+    "estado": "valido",
+    "valor": 1.0
+   },
+   "context_recall": {
+    "estado": "valido",
+    "valor": 1.0
+   }
+  },
+  "evaluador": "qwen2.5:3b",
+  "deterministas": {
+   "doc_recall": 1.0,
+   "ref_en_contextos": 0.5,
+   "resp_cubre_ref": 0.75,
+   "resp_apoyada": 1.0,
+   "citas_en_doc_esperado": 1.0
+  }
+ },
+ {
+  "id": "Q09",
+  "tipo": "comparativa",
+  "top_k": 3,
+  "user_input": "¿Los componentes Part A y Part B del Sikafloor-2430 tienen el mismo número ONU? Indica cuál es.",
+  "retrieved_contexts": [
+   "## SECCIÓN 14. INFORMACIÓN RELATIVA AL TRANSPORTE\n\n## Regulaciones internacionales\n\n## UNRTDG\n\nNúmero ONU\n\nDesignación oficial de trans-\n\nporte\n\nClase\n\n: UN 1263\n\n: PAINT\n\n(Epoxy resin solution 75%)\n\n: 3\n\n## FICHA DE DATOS DE SEGURIDAD\n\n## Sikafloor®-2430 Part A\n\nVersión 3.0\n\nNúmero de HDS: 100000030164\n\nFecha de revisión: 2023/08/15\n\nGrupo de embalaje :\n\nEtiquetas III\n\n: 3\n\nIATA-DGR\n\nNo. UN/ID\n\n: UN 1263\n\nDesignación oficial de transporte\n\nClase\n\n: Paint\n\n(Epoxy resin solution 75%)\n\n: 3\n\nGrupo de embalaje :\n\nIII\n\nEtiquetas\n\n: Flammable Liquids\n\nInstrucción de embalaje\n\n(avión de carga)\n\nInstrucción de embalaje\n\n(avión de pasajeros)\n\n## Código-IMDG\n\nNúmero ONU\n\n: 366\n\n: 355\n\n: UN 1263\n\nDesignación oficial de trans-\n\nporte\n\nClase\n\n: PAINT\n\n(Epoxy resin solution 75%)\n\n: 3\n\nGrupo de embalaje :\n\nIII\n\nEtiquetas\n\n: 3\n\nCódigo EmS\n\n: F-E, S-E\n\nContaminante marino\n\n: no\n\n## Transporte a granel de acuerdo a instrumentos IMO\n\nNo aplicable para el producto tal y como se proveyó.\n\n## Precauciones especiales para los usuarios\n\nLa(s) clasificación(es) de transporte presente(s) tienen solamente propósitos informativos y se basa(n) únicamente en las propiedades del material sin envasar/embalar, descritas dentro de esta Hoja de Datos de Seguridad. Las clasificaciones de transporte pueden variar según el modo de transporte, el tamaño del envase/embalaje y las variaciones en los reglamentos regionales o del país.",
+   "## SECCIÓN 14. INFORMACIÓN RELATIVA AL TRANSPORTE\n\n## Regulaciones internacionales\n\n## UNRTDG\n\nNúmero ONU\n\n: UN 1263\n\nDesignación oficial de trans-\n\nporte\n\nClase\n\n: PAINT RELATED MATERIAL\n\n: 3\n\nGrupo de embalaje :\n\nIII\n\nEtiquetas\n\n: 3\n\n## IATA-DGR\n\nNo. UN/ID\n\n: UN 1263\n\nDesignación oficial de trans-\n\nporte\n\nClase\n\n: Paint related material\n\n: 3\n\nGrupo de embalaje :\n\nIII\n\nEtiquetas\n\n: Flammable Liquids\n\nInstrucción de embalaje\n\n(avión de carga)\n\nInstrucción de embalaje\n\n(avión de pasajeros)\n\n## Código-IMDG\n\nNúmero ONU\n\n: UN 1263\n\nDesignación oficial de trans-\n\nporte\n\nClase\n\n: PAINT RELATED MATERIAL\n\n: 3\n\nGrupo de embalaje :\n\nIII\n\nEtiquetas\n\n: 3\n\nCódigo EmS\n\n: F-E, S-E\n\nContaminante marino\n\n: no\n\n## Transporte a granel de acuerdo a instrumentos IMO\n\nNo aplicable para el producto tal y como se proveyó.\n\n## Precauciones especiales para los usuarios\n\nLa(s) clasificación(es) de transporte presente(s) tienen solamente propósitos informativos y se basa(n) únicamente en las propiedades del material sin envasar/embalar, descritas dentro de esta Hoja de Datos de Seguridad. Las clasificaciones de transporte pueden variar según el modo de transporte, el tamaño del envase/embalaje y las variaciones en los reglamentos regionales o del país.",
+   "| Protección respiratoria | : | Utilice protección respiratoria a menos que exista una venti- lación de escape adecuada o que la evaluación de la exposi- ción indique que el nivel de exposición está dentro de las pautas recomendadas. La clase de filtro para el respirador debe ser adecuada para la concentración máxima prevista del contaminante (gas/vapor/aerosol/partículas) que puede presentarse al ma- nejar el producto. Si se excede esta concentración, se debe utilizar un aparato respiratorio autónomo. |\n|---|---|---|\n| Protección de las manos | : | Guantes químico-resistentes e impermeables que cumplan con estándares aprobados deben ser utilizados cuando se manejen productos químicos y la evaluación del riesgo indica que es necesario. |\n| Protección de los ojos | : | Equipo de protección ocular que cumpla con estándares aprobados debe ser utilizado cuando la evaluación del riesgo indica que es necesario. |\n| Protección de la piel y del cuerpo | : | Elegir la protección para el cuerpo según sus caraterísticas, la concentración y la cantidad de sustancias peligrosas, y el lugar específico de trabajo. |\n| Medidas de higiene | : | Manipúlelo con las precauciones de higiene industrial ade- cuadas, y respete las prácticas de seguridad. No coma ni beba durante su utilización. No fume durante su utilización. Lavarse las manos antes de los descansos y después de |\n\n## FICHA DE DATOS DE SEGURIDAD\n\n## Sikafloor®-2430 Part B\n\nVersión 3.0\n\nNúmero de HDS: 100000030203"
+  ],
+  "response": "[1]",
+  "reference": "Sí, ambos componentes (Part A y Part B) tienen el mismo número ONU: UN 1263.",
+  "sources": [
+   {
+    "n": 1,
+    "fabricante": "Sika",
+    "producto": "Sikafloor®-2430 Part A",
+    "documento": "FDS 71 -  Sikafloor®-2430  Part A - SIKA.pdf",
+    "paginas": "10-11",
+    "seccion": "14. Informacion relativa al transporte",
+    "chunk_id": "FDS_071_s14_01"
+   }
+  ],
+  "retrieved": [
+   {
+    "n": 1,
+    "chunk_id": "FDS_071_s14_01",
+    "puntaje": 0.03252
+   },
+   {
+    "n": 2,
+    "chunk_id": "FDS_072_s14_01",
+    "puntaje": 0.03178
+   },
+   {
+    "n": 3,
+    "chunk_id": "FDS_072_s08_02",
+    "puntaje": 0.0308
+   }
+  ],
+  "documentos_esperados": [
+   "FDS_071",
+   "FDS_072"
+  ],
+  "modelo": "qwen2.5:3b",
+  "segundos": 146.6,
+  "ragas": {
+   "faithfulness": {
+    "estado": "valido",
+    "valor": 0.0
+   },
+   "context_precision": {
+    "estado": "valido",
+    "valor": 1.0
+   },
+   "context_recall": {
+    "estado": "valido",
+    "valor": 1.0
+   }
+  },
+  "evaluador": "qwen2.5:3b",
+  "deterministas": {
+   "doc_recall": 1.0,
+   "ref_en_contextos": 1.0,
+   "resp_cubre_ref": 0.0,
+   "citas_en_doc_esperado": 1.0
+  }
+ },
+ {
+  "id": "Q10",
+  "tipo": "integradora",
+  "top_k": 3,
+  "user_input": "Para el Esmalte Metal Master Premium de Corona, ¿cuál es su punto de inflamación y su número ONU de transporte?",
+  "retrieved_contexts": [
+   "SECCIÓN 14: INFORMACIÓN RELATIVA AL TRANSPORTE\n\n## Transporte terrestre de mercancías peligrosas:\n\nEn aplicación a la norma técnica colombiana 1692:\n\n- 14.1 Número ONU:\n\n14.2 Designación oficial de transporte de las Naciones Unidas:\n\nUN1263 PINTURA\n\n- 14.3 Clase(s) relativas al 3\n\ntransporte:\n\nEtiquetas:\n\n3\n\n- 14.4 Grupo de embalaje/envasado si se aplica:\n\nIII\n\n- 14.5 Riesgos ambientales:\n\nNo\n\n- 14.6 Precauciones especiales para el usuario\n\nPropiedades físico-químicas:\n\nVer sección 9\n\n14.7 Transporte a granel con arreglo al anexo II de MARPOL 73/78 y al Código IBC:\n\n## Transporte marítimo de mercancías peligrosas:\n\nEn aplicación al IMDG 41-22:\n\nNo relevante\n\n## Ficha de datos de seguridad\n\nsegún Decreto 1496 de 2018 y Resolución 773 de 2021\n\n## ESMALTE METAL MASTER PREMIUM\n\nSECCIÓN 14: INFORMACIÓN RELATIVA AL TRANSPORTE (continúa)\n\n- 14.1 Número ONU:\n\n14.2 Designación oficial de transporte de las Naciones Unidas:\n\nUN1263\n\nPINTURA\n\n- 14.3 Clase(s) relativas al 3\n\ntransporte:\n\nEtiquetas: 3\n\n- 14.4 Grupo de embalaje/envasado si se aplica:\n- 14.5 Contaminante marino:\n\nIII\n\n## No\n\n## 14.6 Precauciones especiales para el usuario\n\nDisposiciones especiales:\n\n223, 955, 163, 367\n\nCódigos FEm:\n\nF-E, S-E\n\nPropiedades físico-químicas:\n\nVer sección 9\n\nCantidades limitadas:\n\n5 L\n\nGrupo de segregación:\n\nNo relevante\n\n## 14.7 Transporte a granel con\n\narreglo al anexo II de MARPOL 73/78 y al Código IBC:\n\nNo relevante\n\n## Transporte aéreo de mercancías peligrosas:",
+   "Códigos FEm:\n\nF-E, S-E\n\nPropiedades físico-químicas:\n\nVer sección 9\n\nCantidades limitadas:\n\n5 L\n\nGrupo de segregación:\n\nNo relevante\n\n## 14.7 Transporte a granel con\n\narreglo al anexo II de MARPOL 73/78 y al Código IBC:\n\nNo relevante\n\n## Transporte aéreo de mercancías peligrosas:\n\nEn aplicación al IATA/OACI 2024:\n\n- 14.1 Número ONU:\n\n14.2 Designación oficial de transporte de las Naciones Unidas:\n\n14.3 Clase(s) relativas al\n\ntransporte:\n\nEtiquetas:\n\nUN1263 PINTURA\n\n3\n\n3\n\n14.4 Grupo de embalaje/envasado\n\nsi se aplica:\n\n- 14.5 Riesgos ambientales:\n\nIII\n\nNo\n\n## 14.6 Precauciones especiales para el usuario\n\nPropiedades físico-químicas:\n\nVer sección 9\n\n14.7 Transporte a granel con arreglo al anexo II de MARPOL 73/78 y al Código IBC:\n\nNo relevante",
+   "Densidad de vapor a 20 ºC:\n\nNo relevante *\n\nCoeficiente de reparto n-octanol/agua a 20 ºC:\n\nNo relevante *\n\nSolubilidad en agua a 20 ºC:\n\nNo relevante *\n\nPropiedad de solubilidad:\n\nNo relevante *\n\nTemperatura de descomposición:\n\nNo relevante *\n\nPunto de fusión/punto de congelación:\n\nNo relevante *\n\n## Inflamabilidad:\n\nPunto de inflamación:\n\n60 ºC\n\nInflamabilidad (sólido, gas):\n\nNo relevante *\n\nTemperatura de auto-inflamación:\n\n200 ºC\n\nLímite de inflamabilidad inferior:\n\nNo relevante *\n\nLímite de inflamabilidad superior:\n\nNo relevante *\n\n## Características de las partículas:\n\nDiámetro medio equivalente:\n\nNo relevante *\n\n## 9.2 Información adicional:\n\n## Información relativa a las clases de peligro físico:\n\nPropiedades explosivas:\n\nNo relevante *\n\nPropiedades comburentes:\n\nNo relevante *\n\nCorrosivos para los metales:\n\nNo relevante *\n\nCalor de combustión:\n\nNo relevante *\n\nAerosoles-porcentaje total (en masa) de componentes inflamables:\n\nOtras características de seguridad:\n\nTensión superficial a 20 ºC:\n\nNo relevante *\n\nNo relevante *\n\nÍndice de refracción:\n\nNo relevante *\n\n*No relevante debido a la naturaleza del producto, no aportando información característica de su peligrosidad."
+  ],
+  "response": "El punto de inflamación de ESMALTE METAL MASTER PREMIUM de Corona es 60 ºC [1].\nEl número ONU de transporte de ESMALTE METAL MASTER PREMIUM de Corona es UN1263 PINTURA [1].",
+  "reference": "El punto de inflamación es 60 ºC y el número ONU es UN1263.",
+  "sources": [
+   {
+    "n": 1,
+    "fabricante": "Corona",
+    "producto": "ESMALTE METAL MASTER PREMIUM",
+    "documento": "FDS 94 - ESMALTE METAL MASTER PREMIUM - CORONA.pdf",
+    "paginas": "11-12",
+    "seccion": "14. Informacion relativa al transporte",
+    "chunk_id": "FDS_094_s14_01"
+   }
+  ],
+  "retrieved": [
+   {
+    "n": 1,
+    "chunk_id": "FDS_094_s14_01",
+    "puntaje": 0.03279
+   },
+   {
+    "n": 2,
+    "chunk_id": "FDS_094_s14_02",
+    "puntaje": 0.03226
+   },
+   {
+    "n": 3,
+    "chunk_id": "FDS_094_s09_02",
+    "puntaje": 0.0315
+   }
+  ],
+  "documentos_esperados": [
+   "FDS_094"
+  ],
+  "modelo": "qwen2.5:3b",
+  "segundos": 155.5,
+  "ragas": {
+   "faithfulness": {
+    "estado": "valido",
+    "valor": 0.0
+   },
+   "context_precision": {
+    "estado": "valido",
+    "valor": 1.0
+   },
+   "context_recall": {
+    "estado": "valido",
+    "valor": 1.0
+   }
+  },
+  "evaluador": "qwen2.5:3b",
+  "deterministas": {
+   "doc_recall": 1.0,
+   "ref_en_contextos": 1.0,
+   "resp_cubre_ref": 1.0,
+   "resp_apoyada": 1.0,
+   "citas_en_doc_esperado": 1.0
+  }
+ },
+ {
+  "id": "Q11",
+  "tipo": "sin_respuesta",
+  "top_k": 3,
+  "user_input": "¿Cuál es el rendimiento en metros cuadrados por galón de la pintura Koraza Pro 550 Blanco de Pintuco?",
+  "retrieved_contexts": [
+   "IMDG: Código Marítimo Internacional de Mercancías Peligrosas IATA: Asociación Internacional de Transporte Aéreo OACI: Organización de Aviación Civil Internacional DQO:Demanda Quimica de oxígeno DBO5:Demanda biológica de oxígeno a los 5 días BCF: factor de bioconcentración DL50: dosis letal 50 CL50: concentración letal 50 EC50: concentración efectiva 50 Log POW: logaritmo coeficiente partición octanol-agua Koc: coeficiente de partición del carbono orgánico\n\n> Texto OCR de la imagen: Calidad\"\n\nLa información contenida en esta ficha de datos de seguridad está fundamentada en fuentes, conocimientos técnicos y legislación vigente a nivel europeo y estatal, no pudiendo garantizar la exactitud de la misma. Esta información no es posible considerarla como una garantía de las propiedades del producto, se trata simplemente de una descripción en cuanto a los requerimientos en materia de seguridad. La metodología y condiciones de trabajo de los usuarios de este producto se encuentran fuera de nuestro conocimiento y control, siendo siempre responsabilidad última del usuario tomar las medidas necesarias para adecuarse a las exigencias legislativas en cuanto a manipulación, almacenamiento, uso y eliminación de productos químicos. La información de esta ficha de datos de seguridad de materiales únicamente se refiere a este producto, el cual no debe emplearse con fines distintos a los que se especifican.",
+   "SECCIÓN 8: CONTROLES DE EXPOSICIÓN/PROTECCIÓN PERSONAL\n\n## 8.1 Parámetros de control:\n\nSustancias cuyos valores límite de exposición profesional han de controlarse en el ambiente de trabajo (ACGIH):\n\n| Identificación | Valores límite ambientales | Valores límite ambientales |\n|---|---|---|\n| Dioxido de titanio | TLV-TWA | 10 mg/m³ |\n| CAS: 13463-67-7 | TLV-STEL | |\n\n## 8.2 Controles técnicos apropiados:\n\n- A.- Medidas de protección individual, como equipo de protección personal (EPP)\n\nComo medida de prevención se recomienda la utilización de equipos de protección individual básicos. Para más información sobre los equipos de protección individual (almacenamiento, uso, limpieza, mantenimiento, clase de protección,…) consultar el folleto informativo facilitado por el fabricante del EPP. Las indicaciones contenidas en este punto se refieren al producto puro. Las medidas de protección para el producto diluido podrán variar en función de su grado de dilución, uso, método de aplicación, etc. Para determinar la obligación de instalación de duchas de emergencia y/o lavaojos en los almacenes se tendrá en cuenta la normativa referente al almacenamiento de productos químicos aplicable en cada caso. Para más información ver epígrafes 7.1 y 7.2.\n\nToda la información aquí incluida es una recomendación siendo necesario su concreción por parte de los servicios de prevención de riesgos laborales al desconocer las medidas de prevención adicionales que la empresa pudiese disponer.",
+   "- B.- Protección respiratoria.\n\nSerá necesario la utilización de equipos de protección en el caso de formación de nieblas o en el caso de superar los límites de exposición profesional si existiesen (Ver Epígrafe 8.1).\n\n- C.- Protección específica de las manos.\n\n> Texto OCR de la imagen: Proteccion obligatoria de la “manos\n\n| Pictograma | EPP | Observaciones |\n|---|---|---|\n| Proteccion obligatoria de la manos | Guantes de protección | recomendable la utilización de guantes de protección quimica |\n\nDado que el producto es una mezcla de diferentes materiales, la resistencia del material de los guantes no se puede calcular de antemano con total fiabilidad y por lo tanto tiene que ser controlados antes de su aplicación.\n\n- D.- Protección ocular y facial\n\n## Ficha de datos de seguridad\n\nsegún Decreto 1496 de 2018\n\n## KORAZA PRO 550 BLANCO 10350789-10289257\n\nSECCIÓN 8: CONTROLES DE EXPOSICIÓN/PROTECCIÓN PERSONAL (continúa)\n\n> Texto OCR de la imagen: Proteccion obligatoria de la cara\n\n| Pictograma | EPP | Observaciones |\n|---|---|---|\n| Proteccion obligatoria de la cara | Gafas de seguridad contra salpicaduras y/o proyecciones | Limpiar a diario y desinfectar periódicamente de acuerdo a las instrucciones del fabricante. Se recomienda su uso en caso de riesgo de salpicaduras. |\n\n## E.- Protección corporal"
+  ],
+  "response": "No hay evidencia suficiente en las fichas de datos de seguridad recuperadas para responder esta pregunta.",
+  "reference": "Las fichas de datos de seguridad no contienen esta información (el rendimiento no figura en ninguna de las 101 FDS); la respuesta correcta es indicar que no hay evidencia suficiente.",
+  "sources": [],
+  "retrieved": [
+   {
+    "n": 1,
+    "chunk_id": "FDS_005_s16_03",
+    "puntaje": 0.032
+   },
+   {
+    "n": 2,
+    "chunk_id": "FDS_005_s08_01",
+    "puntaje": 0.03101
+   },
+   {
+    "n": 3,
+    "chunk_id": "FDS_005_s08_02",
+    "puntaje": 0.03031
+   }
+  ],
+  "documentos_esperados": [],
+  "modelo": "qwen2.5:3b",
+  "segundos": 141.7,
+  "ragas": "no aplica (pregunta sin respuesta: se revisa por separado)",
+  "deterministas": {
+   "rechazo_correcto": 1.0
+  }
+ },
+ {
+  "id": "Q12",
+  "tipo": "sin_respuesta",
+  "top_k": 3,
+  "user_input": "¿Cuál es el nivel de brillo (unidades de brillo a 60°) del Esmalte Metal Master Premium de Corona?",
+  "retrieved_contexts": [
+   "Densidad de vapor a 20 ºC:\n\nNo relevante *\n\nCoeficiente de reparto n-octanol/agua a 20 ºC:\n\nNo relevante *\n\nSolubilidad en agua a 20 ºC:\n\nNo relevante *\n\nPropiedad de solubilidad:\n\nNo relevante *\n\nTemperatura de descomposición:\n\nNo relevante *\n\nPunto de fusión/punto de congelación:\n\nNo relevante *\n\n## Inflamabilidad:\n\nPunto de inflamación:\n\n60 ºC\n\nInflamabilidad (sólido, gas):\n\nNo relevante *\n\nTemperatura de auto-inflamación:\n\n200 ºC\n\nLímite de inflamabilidad inferior:\n\nNo relevante *\n\nLímite de inflamabilidad superior:\n\nNo relevante *\n\n## Características de las partículas:\n\nDiámetro medio equivalente:\n\nNo relevante *\n\n## 9.2 Información adicional:\n\n## Información relativa a las clases de peligro físico:\n\nPropiedades explosivas:\n\nNo relevante *\n\nPropiedades comburentes:\n\nNo relevante *\n\nCorrosivos para los metales:\n\nNo relevante *\n\nCalor de combustión:\n\nNo relevante *\n\nAerosoles-porcentaje total (en masa) de componentes inflamables:\n\nOtras características de seguridad:\n\nTensión superficial a 20 ºC:\n\nNo relevante *\n\nNo relevante *\n\nÍndice de refracción:\n\nNo relevante *\n\n*No relevante debido a la naturaleza del producto, no aportando información característica de su peligrosidad.",
+   "BCF: Factor de bioconcentración\n\nDL50: Dosis Letal 50\n\nCL50: Concentración Letal 50\n\nEC50: Concentración Efectiva 50\n\nLog POW: Logaritmo Coeficiente Partición Octanol-Agua\n\nKoc: Coeficiente de Partición del Carbono Orgánico\n\nIARC: Centro Internacional de Investigaciones sobre el Cáncer\n\nLa información contenida en esta Ficha de datos de seguridad está fundamentada en fuentes, conocimientos técnicos y legislación vigente COLOMBIANA, no pudiendo garantizar la exactitud de la misma. Esta información no es posible considerarla como una garantía de las propiedades del producto, se trata simplemente de una descripción en cuanto a los requerimientos en materia de seguridad. La metodología y condiciones de trabajo de los usuarios de este producto se encuentran fuera de nuestro conocimiento y control, siendo siempre responsabilidad última del usuario tomar las medidas necesarias para adecuarse a las exigencias legislativas en cuanto a manipulación, almacenamiento, uso y eliminación de productos químicos. La información de esta ficha de seguridad únicamente se refiere a este producto, el cual no debe emplearse con fines distintos a los que se especifican.\n\nFIN DE LA FICHA DE DATOS DE SEGURIDAD",
+   "IARC: Destilados (petróleo), fracción ligera tratada con hidrógeno (60 ºC < fp < 93 ºC) (3); Nafta (petróleo), fracción pesada tratada con hidrógeno (3); Cuarzo (1 % < RCS < 10 %) (1); Nafta (petróleo), fracción pesada tratada con hidrógeno, < 0.1 % EC 200-753-7 (3); Bis(2-etilhexanoato) de cobalto (2B); Destilados (petróleo), fracción ligera tratada con hidrógeno (3); Dioxido de titanio (diámetro aerodinámico ≤ 10 μm) (2B); Talco (3)\n\n- Mutagenicidad: La exposición a este producto puede causar alteraciones genéticas. Para más información sobre posibles efectos específicos sobre la salud ver sección 2 de la FDS.\n- Toxicidad para la reproducción: A la vista de los datos disponibles, no se cumplen los criterios de clasificación, sin embargo presenta sustancias clasificadas como peligrosas por este efecto. Para más información ver sección 3 de la FDS.\n- E- Efectos de sensibilización:\n- Respiratoria: A la vista de los datos disponibles, no se cumplen los criterios de clasificación, no presentando sustancias clasificadas como peligrosas con efectos sensibilizantes. Para más información ver secciones 2, 3 y 15 de la FDS.\n- Cutánea: El contacto prolongado con la piel puede derivar en EPPsodios de dermatitis alérgicas de contacto.\n- F- Toxicidad específica en determinados órganos (STOT)-exposición única:"
+  ],
+  "response": "No hay evidencia suficiente en las fichas de datos de seguridad recuperadas para responder esta pregunta.",
+  "reference": "Las fichas de datos de seguridad no contienen esta información (el brillo no figura en ninguna de las 101 FDS); la respuesta correcta es indicar que no hay evidencia suficiente.",
+  "sources": [],
+  "retrieved": [
+   {
+    "n": 1,
+    "chunk_id": "FDS_094_s09_02",
+    "puntaje": 0.03227
+   },
+   {
+    "n": 2,
+    "chunk_id": "FDS_094_s16_05",
+    "puntaje": 0.03226
+   },
+   {
+    "n": 3,
+    "chunk_id": "FDS_094_s11_03",
+    "puntaje": 0.02854
+   }
+  ],
+  "documentos_esperados": [],
+  "modelo": "qwen2.5:3b",
+  "segundos": 114.6,
+  "ragas": "no aplica (pregunta sin respuesta: se revisa por separado)",
+  "deterministas": {
+   "rechazo_correcto": 1.0
+  }
+ },
+ {
+  "id": "Q01",
+  "tipo": "directa",
+  "top_k": 6,
+  "user_input": "¿Cuál es el punto de inflamación del Sellador Industrial Nitrocelulósico (código 40030020) de Química Cosmos?",
+  "retrieved_contexts": [
+   "Concentración:\n\nNo relevante *\n\npH:\n\nNo relevante *\n\nDensidad de vapor a 20 ºC:\n\nNo relevante *\n\nCoeficiente de reparto n-octanol/agua a 20 ºC:\n\nNo relevante *\n\nSolubilidad en agua a 20 ºC:\n\nNo relevante *\n\nPropiedad de solubilidad:\n\nNo relevante *\n\nTemperatura de descomposición:\n\nNo relevante *\n\nPunto de fusión/punto de congelación:\n\nNo relevante *\n\n## Inflamabilidad:\n\nPunto de inflamación:\n\n20 ºC\n\nInflamabilidad (sólido, gas):\n\nNo relevante *\n\nTemperatura de auto-inflamación:\n\n185 ºC\n\nLímite de inflamabilidad inferior:\n\nNo determinado\n\nLímite de inflamabilidad superior:\n\nNo determinado\n\n## Características de las partículas:\n\nDiámetro medio equivalente:\n\nNo aplicable\n\n## 9.2 Información adicional:\n\n## Información relativa a las clases de peligro físico:\n\nPropiedades explosivas:\n\nNo relevante *\n\nPropiedades comburentes:\n\nNo relevante *\n\nCorrosivos para los metales:\n\nNo relevante *\n\nCalor de combustión:\n\nNo relevante *\n\nAerosoles-porcentaje total (en masa) de componentes\n\ninflamables:\n\n## Otras características de seguridad:\n\nTensión superficial a 20 ºC:\n\nÍndice de refracción:\n\nNo relevante *\n\nNo relevante *\n\n*No relevante debido a la naturaleza del producto, no aportando información característica de su peligrosidad.",
+   "CL50: Concentración Letal 50\n\nEC50: Concentración Efectiva 50\n\nLog POW: Logaritmo Coeficiente Partición Octanol-Agua\n\nKoc: Coeficiente de Partición del Carbono Orgánico\n\nIARC: Centro Internacional de Investigaciones sobre el Cáncer\n\n> Texto OCR de la imagen: ( Pintuland\n\nLa información contenida en esta Ficha de datos de seguridad está fundamentada en fuentes, conocimientos técnicos y legislación vigente COLOMBIANA, no pudiendo garantizar la exactitud de la misma. Esta información no es posible considerarla como una garantía de las propiedades del producto, se trata simplemente de una descripción en cuanto a los requerimientos en materia de seguridad. La metodología y condiciones de trabajo de los usuarios de este producto se encuentran fuera de nuestro conocimiento y control, siendo siempre responsabilidad última del usuario tomar las medidas necesarias para adecuarse a las exigencias legislativas en cuanto a manipulación, almacenamiento, uso y eliminación de productos químicos. La información de esta ficha de seguridad únicamente se refiere a este producto, el cual no debe emplearse con fines distintos a los que se especifican.\n\n> Texto OCR de la imagen: DOG D",
+   "Realizar la identificación de los peligros y la valoración de los riesgos de acuerdo a la Guia técnica colombiana GTC 45. De acuerdo al orden de prioridad para el control de la exposición profesional se recomienda la extracción localizada en la zona de trabajo como medida de protección colectiva para evitar sobrepasar los límites de exposición profesional. Para más información sobre los equipos de protección individual (almacenamiento, uso, limpieza, mantenimiento, clase de protección,…) consultar el folleto informativo facilitado por el fabricante del EPP. Las indicaciones contenidas en este punto se refieren al producto puro. Las medidas de protección para el producto diluido podrán variar en función de su grado de dilución, uso, método de aplicación, etc. Para determinar la obligación de instalación de duchas de emergencia y/o lavaojos en los almacenes se tendrá en cuenta la normativa referente al almacenamiento de productos químicos aplicable en cada caso. Para más información Ver epígrafes 7.1 y 7.2 de la FDS.\n\nToda la información aquí incluida es una recomendación siendo necesario su concreción por parte de los servicios de prevención de riesgos laborales al desconocer las medidas de prevención adicionales que la empresa pudiese disponer.\n\n## B.- Protección respiratoria.",
+   "> Texto OCR de la imagen: DOGS\n\n## Ficha de datos de seguridad\n\nsegún Decreto 1496 de 2018 y Resolución 773 de 2021\n\n## 40030020 - SELLADOR INDUSTRIAL NITRO\n\nEmisión: 24/03/2022\n\nRevisión: 5/10/2022\n\nVersión: 4 (sustituye a 3)\n\nSECCIÓN 11: INFORMACIÓN TOXICOLÓGICA (continúa)\n\n- Toxicidad específica en determinados órganos (STOT)-exposición repetida: Efectos nocivos para la salud en caso de ingestión, contacto con la piel o inhalación de forma repetitiva, produciendo depresión del sistema nervioso central ocasionando dolor de cabeza, mareos, vértigos, nauseas, vómitos, confusión y en caso de afección grave, pérdida de conciencia.\n- Piel: A la vista de los datos disponibles, no se cumplen los criterios de clasificación, no presentando sustancias clasificadas como peligrosas por este efecto. Para más información ver sección 3 de la FDS.\n- H- Peligro por aspiración:\n- La ingesta de una dosis considerable puede producir daño pulmonar.\n\n## Información adicional:\n\nCAS 100-41-4 Etilbenceno: El etilbenceno presente en el producto es un componente del Xileno. El etilbenceno es un componente importante de los xilenos técnicos, la toxicología de estos productos fue revisada (WHO, 1997), IARC ha evaluado a los Xilenos como no clasificables en cuanto a su carcinogenicidad a los humanos (Grupo 3) (IARC, 1999) (Ref: Monografía IARC, Vol. 77, 2000; Vol. 71, 1999).\n\n## Información toxicológica específica de las sustancias:",
+   "- A- Ingestión (efecto agudo):\n- Toxicidad aguda: La ingesta de una dosis considerable puede originar irritación de garganta, dolor abdominal, náuseas y vómitos.\n- Corrosividad/Irritabilidad: La ingesta de una dosis considerable puede originar irritación de garganta, dolor abdominal, náuseas y vómitos.\n- B- Inhalación (efecto agudo):\n- Toxicidad aguda: Una exposición a altas concentraciones pueden motivar depresión del sistema nervioso central ocasionando dolor de cabeza, mareos, vértigos, nauseas, vómitos, confusión y en caso de afección grave, pérdida de conciencia.\n- Corrosividad/Irritabilidad: A la vista de los datos disponibles, no se cumplen los criterios de clasificación, sin embargo, presenta sustancias clasificadas como peligrosas por inhalación. Para más información ver sección 3 de la FDS.\n- C- Contacto con la piel y los ojos (efecto agudo):\n- Contacto con la piel: Produce inflamación cutánea.\n- Contacto con los ojos: Produce lesiones oculares importantes tras contacto.\n- D- Efectos CMR (carcinogenicidad, mutagenicidad y toxicidad para la reproducción):\n- Carcinogenicidad: La exposición a este producto puede causar cáncer. Para más información sobre posibles efectos específicos sobre la salud ver sección 2 de la FDS.\n\nIARC: Tolueno (3); m-xileno (3); Etilbenceno (2B); p-xileno (3); o-xileno (3); Propan-2-ol (3); Etanol (1); Acetaldehído (2B); Ftalato de bis(2-etilhexilo) (2B)",
+   "- CONTINÚA EN LA SIGUIENTE PÁGINA -\n\n> Texto OCR de la imagen: DOG D\n\n## Ficha de datos de seguridad\n\nsegún Decreto 1496 de 2018 y Resolución 773 de 2021\n\n## 40030020 - SELLADOR INDUSTRIAL NITRO\n\n> Texto OCR de la imagen: DOGLKD\n\nEmisión: 24/03/2022\n\nRevisión: 5/10/2022\n\nVersión: 4 (sustituye a 3)\n\nSECCIÓN 8: CONTROLES DE EXPOSICIÓN/PROTECCIÓN PERSONAL (continúa)\n\nDado que el producto es una mezcla de diferentes materiales, la resistencia del material de los guantes no se puede calcular de antemano con total fiabilidad y por lo tanto tiene que ser controlados antes de su aplicación.\n\n## D.- Protección ocular y facial\n\n> Texto OCR de la imagen: otección obligatoria\n\n| Pictograma | EPP | Observaciones |\n|---|---|---|\n| Protección obligatoria de la cara | Pantalla facial | NORMATIVIDAD APLICABLE: NTC 1825, NTC 1826 y ANSI Z87.1. Limpiar a diario y desinfectar periódicamente de acuerdo a las instrucciones del fabricante. Se recomienda su uso en caso de riesgo de salpicaduras. |\n\n## E.- Protección corporal"
+  ],
+  "response": "El punto de inflamación del Sellador Industrial Nitrocelulósico (código 40030020) de Química Cosmos es 185 ºC [3].",
+  "reference": "El punto de inflamación es 20 ºC.",
+  "sources": [
+   {
+    "n": 3,
+    "fabricante": "QUIMICA COSMOS S.A",
+    "producto": "40030020 - SELLADOR INDUSTRIAL NITRO",
+    "documento": "FDS 66 - 40030020 - SELLADOR INDUSTRIAL NITRO.pdf",
+    "paginas": "6",
+    "seccion": "8. Controles de exposicion / proteccion personal",
+    "chunk_id": "FDS_066_s08_04"
+   }
+  ],
+  "retrieved": [
+   {
+    "n": 1,
+    "chunk_id": "FDS_066_s09_02",
+    "puntaje": 0.03279
+   },
+   {
+    "n": 2,
+    "chunk_id": "FDS_066_s16_06",
+    "puntaje": 0.03041
+   },
+   {
+    "n": 3,
+    "chunk_id": "FDS_066_s08_04",
+    "puntaje": 0.02976
+   },
+   {
+    "n": 4,
+    "chunk_id": "FDS_066_s11_04",
+    "puntaje": 0.0292
+   },
+   {
+    "n": 5,
+    "chunk_id": "FDS_066_s11_02",
+    "puntaje": 0.02908
+   },
+   {
+    "n": 6,
+    "chunk_id": "FDS_066_s08_06",
+    "puntaje": 0.02881
+   }
+  ],
+  "documentos_esperados": [
+   "FDS_066"
+  ],
+  "modelo": "qwen2.5:3b",
+  "segundos": 308.5,
+  "ragas": {
+   "faithfulness": {
+    "estado": "valido",
+    "valor": 0.0
+   },
+   "context_precision": {
+    "estado": "valido",
+    "valor": 1.0
+   },
+   "context_recall": {
+    "estado": "valido",
+    "valor": 1.0
+   }
+  },
+  "evaluador": "qwen2.5:3b",
+  "deterministas": {
+   "doc_recall": 1.0,
+   "ref_en_contextos": 1.0,
+   "resp_cubre_ref": 1.0,
+   "resp_apoyada": 1.0,
+   "citas_en_doc_esperado": 1.0
+  }
+ },
+ {
+  "id": "Q02",
+  "tipo": "directa",
+  "top_k": 6,
+  "user_input": "¿Cuál es el número CAS del dióxido de titanio en la Pintura Coolguard de Corona y en qué rango de concentración se encuentra?",
+  "retrieved_contexts": [
+   "La monografía de IARC para esta sustancia indica que no hay exposición significativa al dióxido de titanio durante el uso normal de productos en los que dióxido de titanio está unido permanentemente a otros materiales, tales como pinturas (Ref: Monografía IARC, Vol. 93, 2010).\n\nEl lijado repetido de las superficies de película seca puede producir riesgo de sobreexposición al polvo dependiendo de la duración y nivel de lijado, para evitarla deben tomarse las medidas de protección adecuadas.\n\n## Información toxicológica específica de las sustancias:\n\n| Identificación | Toxicidad aguda | Toxicidad aguda | Género |\n|---|---|---|---|\n| Dioxido de titanio (diámetro aerodinámico ≤ 10 μm) CAS: 13463-67-7 | DL50 oral | 10000 mg/kg | Rata |\n| | DL50 cutánea | 10000 mg/kg | Conejo |\n| | CL50 Inhalación polvos | | |\n| Piritionato cincico CAS: 13463-41-7 | DL50 oral | 300 mg/kg | Rata |\n| | DL50 cutánea | | |\n| | CL50 inhalación nieblas | 0,14 mg/L | Rata |\n| Benzofenona | DL50 oral | 3350 mg/kg | Rata |\n| CAS: 119-61-9 | DL50 cutánea | 3535 mg/kg | |\n| CAS: 119-61-9 | CL50 Inhalación polvos | | |\n| 1,2-bencisotiazol-3(2H)-ona CAS: 2634-33-5 | DL50 oral | >490 mg/kg | Rata |\n| | DL50 cutánea | | |\n| | CL50 Inhalación polvos | | |\n\nEmisión: 18/11/2019\n\n## Ficha de datos de seguridad\n\nsegún Decreto 1496 de 2018 y Resolución 773 de 2021\n\n## PINTURA COOLGUARD\n\nRevisión: 08/09/2025\n\nVersión: 7 (sustituye a 6)",
+   "## Sección 3. Composición / información sobre los componentes\n\nSustancia/mezcla :\n\nOtros medios de identificación Mezcla\n\n: No disponible.\n\n## Número CAS/otros identificadores\n\nNúmero CAS\n\n: No aplicable.\n\n| Nombre de ingrediente | % | Número CAS |\n|---|---|---|\n| cinc en polvo (estabilizado) | 60 - 100 | 7440-66-6 |\n| Oxido de Cinc | 2 - <3 | 1314-13-2 |\n\nNo hay ningún ingrediente adicional presente que, bajo el conocimiento actual del proveedor y en las concentraciones aplicables, sea clasificado como de riesgo para la salud o el medio ambiente y por lo tanto deban ser reportados en esta sección.\n\nLos límites de exposición laboral, en caso de existir, figuran en la sección 8.\n\nCódigo SUB indica substancias sin número CAS registrados.",
+   "- G- Toxicidad específica en determinados órganos (STOT)-exposición repetida:\n- Toxicidad específica en determinados órganos (STOT)-exposición repetida: A la vista de los datos disponibles, no se cumplen los criterios de clasificación, sin embargo, presenta sustancias clasificadas como peligrosas por exposición repetitiva. Para más información ver sección 3 de la FDS.\n- Piel: A la vista de los datos disponibles, no se cumplen los criterios de clasificación, no presentando sustancias clasificadas como peligrosas por este efecto. Para más información ver sección 3 de la FDS.\n- H- Peligro por aspiración:\n\nA la vista de los datos disponibles, no se cumplen los criterios de clasificación, no presentando sustancias clasificadas como peligrosas por este efecto. Para más información ver sección 3 de la FDS.\n\n## Información adicional:\n\nCAS 13463-67-7 Dióxido de Titanio: IARC lista esta sustancia como un posible carcinógeno humano (grupo 2B), indicando que hay suficientes evidencias para considerarlo carcinógeno en animales pero insuficientes para considerarlo como carcinógeno para seres humanos.\n\nLa monografía de IARC para esta sustancia indica que no hay exposición significativa al dióxido de titanio durante el uso normal de productos en los que dióxido de titanio está unido permanentemente a otros materiales, tales como pinturas (Ref: Monografía IARC, Vol. 93, 2010).",
+   "| Identificación | Nombre químico/clasificación | Concentración |\n|---|---|---|\n| CAS: 13463-67-7 | Dioxido de titanio (diámetro aerodinámico ≤ 10 μm) Carc. 2: H351 - Atención | 20 - <30% |\n| CAS: 13463-41-7 | Piritionato cincico Acuático agudo. 1: H400; Acuático crónico. 1: H410; Les. Oc. 1: H318; Repr. 1B: H360; STOT repe. 1: H372; Tox. Agud. 2: H330; Tox. Agud. 3: H301 - Peligro | <5% |\n| CAS: 119-61-9 | Benzofenona Carc. 1B: H350 - Peligro | <5% |\n| CAS: 2634-33-5 | 1,2-bencisotiazol-3(2H)-ona Acuático agudo. 1: H400; Irrit. Cut. 2: H315; Les. Oc. 1: H318; Sens. Cut. 1: H317; Tox. Agud. 4: H302 - Peligro | <5% |\n\nPara ampliar información sobre la peligrosidad de las sustancias consultar las secciones 11, 12 y 16. La clasificación respecto Carcinogenicidad de las sustancias se ha establecido en función de las monografías de la IARC adecuándola al sistema de clasificación SGA, para información sobre la clasificación IARC consulte la sección 11.\n\n## Información adicional:\n\n| Identificación - Piritionato cincico | Factor M - Agudo | Factor M - 1000 |\n|---|---|---|\n| CAS: 13463-41-7 | Crónico | 10 |\n| 1,2-bencisotiazol-3(2H)-ona | Agudo | 10 |\n| CAS: 2634-33-5 | Crónico | 1 |\n\n| Identificación | Límite de concentración específico |\n|---|---|\n| 1,2-bencisotiazol-3(2H)-ona CAS: 2634-33-5 | % (p/p) >=0.05: Skin Sens. 1 - H317 |",
+   "SECCIÓN 3: COMPOSICIÓN/INFORMACIÓN SOBRE LOS COMPONENTES\n\nEmisión: 18/11/2019\n\n## Ficha de datos de seguridad\n\nsegún Decreto 1496 de 2018 y Resolución 773 de 2021\n\n## PINTURA COOLGUARD\n\nRevisión: 08/09/2025\n\nVersión: 7 (sustituye a 6)\n\nSECCIÓN 3: COMPOSICIÓN/INFORMACIÓN SOBRE LOS COMPONENTES (continúa)\n\n## 3.1 Sustancias:\n\nNo relevante\n\n## 3.2 Mezclas:\n\nDescripción química: Mezcla acuosa a base de aditivos, cargas, coalescentes, pigmentos y resinas\n\n## Componentes:\n\nDe acuerdo al Decreto 1496 de 2018 y la Resolución 773 de 2021, el producto presenta:\n\n| Identificación | Nombre químico/clasificación | Concentración |\n|---|---|---|\n| CAS: 13463-67-7 | Dioxido de titanio (diámetro aerodinámico ≤ 10 μm) Carc. 2: H351 - Atención | 20 - <30% |\n| CAS: 13463-41-7 | Piritionato cincico Acuático agudo. 1: H400; Acuático crónico. 1: H410; Les. Oc. 1: H318; Repr. 1B: H360; STOT repe. 1: H372; Tox. Agud. 2: H330; Tox. Agud. 3: H301 - Peligro | <5% |\n| CAS: 119-61-9 | Benzofenona Carc. 1B: H350 - Peligro | <5% |\n| CAS: 2634-33-5 | 1,2-bencisotiazol-3(2H)-ona Acuático agudo. 1: H400; Irrit. Cut. 2: H315; Les. Oc. 1: H318; Sens. Cut. 1: H317; Tox. Agud. 4: H302 - Peligro | <5% |",
+   "SECCIÓN 8: CONTROLES DE EXPOSICIÓN/PROTECCIÓN PERSONAL\n\n## 8.1 Parámetros de control:\n\nSustancias cuyos valores límite de exposición profesional han de controlarse en el ambiente de trabajo: OSHA (Tablas Z):\n\n| Identificación | Valores límite ambientales | Valores límite ambientales |\n|---|---|---|\n| Dioxido de titanio (diámetro aerodinámico ≤ 10 μm) | 8-hour TWA PEL | 15 mg/m³ |\n| CAS: 13463-67-7 | Ceiling Values - TWA PEL | |\n\n## ACGIH (2022):\n\n| Identificación - Dioxido de titanio (diámetro aerodinámico ≤ 10 μm) | Valores límite ambientales - TLV-TWA | Valores límite ambientales - 0,2 mg/m³ |\n|---|---|---|\n| CAS: 13463-67-7 | TLV-STEL | |\n\n## 8.2 Controles técnicos apropiados:\n\nA.- Medidas de protección individual, como equipo de protección personal (EPP)\n\n## Ficha de datos de seguridad\n\nsegún Decreto 1496 de 2018 y Resolución 773 de 2021\n\n## PINTURA COOLGUARD\n\nEmisión: 18/11/2019\n\nRevisión: 08/09/2025\n\nVersión: 7 (sustituye a 6)\n\nSECCIÓN 8: CONTROLES DE EXPOSICIÓN/PROTECCIÓN PERSONAL (continúa)"
+  ],
+  "response": "El número CAS del dióxido de titanio en la Pintura Coolguard de Corona es CAS: 13463-67-7 y se encuentra en el rango de concentración de 20 - <30% [3].",
+  "reference": "El dióxido de titanio tiene el número CAS 13463-67-7 y una concentración de 20 a menos de 30 % (20 - <30%).",
+  "sources": [
+   {
+    "n": 3,
+    "fabricante": "Corona",
+    "producto": "PINTURA COOLGUARD",
+    "documento": "FDS 92 - PINTURA COOLGUARD - CORONA.pdf",
+    "paginas": "8",
+    "seccion": "11. Informacion toxicologica",
+    "chunk_id": "FDS_092_s11_04"
+   }
+  ],
+  "retrieved": [
+   {
+    "n": 1,
+    "chunk_id": "FDS_092_s11_05",
+    "puntaje": 0.03252
+   },
+   {
+    "n": 2,
+    "chunk_id": "FDS_064_s03_01",
+    "puntaje": 0.02964
+   },
+   {
+    "n": 3,
+    "chunk_id": "FDS_092_s11_04",
+    "puntaje": 0.03227
+   },
+   {
+    "n": 4,
+    "chunk_id": "FDS_092_s03_02",
+    "puntaje": 0.03175
+   },
+   {
+    "n": 5,
+    "chunk_id": "FDS_092_s03_01",
+    "puntaje": 0.0315
+   },
+   {
+    "n": 6,
+    "chunk_id": "FDS_092_s08_01",
+    "puntaje": 0.03077
+   }
+  ],
+  "documentos_esperados": [
+   "FDS_092"
+  ],
+  "modelo": "qwen2.5:3b",
+  "segundos": 399.0,
+  "ragas": {
+   "faithfulness": {
+    "estado": "valido",
+    "valor": 0.0
+   },
+   "context_precision": {
+    "estado": "valido",
+    "valor": 1.0
+   },
+   "context_recall": {
+    "estado": "valido",
+    "valor": 1.0
+   }
+  },
+  "evaluador": "qwen2.5:3b",
+  "deterministas": {
+   "doc_recall": 1.0,
+   "ref_en_contextos": 1.0,
+   "resp_cubre_ref": 1.0,
+   "resp_apoyada": 1.0,
+   "citas_en_doc_esperado": 1.0
+  }
+ },
+ {
+  "id": "Q03",
+  "tipo": "directa",
+  "top_k": 6,
+  "user_input": "¿Qué primeros auxilios se indican en caso de ingestión del Esmalte Maestro de Pinturas Bler?",
+  "retrieved_contexts": [
+   "SECCIÓN 4: PRIMEROS AUXILIOS\n\nCOPIA CONTROLADA\n\n## 4.1 Descripción de los primeros auxilios necesarios:\n\nLos síntomas como consecuencia de una intoxicación pueden presentarse con posterioridad a la exposición, por lo que, en caso de duda, exposición directa al producto químico o persistencia del malestar solicitar atención médica, mostrándole la FDS de este producto.\n\n## Por inhalación:\n\nSacar al afectado del lugar de exposición, suministrarle aire limpio y mantenerlo en reposo. En casos graves como parada cardiorespiratoria, se aplicarán técnicas de respiración artificial si se tiene la formación adecuada (masaje cardíaco, suministro de oxígeno, etc.) requiriendo asistencia médica inmediata.\n\n## Por contacto con la piel:\n\nQuitar la ropa y los zapatos contaminados, aclarar la piel o duchar al afectado si procede con abundante agua fría y jabón neutro. En caso de afección importante acudir al médico. Si el producto produce quemaduras o congelación, no se debe quitar la ropa debido a que podría empeorar la lesión producida si esta se encuentra pegada a la piel. En el caso de formarse ampollas en la piel, éstas nunca deben reventarse ya que aumentaría el riesgo de infección.\n\nFicha de datos de seguridad\n\nsegún Decreto 1496 de 2018 y Resolución 773 de 2021\n\n## ESMALTE MAESTRO\n\nEmisión: 27/05/2020\n\nRevisión: 19/05/2025\n\nVersión: 2 (sustituye a 1)\n\nSECCIÓN 4: PRIMEROS AUXILIOS (continúa)\n\n## Por contacto con los ojos:",
+   "SECCIÓN 4: PRIMEROS AUXILIOS\n\n## 4.1 Descripción de los primeros auxilios necesarios:\n\nLos síntomas como consecuencia de una intoxicación pueden presentarse con posterioridad a la exposición, por lo que, en caso de duda, exposición directa al producto químico o persistencia del malestar solicitar atención médica, mostrándole la FDS de este producto.\n\nFicha de datos de seguridad\n\nsegún Decreto 1496 de 2018 y Resolución 773 de 2021\n\n## BARNIZ SOLAR\n\nEmisión: 31/08/2020\n\nRevisión: 23/09/2025\n\nVersión: 3 (sustituye a 2)\n\nSECCIÓN 4: PRIMEROS AUXILIOS (continúa)\n\n## Por inhalación:\n\nSacar al afectado del lugar de exposición, suministrarle aire limpio y mantenerlo en reposo. En casos graves como parada cardiorespiratoria, se aplicarán técnicas de respiración artificial si se tiene la formación adecuada (masaje cardíaco, suministro de oxígeno, etc.) requiriendo asistencia médica inmediata.\n\n## Por contacto con la piel:\n\nQuitar la ropa y los zapatos contaminados, aclarar la piel o duchar al afectado si procede con abundante agua fría y jabón neutro. En caso de afección importante acudir al médico. Si el producto produce quemaduras o congelación, no se debe quitar la ropa debido a que podría empeorar la lesión producida si esta se encuentra pegada a la piel. En el caso de formarse ampollas en la piel, éstas nunca deben reventarse ya que aumentaría el riesgo de infección.\n\n## Por contacto con los ojos:",
+   "Enjuagar los ojos con abundante agua a temperatura ambiente al menos durante 15 minutos. Evitar que el afectado se frote o cierre los ojos. En el caso de que el accidentado use lentes de contacto, éstas deben retirarse siempre que no estén pegadas a los ojos, de otro modo podría producirse un daño adicional. En todos los casos, después del lavado, se debe acudir al médico lo más rápidamente posible con la FDS del producto.\n\n## Por ingestión/aspiración:\n\nRequerir asistencia médica inmediata, mostrándole la FDS de este producto. No inducir al vómito, en el caso de que se produzca mantener inclinada la cabeza hacia delante para evitar la aspiración. En el caso de pérdida de consciencia no administrar nada por vía oral hasta la supervisión del médico. Enjuagar la boca y la garganta, ya que existe la posibilidad de que hayan sido afectadas en la ingestión. Mantener al afectado en reposo.\n\nCOPIA CONTROLADA 4.2 Síntomas/efectos más importantes, agudos o retardados: Los efectos agudos y retardados son los indicados en las secciones 2 y 11 de la FDS. 4.3 Indicación de la necesidad de recibir atención médica inmediata y, en su caso, de tratamiento especial: No relevante",
+   "COPIA CONTROLADA Enjuagar los ojos con abundante agua a temperatura ambiente al menos durante 15 minutos. Evitar que el afectado se frote o cierre los ojos. En el caso de que el accidentado use lentes de contacto, éstas deben retirarse siempre que no estén pegadas a los ojos, de otro modo podría producirse un daño adicional. En todos los casos, después del lavado, se debe acudir al médico lo más rápidamente posible con la FDS del producto. Por ingestión/aspiración: Requerir asistencia médica inmediata, mostrándole la FDS de este producto. No inducir al vómito, en el caso de que se produzca mantener inclinada la cabeza hacia delante para evitar la aspiración. En el caso de pérdida de consciencia no administrar nada por vía oral hasta la supervisión del médico. Enjuagar la boca y la garganta, ya que existe la posibilidad de que hayan sido afectadas en la ingestión. Mantener al afectado en reposo. 4.2 Síntomas/efectos más importantes, agudos o retardados: Los efectos agudos y retardados son los indicados en las secciones 2 y 11 de la FDS. 4.3 Indicación de la necesidad de recibir atención médica inmediata y, en su caso, de tratamiento especial: No relevante",
+   "Quitar la ropa y los zapatos contaminados, aclarar la piel o duchar al afectado si procede con abundante agua fría y jabón neutro. En caso de afección importante acudir al médico. Si el producto produce quemaduras o congelación, no se debe quitar la ropa debido a que podría empeorar la lesión producida si esta se encuentra pegada a la piel. En el caso de formarse ampollas en la piel, éstas nunca deben reventarse ya que aumentaría el riesgo de infección.\n\nFicha de datos de seguridad\n\nsegún Decreto 1496 de 2018 y Resolución 773 de 2021\n\n## ESMALTE MAESTRO\n\nEmisión: 27/05/2020\n\nRevisión: 19/05/2025\n\nVersión: 2 (sustituye a 1)\n\nSECCIÓN 4: PRIMEROS AUXILIOS (continúa)\n\n## Por contacto con los ojos:\n\nEnjuagar los ojos con abundante agua a temperatura ambiente al menos durante 15 minutos. Evitar que el afectado se frote o cierre los ojos. En el caso de que el accidentado use lentes de contacto, éstas deben retirarse siempre que no estén pegadas a los ojos, de otro modo podría producirse un daño adicional. En todos los casos, después del lavado, se debe acudir al médico lo más rápidamente posible con la FDS del producto.\n\n## Por ingestión/aspiración:",
+   "COPIA CONTROLADA En caso de exposición repetitiva, prolongada o a concentraciones superiores a las establecidas por los límites de exposición profesionales, pueden producirse efectos adversos para la salud en función de la vía de exposición: A- Ingestión (efecto agudo): - Toxicidad aguda: A la vista de los datos disponibles, no se cumplen los criterios de clasificación, sin embargo, presenta sustancias clasificadas como peligrosas por ingestión. Para más información ver sección 3 de la FDS. - Corrosividad/Irritabilidad: La ingesta de una dosis considerable puede originar irritación de garganta, dolor abdominal, náuseas y vómitos. B- Inhalación (efecto agudo): - Toxicidad aguda: A la vista de los datos disponibles, no se cumplen los criterios de clasificación, no presentando sustancias clasificadas como peligrosas por inhalación. Para más información ver sección 3 de la FDS. - Corrosividad/Irritabilidad: En caso de inhalación prolongada el producto es destructivo para los tejidos de las membranas mucosas y las vías respiratorias superiores C- Contacto con la piel y los ojos (efecto agudo): - Contacto con la piel: Produce inflamación cutánea. - Contacto con los ojos: Produce lesiones oculares importantes tras contacto. D- Efectos CMR (carcinogenicidad, mutagenicidad y toxicidad para la reproducción): - Carcinogenicidad: La exposición a este producto puede causar cáncer. Para más información sobre posibles efectos específicos sobre la salud ver sección 2 de la FDS. IARC:"
+  ],
+  "response": "El primeros auxilios en caso de ingestión del Esmalte Maestro de Pinturas Bler son: Requerir asistencia médica inmediata, mostrándole la FDS de este producto. No inducir al vómito, en el caso de que se produzca mantener inclinada la cabeza hacia delante para evitar la aspiración. En el caso de pérdida de consciencia no administrar nada por vía oral hasta la supervisión del médico. Enjuagar la boca y la garganta, ya que existe la posibilidad de que hayan sido afectadas en la ingestión. Mantener al afectado en reposo. [5]",
+  "reference": "Requerir asistencia médica inmediata mostrando la FDS del producto; no inducir el vómito (si se produce, mantener la cabeza inclinada hacia delante para evitar la aspiración); en caso de pérdida de consciencia no administrar nada por vía oral hasta la supervisión del médico; enjuagar la boca y la garganta; mantener al afectado en reposo.",
+  "sources": [
+   {
+    "n": 5,
+    "fabricante": "Bler",
+    "producto": "ESMALTE MAESTRO",
+    "documento": "FDS 100 - Esmalte maestro. Bler.pdf",
+    "paginas": "2-3",
+    "seccion": "4. Primeros auxilios",
+    "chunk_id": "FDS_100_s04_02"
+   }
+  ],
+  "retrieved": [
+   {
+    "n": 1,
+    "chunk_id": "FDS_100_s04_01",
+    "puntaje": 0.03226
+   },
+   {
+    "n": 2,
+    "chunk_id": "FDS_101_s04_01",
+    "puntaje": 0.03202
+   },
+   {
+    "n": 3,
+    "chunk_id": "FDS_100_s04_03",
+    "puntaje": 0.03202
+   },
+   {
+    "n": 4,
+    "chunk_id": "FDS_101_s04_02",
+    "puntaje": 0.03126
+   },
+   {
+    "n": 5,
+    "chunk_id": "FDS_100_s04_02",
+    "puntaje": 0.03126
+   },
+   {
+    "n": 6,
+    "chunk_id": "FDS_100_s11_02",
+    "puntaje": 0.02857
+   }
+  ],
+  "documentos_esperados": [
+   "FDS_100"
+  ],
+  "modelo": "qwen2.5:3b",
+  "segundos": 392.5,
+  "ragas": {
+   "faithfulness": {
+    "estado": "valido",
+    "valor": 0.0
+   },
+   "context_precision": {
+    "estado": "valido",
+    "valor": 0.4167
+   },
+   "context_recall": {
+    "estado": "valido",
+    "valor": 1.0
+   }
+  },
+  "evaluador": "qwen2.5:3b",
+  "deterministas": {
+   "doc_recall": 1.0,
+   "ref_en_contextos": 0.96,
+   "resp_cubre_ref": 0.92,
+   "citas_en_doc_esperado": 1.0
+  }
+ },
+ {
+  "id": "Q04",
+  "tipo": "directa",
+  "top_k": 6,
+  "user_input": "¿Qué medios de extinción se pueden utilizar para el Dimetcote 302H Green Resin de PPG y cuál no se debe usar?",
+  "retrieved_contexts": [
+   "## Sección 5. Medidas contra incendios\n\n| Medios de extinción Medios de extinción | : | Utilizar polvo químico seco, CO₂, agua pulverizada o espuma (neblina). |\n|---|---|---|\n| apropiados Medios no apropiados de extinción | : | No usar chorro de agua. |\n| Peligros específicos de la sustancia química peligrosa o mezcla | : | Líquido y vapores inflamables. Los residuos líquidos que se filtran en el alcantarillado pueden causar un riesgo de incendio o de explosión. En caso de incendio o calentamiento, ocurrirá un aumento de presión y el recipiente estallará, con el riesgo de que ocurra una explosión. Este material es muy tóxico para la vida acuática con efectos de larga duración. Se debe impedir que el agua de extinción de incendios contaminada con este material entre en vías de agua, drenajes o alcantarillados. |\n| Productos de descomposición térmica peligrosos | : | Los productos de descomposición pueden incluir los siguientes materiales: óxidos de carbono óxido/óxidos metálico/metálicos |\n| Medidas especiales que deberán seguir los grupos de combate contra incendio | : | En caso de incendio, aísle rápidamente la zona evacuando a todas las personas de las proximidades del lugar del incidente. No se tomará ninguna medida que implique algún riesgo personal o que no contemple el entrenamiento adecuado. Desplazar los contenedores lejos del incendio si esto puede hacerse sin riesgo. Use agua pulverizada para refrigerar los envases expuestos al fuego. |",
+   "| Medios de extinción Medios de extinción | : | Utilizar polvo químico seco, CO₂, agua pulverizada o espuma (neblina). |\n|---|---|---|\n| Equipo de protección especial para los bomberos | : | Los bomberos deben llevar equipo de protección apropiado y un equipo de respiración autónomo con una máscara facial completa que opere en modo de presión positiva. |",
+   "| Nombre de ingrediente | | Límites de exposición |\n|---|---|---|\n| Control de la exposición medioambiental | : Emisiones de los equipos de ventilación o de procesos de trabajo deben ser evaluados para verificar que cumplen con los requisitos de la legislación de protección del medio ambiente. En algunos casos será necesario el uso de eliminadores de humo, filtros o modificaciones del diseño del equipo del proceso para reducir las emisiones a un nivel aceptable. Utilizar equipo de ventilación anti-explosión. | : Emisiones de los equipos de ventilación o de procesos de trabajo deben ser evaluados para verificar que cumplen con los requisitos de la legislación de protección del medio ambiente. En algunos casos será necesario el uso de eliminadores de humo, filtros o modificaciones del diseño del equipo del proceso para reducir las emisiones a un nivel aceptable. Utilizar equipo de ventilación anti-explosión. |\n| Medidas de protección individual | Medidas de protección individual | Medidas de protección individual |\n| Medidas de higiene : | Lave las manos, antebrazos y cara completamente después de manejar productos químicos, antes de comer, fumar y usar el lavabo y al final del período de trabajo. Usar las técnicas apropiadas para remover ropa contaminada. La ropa de trabajo contaminada no debe salir del lugar de trabajo. Lavar las ropas contaminadas antes de volver a usarlas. Verifique que las estaciones de lavado de ojos y duchas | de las estaciones de trabajo. |",
+   "## Sección 13. Información relativa a la eliminación de los productos\n\nMétodos de eliminación\n\n- : Se debe evitar o minimizar la generación de desechos cuando sea posible. La eliminación de este producto, sus soluciones y cualquier derivado deben cumplir siempre con los requisitos de la legislación de protección del medio ambiente y eliminación de desechos y todos los requisitos de las autoridades locales. Disponga del sobrante y productos no reciclables por medio de un contratista autorizado para la disposición. Los residuos no se deben tirar por la alcantarilla sin tratar a menos que sean compatibles con los requisitos de todas las autoridades con jurisdicción. Los envases desechados se deben reciclar. Sólo se deben contemplar la incineración o el enterramiento cuando el reciclaje no sea factible. Elimínense los residuos del producto y sus recipientes con todas las precauciones posibles. Se tendrá cuidado cuando se manipulen recipientes vacíos que no se hayan limpiado o enjuagado. Los envases vacíos o los revestimentos pueden retener residuos del producto. El vapor de los residuos del producto puede crear un ambiente altamente inflamable o explosivo dentro del recipiente. No recortar, soldar o triturar los recipientes usados a menos que se hayan limpiado a fondo en su interior. Evite la dispersión del material derramado, su contacto con el suelo, el medio acuático, los desagües y las alcantarillas.",
+   "- : Use el equipo de protección personal adecuado (vea la Sección 8). Las personas con antecedentes de sensibilización cutánea no deben trabajar en ningún proceso en el que se utilice este producto. No introducir en ojos o en la piel o ropa. No respire los vapores o nieblas. No ingerir. No dispersar en el medio ambiente. Use sólo con ventilación adecuada. Llevar un aparato de respiración apropiado cuando el sistema de ventilación sea inadecuado. No entre en áreas de almacenamiento y espacios cerrados a menos que estén ventilados adecuadamente. Mantener en el recipiente original o en uno alternativo autorizado hecho de material compatible, conservar herméticamente cerrado cuando no esté en uso. Mantener alejado del calor, chispas, llamas al descubierto, o de cualquier otra fuente de ignición. Use equipo eléctrico (de ventilación, iluminación y manipulación de materiales) a prueba de explosiones. No utilizar herramientas que produzcan chispas. Evitar la acumulación de cargas electrostáticas. Los envases vacíos retienen resíduos del producto y pueden ser peligrosos. No vuelva a usar el envase.\n- No almacenar por encima de la siguiente temperatura: 50°C (122°F). Conservar de acuerdo con las normas locales. Almacenar en un área separada y homologada. Almacenar en el contenedor original protegido de la luz directa del sol en un área seca, fresca y bien ventilada, separado de materiales incompatibles (ver Sección 10) y comida y bebida. Guardar bajo llave.",
+   "## Sección 8. Controles de exposición / protección personal\n\n## Protección de los ojos Protección de la piel\n\nProtección de las manos\n\n## Guantes\n\n- Gafas protectoras contra salpicaduras químicas y careta de protección. :\n- Guantes impermeables y resistentes a productos químicos que cumplan con las normas aprobadas deben ser usados siempre que se manejen productos químicos si una evaluación del riesgo indica que es necesario. Teniendo en cuenta los parámetros especificados por el fabricante de los guantes, se debe verificar durante el uso si aún mantienen sus propiedades protectoras. Es preciso tener presente que el tiempo de penetración para el material de los guantes puede ser diferente en cada fabricante. En el caso de mezclas formadas por varias sustancias no se puede estimar con exactitud el periodo de tiempo de protección de los guantes. :\n\n:\n\nProtección del cuerpo :\n\n## Otro tipo de protección para la piel\n\n## Protección de las vías respiratorias\n\ncaucho butílico\n\nAntes de utilizar este producto se debe seleccionar equipo protector personal para el cuerpo basándose en la tarea a ejecutar y los riesgos involucrados y debe ser aprobado por un especialista. Cuando existe riesgo de ignición debido a la electricidad estática, se requiere el uso de ropa antiestática de protección. Para obtener el máximo nivel de protección contra descargas electrostáticas es preciso usar overoles, botas y guantes antiestáticos."
+  ],
+  "response": "El Dimetcote 302H Green Resin de PPG se puede extinguir utilizando polvo químico seco, CO₂, agua pulverizada o espuma (neblina) [1]. No se debe usar chorro de agua [1].",
+  "reference": "Se puede utilizar polvo químico seco, CO2, agua pulverizada o espuma (neblina). No se debe usar chorro de agua.",
+  "sources": [
+   {
+    "n": 1,
+    "fabricante": "PPG",
+    "producto": "DIMETCOTE 302H GREEN RESIN",
+    "documento": "FDS 47 - DIMETCOTE 302H GREEN RESIN - PPG.pdf",
+    "paginas": "4",
+    "seccion": "5. Medidas de lucha contra incendios",
+    "chunk_id": "FDS_047_s05_01"
+   }
+  ],
+  "retrieved": [
+   {
+    "n": 1,
+    "chunk_id": "FDS_047_s05_01",
+    "puntaje": 0.03279
+   },
+   {
+    "n": 2,
+    "chunk_id": "FDS_047_s05_02",
+    "puntaje": 0.03226
+   },
+   {
+    "n": 3,
+    "chunk_id": "FDS_047_s08_04",
+    "puntaje": 0.03126
+   },
+   {
+    "n": 4,
+    "chunk_id": "FDS_047_s13_01",
+    "puntaje": 0.03012
+   },
+   {
+    "n": 5,
+    "chunk_id": "FDS_047_s07_02",
+    "puntaje": 0.02963
+   },
+   {
+    "n": 6,
+    "chunk_id": "FDS_047_s08_05",
+    "puntaje": 0.02951
+   }
+  ],
+  "documentos_esperados": [
+   "FDS_047"
+  ],
+  "modelo": "qwen2.5:3b",
+  "segundos": 435.3,
+  "ragas": {
+   "faithfulness": {
+    "estado": "valido",
+    "valor": 0.6
+   },
+   "context_precision": {
+    "estado": "valido",
+    "valor": 0.8767
+   },
+   "context_recall": {
+    "estado": "valido",
+    "valor": 1.0
+   }
+  },
+  "evaluador": "qwen2.5:3b",
+  "deterministas": {
+   "doc_recall": 1.0,
+   "ref_en_contextos": 1.0,
+   "resp_cubre_ref": 0.857,
+   "citas_en_doc_esperado": 1.0
+  }
+ },
+ {
+  "id": "Q05",
+  "tipo": "directa",
+  "top_k": 6,
+  "user_input": "¿Cuál es el número ONU del Sellador Industrial Nitrocelulósico (código 40030020) de Química Cosmos?",
+  "retrieved_contexts": [
+   "Precauciones especiales para el usuario\n\nDisposiciones especiales:\n\n367, 163\n\nCódigos FEm:\n\nF-E, S-E\n\nPropiedades físico-químicas:\n\nVer sección 9\n\nCantidades limitadas:\n\n5 L\n\nGrupo de segregación:\n\nNo relevante\n\n14.7 Transporte a granel con\n\narreglo al anexo II de\n\nMARPOL 73/78 y al Código\n\nIBC:\n\nTransporte aéreo de mercancías peligrosas:\n\nEn aplicación al IATA/OACI 2022:\n\nNo relevante\n\n> Texto OCR de la imagen: HOOD\n\n## Ficha de datos de seguridad\n\nsegún Decreto 1496 de 2018 y Resolución 773 de 2021\n\n## 40030020 - SELLADOR INDUSTRIAL NITRO\n\nEmisión: 24/03/2022\n\nRevisión: 5/10/2022\n\nVersión: 4 (sustituye a 3)\n\nSECCIÓN 14: INFORMACIÓN RELATIVA AL TRANSPORTE (continúa)\n\n| 14.1 | Número ONU: | UN1263 |\n|---|---|---|\n| 14.2 | Designación oficial de transporte de las Naciones Unidas: | PINTURA |\n| 14.3 | Clase(s) relativas al transporte: | 3 |\n| | Etiquetas: | 3 |\n| 14.4 | Grupo de embalaje/envasado si se aplica: | II |\n| 14.5 | Riesgos ambientales: | No |\n| 14.6 | Precauciones especiales para | el usuario |\n| | Propiedades físico-químicas: | Ver sección 9 |\n| 14.7 | Transporte a granel con arreglo al anexo II de MARPOL 73/78 y al Código IBC: | No relevante |",
+   "SECCIÓN 14: INFORMACIÓN RELATIVA AL TRANSPORTE\n\n## Transporte terrestre de mercancías peligrosas:\n\nEn aplicación a la norma técnica colombiana 1692:\n\n> Texto OCR de la imagen: DOGLHD\n\n## Ficha de datos de seguridad\n\nsegún Decreto 1496 de 2018 y Resolución 773 de 2021\n\n## 40030020 - SELLADOR INDUSTRIAL NITRO\n\nEmisión: 24/03/2022\n\nRevisión: 5/10/2022\n\nVersión: 4 (sustituye a 3)\n\nSECCIÓN 14: INFORMACIÓN RELATIVA AL TRANSPORTE (continúa)\n\n14.1 Número ONU:\n\n14.2 Designación oficial de\n\ntransporte de las Naciones\n\nUnidas:\n\n14.3 Clase(s) relativas al\n\ntransporte:\n\nEtiquetas:\n\nUN1263\n\nPINTURA\n\n3\n\n3\n\n14.4 Grupo de\n\nembalaje/envasado si se\n\naplica:\n\n14.5 Riesgos ambientales:\n\nII\n\nNo\n\n14.6 Precauciones especiales para el usuario\n\nPropiedades físico-químicas:\n\nVer sección 9\n\n14.7 Transporte a granel con\n\narreglo al anexo II de\n\nMARPOL 73/78 y al Código\n\nIBC:\n\nNo relevante\n\n## Transporte marítimo de mercancías peligrosas:\n\nEn aplicación al IMDG 40-20:\n\n14.1 Número ONU:\n\n14.2 Designación oficial de\n\ntransporte de las Naciones\n\nUnidas:\n\n14.3 Clase(s) relativas al\n\ntransporte:\n\nEtiquetas:\n\nUN1263\n\nPINTURA\n\n3\n\n3\n\n14.4 Grupo de\n\nembalaje/envasado si se\n\naplica:\n\nII\n\n14.5 Contaminante marino:\n\nNo\n\n14.6\n\nPrecauciones especiales para el usuario\n\nDisposiciones especiales:\n\n367, 163\n\nCódigos FEm:\n\nF-E, S-E\n\nPropiedades físico-químicas:\n\nVer sección 9\n\nCantidades limitadas:\n\n5 L\n\nGrupo de segregación:\n\nNo relevante\n\n14.7 Transporte a granel con\n\narreglo al anexo II de\n\nMARPOL 73/78 y al Código",
+   "CL50: Concentración Letal 50\n\nEC50: Concentración Efectiva 50\n\nLog POW: Logaritmo Coeficiente Partición Octanol-Agua\n\nKoc: Coeficiente de Partición del Carbono Orgánico\n\nIARC: Centro Internacional de Investigaciones sobre el Cáncer\n\n> Texto OCR de la imagen: ( Pintuland\n\nLa información contenida en esta Ficha de datos de seguridad está fundamentada en fuentes, conocimientos técnicos y legislación vigente COLOMBIANA, no pudiendo garantizar la exactitud de la misma. Esta información no es posible considerarla como una garantía de las propiedades del producto, se trata simplemente de una descripción en cuanto a los requerimientos en materia de seguridad. La metodología y condiciones de trabajo de los usuarios de este producto se encuentran fuera de nuestro conocimiento y control, siendo siempre responsabilidad última del usuario tomar las medidas necesarias para adecuarse a las exigencias legislativas en cuanto a manipulación, almacenamiento, uso y eliminación de productos químicos. La información de esta ficha de seguridad únicamente se refiere a este producto, el cual no debe emplearse con fines distintos a los que se especifican.\n\n> Texto OCR de la imagen: DOG D",
+   "SECCIÓN 15: INFORMACIÓN SOBRE LA REGLAMENTACIÓN\n\n## 15.1 Disposiciones específicas sobre seguridad, salud y medio ambiente para el producto de que se trate:\n\n- NTP (National Toxicology Program): Ftalato de bis(2-etilhexilo) (117-81-7)\n\n## Disposiciones particulares en materia de protección de las personas o el medio ambiente:\n\nSe recomienda emplear la información recopilada en esta hoja de datos de seguridad de materiales como datos de entrada en una evaluación de riesgos de las circunstancias locales con el objeto de establecer las medidas necesarias de prevención de riesgos para el manejo, utilización, almacenamiento y eliminación de este producto.\n\n## Otras legislaciones:\n\nResolución 0312 de 2019 - Nuevos estándares mínimos del SG-SST\n\nCONPES 3868 - Política de gestión del riesgo asociado al uso de sustancias químicas.\n\nDecreto 1079 de 2015 - Decreto único reglamentario del sector transporte\n\nNTC 1692 -Transporte de mercancías peligrosas. Definiciones, clasificación, marcado, etiquetado y rotulado\n\nNTC 4532- Transporte de mercancías peligrosas. Tarjetas de emergencia para transporte de materiales. Elaboración\n\nDecreto número 4741 de 2005\n\nDecreto 1299 de 2008 -Reglamenta departamento de gestión ambiental de empresas a nivel industrial estado\n\nDecreto 321 de 1999 - Adopta el Plan Nacional de Contingencia contra derrames de hidrocarburos, derivados y sustancias nocivas.\n\nNTC 4702 - 1 -Embalaje y Envases para Transporte de Mercancías Peligrosas Clase 1. Explosivos",
+   "- CONTINÚA EN LA SIGUIENTE PÁGINA -\n\n> Texto OCR de la imagen: DOG D\n\n## Ficha de datos de seguridad\n\nsegún Decreto 1496 de 2018 y Resolución 773 de 2021\n\n## 40030020 - SELLADOR INDUSTRIAL NITRO\n\n> Texto OCR de la imagen: DOGLKD\n\nEmisión: 24/03/2022\n\nRevisión: 5/10/2022\n\nVersión: 4 (sustituye a 3)\n\nSECCIÓN 8: CONTROLES DE EXPOSICIÓN/PROTECCIÓN PERSONAL (continúa)\n\nDado que el producto es una mezcla de diferentes materiales, la resistencia del material de los guantes no se puede calcular de antemano con total fiabilidad y por lo tanto tiene que ser controlados antes de su aplicación.\n\n## D.- Protección ocular y facial\n\n> Texto OCR de la imagen: otección obligatoria\n\n| Pictograma | EPP | Observaciones |\n|---|---|---|\n| Protección obligatoria de la cara | Pantalla facial | NORMATIVIDAD APLICABLE: NTC 1825, NTC 1826 y ANSI Z87.1. Limpiar a diario y desinfectar periódicamente de acuerdo a las instrucciones del fabricante. Se recomienda su uso en caso de riesgo de salpicaduras. |\n\n## E.- Protección corporal",
+   "Portal global de información sobre sustancias químicas - e-CHEM-PORTAL. Sistema de información sobre sustancias peligrosas-GESTIS. Agencia Internacional para la Investigación del Cáncer-IARC. Instituto Colombiano de Normas Técnicas y Certificación (ICONTEC).\n\n## Abreviaturas y acrónimos:\n\n## Ficha de datos de seguridad\n\nsegún Decreto 1496 de 2018 y Resolución 773 de 2021\n\n## 40030020 - SELLADOR INDUSTRIAL NITRO\n\nEmisión: 24/03/2022\n\nRevisión: 5/10/2022\n\nVersión: 4 (sustituye a 3)\n\nSECCIÓN 16: OTRAS INFORMACIONES (continúa)\n\nIMDG: Código Marítimo Internacional de Mercancías Peligrosas\n\nIATA: Asociación Internacional de Transporte Aéreo\n\nOACI: Organización de Aviación Civil Internacional\n\nDQO: Demanda Química de Oxígeno\n\nDBO5: Demanda Biológica de Oxígeno a los 5 días\n\nBCF: Factor de bioconcentración\n\nDL50: Dosis Letal 50\n\nCL50: Concentración Letal 50\n\nEC50: Concentración Efectiva 50\n\nLog POW: Logaritmo Coeficiente Partición Octanol-Agua\n\nKoc: Coeficiente de Partición del Carbono Orgánico\n\nIARC: Centro Internacional de Investigaciones sobre el Cáncer\n\n> Texto OCR de la imagen: ( Pintuland"
+  ],
+  "response": "14.1 Número ONU: UN1263 [1]",
+  "reference": "El número ONU es UN1263.",
+  "sources": [
+   {
+    "n": 1,
+    "fabricante": "QUIMICA COSMOS S.A",
+    "producto": "40030020 - SELLADOR INDUSTRIAL NITRO",
+    "documento": "FDS 66 - 40030020 - SELLADOR INDUSTRIAL NITRO.pdf",
+    "paginas": "15-16",
+    "seccion": "14. Informacion relativa al transporte",
+    "chunk_id": "FDS_066_s14_02"
+   }
+  ],
+  "retrieved": [
+   {
+    "n": 1,
+    "chunk_id": "FDS_066_s14_02",
+    "puntaje": 0.03252
+   },
+   {
+    "n": 2,
+    "chunk_id": "FDS_066_s14_01",
+    "puntaje": 0.03252
+   },
+   {
+    "n": 3,
+    "chunk_id": "FDS_066_s16_06",
+    "puntaje": 0.03126
+   },
+   {
+    "n": 4,
+    "chunk_id": "FDS_066_s15_01",
+    "puntaje": 0.02986
+   },
+   {
+    "n": 5,
+    "chunk_id": "FDS_066_s08_06",
+    "puntaje": 0.02971
+   },
+   {
+    "n": 6,
+    "chunk_id": "FDS_066_s16_05",
+    "puntaje": 0.02878
+   }
+  ],
+  "documentos_esperados": [
+   "FDS_066"
+  ],
+  "modelo": "qwen2.5:3b",
+  "segundos": 393.0,
+  "ragas": {
+   "faithfulness": {
+    "estado": "valido",
+    "valor": 0.0
+   },
+   "context_precision": {
+    "estado": "valido",
+    "valor": 1.0
+   },
+   "context_recall": {
+    "estado": "valido",
+    "valor": 1.0
+   }
+  },
+  "evaluador": "qwen2.5:3b",
+  "deterministas": {
+   "doc_recall": 1.0,
+   "ref_en_contextos": 1.0,
+   "resp_cubre_ref": 1.0,
+   "resp_apoyada": 1.0,
+   "citas_en_doc_esperado": 1.0
+  }
+ },
+ {
+  "id": "Q06",
+  "tipo": "directa",
+  "top_k": 6,
+  "user_input": "¿Cuáles son la temperatura máxima y el tiempo máximo de almacenamiento del Esmalte Maestro de Pinturas Bler?",
+  "retrieved_contexts": [
+   "C.- Recomendaciones técnicas para prevenir riesgos ergonómicos y toxicológicos. LAS MUJERES EMBARAZADAS NO DEBEN EXPONERSE A ESTE PRODUCTO. Manipular en lugares fijos que reúnan las debidas condiciones de seguridad (duchas de emergencia y lavaojos en las proximidades), empleando equipos de protección personal, en especial de cara y manos (ver sección 8 de la FDS). Limitar los trasvases manuales a recipientes de pequeñas cantidad. No comer, beber ni fumar en las zonas de trabajo\n\n- D.- Recomendaciones técnicas para prevenir riesgos medioambientales\n\nDebido a la peligrosidad de este producto para el medio ambiente se recomienda manipularlo dentro de un área que disponga de barreras de control de la contaminación en caso de vertido, así como disponer de material absorbente en las proximidades del mismo\n\n## 7.2 Condiciones de almacenamiento seguro, incluidas cualesquiera incompatibilidades:\n\n- A.- Requisitos de almacenamiento específicos\n- B.- Condiciones generales de almacenamiento.\n\nTemperatura mínima: 4 ºC\n\nTemperatura máxima: 35 ºC\n\nTiempo máximo:\n\n12 meses\n\nEvitar fuentes de calor, radiación, electricidad estática y el contacto con alimentos. Para información adicional ver epígrafe 10.5\n\n## Ficha de datos de seguridad\n\nsegún Decreto 1496 de 2018 y Resolución 773 de 2021\n\n## BARNIZ SOLAR\n\nEmisión: 31/08/2020\n\nRevisión: 23/09/2025\n\nVersión: 3 (sustituye a 2)\n\nSECCIÓN 7: MANIPULACIÓN Y ALMACENAMIENTO (continúa)\n\n## 7.3 Usos específicos finales:",
+   "Evitar la entrada del producto en desagües, alcantarillados o corrientes de agua. Absorber el vertido mediante arena o absorbente inerte y trasladarlo a un lugar seguro. No absorber en serrín u otros absorbentes combustibles. Recoger el producto en recipientes adecuados y gestionarlo de acuerdo a legislación vigente.\n\nVertidos en agua o mar:\n\nPequeños vertidos:\n\nContener el derrame con barreras o equipos similares. Utilice absorbentes adecuados para su recogida y trate el residuo de acuerdo a la legislación vigente.\n\nGrandes vertidos:\n\nSi es posible, contenga el vertido en aguas abiertas mediante barreras u otros equipos similares. Si no es posible, procure controlar su extensión y recoja el producto con medios mecánicos adecuados. Consulte siempre a expertos antes de utilizar dispersantes y asegúrese de que dispone de las autorizaciones necesarias si se van a utilizar. Trate el residuo de acuerdo a la legislación vigente.\n\nTemperatura mínima: 4 ºC\n\nTemperatura máxima: 35 ºC\n\nTiempo máximo:\n\n12 meses\n\nCOPIA CONTROLADA 6.4 Referencias a otras secciones: Ver secciones 8 y 13.",
+   "SECCIÓN 10: ESTABILIDAD Y REACTIVIDAD\n\n## 10.1 Reactividad:\n\nNo se esperan reacciones peligrosas si se cumplen las instrucciones técnicas de almacenamiento de productos químicos. Ver sección 7 de la FDS para mayor información.\n\n## 10.2 Estabilidad química:\n\nEstable químicamente bajo las condiciones indicadas de almacenamiento, manipulación y uso.\n\n## 10.3 Posibilidad de reacciones peligrosas:\n\nCOPIA CONTROLADA 41 ºC No relevante * 230 ºC No relevante * No relevante * No relevante * No relevante * No relevante * No relevante * No relevante * No relevante * No relevante *\n\nBajo las condiciones indicadas no se esperan reacciones peligrosas ni polimerización peligrosa que puedan producir una presión o temperaturas excesivas.\n\n## 10.4 Condiciones que deben evitarse:\n\nAplicables para manipulación y almacenamiento a temperatura ambiente:\n\n| Choque y fricción | Contacto con el aire | Calentamiento | Luz Solar | Humedad |\n|---|---|---|---|---|\n| No aplicable | No aplicable | Riesgo de inflamación | Evitar incidencia directa | No aplicable |\n\n## 10.5 Materiales incompatibles:\n\n| Ácidos | Agua | Materias comburentes | Materias combustibles | Otros |\n|---|---|---|---|---|\n| Evitar ácidos fuertes | No aplicable | Evitar | No aplicable | Evitar álcalis o bases fuertes |\n\n## 10.6 Productos de descomposición peligrosos:\n\nFicha de datos de seguridad\n\n## ESMALTE MAESTRO\n\nEmisión: 27/05/2020\n\nRevisión: 19/05/2025\n\nVersión: 2 (sustituye a 1)\n\nSECCIÓN 10: ESTABILIDAD Y REACTIVIDAD (continúa)",
+   "C.- Recomendaciones técnicas para prevenir riesgos ergonómicos y toxicológicos. LAS MUJERES EMBARAZADAS NO DEBEN EXPONERSE A ESTE PRODUCTO. Manipular en lugares fijos que reúnan las debidas condiciones de seguridad (duchas de emergencia y lavaojos en las proximidades), empleando equipos de protección personal, en especial de cara y manos (ver sección 8 de la FDS). Limitar los trasvases manuales a recipientes de pequeñas cantidad. No comer, beber ni fumar en las zonas de trabajo lavarse las manos después de cada utilización, y despojarse de prendas de vestir y equipos de protección contaminados antes de entrar en las zonas para comer. D.- Recomendaciones técnicas para prevenir riesgos medioambientales Debido a la peligrosidad de este producto para el medio ambiente se recomienda manipularlo dentro de un área que disponga de barreras de control de la contaminación en caso de vertido, así como disponer de material absorbente en las proximidades del mismo 7.2 Condiciones de almacenamiento seguro, incluidas cualesquiera incompatibilidades: A.- Requisitos de almacenamiento específicos\n\n- B.- Condiciones generales de almacenamiento.\n\nEvitar fuentes de calor, radiación, electricidad estática y el contacto con alimentos. Para información adicional ver epígrafe 10.5\n\n## 7.3 Usos específicos finales:\n\nSalvo las indicaciones ya especificadas no es preciso realizar ninguna recomendación especial en cuanto a los usos de este producto.",
+   "SECCIÓN 9: PROPIEDADES FÍSICAS Y QUÍMICAS Y CARACTERÍSTICAS DE SEGURIDAD (continúa)\n\npH:\n\nNo relevante *\n\nDensidad de vapor a 25 ºC:\n\nNo relevante *\n\nCoeficiente de reparto n-octanol/agua a 25 ºC:\n\nNo relevante *\n\nSolubilidad en agua a 25 ºC:\n\nNo relevante *\n\nPropiedad de solubilidad:\n\nNo relevante *\n\nTemperatura de descomposición:\n\nNo relevante *\n\nPunto de fusión/punto de congelación:\n\nNo relevante *\n\n## Inflamabilidad:\n\nPunto de inflamación:\n\nInflamabilidad (sólido, gas):\n\nTemperatura de auto-inflamación:\n\nLímite de inflamabilidad inferior:\n\nLímite de inflamabilidad superior:\n\n## Características de las partículas:\n\nDiámetro medio equivalente:\n\n## 9.2 Información adicional:\n\n## Información relativa a las clases de peligro físico:\n\nPropiedades explosivas:\n\nPropiedades comburentes:\n\nCorrosivos para los metales:\n\nCalor de combustión:\n\nAerosoles-porcentaje total (en masa) de componentes inflamables: No relevante *\n\n## Otras características de seguridad:\n\nTensión superficial a 25 ºC:\n\nÍndice de refracción:\n\n*No relevante debido a la naturaleza del producto, no aportando información característica de su peligrosidad.",
+   "SECCIÓN 10: ESTABILIDAD Y REACTIVIDAD\n\n## 10.1 Reactividad:\n\nNo se esperan reacciones peligrosas si se cumplen las instrucciones técnicas de almacenamiento de productos químicos. Ver sección 7 de la FDS para mayor información.\n\n## 10.2 Estabilidad química:\n\nEstable químicamente bajo las condiciones indicadas de almacenamiento, manipulación y uso.\n\n## 10.3 Posibilidad de reacciones peligrosas:\n\nBajo las condiciones indicadas no se esperan reacciones peligrosas ni polimerización peligrosa que puedan producir una presión o temperaturas excesivas.\n\n## 10.4 Condiciones que deben evitarse:\n\nAplicables para manipulación y almacenamiento a temperatura ambiente:\n\n| Choque y fricción | Contacto con el aire | Calentamiento | Luz Solar | Humedad |\n|---|---|---|---|---|\n| No aplicable | No aplicable | Riesgo de inflamación | Evitar incidencia directa | No aplicable |\n\nCOPIA CONTROLADA 230 ºC No relevante * No relevante * No relevante * No relevante * No relevante * No relevante * No relevante *\n\n## Ficha de datos de seguridad\n\nsegún Decreto 1496 de 2018 y Resolución 773 de 2021\n\n## BARNIZ SOLAR\n\nEmisión: 31/08/2020\n\nRevisión: 23/09/2025\n\nVersión: 3 (sustituye a 2)\n\nSECCIÓN 10: ESTABILIDAD Y REACTIVIDAD (continúa)\n\n## 10.5 Materiales incompatibles:\n\n| Ácidos | Agua | Materias comburentes | Materias combustibles | Otros |\n|---|---|---|---|---|\n| Evitar ácidos fuertes | No aplicable | Evitar | No aplicable | Evitar álcalis o bases fuertes |\n\n## 10.6 Productos de descomposición peligrosos:"
+  ],
+  "response": "Temperatura máxima: 35 ºC [2][3]",
+  "reference": "La temperatura máxima de almacenamiento es 35 ºC (la mínima es 4 ºC) y el tiempo máximo es 12 meses.",
+  "sources": [
+   {
+    "n": 2,
+    "fabricante": "Bler",
+    "producto": "ESMALTE MAESTRO",
+    "documento": "FDS 100 - Esmalte maestro. Bler.pdf",
+    "paginas": "4",
+    "seccion": "6. Medidas en caso de vertido accidental",
+    "chunk_id": "FDS_100_s06_03"
+   },
+   {
+    "n": 3,
+    "fabricante": "Bler",
+    "producto": "ESMALTE MAESTRO",
+    "documento": "FDS 100 - Esmalte maestro. Bler.pdf",
+    "paginas": "7-8",
+    "seccion": "10. Estabilidad y reactividad",
+    "chunk_id": "FDS_100_s10_01"
+   }
+  ],
+  "retrieved": [
+   {
+    "n": 1,
+    "chunk_id": "FDS_101_s07_02",
+    "puntaje": 0.03279
+   },
+   {
+    "n": 2,
+    "chunk_id": "FDS_100_s06_03",
+    "puntaje": 0.03226
+   },
+   {
+    "n": 3,
+    "chunk_id": "FDS_100_s10_01",
+    "puntaje": 0.03077
+   },
+   {
+    "n": 4,
+    "chunk_id": "FDS_100_s07_02",
+    "puntaje": 0.02976
+   },
+   {
+    "n": 5,
+    "chunk_id": "FDS_100_s09_02",
+    "puntaje": 0.02964
+   },
+   {
+    "n": 6,
+    "chunk_id": "FDS_101_s10_01",
+    "puntaje": 0.02944
+   }
+  ],
+  "documentos_esperados": [
+   "FDS_100"
+  ],
+  "modelo": "qwen2.5:3b",
+  "segundos": 558.7,
+  "ragas": {
+   "faithfulness": {
+    "estado": "valido",
+    "valor": 0.5
+   },
+   "context_precision": {
+    "estado": "valido",
+    "valor": 1.0
+   },
+   "context_recall": {
+    "estado": "valido",
+    "valor": 1.0
+   }
+  },
+  "evaluador": "qwen2.5:3b",
+  "deterministas": {
+   "doc_recall": 1.0,
+   "ref_en_contextos": 1.0,
+   "resp_cubre_ref": 0.333,
+   "resp_apoyada": 1.0,
+   "citas_en_doc_esperado": 1.0
+  }
+ },
+ {
+  "id": "Q07",
+  "tipo": "comparativa",
+  "top_k": 6,
+  "user_input": "¿Cuál tiene mayor punto de inflamación: el Esmalte Maestro de Pinturas Bler o el Esmalte Metal Master Premium de Corona?",
+  "retrieved_contexts": [
+   "Densidad de vapor a 20 ºC:\n\nNo relevante *\n\nCoeficiente de reparto n-octanol/agua a 20 ºC:\n\nNo relevante *\n\nSolubilidad en agua a 20 ºC:\n\nNo relevante *\n\nPropiedad de solubilidad:\n\nNo relevante *\n\nTemperatura de descomposición:\n\nNo relevante *\n\nPunto de fusión/punto de congelación:\n\nNo relevante *\n\n## Inflamabilidad:\n\nPunto de inflamación:\n\n60 ºC\n\nInflamabilidad (sólido, gas):\n\nNo relevante *\n\nTemperatura de auto-inflamación:\n\n200 ºC\n\nLímite de inflamabilidad inferior:\n\nNo relevante *\n\nLímite de inflamabilidad superior:\n\nNo relevante *\n\n## Características de las partículas:\n\nDiámetro medio equivalente:\n\nNo relevante *\n\n## 9.2 Información adicional:\n\n## Información relativa a las clases de peligro físico:\n\nPropiedades explosivas:\n\nNo relevante *\n\nPropiedades comburentes:\n\nNo relevante *\n\nCorrosivos para los metales:\n\nNo relevante *\n\nCalor de combustión:\n\nNo relevante *\n\nAerosoles-porcentaje total (en masa) de componentes inflamables:\n\nOtras características de seguridad:\n\nTensión superficial a 20 ºC:\n\nNo relevante *\n\nNo relevante *\n\nÍndice de refracción:\n\nNo relevante *\n\n*No relevante debido a la naturaleza del producto, no aportando información característica de su peligrosidad.",
+   "SECCIÓN 9: PROPIEDADES FÍSICAS Y QUÍMICAS Y CARACTERÍSTICAS DE SEGURIDAD (continúa)\n\npH:\n\nNo relevante *\n\nDensidad de vapor a 25 ºC:\n\nNo relevante *\n\nCoeficiente de reparto n-octanol/agua a 25 ºC:\n\nNo relevante *\n\nSolubilidad en agua a 25 ºC:\n\nNo relevante *\n\nPropiedad de solubilidad:\n\nNo relevante *\n\nTemperatura de descomposición:\n\nNo relevante *\n\nPunto de fusión/punto de congelación:\n\nNo relevante *\n\n## Inflamabilidad:\n\nPunto de inflamación:\n\nInflamabilidad (sólido, gas):\n\nTemperatura de auto-inflamación:\n\nLímite de inflamabilidad inferior:\n\nLímite de inflamabilidad superior:\n\n## Características de las partículas:\n\nDiámetro medio equivalente:\n\n## 9.2 Información adicional:\n\n## Información relativa a las clases de peligro físico:\n\nPropiedades explosivas:\n\nPropiedades comburentes:\n\nCorrosivos para los metales:\n\nCalor de combustión:\n\nAerosoles-porcentaje total (en masa) de componentes inflamables: No relevante *\n\n## Otras características de seguridad:\n\nTensión superficial a 25 ºC:\n\nÍndice de refracción:\n\n*No relevante debido a la naturaleza del producto, no aportando información característica de su peligrosidad.",
+   "## F.- Medidas complementarias de emergencia\n\nSe recomienda implementar equipos de emergencia adicionales en lugares de trabajo que estén particularmente expuestos al producto o en situaciones donde las evaluaciones de riesgos destaquen la necesidad de dicho equipos.\n\n| Medida de emergencia | Normas | Medida de emergencia | Normas |\n|---|---|---|---|\n| Ducha de emergencia | ANSI Z358-1 ISO 3864-1:2011, ISO 3864-4:2011 | Lavaojos | DIN 12 899 ISO 3864-1:2011, ISO 3864-4:2011 |\n\n## Controles de la exposición del medio ambiente:\n\nSe recomienda evitar el vertido tanto del producto como de su envase al medio ambiente. Para información adicional ver epígrafe 7.1.D de la FDS.\n\nNTC 6018- Etiquetas ambientales tipo I. Sello ambiental colombiano. Criterios ambientales para pinturas y materiales de recubrimiento (determinados teóricamente conforme al ASTM D6886):\n\nCompuestos orgánicos volátiles: 49,22 % peso\n\nConcentración C.O.V. a 25 ºC:",
+   "COPIA CONTROLADA En caso de exposición repetitiva, prolongada o a concentraciones superiores a las establecidas por los límites de exposición profesionales, pueden producirse efectos adversos para la salud en función de la vía de exposición: A- Ingestión (efecto agudo): - Toxicidad aguda: A la vista de los datos disponibles, no se cumplen los criterios de clasificación, sin embargo, presenta sustancias clasificadas como peligrosas por ingestión. Para más información ver sección 3 de la FDS. - Corrosividad/Irritabilidad: La ingesta de una dosis considerable puede originar irritación de garganta, dolor abdominal, náuseas y vómitos. B- Inhalación (efecto agudo): - Toxicidad aguda: A la vista de los datos disponibles, no se cumplen los criterios de clasificación, no presentando sustancias clasificadas como peligrosas por inhalación. Para más información ver sección 3 de la FDS. - Corrosividad/Irritabilidad: En caso de inhalación prolongada el producto es destructivo para los tejidos de las membranas mucosas y las vías respiratorias superiores C- Contacto con la piel y los ojos (efecto agudo): - Contacto con la piel: Produce inflamación cutánea. - Contacto con los ojos: Produce lesiones oculares importantes tras contacto. D- Efectos CMR (carcinogenicidad, mutagenicidad y toxicidad para la reproducción): - Carcinogenicidad: La exposición a este producto puede causar cáncer. Para más información sobre posibles efectos específicos sobre la salud ver sección 2 de la FDS. IARC:",
+   "SECCIÓN 4: PRIMEROS AUXILIOS\n\nCOPIA CONTROLADA\n\n## 4.1 Descripción de los primeros auxilios necesarios:\n\nLos síntomas como consecuencia de una intoxicación pueden presentarse con posterioridad a la exposición, por lo que, en caso de duda, exposición directa al producto químico o persistencia del malestar solicitar atención médica, mostrándole la FDS de este producto.\n\n## Por inhalación:\n\nSacar al afectado del lugar de exposición, suministrarle aire limpio y mantenerlo en reposo. En casos graves como parada cardiorespiratoria, se aplicarán técnicas de respiración artificial si se tiene la formación adecuada (masaje cardíaco, suministro de oxígeno, etc.) requiriendo asistencia médica inmediata.\n\n## Por contacto con la piel:\n\nQuitar la ropa y los zapatos contaminados, aclarar la piel o duchar al afectado si procede con abundante agua fría y jabón neutro. En caso de afección importante acudir al médico. Si el producto produce quemaduras o congelación, no se debe quitar la ropa debido a que podría empeorar la lesión producida si esta se encuentra pegada a la piel. En el caso de formarse ampollas en la piel, éstas nunca deben reventarse ya que aumentaría el riesgo de infección.\n\nFicha de datos de seguridad\n\nsegún Decreto 1496 de 2018 y Resolución 773 de 2021\n\n## ESMALTE MAESTRO\n\nEmisión: 27/05/2020\n\nRevisión: 19/05/2025\n\nVersión: 2 (sustituye a 1)\n\nSECCIÓN 4: PRIMEROS AUXILIOS (continúa)\n\n## Por contacto con los ojos:",
+   "SECCIÓN 10: ESTABILIDAD Y REACTIVIDAD\n\n## 10.1 Reactividad:\n\nNo se esperan reacciones peligrosas si se cumplen las instrucciones técnicas de almacenamiento de productos químicos. Ver sección 7 de la FDS para mayor información.\n\n## 10.2 Estabilidad química:\n\nEstable químicamente bajo las condiciones indicadas de almacenamiento, manipulación y uso.\n\n## 10.3 Posibilidad de reacciones peligrosas:\n\nCOPIA CONTROLADA 41 ºC No relevante * 230 ºC No relevante * No relevante * No relevante * No relevante * No relevante * No relevante * No relevante * No relevante * No relevante *\n\nBajo las condiciones indicadas no se esperan reacciones peligrosas ni polimerización peligrosa que puedan producir una presión o temperaturas excesivas.\n\n## 10.4 Condiciones que deben evitarse:\n\nAplicables para manipulación y almacenamiento a temperatura ambiente:\n\n| Choque y fricción | Contacto con el aire | Calentamiento | Luz Solar | Humedad |\n|---|---|---|---|---|\n| No aplicable | No aplicable | Riesgo de inflamación | Evitar incidencia directa | No aplicable |\n\n## 10.5 Materiales incompatibles:\n\n| Ácidos | Agua | Materias comburentes | Materias combustibles | Otros |\n|---|---|---|---|---|\n| Evitar ácidos fuertes | No aplicable | Evitar | No aplicable | Evitar álcalis o bases fuertes |\n\n## 10.6 Productos de descomposición peligrosos:\n\nFicha de datos de seguridad\n\n## ESMALTE MAESTRO\n\nEmisión: 27/05/2020\n\nRevisión: 19/05/2025\n\nVersión: 2 (sustituye a 1)\n\nSECCIÓN 10: ESTABILIDAD Y REACTIVIDAD (continúa)"
+  ],
+  "response": "El punto de inflamación de Esmalte Maestro de Pinturas Bler es 60 ºC [1]. El punto de inflamación de Esmalte Metal Master Premium de Corona no está especificado en los datos de seguridad recuperados.",
+  "reference": "El Esmalte Metal Master Premium de Corona tiene el mayor punto de inflamación (60 ºC) frente a 41 ºC del Esmalte Maestro de Bler.",
+  "sources": [
+   {
+    "n": 1,
+    "fabricante": "Corona",
+    "producto": "ESMALTE METAL MASTER PREMIUM",
+    "documento": "FDS 94 - ESMALTE METAL MASTER PREMIUM - CORONA.pdf",
+    "paginas": "7",
+    "seccion": "9. Propiedades fisicas y quimicas",
+    "chunk_id": "FDS_094_s09_02"
+   }
+  ],
+  "retrieved": [
+   {
+    "n": 1,
+    "chunk_id": "FDS_094_s09_02",
+    "puntaje": 0.03252
+   },
+   {
+    "n": 2,
+    "chunk_id": "FDS_100_s09_02",
+    "puntaje": 0.03227
+   },
+   {
+    "n": 3,
+    "chunk_id": "FDS_100_s08_05",
+    "puntaje": 0.02921
+   },
+   {
+    "n": 4,
+    "chunk_id": "FDS_100_s11_02",
+    "puntaje": 0.02803
+   },
+   {
+    "n": 5,
+    "chunk_id": "FDS_100_s04_01",
+    "puntaje": 0.02742
+   },
+   {
+    "n": 6,
+    "chunk_id": "FDS_100_s10_01",
+    "puntaje": 0.02739
+   }
+  ],
+  "documentos_esperados": [
+   "FDS_094",
+   "FDS_100"
+  ],
+  "modelo": "qwen2.5:3b",
+  "segundos": 417.4,
+  "ragas": {
+   "faithfulness": {
+    "estado": "valido",
+    "valor": 1.0
+   },
+   "context_precision": {
+    "estado": "valido",
+    "valor": 0.0
+   },
+   "context_recall": {
+    "estado": "valido",
+    "valor": 1.0
+   }
+  },
+  "evaluador": "qwen2.5:3b",
+  "deterministas": {
+   "doc_recall": 1.0,
+   "ref_en_contextos": 1.0,
+   "resp_cubre_ref": 0.5,
+   "resp_apoyada": 1.0,
+   "citas_en_doc_esperado": 1.0
+  }
+ },
+ {
+  "id": "Q08",
+  "tipo": "comparativa",
+  "top_k": 6,
+  "user_input": "Entre el Sigmadur One Buff 3142 y el Dimetcote 302H Green Resin, ambos de PPG, ¿cuál tiene el punto de inflamación más bajo y cuáles son los valores?",
+  "retrieved_contexts": [
+   "## Sección 9. Propiedades físicas y químicas\n\n## Apariencia\n\nEstado físico :\n\nColor\n\n:\n\nOlor :\n\npH :\n\nPunto de fusión :\n\nPunto de ebullición Líquido.\n\nAmarillo.\n\nAromático.\n\nNo aplicable.\n\nNo disponible.\n\n: >37.78°C (>100°F)\n\nPunto de inflamación :\n\nVelocidad de evaporación :\n\nVaso cerrado: 43°C (109.4°F)\n\nNo disponible.\n\nInflamabilidad (sólido o gas) : No disponible.\n\nLímites máximo y mínimo\n\n: No disponible.\n\nde explosión (inflamabilidad)\n\nPresión de vapor :\n\nDensidad de vapor :\n\nDensidad relativa :\n\nSolubilidad :\n\nCoeficiente de partición: noctanol/agua :\n\nTemperatura de ignición :\n\nespontánea\n\nTemperatura de\n\n: No disponible.\n\ndescomposición\n\nViscosidad :\n\nCinemática (40°C (104°F)): >21 mm 2 /s (>21 cSt)\n\nNo disponible.\n\nNo disponible.\n\n1.12\n\nInsoluble en los siguientes materiales: agua fría.\n\nNo aplicable.\n\nNo disponible.",
+   "## Sección 9. Propiedades físicas y químicas\n\n## Apariencia\n\nEstado físico :\n\nColor :\n\nOlor\n\n:\n\npH :\n\nPunto de fusión :\n\nPunto de ebullición Líquido.\n\nVerde.\n\nCaracterístico.\n\nNo aplicable.\n\nNo disponible.\n\n: >37.78°C (>100°F)\n\nPunto de inflamación :\n\nVaso cerrado: 37°C (98.6°F)\n\nVelocidad de evaporación :\n\n0.46 (aetato de butilo = 1)\n\nInflamabilidad (sólido o gas) : No disponible.\n\nLímites máximo y mínimo\n\nde explosión\n\n(inflamabilidad)\n\nPresión de vapor :\n\nDensidad de vapor :\n\nDensidad relativa :\n\nSolubilidad :\n\nAgua Solubilidad a\n\ntemperatura ambiente\n\n0.4 kPa (3 mm Hg)\n\nNo disponible.\n\n2.47\n\nInsoluble en los siguientes materiales: agua fría.\n\n: 0.1 g/l\n\n: No disponible.\n\n## Sección 9. Propiedades físicas y químicas\n\nCoeficiente de partición: n-\n\n:\n\noctanol/agua\n\nTemperatura de ignición :\n\nespontánea\n\nTemperatura de\n\n: No disponible.\n\ndescomposición\n\nViscosidad :\n\nCinemática (40°C (104°F)): >21 mm 2 /s (>21 cSt)\n\nNo aplicable.\n\nNo disponible.",
+   "No existen datos disponibles sobre la mezcla en sí. Un gran número de productos PPG hacen uso del TiO2 como materia prima en la formulación de recubrimientos líquidos. En este caso, las partículas de TiO2 están incorporadas en una matriz y el potencial de exposición humana a partículas libres de TiO2 no es significativo cuando el producto se aplica con brocha o rodillo. El lijado de una superficie recubierta o la brisa de aplicación por aspersión pueden ser dañinos dependiendo de la duración y el nivel de exposición por lo que se requiere el uso de equipo de protección personal apropiado y/o controles de ingeniería (ver Sección 8). La exposición a concentraciones de vapores de disolventes superiores a los límites de exposición ocupacional establecidos puede producir irritación de las mucosas y del aparato respiratorio, y efectos adversos sobre los riñones, el hígado y el sistema nervioso central. Los signos y síntomas pueden ser dolor de cabeza, mareo, fatiga, debilidad muscular, somnolencia y en casos extremos, pérdida de consciencia. Los disolventes pueden causar algunos de los efectos anteriores por absorción a través de la piel. Hay evidencias de que la repetida sobreexposición a vapores de solventes orgánicos y ruido fuerte constante pueden ocasionar una pérdida auditiva mayor de la esperada que la exposición únicamente al ruido. El contacto del líquido con los ojos puede causar irritación y lesiones reversibles. La ingestión puede causar náuseas, diarrea y vómitos.",
+   "## Sección 12. Información ecotoxicológica\n\n## Toxicidad\n\n| Nombre del producto o ingrediente | Resultado | Especies | Exposición |\n|---|---|---|---|\n| Dióxido de titanio ácido 2-etilhexanoico, sal de circonio nafta disolvente (petróleo), fracción aromática pesada Etilbenceno | Agudo CL50 >100 mg/l Agua fresca Agudo CL50 >100 mg/l NOEL 0.48 mg/l Agua fresca Agudo EC50 1.8 mg/l Agua fresca Crónico NOEC 1 mg/l Agua fresca | Dafnia - Daphnia magna Pez Dafnia Dafnia Dafnia - Ceriodaphnia dubia | 48 horas 96 horas 21 días 48 horas - |\n\n## Persistencia y degradabilidad\n\n| Nombre del producto o ingrediente | Prueba | Resultado | Resultado | Dosis | Dosis | Inóculo |\n|---|---|---|---|---|---|---|\n| Etilbenceno | - | 79 % - Fácil - 10 días | 79 % - Fácil - 10 días | - | - | - |\n| Nombre del producto o ingrediente | Período acuático | Período acuático | Fotólisis | Fotólisis | Biodegradabilidad | Biodegradabilidad |\n| Etilbenceno | - | - | - | - | Fácil | Fácil |\n\n## Potencial de bioacumulación\n\n| Nombre del producto o ingrediente | LogPow | FBC | Potencial |\n|---|---|---|---|\n| Disolvente Stoddard nafta disolvente (petróleo), fracción aromática pesada butanona-oxima Etilbenceno | 3.16 a 7.06 2.8 a 6.5 0.63 3.6 | - - 5.01 79.43 | alta alta bajo bajo |\n\n## Movilidad en el suelo\n\n| Spanish (MX) | Colombia | 13/15 |\n|---|---|---|\n\n## Sección 12. Información ecotoxicológica\n\nCoeficiente de partición\n\n: No disponible.\n\ntierra/agua (KOC)\n\nOtros efectos adversos :",
+   "| Procedimientos de control recomendados | : | Si este producto contiene ingredientes con límites de exposición, puede ser necesaria la supervisión personal, del ambiente de trabajo o biológica para determinar la efectividad de la ventilación o de otras medidas de control y/o la necesidad de usar equipo respiratorio protector. Se debe hacer referencia a las normas adecuadas de monitoreo. También se requiere hacer referencia a los documentos guía nacionales sobre los métodos para la determinación de sustancias peligrosas. |\n|---|---|---|\n| Protección del cuerpo | : | Antes de utilizar este producto se debe seleccionar equipo protector personal para el cuerpo basándose en la tarea a ejecutar y los riesgos involucrados y debe ser aprobado por un especialista. Cuando existe riesgo de ignición debido a la electricidad estática, se requiere el uso de ropa antiestática de protección. Para obtener el máximo nivel de protección contra descargas electrostáticas es preciso usar overoles, botas y guantes antiestáticos. |\n| Otro tipo de protección para la piel | : | Antes de manipular este producto se debe elegir el calzado apropiado y cualquier otra medida adicional de protección de la piel basadas en la tarea que se realice y los riesgos asociados, para lo cual se contará con la aprobación de un especialista. |\n\n## Sección 8. Controles de exposición / protección personal\n\n## Protección de las vías respiratorias",
+   "Materiales tal como trapos de limpieza, toallas de papel y ropa de protección que estén contaminados con el producto puede encenderse espontáneamente unas horas más tarde. Para evitar los riesgos de fuego, todos los materiales contaminados se deben almacenar en recipientes construidos con ese propósito o en recipientes de metal con tapas ajustadas y que se cierran solas. Los materiales contaminados deben de ser sacados del ambiente de trabajo al final de cada día y ser almacenados afuera.\n\n- Almacénese en el siguiente rango de temperatura: 0 a 35°C (32 a 95°F). Conservar de acuerdo con las normas locales. Almacenar en un área separada y homologada. Almacenar en el contenedor original protegido de la luz directa del sol en un área seca, fresca y bien ventilada, separado de materiales incompatibles (ver Sección 10) y comida y bebida. Guardar bajo llave. Eliminar todas las fuentes de ignición. Mantener separado de materiales oxidantes. Mantener el contenedor bien cerrado y sellado hasta el momento de usarlo. Los envases que han sido abiertos deben cerrarse cuidadosamente y mantenerse en posición vertical para evitar derrames. No almacenar en contenedores sin etiquetar. Utilícese un envase de seguridad adecuado para evitar la contaminación del medio ambiente. Consulte la Sección 10 para obtener información acerca de los materiales no compatibles previo al manejo o uso. :\n\n## Condiciones de almacenamiento seguro, incluida cualquier incompatibilidad"
+  ],
+  "response": "El punto de inflamación de SIGMADUR ONE BUFF 3142 es 37°C [2]",
+  "reference": "El Dimetcote 302H Green Resin tiene el punto de inflamación más bajo: 37 °C (vaso cerrado), frente a 43 °C (vaso cerrado) del Sigmadur One Buff 3142.",
+  "sources": [
+   {
+    "n": 2,
+    "fabricante": "PPG",
+    "producto": "DIMETCOTE 302H GREEN RESIN",
+    "documento": "FDS 47 - DIMETCOTE 302H GREEN RESIN - PPG.pdf",
+    "paginas": "7-8",
+    "seccion": "9. Propiedades fisicas y quimicas",
+    "chunk_id": "FDS_047_s09_01"
+   }
+  ],
+  "retrieved": [
+   {
+    "n": 1,
+    "chunk_id": "FDS_065_s09_01",
+    "puntaje": 0.03279
+   },
+   {
+    "n": 2,
+    "chunk_id": "FDS_047_s09_01",
+    "puntaje": 0.02847
+   },
+   {
+    "n": 3,
+    "chunk_id": "FDS_065_s11_07",
+    "puntaje": 0.02792
+   },
+   {
+    "n": 4,
+    "chunk_id": "FDS_065_s12_01",
+    "puntaje": 0.02667
+   },
+   {
+    "n": 5,
+    "chunk_id": "FDS_065_s08_05",
+    "puntaje": 0.02667
+   },
+   {
+    "n": 6,
+    "chunk_id": "FDS_065_s07_03",
+    "puntaje": 0.02629
+   }
+  ],
+  "documentos_esperados": [
+   "FDS_047",
+   "FDS_065"
+  ],
+  "modelo": "qwen2.5:3b",
+  "segundos": 569.1,
+  "ragas": {
+   "faithfulness": {
+    "estado": "valido",
+    "valor": 0.3333
+   },
+   "context_precision": {
+    "estado": "valido",
+    "valor": 1.0
+   },
+   "context_recall": {
+    "estado": "valido",
+    "valor": 1.0
+   }
+  },
+  "evaluador": "qwen2.5:3b",
+  "deterministas": {
+   "doc_recall": 1.0,
+   "ref_en_contextos": 0.5,
+   "resp_cubre_ref": 0.5,
+   "resp_apoyada": 1.0,
+   "citas_en_doc_esperado": 1.0
+  }
+ },
+ {
+  "id": "Q09",
+  "tipo": "comparativa",
+  "top_k": 6,
+  "user_input": "¿Los componentes Part A y Part B del Sikafloor-2430 tienen el mismo número ONU? Indica cuál es.",
+  "retrieved_contexts": [
+   "## SECCIÓN 14. INFORMACIÓN RELATIVA AL TRANSPORTE\n\n## Regulaciones internacionales\n\n## UNRTDG\n\nNúmero ONU\n\nDesignación oficial de trans-\n\nporte\n\nClase\n\n: UN 1263\n\n: PAINT\n\n(Epoxy resin solution 75%)\n\n: 3\n\n## FICHA DE DATOS DE SEGURIDAD\n\n## Sikafloor®-2430 Part A\n\nVersión 3.0\n\nNúmero de HDS: 100000030164\n\nFecha de revisión: 2023/08/15\n\nGrupo de embalaje :\n\nEtiquetas III\n\n: 3\n\nIATA-DGR\n\nNo. UN/ID\n\n: UN 1263\n\nDesignación oficial de transporte\n\nClase\n\n: Paint\n\n(Epoxy resin solution 75%)\n\n: 3\n\nGrupo de embalaje :\n\nIII\n\nEtiquetas\n\n: Flammable Liquids\n\nInstrucción de embalaje\n\n(avión de carga)\n\nInstrucción de embalaje\n\n(avión de pasajeros)\n\n## Código-IMDG\n\nNúmero ONU\n\n: 366\n\n: 355\n\n: UN 1263\n\nDesignación oficial de trans-\n\nporte\n\nClase\n\n: PAINT\n\n(Epoxy resin solution 75%)\n\n: 3\n\nGrupo de embalaje :\n\nIII\n\nEtiquetas\n\n: 3\n\nCódigo EmS\n\n: F-E, S-E\n\nContaminante marino\n\n: no\n\n## Transporte a granel de acuerdo a instrumentos IMO\n\nNo aplicable para el producto tal y como se proveyó.\n\n## Precauciones especiales para los usuarios\n\nLa(s) clasificación(es) de transporte presente(s) tienen solamente propósitos informativos y se basa(n) únicamente en las propiedades del material sin envasar/embalar, descritas dentro de esta Hoja de Datos de Seguridad. Las clasificaciones de transporte pueden variar según el modo de transporte, el tamaño del envase/embalaje y las variaciones en los reglamentos regionales o del país.",
+   "## SECCIÓN 14. INFORMACIÓN RELATIVA AL TRANSPORTE\n\n## Regulaciones internacionales\n\n## UNRTDG\n\nNúmero ONU\n\n: UN 1263\n\nDesignación oficial de trans-\n\nporte\n\nClase\n\n: PAINT RELATED MATERIAL\n\n: 3\n\nGrupo de embalaje :\n\nIII\n\nEtiquetas\n\n: 3\n\n## IATA-DGR\n\nNo. UN/ID\n\n: UN 1263\n\nDesignación oficial de trans-\n\nporte\n\nClase\n\n: Paint related material\n\n: 3\n\nGrupo de embalaje :\n\nIII\n\nEtiquetas\n\n: Flammable Liquids\n\nInstrucción de embalaje\n\n(avión de carga)\n\nInstrucción de embalaje\n\n(avión de pasajeros)\n\n## Código-IMDG\n\nNúmero ONU\n\n: UN 1263\n\nDesignación oficial de trans-\n\nporte\n\nClase\n\n: PAINT RELATED MATERIAL\n\n: 3\n\nGrupo de embalaje :\n\nIII\n\nEtiquetas\n\n: 3\n\nCódigo EmS\n\n: F-E, S-E\n\nContaminante marino\n\n: no\n\n## Transporte a granel de acuerdo a instrumentos IMO\n\nNo aplicable para el producto tal y como se proveyó.\n\n## Precauciones especiales para los usuarios\n\nLa(s) clasificación(es) de transporte presente(s) tienen solamente propósitos informativos y se basa(n) únicamente en las propiedades del material sin envasar/embalar, descritas dentro de esta Hoja de Datos de Seguridad. Las clasificaciones de transporte pueden variar según el modo de transporte, el tamaño del envase/embalaje y las variaciones en los reglamentos regionales o del país.",
+   "| Protección respiratoria | : | Utilice protección respiratoria a menos que exista una venti- lación de escape adecuada o que la evaluación de la exposi- ción indique que el nivel de exposición está dentro de las pautas recomendadas. La clase de filtro para el respirador debe ser adecuada para la concentración máxima prevista del contaminante (gas/vapor/aerosol/partículas) que puede presentarse al ma- nejar el producto. Si se excede esta concentración, se debe utilizar un aparato respiratorio autónomo. |\n|---|---|---|\n| Protección de las manos | : | Guantes químico-resistentes e impermeables que cumplan con estándares aprobados deben ser utilizados cuando se manejen productos químicos y la evaluación del riesgo indica que es necesario. |\n| Protección de los ojos | : | Equipo de protección ocular que cumpla con estándares aprobados debe ser utilizado cuando la evaluación del riesgo indica que es necesario. |\n| Protección de la piel y del cuerpo | : | Elegir la protección para el cuerpo según sus caraterísticas, la concentración y la cantidad de sustancias peligrosas, y el lugar específico de trabajo. |\n| Medidas de higiene | : | Manipúlelo con las precauciones de higiene industrial ade- cuadas, y respete las prácticas de seguridad. No coma ni beba durante su utilización. No fume durante su utilización. Lavarse las manos antes de los descansos y después de |\n\n## FICHA DE DATOS DE SEGURIDAD\n\n## Sikafloor®-2430 Part B\n\nVersión 3.0\n\nNúmero de HDS: 100000030203",
+   "## SECCIÓN 15. INFORMACIÓN REGLAMENTARIA\n\n## Reglamentación medioambiental, seguridad y salud específica para la sustancia o mezcla\n\nConvención Internacional sobre las Armas Químicas\n\n(CWC) Programas sobre los Productos Químicos Tó-\n\nxicos y los Precursores (Louisiana Administrative Co-\n\nde, Title 33,Part V Section 10101 et. seq.)\n\nSustancias y productos químicos controlados por el\n\nMinisterio de Justicia\n\nListado de Sustancias incluídas como Sustancias de\n\nControl Especial y Sometidas a Fiscalización por el\n\nMinisterio de Salud y Protección Social\n\n: No aplicable\n\n: xileno\n\n2-metilpropan-1-ol\n\n: No aplicable\n\n: 366\n\n: 355\n\n## FICHA DE DATOS DE SEGURIDAD\n\n## Sikafloor®-2430 Part B\n\nVersión 3.0\n\nNúmero de HDS: 100000030203\n\nFecha de revisión: 2023/08/15\n\nResolución 2715 de 2014 Por la cual se establecen las\n\nsustancias que deben ser objeto de registro de control\n\nde venta al menudeo, con base en los criterios de clasificación que se definen.\n\n: No aplicable",
+   "## SECCIÓN 15. INFORMACIÓN REGLAMENTARIA\n\n## Reglamentación medioambiental, seguridad y salud específica para la sustancia o mezcla\n\nConvención Internacional sobre las Armas Químicas\n\n(CWC) Programas sobre los Productos Químicos Tó-\n\nxicos y los Precursores (Louisiana Administrative Co-\n\nde, Title 33,Part V Section 10101 et. seq.)\n\nSustancias y productos químicos controlados por el\n\nMinisterio de Justicia\n\nListado de Sustancias incluídas como Sustancias de\n\nControl Especial y Sometidas a Fiscalización por el Ministerio de Salud y Protección Social\n\nResolución 2715 de 2014 Por la cual se establecen las\n\nsustancias que deben ser objeto de registro de control de venta al menudeo, con base en los criterios de clasificación que se definen.\n\n: No aplicable\n\n: xileno\n\n2-metilpropan-1-ol\n\ntolueno\n\n: No aplicable\n\n: No aplicable\n\n## FICHA DE DATOS DE SEGURIDAD\n\n## Sikafloor®-2430 Part A\n\nVersión 3.0\n\nNúmero de HDS: 100000030164\n\nFecha de revisión: 2023/08/15",
+   "## SECCIÓN 3. COMPOSICIÓN/INFORMACIÓN SOBRE LOS INGREDIENTES\n\nSustancia / mezcla\n\n: Mezcla\n\n## Componentes\n\n| Nombre químico | CAS No. | Concentración (% w/w) |\n|---|---|---|\n| xileno | 1330-20-7 | >= 50 - < 70 |\n| Poliaminoamida | No asignado | >= 10 - < 20 |\n| etilbenceno | 100-41-4 | >= 10 - < 20 |\n| 2-metilpropan-1-ol | 78-83-1 | >= 5 - < 10 |"
+  ],
+  "response": "[1]",
+  "reference": "Sí, ambos componentes (Part A y Part B) tienen el mismo número ONU: UN 1263.",
+  "sources": [
+   {
+    "n": 1,
+    "fabricante": "Sika",
+    "producto": "Sikafloor®-2430 Part A",
+    "documento": "FDS 71 -  Sikafloor®-2430  Part A - SIKA.pdf",
+    "paginas": "10-11",
+    "seccion": "14. Informacion relativa al transporte",
+    "chunk_id": "FDS_071_s14_01"
+   }
+  ],
+  "retrieved": [
+   {
+    "n": 1,
+    "chunk_id": "FDS_071_s14_01",
+    "puntaje": 0.03252
+   },
+   {
+    "n": 2,
+    "chunk_id": "FDS_072_s14_01",
+    "puntaje": 0.03178
+   },
+   {
+    "n": 3,
+    "chunk_id": "FDS_072_s08_02",
+    "puntaje": 0.0308
+   },
+   {
+    "n": 4,
+    "chunk_id": "FDS_072_s15_01",
+    "puntaje": 0.03058
+   },
+   {
+    "n": 5,
+    "chunk_id": "FDS_071_s15_01",
+    "puntaje": 0.03008
+   },
+   {
+    "n": 6,
+    "chunk_id": "FDS_072_s03_01",
+    "puntaje": 0.03002
+   }
+  ],
+  "documentos_esperados": [
+   "FDS_071",
+   "FDS_072"
+  ],
+  "modelo": "qwen2.5:3b",
+  "segundos": 223.6,
+  "ragas": {
+   "faithfulness": {
+    "estado": "valido",
+    "valor": 0.0
+   },
+   "context_precision": {
+    "estado": "valido",
+    "valor": 1.0
+   },
+   "context_recall": {
+    "estado": "valido",
+    "valor": 1.0
+   }
+  },
+  "evaluador": "qwen2.5:3b",
+  "deterministas": {
+   "doc_recall": 1.0,
+   "ref_en_contextos": 1.0,
+   "resp_cubre_ref": 0.0,
+   "citas_en_doc_esperado": 1.0
+  }
+ },
+ {
+  "id": "Q10",
+  "tipo": "integradora",
+  "top_k": 6,
+  "user_input": "Para el Esmalte Metal Master Premium de Corona, ¿cuál es su punto de inflamación y su número ONU de transporte?",
+  "retrieved_contexts": [
+   "SECCIÓN 14: INFORMACIÓN RELATIVA AL TRANSPORTE\n\n## Transporte terrestre de mercancías peligrosas:\n\nEn aplicación a la norma técnica colombiana 1692:\n\n- 14.1 Número ONU:\n\n14.2 Designación oficial de transporte de las Naciones Unidas:\n\nUN1263 PINTURA\n\n- 14.3 Clase(s) relativas al 3\n\ntransporte:\n\nEtiquetas:\n\n3\n\n- 14.4 Grupo de embalaje/envasado si se aplica:\n\nIII\n\n- 14.5 Riesgos ambientales:\n\nNo\n\n- 14.6 Precauciones especiales para el usuario\n\nPropiedades físico-químicas:\n\nVer sección 9\n\n14.7 Transporte a granel con arreglo al anexo II de MARPOL 73/78 y al Código IBC:\n\n## Transporte marítimo de mercancías peligrosas:\n\nEn aplicación al IMDG 41-22:\n\nNo relevante\n\n## Ficha de datos de seguridad\n\nsegún Decreto 1496 de 2018 y Resolución 773 de 2021\n\n## ESMALTE METAL MASTER PREMIUM\n\nSECCIÓN 14: INFORMACIÓN RELATIVA AL TRANSPORTE (continúa)\n\n- 14.1 Número ONU:\n\n14.2 Designación oficial de transporte de las Naciones Unidas:\n\nUN1263\n\nPINTURA\n\n- 14.3 Clase(s) relativas al 3\n\ntransporte:\n\nEtiquetas: 3\n\n- 14.4 Grupo de embalaje/envasado si se aplica:\n- 14.5 Contaminante marino:\n\nIII\n\n## No\n\n## 14.6 Precauciones especiales para el usuario\n\nDisposiciones especiales:\n\n223, 955, 163, 367\n\nCódigos FEm:\n\nF-E, S-E\n\nPropiedades físico-químicas:\n\nVer sección 9\n\nCantidades limitadas:\n\n5 L\n\nGrupo de segregación:\n\nNo relevante\n\n## 14.7 Transporte a granel con\n\narreglo al anexo II de MARPOL 73/78 y al Código IBC:\n\nNo relevante\n\n## Transporte aéreo de mercancías peligrosas:",
+   "Códigos FEm:\n\nF-E, S-E\n\nPropiedades físico-químicas:\n\nVer sección 9\n\nCantidades limitadas:\n\n5 L\n\nGrupo de segregación:\n\nNo relevante\n\n## 14.7 Transporte a granel con\n\narreglo al anexo II de MARPOL 73/78 y al Código IBC:\n\nNo relevante\n\n## Transporte aéreo de mercancías peligrosas:\n\nEn aplicación al IATA/OACI 2024:\n\n- 14.1 Número ONU:\n\n14.2 Designación oficial de transporte de las Naciones Unidas:\n\n14.3 Clase(s) relativas al\n\ntransporte:\n\nEtiquetas:\n\nUN1263 PINTURA\n\n3\n\n3\n\n14.4 Grupo de embalaje/envasado\n\nsi se aplica:\n\n- 14.5 Riesgos ambientales:\n\nIII\n\nNo\n\n## 14.6 Precauciones especiales para el usuario\n\nPropiedades físico-químicas:\n\nVer sección 9\n\n14.7 Transporte a granel con arreglo al anexo II de MARPOL 73/78 y al Código IBC:\n\nNo relevante",
+   "Densidad de vapor a 20 ºC:\n\nNo relevante *\n\nCoeficiente de reparto n-octanol/agua a 20 ºC:\n\nNo relevante *\n\nSolubilidad en agua a 20 ºC:\n\nNo relevante *\n\nPropiedad de solubilidad:\n\nNo relevante *\n\nTemperatura de descomposición:\n\nNo relevante *\n\nPunto de fusión/punto de congelación:\n\nNo relevante *\n\n## Inflamabilidad:\n\nPunto de inflamación:\n\n60 ºC\n\nInflamabilidad (sólido, gas):\n\nNo relevante *\n\nTemperatura de auto-inflamación:\n\n200 ºC\n\nLímite de inflamabilidad inferior:\n\nNo relevante *\n\nLímite de inflamabilidad superior:\n\nNo relevante *\n\n## Características de las partículas:\n\nDiámetro medio equivalente:\n\nNo relevante *\n\n## 9.2 Información adicional:\n\n## Información relativa a las clases de peligro físico:\n\nPropiedades explosivas:\n\nNo relevante *\n\nPropiedades comburentes:\n\nNo relevante *\n\nCorrosivos para los metales:\n\nNo relevante *\n\nCalor de combustión:\n\nNo relevante *\n\nAerosoles-porcentaje total (en masa) de componentes inflamables:\n\nOtras características de seguridad:\n\nTensión superficial a 20 ºC:\n\nNo relevante *\n\nNo relevante *\n\nÍndice de refracción:\n\nNo relevante *\n\n*No relevante debido a la naturaleza del producto, no aportando información característica de su peligrosidad.",
+   "NTC 4532- Transporte de mercancías peligrosas. Tarjetas de emergencia para transporte de materiales. Elaboración\n\nDecreto número 4741 de 2005\n\n## Ficha de datos de seguridad\n\nsegún Decreto 1496 de 2018 y Resolución 773 de 2021\n\n## ESMALTE METAL MASTER PREMIUM\n\nSECCIÓN 15: INFORMACIÓN SOBRE LA REGLAMENTACIÓN (continúa)\n\nDecreto 1299 de 2008 -Reglamenta departamento de gestión ambiental de empresas a nivel industrial estado\n\nDecreto 321 de 1999 - Adopta el Plan Nacional de Contingencia contra derrames de hidrocarburos, derivados y sustancias nocivas.\n\nNTC 4702 - 1 -Embalaje y Envases para Transporte de Mercancías Peligrosas Clase 1. Explosivos\n\nNTC 4702 - 2 - Embalaje y Envases para Transporte de Mercancías Peligrosas Clase 2. Gases\n\nNTC 4702 - 3 - Embalaje y Envases para Transporte de Mercancías Peligrosas Clase 3. Líquidos Inflamables\n\nNTC 4702 - 4 - Embalaje y Envases para Transporte de Mercancías Peligrosas Clase 4. Sólidos Inflamables, Sustancias que\n\npresentan riesgo de combustión espontánea, sustancias que en contacto con el agua desprenden gases inflamables.\n\nNTC 4702 - 5 - Embalaje y Envases para Transporte de Mercancías Peligrosas Clase 5. Sustancias Comburentes y Peróxidos Orgánicos\n\nNTC 4702 - 6 - Embalaje y Envases para Transporte de Mercancías Peligrosas Clase 6. Sustancias Tóxicas e Infecciosas\n\nNTC 4702 - 8 - Embalaje y Envases para Transporte de Mercancías Peligrosas Clase 8. Sustancias Corrosivas",
+   "NTC 4702 - 5 - Embalaje y Envases para Transporte de Mercancías Peligrosas Clase 5. Sustancias Comburentes y Peróxidos Orgánicos\n\nNTC 4702 - 6 - Embalaje y Envases para Transporte de Mercancías Peligrosas Clase 6. Sustancias Tóxicas e Infecciosas\n\nNTC 4702 - 8 - Embalaje y Envases para Transporte de Mercancías Peligrosas Clase 8. Sustancias Corrosivas\n\nNTC 4702 - 9 - Embalaje y Envases para Transporte de Mercancías Peligrosas Clase 9. Sustancias Peligrosas varias\n\nLey 2041 de 2020 - Por medio de la cual se garantiza el derecho de las personas a desarrollarse física e intelectualmente en un ambiente libre de plomo, fijando límites para su contenido en productos comercializados en el país.",
+   "SECCIÓN 15: INFORMACIÓN SOBRE LA REGLAMENTACIÓN\n\n## 15.1 Disposiciones específicas sobre seguridad, salud y medio ambiente para el producto de que se trate:\n\n- NTP (National Toxicology Program): Bis(2-etilhexanoato) de cobalto (136-52-7) ; Nafta (petróleo), fracción pesada tratada con hidrógeno (64742-48-9)\n\n## Disposiciones particulares en materia de protección de las personas o el medio ambiente:\n\nSe recomienda emplear la información recopilada en esta hoja de datos de seguridad de materiales como datos de entrada en una evaluación de riesgos de las circunstancias locales con el objeto de establecer las medidas necesarias de prevención de riesgos para el manejo, utilización, almacenamiento y eliminación de este producto.\n\n## Otras legislaciones:\n\nResolución 0312 de 2019 - Nuevos estándares mínimos del SG-SST\n\nCONPES 3868 - Política de gestión del riesgo asociado al uso de sustancias químicas.\n\nDecreto 1079 de 2015 - Decreto único reglamentario del sector transporte\n\nNTC 1692 -Transporte de mercancías peligrosas. Definiciones, clasificación, marcado, etiquetado y rotulado\n\nNTC 4532- Transporte de mercancías peligrosas. Tarjetas de emergencia para transporte de materiales. Elaboración\n\nDecreto número 4741 de 2005\n\n## Ficha de datos de seguridad\n\nsegún Decreto 1496 de 2018 y Resolución 773 de 2021\n\n## ESMALTE METAL MASTER PREMIUM\n\nSECCIÓN 15: INFORMACIÓN SOBRE LA REGLAMENTACIÓN (continúa)"
+  ],
+  "response": "El punto de inflamación de Esmalte Metal Master Premium de Corona es 60 ºC [1]. El número ONU de transporte es UN1263 PINTURA [1].",
+  "reference": "El punto de inflamación es 60 ºC y el número ONU es UN1263.",
+  "sources": [
+   {
+    "n": 1,
+    "fabricante": "Corona",
+    "producto": "ESMALTE METAL MASTER PREMIUM",
+    "documento": "FDS 94 - ESMALTE METAL MASTER PREMIUM - CORONA.pdf",
+    "paginas": "11-12",
+    "seccion": "14. Informacion relativa al transporte",
+    "chunk_id": "FDS_094_s14_01"
+   }
+  ],
+  "retrieved": [
+   {
+    "n": 1,
+    "chunk_id": "FDS_094_s14_01",
+    "puntaje": 0.03279
+   },
+   {
+    "n": 2,
+    "chunk_id": "FDS_094_s14_02",
+    "puntaje": 0.03226
+   },
+   {
+    "n": 3,
+    "chunk_id": "FDS_094_s09_02",
+    "puntaje": 0.0315
+   },
+   {
+    "n": 4,
+    "chunk_id": "FDS_094_s15_02",
+    "puntaje": 0.03101
+   },
+   {
+    "n": 5,
+    "chunk_id": "FDS_094_s15_03",
+    "puntaje": 0.0308
+   },
+   {
+    "n": 6,
+    "chunk_id": "FDS_094_s15_01",
+    "puntaje": 0.03054
+   }
+  ],
+  "documentos_esperados": [
+   "FDS_094"
+  ],
+  "modelo": "qwen2.5:3b",
+  "segundos": 280.1,
+  "ragas": {
+   "faithfulness": {
+    "estado": "valido",
+    "valor": 0.0
+   },
+   "context_precision": {
+    "estado": "valido",
+    "valor": 1.0
+   },
+   "context_recall": {
+    "estado": "valido",
+    "valor": 1.0
+   }
+  },
+  "evaluador": "qwen2.5:3b",
+  "deterministas": {
+   "doc_recall": 1.0,
+   "ref_en_contextos": 1.0,
+   "resp_cubre_ref": 1.0,
+   "resp_apoyada": 1.0,
+   "citas_en_doc_esperado": 1.0
+  }
+ },
+ {
+  "id": "Q11",
+  "tipo": "sin_respuesta",
+  "top_k": 6,
+  "user_input": "¿Cuál es el rendimiento en metros cuadrados por galón de la pintura Koraza Pro 550 Blanco de Pintuco?",
+  "retrieved_contexts": [
+   "IMDG: Código Marítimo Internacional de Mercancías Peligrosas IATA: Asociación Internacional de Transporte Aéreo OACI: Organización de Aviación Civil Internacional DQO:Demanda Quimica de oxígeno DBO5:Demanda biológica de oxígeno a los 5 días BCF: factor de bioconcentración DL50: dosis letal 50 CL50: concentración letal 50 EC50: concentración efectiva 50 Log POW: logaritmo coeficiente partición octanol-agua Koc: coeficiente de partición del carbono orgánico\n\n> Texto OCR de la imagen: Calidad\"\n\nLa información contenida en esta ficha de datos de seguridad está fundamentada en fuentes, conocimientos técnicos y legislación vigente a nivel europeo y estatal, no pudiendo garantizar la exactitud de la misma. Esta información no es posible considerarla como una garantía de las propiedades del producto, se trata simplemente de una descripción en cuanto a los requerimientos en materia de seguridad. La metodología y condiciones de trabajo de los usuarios de este producto se encuentran fuera de nuestro conocimiento y control, siendo siempre responsabilidad última del usuario tomar las medidas necesarias para adecuarse a las exigencias legislativas en cuanto a manipulación, almacenamiento, uso y eliminación de productos químicos. La información de esta ficha de datos de seguridad de materiales únicamente se refiere a este producto, el cual no debe emplearse con fines distintos a los que se especifican.",
+   "SECCIÓN 8: CONTROLES DE EXPOSICIÓN/PROTECCIÓN PERSONAL\n\n## 8.1 Parámetros de control:\n\nSustancias cuyos valores límite de exposición profesional han de controlarse en el ambiente de trabajo (ACGIH):\n\n| Identificación | Valores límite ambientales | Valores límite ambientales |\n|---|---|---|\n| Dioxido de titanio | TLV-TWA | 10 mg/m³ |\n| CAS: 13463-67-7 | TLV-STEL | |\n\n## 8.2 Controles técnicos apropiados:\n\n- A.- Medidas de protección individual, como equipo de protección personal (EPP)\n\nComo medida de prevención se recomienda la utilización de equipos de protección individual básicos. Para más información sobre los equipos de protección individual (almacenamiento, uso, limpieza, mantenimiento, clase de protección,…) consultar el folleto informativo facilitado por el fabricante del EPP. Las indicaciones contenidas en este punto se refieren al producto puro. Las medidas de protección para el producto diluido podrán variar en función de su grado de dilución, uso, método de aplicación, etc. Para determinar la obligación de instalación de duchas de emergencia y/o lavaojos en los almacenes se tendrá en cuenta la normativa referente al almacenamiento de productos químicos aplicable en cada caso. Para más información ver epígrafes 7.1 y 7.2.\n\nToda la información aquí incluida es una recomendación siendo necesario su concreción por parte de los servicios de prevención de riesgos laborales al desconocer las medidas de prevención adicionales que la empresa pudiese disponer.",
+   "- B.- Protección respiratoria.\n\nSerá necesario la utilización de equipos de protección en el caso de formación de nieblas o en el caso de superar los límites de exposición profesional si existiesen (Ver Epígrafe 8.1).\n\n- C.- Protección específica de las manos.\n\n> Texto OCR de la imagen: Proteccion obligatoria de la “manos\n\n| Pictograma | EPP | Observaciones |\n|---|---|---|\n| Proteccion obligatoria de la manos | Guantes de protección | recomendable la utilización de guantes de protección quimica |\n\nDado que el producto es una mezcla de diferentes materiales, la resistencia del material de los guantes no se puede calcular de antemano con total fiabilidad y por lo tanto tiene que ser controlados antes de su aplicación.\n\n- D.- Protección ocular y facial\n\n## Ficha de datos de seguridad\n\nsegún Decreto 1496 de 2018\n\n## KORAZA PRO 550 BLANCO 10350789-10289257\n\nSECCIÓN 8: CONTROLES DE EXPOSICIÓN/PROTECCIÓN PERSONAL (continúa)\n\n> Texto OCR de la imagen: Proteccion obligatoria de la cara\n\n| Pictograma | EPP | Observaciones |\n|---|---|---|\n| Proteccion obligatoria de la cara | Gafas de seguridad contra salpicaduras y/o proyecciones | Limpiar a diario y desinfectar periódicamente de acuerdo a las instrucciones del fabricante. Se recomienda su uso en caso de riesgo de salpicaduras. |\n\n## E.- Protección corporal",
+   "SECCIÓN 2: IDENTIFICACIÓN DEL PELIGRO O PELIGROS\n\n## 2.1 Clasificación de la sustancia o de la mezcla:\n\n## SGA:\n\nConforme al decreto 1496 de 2018, por el cual se adopta el Sistema Globalmente Armonizado de Clasificación y Etiquetado de Productos Químicos y se dictan otras disposiciones en materia de seguridad química, el producto no esta clasificado como peligroso.\n\n## 2.2 Elementos de las etiquetas del SGA, incluidos los consejos de prudencia:\n\n## SGA:\n\nNinguno\n\n- 2.3 Otros peligros que no conducen a una clasificación:\n\nNo relevante",
+   "## KORAZA PRO 550 BLANCO\n\n## 10350789-10289257\n\nSECCIÓN 1: IDENTIFICACIÓN DEL PRODUCTO\n\n- 1.1 Identificador SGA del producto: KORAZA PRO 550 BLANCO\n\n10350789-10289257\n\n## 1.2 Uso recomendado del producto químico y restricciones:\n\nUsos pertinentes: Pintura\n\nUsos desaconsejados: Todo aquel uso no especificado en este epígrafe ni en el epígrafe 7.3\n\n## 1.3 Datos sobre el proveedor:\n\nPintuco\n\nAutopista Medellín Bogotá Km 37 Vía Belén Rionegro Km 1 054040 Rionegro - Antioquia - Colombia Tfno.: 57 4 569 81 00 contacto@pintuco.com http://www.pintuco.com\n\n- 1.4 Número de teléfono para emergencias: 57 4 561 22 23",
+   "SECCIÓN 13: INFORMACIÓN RELATIVA A LA ELIMINACIÓN DE LOS PRODUCTOS\n\n## 13.1 Métodos de eliminación:\n\n## Gestión del residuo (eliminación y valorización):\n\nConsultar al gestor de residuos autorizado las operaciones de valorización y eliminación. En el caso de que el envase haya estado en contacto directo con el producto se gestionará del mismo modo que el propio producto, en caso contrario se gestionará como residuo no peligroso. Se desaconseja su vertido a cursos de agua. Ver epígrafe 6.2.\n\n## Disposiciones legislativas relacionadas con la gestión de residuos:\n\nLegislación relacionada con la gestión de residuos:\n\nDecreto 4741 de 2005, Por el cual se reglamenta parcialmente la prevención y el manejo de los residuos o desechos peligrosos generados en el marco de la gestión integral"
+  ],
+  "response": "No hay evidencia suficiente en las fichas de datos de seguridad recuperadas para responder esta pregunta.",
+  "reference": "Las fichas de datos de seguridad no contienen esta información (el rendimiento no figura en ninguna de las 101 FDS); la respuesta correcta es indicar que no hay evidencia suficiente.",
+  "sources": [],
+  "retrieved": [
+   {
+    "n": 1,
+    "chunk_id": "FDS_005_s16_03",
+    "puntaje": 0.032
+   },
+   {
+    "n": 2,
+    "chunk_id": "FDS_005_s08_01",
+    "puntaje": 0.03101
+   },
+   {
+    "n": 3,
+    "chunk_id": "FDS_005_s08_02",
+    "puntaje": 0.03031
+   },
+   {
+    "n": 4,
+    "chunk_id": "FDS_005_s02_01",
+    "puntaje": 0.02991
+   },
+   {
+    "n": 5,
+    "chunk_id": "FDS_005_s01_01",
+    "puntaje": 0.02986
+   },
+   {
+    "n": 6,
+    "chunk_id": "FDS_005_s13_01",
+    "puntaje": 0.02983
+   }
+  ],
+  "documentos_esperados": [],
+  "modelo": "qwen2.5:3b",
+  "segundos": 235.4,
+  "ragas": "no aplica (pregunta sin respuesta: se revisa por separado)",
+  "deterministas": {
+   "rechazo_correcto": 1.0
+  }
+ },
+ {
+  "id": "Q12",
+  "tipo": "sin_respuesta",
+  "top_k": 6,
+  "user_input": "¿Cuál es el nivel de brillo (unidades de brillo a 60°) del Esmalte Metal Master Premium de Corona?",
+  "retrieved_contexts": [
+   "Densidad de vapor a 20 ºC:\n\nNo relevante *\n\nCoeficiente de reparto n-octanol/agua a 20 ºC:\n\nNo relevante *\n\nSolubilidad en agua a 20 ºC:\n\nNo relevante *\n\nPropiedad de solubilidad:\n\nNo relevante *\n\nTemperatura de descomposición:\n\nNo relevante *\n\nPunto de fusión/punto de congelación:\n\nNo relevante *\n\n## Inflamabilidad:\n\nPunto de inflamación:\n\n60 ºC\n\nInflamabilidad (sólido, gas):\n\nNo relevante *\n\nTemperatura de auto-inflamación:\n\n200 ºC\n\nLímite de inflamabilidad inferior:\n\nNo relevante *\n\nLímite de inflamabilidad superior:\n\nNo relevante *\n\n## Características de las partículas:\n\nDiámetro medio equivalente:\n\nNo relevante *\n\n## 9.2 Información adicional:\n\n## Información relativa a las clases de peligro físico:\n\nPropiedades explosivas:\n\nNo relevante *\n\nPropiedades comburentes:\n\nNo relevante *\n\nCorrosivos para los metales:\n\nNo relevante *\n\nCalor de combustión:\n\nNo relevante *\n\nAerosoles-porcentaje total (en masa) de componentes inflamables:\n\nOtras características de seguridad:\n\nTensión superficial a 20 ºC:\n\nNo relevante *\n\nNo relevante *\n\nÍndice de refracción:\n\nNo relevante *\n\n*No relevante debido a la naturaleza del producto, no aportando información característica de su peligrosidad.",
+   "BCF: Factor de bioconcentración\n\nDL50: Dosis Letal 50\n\nCL50: Concentración Letal 50\n\nEC50: Concentración Efectiva 50\n\nLog POW: Logaritmo Coeficiente Partición Octanol-Agua\n\nKoc: Coeficiente de Partición del Carbono Orgánico\n\nIARC: Centro Internacional de Investigaciones sobre el Cáncer\n\nLa información contenida en esta Ficha de datos de seguridad está fundamentada en fuentes, conocimientos técnicos y legislación vigente COLOMBIANA, no pudiendo garantizar la exactitud de la misma. Esta información no es posible considerarla como una garantía de las propiedades del producto, se trata simplemente de una descripción en cuanto a los requerimientos en materia de seguridad. La metodología y condiciones de trabajo de los usuarios de este producto se encuentran fuera de nuestro conocimiento y control, siendo siempre responsabilidad última del usuario tomar las medidas necesarias para adecuarse a las exigencias legislativas en cuanto a manipulación, almacenamiento, uso y eliminación de productos químicos. La información de esta ficha de seguridad únicamente se refiere a este producto, el cual no debe emplearse con fines distintos a los que se especifican.\n\nFIN DE LA FICHA DE DATOS DE SEGURIDAD",
+   "IARC: Destilados (petróleo), fracción ligera tratada con hidrógeno (60 ºC < fp < 93 ºC) (3); Nafta (petróleo), fracción pesada tratada con hidrógeno (3); Cuarzo (1 % < RCS < 10 %) (1); Nafta (petróleo), fracción pesada tratada con hidrógeno, < 0.1 % EC 200-753-7 (3); Bis(2-etilhexanoato) de cobalto (2B); Destilados (petróleo), fracción ligera tratada con hidrógeno (3); Dioxido de titanio (diámetro aerodinámico ≤ 10 μm) (2B); Talco (3)\n\n- Mutagenicidad: La exposición a este producto puede causar alteraciones genéticas. Para más información sobre posibles efectos específicos sobre la salud ver sección 2 de la FDS.\n- Toxicidad para la reproducción: A la vista de los datos disponibles, no se cumplen los criterios de clasificación, sin embargo presenta sustancias clasificadas como peligrosas por este efecto. Para más información ver sección 3 de la FDS.\n- E- Efectos de sensibilización:\n- Respiratoria: A la vista de los datos disponibles, no se cumplen los criterios de clasificación, no presentando sustancias clasificadas como peligrosas con efectos sensibilizantes. Para más información ver secciones 2, 3 y 15 de la FDS.\n- Cutánea: El contacto prolongado con la piel puede derivar en EPPsodios de dermatitis alérgicas de contacto.\n- F- Toxicidad específica en determinados órganos (STOT)-exposición única:",
+   "Toda la información aquí incluida es una recomendación siendo necesario su concreción por parte de los servicios de prevención de riesgos laborales al desconocer las medidas de prevención adicionales que la empresa pudiese disponer.\n\n## B.- Protección respiratoria.\n\n| Pictograma | EPP | Observaciones |\n|---|---|---|\n| Protección obligatoria de las vías respiratorias | Máscara autofiltrante para gases y vapores (Filtro tipo: A) | NOMATIVIDAD APLICABLE: NTC 1584, NTC 1589, NTC 3851 y NTC 1728. Reemplazar cuando se detecte olor o sabor del contaminante en el interior de la máscara o adaptador facial. Cuando el contaminante no tiene buenas propiedades de aviso se recomienda el uso de equipos aislantes. |\n\n## C.- Protección específica de las manos.\n\n> Texto OCR de la imagen: Pictograma Protección obligatoria ‘de las manos\n\n| Pictograma | EPP | Observaciones |\n|---|---|---|\n| Protección obligatoria de las manos | Guantes de protección química (Material: Nitrilo, Tiempo de penetración: > 480 min, Espesor: 0,4 mm) | NORMATIVIDAD APLICABLE: NTC 3398, EN 374 y EN420. Reemplazar los guantes ante cualquier indicio de deterioro. |\n\nDado que el producto es una mezcla de diferentes materiales, la resistencia del material de los guantes no se puede calcular de antemano con total fiabilidad y por lo tanto tiene que ser controlados antes de su aplicación.\n\n## D.- Protección ocular y facial",
+   "El lijado repetido de las superficies de película seca puede producir riesgo de sobreexposición al polvo dependiendo de la duración y nivel de lijado, para evitarla deben tomarse las medidas de protección adecuadas.\n\n## Información toxicológica específica de las sustancias:\n\n| Identificación | Toxicidad aguda | Toxicidad aguda | Género |\n|---|---|---|---|\n| Oxima de 2-butanona | DL50 oral | 100 mg/kg | |\n| CAS: 96-29-7 | DL50 cutánea | 1100 mg/kg | |\n| | CL50 inhalación | | |\n| Dioxido de titanio (diámetro aerodinámico ≤ 10 μm) | DL50 oral | 10000 mg/kg | Rata |\n| CAS: 13463-67-7 | DL50 cutánea | 10000 mg/kg | Conejo |\n| | CL50 inhalación | | |\n| Nonano | DL50 oral | >5000 mg/kg | Rata |\n| CAS: 111-84-2 | DL50 cutánea | | |\n| CAS: 111-84-2 | CL50 inhalación | | |\n| Ácido 2-etilhexanoico, sal de circonio | DL50 oral | 2043 mg/kg | Rata |\n| CAS: 22464-99-9 | DL50 cutánea | | |\n| CAS: 22464-99-9 | CL50 inhalación | | |\n| Nafta (petróleo), fracción pesada tratada con hidrógeno | DL50 oral | >5000 mg/kg | Rata |\n| CAS: 64742-48-9 | DL50 cutánea | >5000 mg/kg | Conejo |\n| CAS: 64742-48-9 | CL50 inhalación | | |",
+   "P501: Eliminar el contenido/recipiente mediante el sistema de recogida selectiva habilitado en su municipio.\n\n## Ficha de datos de seguridad\n\nsegún Decreto 1496 de 2018 y Resolución 773 de 2021\n\n## ESMALTE METAL MASTER PREMIUM\n\nSECCIÓN 2: IDENTIFICACIÓN DEL PELIGRO O PELIGROS (continúa)\n\n## Sustancias que contribuyen a la clasificación\n\nDestilados (petróleo), fracción ligera tratada con hidrógeno (60 ºC < fp < 93 ºC); Destilados (petróleo), fracción ligera tratada con hidrógeno; Dioxido de titanio (diámetro aerodinámico ≤ 10 μm); Oxima de 2-butanona\n\n- 2.3 Otros peligros que no conducen a una clasificación:\n\nNo relevante"
+  ],
+  "response": "No hay evidencia suficiente en las fichas de datos de seguridad recuperadas para responder esta pregunta.",
+  "reference": "Las fichas de datos de seguridad no contienen esta información (el brillo no figura en ninguna de las 101 FDS); la respuesta correcta es indicar que no hay evidencia suficiente.",
+  "sources": [],
+  "retrieved": [
+   {
+    "n": 1,
+    "chunk_id": "FDS_094_s09_02",
+    "puntaje": 0.03227
+   },
+   {
+    "n": 2,
+    "chunk_id": "FDS_094_s16_05",
+    "puntaje": 0.03226
+   },
+   {
+    "n": 3,
+    "chunk_id": "FDS_094_s11_03",
+    "puntaje": 0.02854
+   },
+   {
+    "n": 4,
+    "chunk_id": "FDS_094_s08_03",
+    "puntaje": 0.0278
+   },
+   {
+    "n": 5,
+    "chunk_id": "FDS_094_s11_06",
+    "puntaje": 0.0274
+   },
+   {
+    "n": 6,
+    "chunk_id": "FDS_094_s02_03",
+    "puntaje": 0.02738
+   }
+  ],
+  "documentos_esperados": [],
+  "modelo": "qwen2.5:3b",
+  "segundos": 268.7,
+  "ragas": "no aplica (pregunta sin respuesta: se revisa por separado)",
+  "deterministas": {
+   "rechazo_correcto": 1.0
+  }
+ }
+]

@@ -1,0 +1,72 @@
+[
+ {
+  "archivo": "image_000000_a34efc9d3cec05ca733628eeab8dbac36f06f66154f632e518394d7474f701b4.png",
+  "ruta_relativa": "../imagenes/FDS_027/image_000000_a34efc9d3cec05ca733628eeab8dbac36f06f66154f632e518394d7474f701b4.png",
+  "documento": "FDS 27 - Epoxi_100HS_S300_CA.pdf",
+  "pagina": 1,
+  "ancho": 218,
+  "alto": 77,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000001_182c406072cf0ae6dcc4c456a04b3e4679e8c685ab6618227c877db9c198854c.png",
+  "ruta_relativa": "../imagenes/FDS_027/image_000001_182c406072cf0ae6dcc4c456a04b3e4679e8c685ab6618227c877db9c198854c.png",
+  "documento": "FDS 27 - Epoxi_100HS_S300_CA.pdf",
+  "pagina": 1,
+  "ancho": 92,
+  "alto": 89,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_29b133c134a97e518e93e307525e7e4d2e55a698e94ede594b938ea30ed503ad.png",
+  "ruta_relativa": "../imagenes/FDS_027/image_000002_29b133c134a97e518e93e307525e7e4d2e55a698e94ede594b938ea30ed503ad.png",
+  "documento": "FDS 27 - Epoxi_100HS_S300_CA.pdf",
+  "pagina": 1,
+  "ancho": 89,
+  "alto": 90,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_3e333b5aeddf0c4f3c343a1b7bea0e5e87f856281e4529ad7d72e535b07a26d8.png",
+  "ruta_relativa": "../imagenes/FDS_027/image_000003_3e333b5aeddf0c4f3c343a1b7bea0e5e87f856281e4529ad7d72e535b07a26d8.png",
+  "documento": "FDS 27 - Epoxi_100HS_S300_CA.pdf",
+  "pagina": 1,
+  "ancho": 91,
+  "alto": 90,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_cff96c767f8b172745c6ca0b40edd254d9fd5ac44497aac68cee3c8efe27543c.png",
+  "ruta_relativa": "../imagenes/FDS_027/image_000000_cff96c767f8b172745c6ca0b40edd254d9fd5ac44497aac68cee3c8efe27543c.png",
+  "documento": "FDS 27 - Epoxi_100HS_S300_CA.pdf",
+  "pagina": 7,
+  "ancho": 73,
+  "alto": 61,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000001_f6fe78e9b3c4cccb112b2a3229f9f2fd94f5a3f44fd7ca9179f36cafd798e1ba.png",
+  "ruta_relativa": "../imagenes/FDS_027/image_000001_f6fe78e9b3c4cccb112b2a3229f9f2fd94f5a3f44fd7ca9179f36cafd798e1ba.png",
+  "documento": "FDS 27 - Epoxi_100HS_S300_CA.pdf",
+  "pagina": 7,
+  "ancho": 74,
+  "alto": 60,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_92ddf6a82f4c94a8fb35b0ca960b23a6f44d9297e9e34ffbadcbabeeeb6631de.png",
+  "ruta_relativa": "../imagenes/FDS_027/image_000000_92ddf6a82f4c94a8fb35b0ca960b23a6f44d9297e9e34ffbadcbabeeeb6631de.png",
+  "documento": "FDS 27 - Epoxi_100HS_S300_CA.pdf",
+  "pagina": 8,
+  "ancho": 17,
+  "alto": 15,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ }
+]

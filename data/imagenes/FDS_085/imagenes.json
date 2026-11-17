@@ -1,0 +1,162 @@
+[
+ {
+  "archivo": "image_000000_7e224fd26acb2fa7b93fadf3802dd36697d3a3ebfe56ece5ed620d614c609128.png",
+  "ruta_relativa": "../imagenes/FDS_085/image_000000_7e224fd26acb2fa7b93fadf3802dd36697d3a3ebfe56ece5ed620d614c609128.png",
+  "documento": "FDS 85 - EPOXY ESTRUCTURAS GRIS PARTE A - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 1,
+  "ancho": 342,
+  "alto": 46,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000001_c2a7b7941ee7b1d4dfdf974d5a2419b6a45d4a4c054b46fb1eeb8a9bd00ddde3.png",
+  "ruta_relativa": "../imagenes/FDS_085/image_000001_c2a7b7941ee7b1d4dfdf974d5a2419b6a45d4a4c054b46fb1eeb8a9bd00ddde3.png",
+  "documento": "FDS 85 - EPOXY ESTRUCTURAS GRIS PARTE A - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 1,
+  "ancho": 99,
+  "alto": 98,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_085/image_000002_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 85 - EPOXY ESTRUCTURAS GRIS PARTE A - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 1,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_085/image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 85 - EPOXY ESTRUCTURAS GRIS PARTE A - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 2,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 11 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_085/image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 85 - EPOXY ESTRUCTURAS GRIS PARTE A - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 3,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 11 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_085/image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 85 - EPOXY ESTRUCTURAS GRIS PARTE A - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 4,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 11 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_085/image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 85 - EPOXY ESTRUCTURAS GRIS PARTE A - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 5,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 11 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_ede3e01b24df990e4d1fd265a97abe7a5d7097391ae74bf51030ca45272abc3e.png",
+  "ruta_relativa": "../imagenes/FDS_085/image_000000_ede3e01b24df990e4d1fd265a97abe7a5d7097391ae74bf51030ca45272abc3e.png",
+  "documento": "FDS 85 - EPOXY ESTRUCTURAS GRIS PARTE A - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 6,
+  "ancho": 141,
+  "alto": 22,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_ede3e01b24df990e4d1fd265a97abe7a5d7097391ae74bf51030ca45272abc3e.png",
+  "ruta_relativa": "../imagenes/FDS_085/image_000000_ede3e01b24df990e4d1fd265a97abe7a5d7097391ae74bf51030ca45272abc3e.png",
+  "documento": "FDS 85 - EPOXY ESTRUCTURAS GRIS PARTE A - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 7,
+  "ancho": 141,
+  "alto": 22,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_085/image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 85 - EPOXY ESTRUCTURAS GRIS PARTE A - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 8,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 11 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_085/image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 85 - EPOXY ESTRUCTURAS GRIS PARTE A - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 9,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 11 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_085/image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 85 - EPOXY ESTRUCTURAS GRIS PARTE A - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 10,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 11 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_085/image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 85 - EPOXY ESTRUCTURAS GRIS PARTE A - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 11,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 11 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_085/image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 85 - EPOXY ESTRUCTURAS GRIS PARTE A - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 12,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 11 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_085/image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 85 - EPOXY ESTRUCTURAS GRIS PARTE A - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 13,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 11 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_085/image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 85 - EPOXY ESTRUCTURAS GRIS PARTE A - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 14,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 11 paginas (probable logotipo); OCR no incluido en el Markdown"
+ }
+]

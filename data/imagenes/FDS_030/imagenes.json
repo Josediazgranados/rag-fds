@@ -1,0 +1,282 @@
+[
+ {
+  "archivo": "image_000000_c66d440449e1488370a83172091903edccca69d535dfd04b4ff2dbe6b3ae7ca0.png",
+  "ruta_relativa": "../imagenes/FDS_030/image_000000_c66d440449e1488370a83172091903edccca69d535dfd04b4ff2dbe6b3ae7ca0.png",
+  "documento": "FDS 30 - ESMALTE TOP QUALITY GRIS PLATA 1799 -PINTUCO .pdf",
+  "pagina": 1,
+  "ancho": 142,
+  "alto": 99,
+  "texto_ocr": "El Color de la Ae",
+  "nota": "imagen repetida en 10 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_f17dec7fd488caa3f8616e8dd020b9376b628013d7bb7d62cb338cf64d1f2b28.png",
+  "ruta_relativa": "../imagenes/FDS_030/image_000001_f17dec7fd488caa3f8616e8dd020b9376b628013d7bb7d62cb338cf64d1f2b28.png",
+  "documento": "FDS 30 - ESMALTE TOP QUALITY GRIS PLATA 1799 -PINTUCO .pdf",
+  "pagina": 1,
+  "ancho": 57,
+  "alto": 55,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_a40c037e1b4fb3127c100a56dc613ebc9dbbe4f58479789f07f58a279aa66ac2.png",
+  "ruta_relativa": "../imagenes/FDS_030/image_000002_a40c037e1b4fb3127c100a56dc613ebc9dbbe4f58479789f07f58a279aa66ac2.png",
+  "documento": "FDS 30 - ESMALTE TOP QUALITY GRIS PLATA 1799 -PINTUCO .pdf",
+  "pagina": 1,
+  "ancho": 58,
+  "alto": 55,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_a3ec1385f081cccc0bdc882e7d636e6cd2ba69279b4dd8cc3f1fe1180d20f444.png",
+  "ruta_relativa": "../imagenes/FDS_030/image_000003_a3ec1385f081cccc0bdc882e7d636e6cd2ba69279b4dd8cc3f1fe1180d20f444.png",
+  "documento": "FDS 30 - ESMALTE TOP QUALITY GRIS PLATA 1799 -PINTUCO .pdf",
+  "pagina": 1,
+  "ancho": 58,
+  "alto": 57,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000004_830e6b23faa9bfb8de9226492933836f10d0af3bf62626adfa35bb8b7c941426.png",
+  "ruta_relativa": "../imagenes/FDS_030/image_000004_830e6b23faa9bfb8de9226492933836f10d0af3bf62626adfa35bb8b7c941426.png",
+  "documento": "FDS 30 - ESMALTE TOP QUALITY GRIS PLATA 1799 -PINTUCO .pdf",
+  "pagina": 1,
+  "ancho": 57,
+  "alto": 56,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_c66d440449e1488370a83172091903edccca69d535dfd04b4ff2dbe6b3ae7ca0.png",
+  "ruta_relativa": "../imagenes/FDS_030/image_000000_c66d440449e1488370a83172091903edccca69d535dfd04b4ff2dbe6b3ae7ca0.png",
+  "documento": "FDS 30 - ESMALTE TOP QUALITY GRIS PLATA 1799 -PINTUCO .pdf",
+  "pagina": 2,
+  "ancho": 142,
+  "alto": 99,
+  "texto_ocr": "El Color de la Ae",
+  "nota": "imagen repetida en 10 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_c66d440449e1488370a83172091903edccca69d535dfd04b4ff2dbe6b3ae7ca0.png",
+  "ruta_relativa": "../imagenes/FDS_030/image_000000_c66d440449e1488370a83172091903edccca69d535dfd04b4ff2dbe6b3ae7ca0.png",
+  "documento": "FDS 30 - ESMALTE TOP QUALITY GRIS PLATA 1799 -PINTUCO .pdf",
+  "pagina": 3,
+  "ancho": 142,
+  "alto": 99,
+  "texto_ocr": "El Color de la Ae",
+  "nota": "imagen repetida en 10 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_fae2b6ff6e7c4eaa0f6acca1b0f2f2ad48148310b730cdf109a881aca2f77cc5.png",
+  "ruta_relativa": "../imagenes/FDS_030/image_000001_fae2b6ff6e7c4eaa0f6acca1b0f2f2ad48148310b730cdf109a881aca2f77cc5.png",
+  "documento": "FDS 30 - ESMALTE TOP QUALITY GRIS PLATA 1799 -PINTUCO .pdf",
+  "pagina": 3,
+  "ancho": 35,
+  "alto": 33,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_c66d440449e1488370a83172091903edccca69d535dfd04b4ff2dbe6b3ae7ca0.png",
+  "ruta_relativa": "../imagenes/FDS_030/image_000000_c66d440449e1488370a83172091903edccca69d535dfd04b4ff2dbe6b3ae7ca0.png",
+  "documento": "FDS 30 - ESMALTE TOP QUALITY GRIS PLATA 1799 -PINTUCO .pdf",
+  "pagina": 4,
+  "ancho": 142,
+  "alto": 99,
+  "texto_ocr": "El Color de la Ae",
+  "nota": "imagen repetida en 10 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_9bf3139335b7564a587d31a6d23a5aa8c48ceccbd73905cfbb941b056850ffc2.png",
+  "ruta_relativa": "../imagenes/FDS_030/image_000001_9bf3139335b7564a587d31a6d23a5aa8c48ceccbd73905cfbb941b056850ffc2.png",
+  "documento": "FDS 30 - ESMALTE TOP QUALITY GRIS PLATA 1799 -PINTUCO .pdf",
+  "pagina": 4,
+  "ancho": 102,
+  "alto": 139,
+  "texto_ocr": "Pictograma Proteccion obligatoria de la manos",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000002_98369d50c35a5cca6b8c7f520f4f14543c95355ffaade7779d444705a9714804.png",
+  "ruta_relativa": "../imagenes/FDS_030/image_000002_98369d50c35a5cca6b8c7f520f4f14543c95355ffaade7779d444705a9714804.png",
+  "documento": "FDS 30 - ESMALTE TOP QUALITY GRIS PLATA 1799 -PINTUCO .pdf",
+  "pagina": 4,
+  "ancho": 122,
+  "alto": 127,
+  "texto_ocr": "Pictograma Proteccion obligatoria de la cara",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000000_c66d440449e1488370a83172091903edccca69d535dfd04b4ff2dbe6b3ae7ca0.png",
+  "ruta_relativa": "../imagenes/FDS_030/image_000000_c66d440449e1488370a83172091903edccca69d535dfd04b4ff2dbe6b3ae7ca0.png",
+  "documento": "FDS 30 - ESMALTE TOP QUALITY GRIS PLATA 1799 -PINTUCO .pdf",
+  "pagina": 5,
+  "ancho": 142,
+  "alto": 99,
+  "texto_ocr": "El Color de la Ae",
+  "nota": "imagen repetida en 10 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_c33a02be24cd8fd96f615143a1a2fd0d4fa745e62f6d51f88d20d71a70f08287.png",
+  "ruta_relativa": "../imagenes/FDS_030/image_000001_c33a02be24cd8fd96f615143a1a2fd0d4fa745e62f6d51f88d20d71a70f08287.png",
+  "documento": "FDS 30 - ESMALTE TOP QUALITY GRIS PLATA 1799 -PINTUCO .pdf",
+  "pagina": 5,
+  "ancho": 77,
+  "alto": 115,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_58d221ea1f4a1404220c2e90ef494e9508504e93262249611a5f023009c71cb1.png",
+  "ruta_relativa": "../imagenes/FDS_030/image_000002_58d221ea1f4a1404220c2e90ef494e9508504e93262249611a5f023009c71cb1.png",
+  "documento": "FDS 30 - ESMALTE TOP QUALITY GRIS PLATA 1799 -PINTUCO .pdf",
+  "pagina": 5,
+  "ancho": 94,
+  "alto": 111,
+  "texto_ocr": "Proteccion obligatoria de los pies",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000003_528171867689c1cf60413c06992cfde8a9de584f06ff2b86ab9ff06a4bc8621e.png",
+  "ruta_relativa": "../imagenes/FDS_030/image_000003_528171867689c1cf60413c06992cfde8a9de584f06ff2b86ab9ff06a4bc8621e.png",
+  "documento": "FDS 30 - ESMALTE TOP QUALITY GRIS PLATA 1799 -PINTUCO .pdf",
+  "pagina": 5,
+  "ancho": 360,
+  "alto": 84,
+  "texto_ocr": "Calidad?",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000004_7b404c06de023628042c45df83d970ff7885f4645d688dbcb0a645d62987a591.png",
+  "ruta_relativa": "../imagenes/FDS_030/image_000004_7b404c06de023628042c45df83d970ff7885f4645d688dbcb0a645d62987a591.png",
+  "documento": "FDS 30 - ESMALTE TOP QUALITY GRIS PLATA 1799 -PINTUCO .pdf",
+  "pagina": 5,
+  "ancho": 59,
+  "alto": 75,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_c66d440449e1488370a83172091903edccca69d535dfd04b4ff2dbe6b3ae7ca0.png",
+  "ruta_relativa": "../imagenes/FDS_030/image_000000_c66d440449e1488370a83172091903edccca69d535dfd04b4ff2dbe6b3ae7ca0.png",
+  "documento": "FDS 30 - ESMALTE TOP QUALITY GRIS PLATA 1799 -PINTUCO .pdf",
+  "pagina": 6,
+  "ancho": 142,
+  "alto": 99,
+  "texto_ocr": "El Color de la Ae",
+  "nota": "imagen repetida en 10 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_c66d440449e1488370a83172091903edccca69d535dfd04b4ff2dbe6b3ae7ca0.png",
+  "ruta_relativa": "../imagenes/FDS_030/image_000000_c66d440449e1488370a83172091903edccca69d535dfd04b4ff2dbe6b3ae7ca0.png",
+  "documento": "FDS 30 - ESMALTE TOP QUALITY GRIS PLATA 1799 -PINTUCO .pdf",
+  "pagina": 7,
+  "ancho": 142,
+  "alto": 99,
+  "texto_ocr": "El Color de la Ae",
+  "nota": "imagen repetida en 10 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_c66d440449e1488370a83172091903edccca69d535dfd04b4ff2dbe6b3ae7ca0.png",
+  "ruta_relativa": "../imagenes/FDS_030/image_000000_c66d440449e1488370a83172091903edccca69d535dfd04b4ff2dbe6b3ae7ca0.png",
+  "documento": "FDS 30 - ESMALTE TOP QUALITY GRIS PLATA 1799 -PINTUCO .pdf",
+  "pagina": 8,
+  "ancho": 142,
+  "alto": 99,
+  "texto_ocr": "El Color de la Ae",
+  "nota": "imagen repetida en 10 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_c66d440449e1488370a83172091903edccca69d535dfd04b4ff2dbe6b3ae7ca0.png",
+  "ruta_relativa": "../imagenes/FDS_030/image_000000_c66d440449e1488370a83172091903edccca69d535dfd04b4ff2dbe6b3ae7ca0.png",
+  "documento": "FDS 30 - ESMALTE TOP QUALITY GRIS PLATA 1799 -PINTUCO .pdf",
+  "pagina": 9,
+  "ancho": 142,
+  "alto": 99,
+  "texto_ocr": "El Color de la Ae",
+  "nota": "imagen repetida en 10 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_a3dd16ae246b9723023ea1876945fd03e9488f37c6899e7d4f211c05b0d16e76.png",
+  "ruta_relativa": "../imagenes/FDS_030/image_000001_a3dd16ae246b9723023ea1876945fd03e9488f37c6899e7d4f211c05b0d16e76.png",
+  "documento": "FDS 30 - ESMALTE TOP QUALITY GRIS PLATA 1799 -PINTUCO .pdf",
+  "pagina": 9,
+  "ancho": 69,
+  "alto": 69,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_ac51db7b3d4a5915816484736363037e700ddcdf4f64a2e4713f586843571616.png",
+  "ruta_relativa": "../imagenes/FDS_030/image_000002_ac51db7b3d4a5915816484736363037e700ddcdf4f64a2e4713f586843571616.png",
+  "documento": "FDS 30 - ESMALTE TOP QUALITY GRIS PLATA 1799 -PINTUCO .pdf",
+  "pagina": 9,
+  "ancho": 69,
+  "alto": 67,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_403dee394f01aea7d29cbabde5e9d6a3f5c4493df91acb71b583524367eae3ee.png",
+  "ruta_relativa": "../imagenes/FDS_030/image_000003_403dee394f01aea7d29cbabde5e9d6a3f5c4493df91acb71b583524367eae3ee.png",
+  "documento": "FDS 30 - ESMALTE TOP QUALITY GRIS PLATA 1799 -PINTUCO .pdf",
+  "pagina": 9,
+  "ancho": 68,
+  "alto": 67,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000004_750907759c467ca1676c418dc5111310b7f1cc5872fe6810fc2cd9dc3b859827.png",
+  "ruta_relativa": "../imagenes/FDS_030/image_000004_750907759c467ca1676c418dc5111310b7f1cc5872fe6810fc2cd9dc3b859827.png",
+  "documento": "FDS 30 - ESMALTE TOP QUALITY GRIS PLATA 1799 -PINTUCO .pdf",
+  "pagina": 9,
+  "ancho": 65,
+  "alto": 69,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_c66d440449e1488370a83172091903edccca69d535dfd04b4ff2dbe6b3ae7ca0.png",
+  "ruta_relativa": "../imagenes/FDS_030/image_000000_c66d440449e1488370a83172091903edccca69d535dfd04b4ff2dbe6b3ae7ca0.png",
+  "documento": "FDS 30 - ESMALTE TOP QUALITY GRIS PLATA 1799 -PINTUCO .pdf",
+  "pagina": 10,
+  "ancho": 142,
+  "alto": 99,
+  "texto_ocr": "El Color de la Ae",
+  "nota": "imagen repetida en 10 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_2575ffdec44a9857ce0fe8e35f40ed6ff7cf3e156eeb8815d4154d1ec37b9b9d.png",
+  "ruta_relativa": "../imagenes/FDS_030/image_000001_2575ffdec44a9857ce0fe8e35f40ed6ff7cf3e156eeb8815d4154d1ec37b9b9d.png",
+  "documento": "FDS 30 - ESMALTE TOP QUALITY GRIS PLATA 1799 -PINTUCO .pdf",
+  "pagina": 10,
+  "ancho": 32,
+  "alto": 35,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_0dfe72477044940a9f77e687b2408dbb7f02b7e2c94036d7c28c2a261d39d92f.png",
+  "ruta_relativa": "../imagenes/FDS_030/image_000000_0dfe72477044940a9f77e687b2408dbb7f02b7e2c94036d7c28c2a261d39d92f.png",
+  "documento": "FDS 30 - ESMALTE TOP QUALITY GRIS PLATA 1799 -PINTUCO .pdf",
+  "pagina": 11,
+  "ancho": 141,
+  "alto": 99,
+  "texto_ocr": "El Color de la Ae",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000001_8f3dece0955cfb535b4180012f239fd7a81f40b538a47b1c3abb416b9e4b3131.png",
+  "ruta_relativa": "../imagenes/FDS_030/image_000001_8f3dece0955cfb535b4180012f239fd7a81f40b538a47b1c3abb416b9e4b3131.png",
+  "documento": "FDS 30 - ESMALTE TOP QUALITY GRIS PLATA 1799 -PINTUCO .pdf",
+  "pagina": 11,
+  "ancho": 987,
+  "alto": 552,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ }
+]

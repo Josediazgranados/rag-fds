@@ -1,0 +1,302 @@
+[
+ {
+  "archivo": "image_000000_25d09307b21d3fc6c3dc51a9ffb32ed6b6c42a07609bfcf63cbfb85ceedc55e5.png",
+  "ruta_relativa": "../imagenes/FDS_017/image_000000_25d09307b21d3fc6c3dc51a9ffb32ed6b6c42a07609bfcf63cbfb85ceedc55e5.png",
+  "documento": "FDS 17 - inmunizante-universal.pdf",
+  "pagina": 1,
+  "ancho": 197,
+  "alto": 97,
+  "texto_ocr": "TECNIS-DECOR",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000001_83eade86f540743fae94d7e44b70637a36f3ac7e8986b128fa3c2ad3bfe005d6.png",
+  "ruta_relativa": "../imagenes/FDS_017/image_000001_83eade86f540743fae94d7e44b70637a36f3ac7e8986b128fa3c2ad3bfe005d6.png",
+  "documento": "FDS 17 - inmunizante-universal.pdf",
+  "pagina": 1,
+  "ancho": 82,
+  "alto": 80,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_2cba163b4966f7178203cc9b836d261c64b4d9168622666caa93b7de4fc33af5.png",
+  "ruta_relativa": "../imagenes/FDS_017/image_000002_2cba163b4966f7178203cc9b836d261c64b4d9168622666caa93b7de4fc33af5.png",
+  "documento": "FDS 17 - inmunizante-universal.pdf",
+  "pagina": 1,
+  "ancho": 28,
+  "alto": 40,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_78219d0767d04ae15b3c647559a5fa8b95673e73977cf4676a6a3cfeb8a186a3.png",
+  "ruta_relativa": "../imagenes/FDS_017/image_000003_78219d0767d04ae15b3c647559a5fa8b95673e73977cf4676a6a3cfeb8a186a3.png",
+  "documento": "FDS 17 - inmunizante-universal.pdf",
+  "pagina": 1,
+  "ancho": 39,
+  "alto": 35,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000004_c56eed9a6147a4ad2a437b594883acec45aba9a04f880685d523f8fcd00f6733.png",
+  "ruta_relativa": "../imagenes/FDS_017/image_000004_c56eed9a6147a4ad2a437b594883acec45aba9a04f880685d523f8fcd00f6733.png",
+  "documento": "FDS 17 - inmunizante-universal.pdf",
+  "pagina": 1,
+  "ancho": 38,
+  "alto": 36,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000005_60b213ca55cadc50ec90b73408fe24c547d0b4c51618a4cfffbb5ed417055154.png",
+  "ruta_relativa": "../imagenes/FDS_017/image_000005_60b213ca55cadc50ec90b73408fe24c547d0b4c51618a4cfffbb5ed417055154.png",
+  "documento": "FDS 17 - inmunizante-universal.pdf",
+  "pagina": 1,
+  "ancho": 280,
+  "alto": 141,
+  "texto_ocr": "SALUD INFLAMABLE s§s FO ¡PELIGRO FÍSICO EM PROTECCIOÓN PERSONAL",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000006_be10063647c3307b0febd3bd667132052c3164c4f63d81dd98f3deaff87f1ce7.png",
+  "ruta_relativa": "../imagenes/FDS_017/image_000006_be10063647c3307b0febd3bd667132052c3164c4f63d81dd98f3deaff87f1ce7.png",
+  "documento": "FDS 17 - inmunizante-universal.pdf",
+  "pagina": 1,
+  "ancho": 43,
+  "alto": 45,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000007_97f079c886e654fd792faa724a3fffebd6dc4f866dd21598cb7c755b568a22dc.png",
+  "ruta_relativa": "../imagenes/FDS_017/image_000007_97f079c886e654fd792faa724a3fffebd6dc4f866dd21598cb7c755b568a22dc.png",
+  "documento": "FDS 17 - inmunizante-universal.pdf",
+  "pagina": 1,
+  "ancho": 137,
+  "alto": 135,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000008_5ce489170768be73ce05f6a4b9d8af13e3bb919ef5d9e451090991775bb7871b.png",
+  "ruta_relativa": "../imagenes/FDS_017/image_000008_5ce489170768be73ce05f6a4b9d8af13e3bb919ef5d9e451090991775bb7871b.png",
+  "documento": "FDS 17 - inmunizante-universal.pdf",
+  "pagina": 1,
+  "ancho": 134,
+  "alto": 132,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000009_7b2a1aa95e46b98ee09433b1b81b8462ed95a75ca9730166bea8dcc46d943eee.png",
+  "ruta_relativa": "../imagenes/FDS_017/image_000009_7b2a1aa95e46b98ee09433b1b81b8462ed95a75ca9730166bea8dcc46d943eee.png",
+  "documento": "FDS 17 - inmunizante-universal.pdf",
+  "pagina": 1,
+  "ancho": 134,
+  "alto": 137,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000010_19bddf5e95a130a8d9078165780b7e7c9ff662a947545fc73f17589588b4a9bc.png",
+  "ruta_relativa": "../imagenes/FDS_017/image_000010_19bddf5e95a130a8d9078165780b7e7c9ff662a947545fc73f17589588b4a9bc.png",
+  "documento": "FDS 17 - inmunizante-universal.pdf",
+  "pagina": 1,
+  "ancho": 142,
+  "alto": 136,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000011_58e2e75c638b871982da7531a72dc17452cdc7458874c913ff9fd634de6d8c62.png",
+  "ruta_relativa": "../imagenes/FDS_017/image_000011_58e2e75c638b871982da7531a72dc17452cdc7458874c913ff9fd634de6d8c62.png",
+  "documento": "FDS 17 - inmunizante-universal.pdf",
+  "pagina": 1,
+  "ancho": 140,
+  "alto": 139,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_1e0642f0a0eaf6250667ce618d39e8b532a7527d06a9d4dd9c46bef77b7db0a7.png",
+  "ruta_relativa": "../imagenes/FDS_017/image_000000_1e0642f0a0eaf6250667ce618d39e8b532a7527d06a9d4dd9c46bef77b7db0a7.png",
+  "documento": "FDS 17 - inmunizante-universal.pdf",
+  "pagina": 2,
+  "ancho": 198,
+  "alto": 97,
+  "texto_ocr": "TECNIS-DECOR",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000001_701d7db20ebbc3f12116ea2c0440eaaf2084fb99db6f6cb331ccb4ebd49289ef.png",
+  "ruta_relativa": "../imagenes/FDS_017/image_000001_701d7db20ebbc3f12116ea2c0440eaaf2084fb99db6f6cb331ccb4ebd49289ef.png",
+  "documento": "FDS 17 - inmunizante-universal.pdf",
+  "pagina": 2,
+  "ancho": 81,
+  "alto": 78,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_3f36e22adea5cb28d808ecfe11f1ea4c951ff675b7bca9e0a2a153ea62e49d4c.png",
+  "ruta_relativa": "../imagenes/FDS_017/image_000002_3f36e22adea5cb28d808ecfe11f1ea4c951ff675b7bca9e0a2a153ea62e49d4c.png",
+  "documento": "FDS 17 - inmunizante-universal.pdf",
+  "pagina": 2,
+  "ancho": 38,
+  "alto": 34,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_0e6ce906026446792b1727ce7ab3dfe30e37fa36dc91c7d42edaa1b68341f369.png",
+  "ruta_relativa": "../imagenes/FDS_017/image_000003_0e6ce906026446792b1727ce7ab3dfe30e37fa36dc91c7d42edaa1b68341f369.png",
+  "documento": "FDS 17 - inmunizante-universal.pdf",
+  "pagina": 2,
+  "ancho": 47,
+  "alto": 40,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000004_513cd55e043e5c44c3128b61f6254244132df27191fadf111720388e6dead32f.png",
+  "ruta_relativa": "../imagenes/FDS_017/image_000004_513cd55e043e5c44c3128b61f6254244132df27191fadf111720388e6dead32f.png",
+  "documento": "FDS 17 - inmunizante-universal.pdf",
+  "pagina": 2,
+  "ancho": 48,
+  "alto": 40,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000005_224d8637c7568e6ee78fee33d5f648ddb87715596d70ee76babcacb251d3740f.png",
+  "ruta_relativa": "../imagenes/FDS_017/image_000005_224d8637c7568e6ee78fee33d5f648ddb87715596d70ee76babcacb251d3740f.png",
+  "documento": "FDS 17 - inmunizante-universal.pdf",
+  "pagina": 2,
+  "ancho": 36,
+  "alto": 35,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000006_26da3447dcf85f1ea03a70e84be0ba455529569e8c9c69d1c2ad628ff62d55a2.png",
+  "ruta_relativa": "../imagenes/FDS_017/image_000006_26da3447dcf85f1ea03a70e84be0ba455529569e8c9c69d1c2ad628ff62d55a2.png",
+  "documento": "FDS 17 - inmunizante-universal.pdf",
+  "pagina": 2,
+  "ancho": 52,
+  "alto": 35,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_31f7cf04483ca7cd4b70d1830efa8da49c769f9d3dd371ba72a0ecae5a3e97a8.png",
+  "ruta_relativa": "../imagenes/FDS_017/image_000000_31f7cf04483ca7cd4b70d1830efa8da49c769f9d3dd371ba72a0ecae5a3e97a8.png",
+  "documento": "FDS 17 - inmunizante-universal.pdf",
+  "pagina": 3,
+  "ancho": 200,
+  "alto": 97,
+  "texto_ocr": "TECNIS-DECOR *",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000001_0a8b9b874a40237df3b390125849c4d490e525bc146180f7b1d7f3c2d70d0434.png",
+  "ruta_relativa": "../imagenes/FDS_017/image_000001_0a8b9b874a40237df3b390125849c4d490e525bc146180f7b1d7f3c2d70d0434.png",
+  "documento": "FDS 17 - inmunizante-universal.pdf",
+  "pagina": 3,
+  "ancho": 81,
+  "alto": 80,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_394de189f225869f34585368b5b34bd949ec3c1f506410f85f274cd731ae0350.png",
+  "ruta_relativa": "../imagenes/FDS_017/image_000002_394de189f225869f34585368b5b34bd949ec3c1f506410f85f274cd731ae0350.png",
+  "documento": "FDS 17 - inmunizante-universal.pdf",
+  "pagina": 3,
+  "ancho": 39,
+  "alto": 40,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_8d666b586ab7c47d9e9e6ae4f164af45d1a62d937970d6ddb1b306b99179596b.png",
+  "ruta_relativa": "../imagenes/FDS_017/image_000003_8d666b586ab7c47d9e9e6ae4f164af45d1a62d937970d6ddb1b306b99179596b.png",
+  "documento": "FDS 17 - inmunizante-universal.pdf",
+  "pagina": 3,
+  "ancho": 45,
+  "alto": 39,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000004_1d9eb320cf4f8dba78e4e664787ae213fc182d5f2805cd0f96a1832b89b6bdcf.png",
+  "ruta_relativa": "../imagenes/FDS_017/image_000004_1d9eb320cf4f8dba78e4e664787ae213fc182d5f2805cd0f96a1832b89b6bdcf.png",
+  "documento": "FDS 17 - inmunizante-universal.pdf",
+  "pagina": 3,
+  "ancho": 48,
+  "alto": 43,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000005_0220d397cd37dc6d4e0396391a8271127460ef2d875fe6d4e93367f6655c00b5.png",
+  "ruta_relativa": "../imagenes/FDS_017/image_000005_0220d397cd37dc6d4e0396391a8271127460ef2d875fe6d4e93367f6655c00b5.png",
+  "documento": "FDS 17 - inmunizante-universal.pdf",
+  "pagina": 3,
+  "ancho": 44,
+  "alto": 41,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000006_266425b7d28764e7e6d13bb927b2a6b9a4f46e04136da596b5e1949d927b362b.png",
+  "ruta_relativa": "../imagenes/FDS_017/image_000006_266425b7d28764e7e6d13bb927b2a6b9a4f46e04136da596b5e1949d927b362b.png",
+  "documento": "FDS 17 - inmunizante-universal.pdf",
+  "pagina": 3,
+  "ancho": 40,
+  "alto": 44,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000007_6fd9f1d4573d9889aecd56829c1cba279ff9cc655389d2b0772d280ed74d3857.png",
+  "ruta_relativa": "../imagenes/FDS_017/image_000007_6fd9f1d4573d9889aecd56829c1cba279ff9cc655389d2b0772d280ed74d3857.png",
+  "documento": "FDS 17 - inmunizante-universal.pdf",
+  "pagina": 3,
+  "ancho": 34,
+  "alto": 38,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_8d4134855347eb5abddca845f4fec67d359164e380e22c30bed5fe2f714597c0.png",
+  "ruta_relativa": "../imagenes/FDS_017/image_000000_8d4134855347eb5abddca845f4fec67d359164e380e22c30bed5fe2f714597c0.png",
+  "documento": "FDS 17 - inmunizante-universal.pdf",
+  "pagina": 4,
+  "ancho": 197,
+  "alto": 98,
+  "texto_ocr": "TECNIS-DECOR",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000001_83eade86f540743fae94d7e44b70637a36f3ac7e8986b128fa3c2ad3bfe005d6.png",
+  "ruta_relativa": "../imagenes/FDS_017/image_000001_83eade86f540743fae94d7e44b70637a36f3ac7e8986b128fa3c2ad3bfe005d6.png",
+  "documento": "FDS 17 - inmunizante-universal.pdf",
+  "pagina": 4,
+  "ancho": 82,
+  "alto": 80,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_d135074b37679115484d61041ba1e022cd728a52802f4e5748958ec775dbefa8.png",
+  "ruta_relativa": "../imagenes/FDS_017/image_000002_d135074b37679115484d61041ba1e022cd728a52802f4e5748958ec775dbefa8.png",
+  "documento": "FDS 17 - inmunizante-universal.pdf",
+  "pagina": 4,
+  "ancho": 42,
+  "alto": 38,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ }
+]

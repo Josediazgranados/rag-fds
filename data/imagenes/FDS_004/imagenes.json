@@ -1,0 +1,302 @@
+[
+ {
+  "archivo": "image_000000_071684c61b0d2cb4db3c33830c325c4d11d9c3163f091466de086b6e371b3d39.png",
+  "ruta_relativa": "../imagenes/FDS_004/image_000000_071684c61b0d2cb4db3c33830c325c4d11d9c3163f091466de086b6e371b3d39.png",
+  "documento": "FDS 4 -catalizador-duraglass.pdf",
+  "pagina": 1,
+  "ancho": 196,
+  "alto": 98,
+  "texto_ocr": "TECNIS-DECOR",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000001_f44d73e1aacda2712252ab7542814b9d6768b12d95b59b706e54a80d0cd974a4.png",
+  "ruta_relativa": "../imagenes/FDS_004/image_000001_f44d73e1aacda2712252ab7542814b9d6768b12d95b59b706e54a80d0cd974a4.png",
+  "documento": "FDS 4 -catalizador-duraglass.pdf",
+  "pagina": 1,
+  "ancho": 82,
+  "alto": 80,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 3 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000002_2cba163b4966f7178203cc9b836d261c64b4d9168622666caa93b7de4fc33af5.png",
+  "ruta_relativa": "../imagenes/FDS_004/image_000002_2cba163b4966f7178203cc9b836d261c64b4d9168622666caa93b7de4fc33af5.png",
+  "documento": "FDS 4 -catalizador-duraglass.pdf",
+  "pagina": 1,
+  "ancho": 28,
+  "alto": 40,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_c9569d9284f69983afb323c9904f0d5fe48fb798b9987206d82ac7eb371cdc88.png",
+  "ruta_relativa": "../imagenes/FDS_004/image_000003_c9569d9284f69983afb323c9904f0d5fe48fb798b9987206d82ac7eb371cdc88.png",
+  "documento": "FDS 4 -catalizador-duraglass.pdf",
+  "pagina": 1,
+  "ancho": 39,
+  "alto": 34,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000004_f1a0622bf846d966bc7031068b43081efea9b7ea2030b7dbecf76f6f44098b18.png",
+  "ruta_relativa": "../imagenes/FDS_004/image_000004_f1a0622bf846d966bc7031068b43081efea9b7ea2030b7dbecf76f6f44098b18.png",
+  "documento": "FDS 4 -catalizador-duraglass.pdf",
+  "pagina": 1,
+  "ancho": 39,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000005_0f17fe52d75c718fb48d54ca78575bee05af5956bc7c67358a57170ffc37fbbb.png",
+  "ruta_relativa": "../imagenes/FDS_004/image_000005_0f17fe52d75c718fb48d54ca78575bee05af5956bc7c67358a57170ffc37fbbb.png",
+  "documento": "FDS 4 -catalizador-duraglass.pdf",
+  "pagina": 1,
+  "ancho": 301,
+  "alto": 140,
+  "texto_ocr": "2 3 0 PROTECCIOON PERSONAL",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000006_5abee9c8c972e28a15f1e57cd2c86f37fc52c8301eb7a56325791256eb05ccd1.png",
+  "ruta_relativa": "../imagenes/FDS_004/image_000006_5abee9c8c972e28a15f1e57cd2c86f37fc52c8301eb7a56325791256eb05ccd1.png",
+  "documento": "FDS 4 -catalizador-duraglass.pdf",
+  "pagina": 1,
+  "ancho": 132,
+  "alto": 133,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000007_6e3f90dc7c89275b198fda29eefbcab2a85f4cac7c3b4dfd88a51875b12377a4.png",
+  "ruta_relativa": "../imagenes/FDS_004/image_000007_6e3f90dc7c89275b198fda29eefbcab2a85f4cac7c3b4dfd88a51875b12377a4.png",
+  "documento": "FDS 4 -catalizador-duraglass.pdf",
+  "pagina": 1,
+  "ancho": 136,
+  "alto": 136,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000008_b10a9db21f69eb60634620c6895f660b21d55503918d3ef409cb25a8182126f3.png",
+  "ruta_relativa": "../imagenes/FDS_004/image_000008_b10a9db21f69eb60634620c6895f660b21d55503918d3ef409cb25a8182126f3.png",
+  "documento": "FDS 4 -catalizador-duraglass.pdf",
+  "pagina": 1,
+  "ancho": 142,
+  "alto": 142,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000009_babceb329c516fab1817e103d29f2bcfa600bcd8e70ed66eda5025158edf268d.png",
+  "ruta_relativa": "../imagenes/FDS_004/image_000009_babceb329c516fab1817e103d29f2bcfa600bcd8e70ed66eda5025158edf268d.png",
+  "documento": "FDS 4 -catalizador-duraglass.pdf",
+  "pagina": 1,
+  "ancho": 43,
+  "alto": 43,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_1e0642f0a0eaf6250667ce618d39e8b532a7527d06a9d4dd9c46bef77b7db0a7.png",
+  "ruta_relativa": "../imagenes/FDS_004/image_000000_1e0642f0a0eaf6250667ce618d39e8b532a7527d06a9d4dd9c46bef77b7db0a7.png",
+  "documento": "FDS 4 -catalizador-duraglass.pdf",
+  "pagina": 2,
+  "ancho": 198,
+  "alto": 97,
+  "texto_ocr": "TECNIS-DECOR",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000001_ff04059e3dec215f713d15c05a8cf0384fe461c8a7c96f96c3ad848ccb15b8bb.png",
+  "ruta_relativa": "../imagenes/FDS_004/image_000001_ff04059e3dec215f713d15c05a8cf0384fe461c8a7c96f96c3ad848ccb15b8bb.png",
+  "documento": "FDS 4 -catalizador-duraglass.pdf",
+  "pagina": 2,
+  "ancho": 81,
+  "alto": 80,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_8b2dd57c01c526af3df229efed19fa595678714230bf857b784aa6d12781511e.png",
+  "ruta_relativa": "../imagenes/FDS_004/image_000002_8b2dd57c01c526af3df229efed19fa595678714230bf857b784aa6d12781511e.png",
+  "documento": "FDS 4 -catalizador-duraglass.pdf",
+  "pagina": 2,
+  "ancho": 36,
+  "alto": 34,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_d973af196e5f6ebac4e73ad7939cf80a962bcb538f9aef1eff35f3f5601a4c3c.png",
+  "ruta_relativa": "../imagenes/FDS_004/image_000003_d973af196e5f6ebac4e73ad7939cf80a962bcb538f9aef1eff35f3f5601a4c3c.png",
+  "documento": "FDS 4 -catalizador-duraglass.pdf",
+  "pagina": 2,
+  "ancho": 47,
+  "alto": 41,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000004_a5ab5a4c53725c82086ec77c0b1c8eeec214463bd197c01e74ee8673a749affa.png",
+  "ruta_relativa": "../imagenes/FDS_004/image_000004_a5ab5a4c53725c82086ec77c0b1c8eeec214463bd197c01e74ee8673a749affa.png",
+  "documento": "FDS 4 -catalizador-duraglass.pdf",
+  "pagina": 2,
+  "ancho": 48,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_642eba86b416bddb6776ec5f6810f247993b1aba3f541dea8ce548a6ef0460b5.png",
+  "ruta_relativa": "../imagenes/FDS_004/image_000000_642eba86b416bddb6776ec5f6810f247993b1aba3f541dea8ce548a6ef0460b5.png",
+  "documento": "FDS 4 -catalizador-duraglass.pdf",
+  "pagina": 3,
+  "ancho": 200,
+  "alto": 98,
+  "texto_ocr": "TECNIS-DECOR *",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000001_f44d73e1aacda2712252ab7542814b9d6768b12d95b59b706e54a80d0cd974a4.png",
+  "ruta_relativa": "../imagenes/FDS_004/image_000001_f44d73e1aacda2712252ab7542814b9d6768b12d95b59b706e54a80d0cd974a4.png",
+  "documento": "FDS 4 -catalizador-duraglass.pdf",
+  "pagina": 3,
+  "ancho": 82,
+  "alto": 80,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 3 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000002_5ca655a65a69c28e9494b7600913c0d22227ccb5bcf8abefbdeaed1f067b1deb.png",
+  "ruta_relativa": "../imagenes/FDS_004/image_000002_5ca655a65a69c28e9494b7600913c0d22227ccb5bcf8abefbdeaed1f067b1deb.png",
+  "documento": "FDS 4 -catalizador-duraglass.pdf",
+  "pagina": 3,
+  "ancho": 36,
+  "alto": 35,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_049cf6111ccfa2348b20507f22348c11e4789f85c80db37a70771f2d4ce3b1ab.png",
+  "ruta_relativa": "../imagenes/FDS_004/image_000003_049cf6111ccfa2348b20507f22348c11e4789f85c80db37a70771f2d4ce3b1ab.png",
+  "documento": "FDS 4 -catalizador-duraglass.pdf",
+  "pagina": 3,
+  "ancho": 53,
+  "alto": 36,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_0a7f34c6bb8e322053736574661e36fe6ee7976fb9f2fc0a9c9729aa6ca6bd90.png",
+  "ruta_relativa": "../imagenes/FDS_004/image_000000_0a7f34c6bb8e322053736574661e36fe6ee7976fb9f2fc0a9c9729aa6ca6bd90.png",
+  "documento": "FDS 4 -catalizador-duraglass.pdf",
+  "pagina": 4,
+  "ancho": 201,
+  "alto": 98,
+  "texto_ocr": "TECNIS-DECOR *",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000001_f44d73e1aacda2712252ab7542814b9d6768b12d95b59b706e54a80d0cd974a4.png",
+  "ruta_relativa": "../imagenes/FDS_004/image_000001_f44d73e1aacda2712252ab7542814b9d6768b12d95b59b706e54a80d0cd974a4.png",
+  "documento": "FDS 4 -catalizador-duraglass.pdf",
+  "pagina": 4,
+  "ancho": 82,
+  "alto": 80,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 3 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000002_f0c10ccc82b7314f4f06c78f08cf8157aa25c742046fd424018efe4589f54af1.png",
+  "ruta_relativa": "../imagenes/FDS_004/image_000002_f0c10ccc82b7314f4f06c78f08cf8157aa25c742046fd424018efe4589f54af1.png",
+  "documento": "FDS 4 -catalizador-duraglass.pdf",
+  "pagina": 4,
+  "ancho": 39,
+  "alto": 40,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_8f35faa1151182b321d97312933431c441433c867e4019b023d946a93eac2070.png",
+  "ruta_relativa": "../imagenes/FDS_004/image_000003_8f35faa1151182b321d97312933431c441433c867e4019b023d946a93eac2070.png",
+  "documento": "FDS 4 -catalizador-duraglass.pdf",
+  "pagina": 4,
+  "ancho": 43,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000004_5408ef1cd18f1b1715723aba232012ab6a51824c801127eb3f4bc9dd78ffd325.png",
+  "ruta_relativa": "../imagenes/FDS_004/image_000004_5408ef1cd18f1b1715723aba232012ab6a51824c801127eb3f4bc9dd78ffd325.png",
+  "documento": "FDS 4 -catalizador-duraglass.pdf",
+  "pagina": 4,
+  "ancho": 47,
+  "alto": 42,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000005_a6e4d8e30cd7679e2dd13434262d9d0c967f368acab4ac638ebce47a78c4b091.png",
+  "ruta_relativa": "../imagenes/FDS_004/image_000005_a6e4d8e30cd7679e2dd13434262d9d0c967f368acab4ac638ebce47a78c4b091.png",
+  "documento": "FDS 4 -catalizador-duraglass.pdf",
+  "pagina": 4,
+  "ancho": 45,
+  "alto": 42,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000006_b277a6acfffd10cf5127b248ab3f05ccf9ae5288fa9b25f2eef2a82880f96876.png",
+  "ruta_relativa": "../imagenes/FDS_004/image_000006_b277a6acfffd10cf5127b248ab3f05ccf9ae5288fa9b25f2eef2a82880f96876.png",
+  "documento": "FDS 4 -catalizador-duraglass.pdf",
+  "pagina": 4,
+  "ancho": 40,
+  "alto": 45,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_8d4134855347eb5abddca845f4fec67d359164e380e22c30bed5fe2f714597c0.png",
+  "ruta_relativa": "../imagenes/FDS_004/image_000000_8d4134855347eb5abddca845f4fec67d359164e380e22c30bed5fe2f714597c0.png",
+  "documento": "FDS 4 -catalizador-duraglass.pdf",
+  "pagina": 5,
+  "ancho": 197,
+  "alto": 98,
+  "texto_ocr": "TECNIS-DECOR",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000001_ff04059e3dec215f713d15c05a8cf0384fe461c8a7c96f96c3ad848ccb15b8bb.png",
+  "ruta_relativa": "../imagenes/FDS_004/image_000001_ff04059e3dec215f713d15c05a8cf0384fe461c8a7c96f96c3ad848ccb15b8bb.png",
+  "documento": "FDS 4 -catalizador-duraglass.pdf",
+  "pagina": 5,
+  "ancho": 81,
+  "alto": 80,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_6fd9f1d4573d9889aecd56829c1cba279ff9cc655389d2b0772d280ed74d3857.png",
+  "ruta_relativa": "../imagenes/FDS_004/image_000002_6fd9f1d4573d9889aecd56829c1cba279ff9cc655389d2b0772d280ed74d3857.png",
+  "documento": "FDS 4 -catalizador-duraglass.pdf",
+  "pagina": 5,
+  "ancho": 34,
+  "alto": 38,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_3e265b7c42795ebefc6275be23e9affba18eba5819c4be30c22bf8f20efde9ec.png",
+  "ruta_relativa": "../imagenes/FDS_004/image_000003_3e265b7c42795ebefc6275be23e9affba18eba5819c4be30c22bf8f20efde9ec.png",
+  "documento": "FDS 4 -catalizador-duraglass.pdf",
+  "pagina": 5,
+  "ancho": 44,
+  "alto": 39,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ }
+]

@@ -1,0 +1,462 @@
+[
+ {
+  "archivo": "image_000000_4701eb0bac5448431df727ae4cf6769a078ae88f99c20ac9d082f1017611156c.png",
+  "ruta_relativa": "../imagenes/FDS_101/image_000000_4701eb0bac5448431df727ae4cf6769a078ae88f99c20ac9d082f1017611156c.png",
+  "documento": "FDS 101 - BARNIZ SOLAR - PINTURAS BLER.pdf",
+  "pagina": 1,
+  "ancho": 171,
+  "alto": 73,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 12 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_1921a1a64b17b3433d2ebf28f9e7640988cd51c29e8482fa689b30104ae044ce.png",
+  "ruta_relativa": "../imagenes/FDS_101/image_000001_1921a1a64b17b3433d2ebf28f9e7640988cd51c29e8482fa689b30104ae044ce.png",
+  "documento": "FDS 101 - BARNIZ SOLAR - PINTURAS BLER.pdf",
+  "pagina": 1,
+  "ancho": 74,
+  "alto": 73,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_e06716bb2b434217fbd5c45631ea118af448311099d53df47858a6bab9243c8f.png",
+  "ruta_relativa": "../imagenes/FDS_101/image_000002_e06716bb2b434217fbd5c45631ea118af448311099d53df47858a6bab9243c8f.png",
+  "documento": "FDS 101 - BARNIZ SOLAR - PINTURAS BLER.pdf",
+  "pagina": 1,
+  "ancho": 57,
+  "alto": 56,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_1043db92b2cc9757811d158342cd68e329612d977e1db4c4e3b97d6cc6756288.png",
+  "ruta_relativa": "../imagenes/FDS_101/image_000003_1043db92b2cc9757811d158342cd68e329612d977e1db4c4e3b97d6cc6756288.png",
+  "documento": "FDS 101 - BARNIZ SOLAR - PINTURAS BLER.pdf",
+  "pagina": 1,
+  "ancho": 57,
+  "alto": 59,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000004_d888864bf0a40cbf9d00470d831434cb8ec747b4e4eb687f0f3c376e8e384113.png",
+  "ruta_relativa": "../imagenes/FDS_101/image_000004_d888864bf0a40cbf9d00470d831434cb8ec747b4e4eb687f0f3c376e8e384113.png",
+  "documento": "FDS 101 - BARNIZ SOLAR - PINTURAS BLER.pdf",
+  "pagina": 1,
+  "ancho": 65,
+  "alto": 66,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000005_84ad63d97da4d18de8c940a608a2d31500eedd85c0f3cc5838d7bbf08fb53d5c.png",
+  "ruta_relativa": "../imagenes/FDS_101/image_000005_84ad63d97da4d18de8c940a608a2d31500eedd85c0f3cc5838d7bbf08fb53d5c.png",
+  "documento": "FDS 101 - BARNIZ SOLAR - PINTURAS BLER.pdf",
+  "pagina": 1,
+  "ancho": 58,
+  "alto": 55,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_4701eb0bac5448431df727ae4cf6769a078ae88f99c20ac9d082f1017611156c.png",
+  "ruta_relativa": "../imagenes/FDS_101/image_000000_4701eb0bac5448431df727ae4cf6769a078ae88f99c20ac9d082f1017611156c.png",
+  "documento": "FDS 101 - BARNIZ SOLAR - PINTURAS BLER.pdf",
+  "pagina": 2,
+  "ancho": 171,
+  "alto": 73,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 12 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_c62ea9d1d2e327833ff5945fc2fdb95565c5db7ea8f85e88b863351d259217f3.png",
+  "ruta_relativa": "../imagenes/FDS_101/image_000001_c62ea9d1d2e327833ff5945fc2fdb95565c5db7ea8f85e88b863351d259217f3.png",
+  "documento": "FDS 101 - BARNIZ SOLAR - PINTURAS BLER.pdf",
+  "pagina": 2,
+  "ancho": 22,
+  "alto": 22,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_c81649c3ddd30cf6562194ca6f06eec10e1e61b59b13836889ab41cb20ecffeb.png",
+  "ruta_relativa": "../imagenes/FDS_101/image_000002_c81649c3ddd30cf6562194ca6f06eec10e1e61b59b13836889ab41cb20ecffeb.png",
+  "documento": "FDS 101 - BARNIZ SOLAR - PINTURAS BLER.pdf",
+  "pagina": 2,
+  "ancho": 23,
+  "alto": 21,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_b12bd51f401b842e8718384e2de52149bc54678514e701cc0dfbe1c07edeb19b.png",
+  "ruta_relativa": "../imagenes/FDS_101/image_000003_b12bd51f401b842e8718384e2de52149bc54678514e701cc0dfbe1c07edeb19b.png",
+  "documento": "FDS 101 - BARNIZ SOLAR - PINTURAS BLER.pdf",
+  "pagina": 2,
+  "ancho": 23,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000004_e149dab1a33813bb6db8fa9899dab64b18c3836778dcba275476859084bfb1d8.png",
+  "ruta_relativa": "../imagenes/FDS_101/image_000004_e149dab1a33813bb6db8fa9899dab64b18c3836778dcba275476859084bfb1d8.png",
+  "documento": "FDS 101 - BARNIZ SOLAR - PINTURAS BLER.pdf",
+  "pagina": 2,
+  "ancho": 23,
+  "alto": 21,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000005_ac48f02544cc9df1483258d0764c0e29cb919532624886ed465a22427c2abdb2.png",
+  "ruta_relativa": "../imagenes/FDS_101/image_000005_ac48f02544cc9df1483258d0764c0e29cb919532624886ed465a22427c2abdb2.png",
+  "documento": "FDS 101 - BARNIZ SOLAR - PINTURAS BLER.pdf",
+  "pagina": 2,
+  "ancho": 22,
+  "alto": 20,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000006_c442467e0586d183b793a6e8d311299de3520aef039616d417a9bf4b83fde7ee.png",
+  "ruta_relativa": "../imagenes/FDS_101/image_000006_c442467e0586d183b793a6e8d311299de3520aef039616d417a9bf4b83fde7ee.png",
+  "documento": "FDS 101 - BARNIZ SOLAR - PINTURAS BLER.pdf",
+  "pagina": 2,
+  "ancho": 26,
+  "alto": 22,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000007_5a8b591aec767720cde7e658eb1d61c755a5feff6e8270931a2a1a0221f82bab.png",
+  "ruta_relativa": "../imagenes/FDS_101/image_000007_5a8b591aec767720cde7e658eb1d61c755a5feff6e8270931a2a1a0221f82bab.png",
+  "documento": "FDS 101 - BARNIZ SOLAR - PINTURAS BLER.pdf",
+  "pagina": 2,
+  "ancho": 24,
+  "alto": 22,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000008_da93f6074b8f8f10d7bb358ff99accc90da44cea7f37ab047b2aa83c4a3dd54f.png",
+  "ruta_relativa": "../imagenes/FDS_101/image_000008_da93f6074b8f8f10d7bb358ff99accc90da44cea7f37ab047b2aa83c4a3dd54f.png",
+  "documento": "FDS 101 - BARNIZ SOLAR - PINTURAS BLER.pdf",
+  "pagina": 2,
+  "ancho": 21,
+  "alto": 21,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000009_542604ed992a66ed3bc10d6d6f8d5fb3cf0b8ac52e2b4cc77ba92c6ad09e0264.png",
+  "ruta_relativa": "../imagenes/FDS_101/image_000009_542604ed992a66ed3bc10d6d6f8d5fb3cf0b8ac52e2b4cc77ba92c6ad09e0264.png",
+  "documento": "FDS 101 - BARNIZ SOLAR - PINTURAS BLER.pdf",
+  "pagina": 2,
+  "ancho": 21,
+  "alto": 21,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000010_abbb9c1d5b7ea390bd0252a71a8daafc99abe63f577407431ed7f9188afd6d26.png",
+  "ruta_relativa": "../imagenes/FDS_101/image_000010_abbb9c1d5b7ea390bd0252a71a8daafc99abe63f577407431ed7f9188afd6d26.png",
+  "documento": "FDS 101 - BARNIZ SOLAR - PINTURAS BLER.pdf",
+  "pagina": 2,
+  "ancho": 24,
+  "alto": 21,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000011_bbdafab3535ba4d94ef353e2b3cbb1058e6d62c808d5b3383dd9bcabb55dd8fc.png",
+  "ruta_relativa": "../imagenes/FDS_101/image_000011_bbdafab3535ba4d94ef353e2b3cbb1058e6d62c808d5b3383dd9bcabb55dd8fc.png",
+  "documento": "FDS 101 - BARNIZ SOLAR - PINTURAS BLER.pdf",
+  "pagina": 2,
+  "ancho": 22,
+  "alto": 21,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000012_b84722e674d1cc52d45e5d8c3c73499a2fdff6da504ebd8471980ed4b8cbc0e4.png",
+  "ruta_relativa": "../imagenes/FDS_101/image_000012_b84722e674d1cc52d45e5d8c3c73499a2fdff6da504ebd8471980ed4b8cbc0e4.png",
+  "documento": "FDS 101 - BARNIZ SOLAR - PINTURAS BLER.pdf",
+  "pagina": 2,
+  "ancho": 22,
+  "alto": 20,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000013_21d5da4b4da03c5138ee43331beadc3109493f39d8aa0cca98be87324200dae9.png",
+  "ruta_relativa": "../imagenes/FDS_101/image_000013_21d5da4b4da03c5138ee43331beadc3109493f39d8aa0cca98be87324200dae9.png",
+  "documento": "FDS 101 - BARNIZ SOLAR - PINTURAS BLER.pdf",
+  "pagina": 2,
+  "ancho": 21,
+  "alto": 21,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000014_731692aa9c66d59dce956074b4e7ba5b1f319368959cf7529823c5633e942a67.png",
+  "ruta_relativa": "../imagenes/FDS_101/image_000014_731692aa9c66d59dce956074b4e7ba5b1f319368959cf7529823c5633e942a67.png",
+  "documento": "FDS 101 - BARNIZ SOLAR - PINTURAS BLER.pdf",
+  "pagina": 2,
+  "ancho": 20,
+  "alto": 21,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000015_d1ab0b36daaa12b83889711cf769e71793fdfa569862283fc9eb805623effaf6.png",
+  "ruta_relativa": "../imagenes/FDS_101/image_000015_d1ab0b36daaa12b83889711cf769e71793fdfa569862283fc9eb805623effaf6.png",
+  "documento": "FDS 101 - BARNIZ SOLAR - PINTURAS BLER.pdf",
+  "pagina": 2,
+  "ancho": 20,
+  "alto": 21,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000016_38b715798c3bd1ab8a31f2b1099a9c980f1a3223e472123c1cab12130acc34ea.png",
+  "ruta_relativa": "../imagenes/FDS_101/image_000016_38b715798c3bd1ab8a31f2b1099a9c980f1a3223e472123c1cab12130acc34ea.png",
+  "documento": "FDS 101 - BARNIZ SOLAR - PINTURAS BLER.pdf",
+  "pagina": 2,
+  "ancho": 22,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000017_709c3cfae75e2c7a2620e79484bed72949920b159b18d6376c8c4b3df10bb809.png",
+  "ruta_relativa": "../imagenes/FDS_101/image_000017_709c3cfae75e2c7a2620e79484bed72949920b159b18d6376c8c4b3df10bb809.png",
+  "documento": "FDS 101 - BARNIZ SOLAR - PINTURAS BLER.pdf",
+  "pagina": 2,
+  "ancho": 26,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000018_e1499a6a403905cb540ec04d237ca013b27cf5ad6ad60899f3c87de8039591bf.png",
+  "ruta_relativa": "../imagenes/FDS_101/image_000018_e1499a6a403905cb540ec04d237ca013b27cf5ad6ad60899f3c87de8039591bf.png",
+  "documento": "FDS 101 - BARNIZ SOLAR - PINTURAS BLER.pdf",
+  "pagina": 2,
+  "ancho": 25,
+  "alto": 24,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000019_90086b8a9ddabd47397dc5fe35757b837ffd8984c865dd88d0c96ff4665a999b.png",
+  "ruta_relativa": "../imagenes/FDS_101/image_000019_90086b8a9ddabd47397dc5fe35757b837ffd8984c865dd88d0c96ff4665a999b.png",
+  "documento": "FDS 101 - BARNIZ SOLAR - PINTURAS BLER.pdf",
+  "pagina": 2,
+  "ancho": 22,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_4701eb0bac5448431df727ae4cf6769a078ae88f99c20ac9d082f1017611156c.png",
+  "ruta_relativa": "../imagenes/FDS_101/image_000000_4701eb0bac5448431df727ae4cf6769a078ae88f99c20ac9d082f1017611156c.png",
+  "documento": "FDS 101 - BARNIZ SOLAR - PINTURAS BLER.pdf",
+  "pagina": 3,
+  "ancho": 171,
+  "alto": 73,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 12 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_4701eb0bac5448431df727ae4cf6769a078ae88f99c20ac9d082f1017611156c.png",
+  "ruta_relativa": "../imagenes/FDS_101/image_000000_4701eb0bac5448431df727ae4cf6769a078ae88f99c20ac9d082f1017611156c.png",
+  "documento": "FDS 101 - BARNIZ SOLAR - PINTURAS BLER.pdf",
+  "pagina": 4,
+  "ancho": 171,
+  "alto": 73,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 12 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_4701eb0bac5448431df727ae4cf6769a078ae88f99c20ac9d082f1017611156c.png",
+  "ruta_relativa": "../imagenes/FDS_101/image_000000_4701eb0bac5448431df727ae4cf6769a078ae88f99c20ac9d082f1017611156c.png",
+  "documento": "FDS 101 - BARNIZ SOLAR - PINTURAS BLER.pdf",
+  "pagina": 5,
+  "ancho": 171,
+  "alto": 73,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 12 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_4701eb0bac5448431df727ae4cf6769a078ae88f99c20ac9d082f1017611156c.png",
+  "ruta_relativa": "../imagenes/FDS_101/image_000000_4701eb0bac5448431df727ae4cf6769a078ae88f99c20ac9d082f1017611156c.png",
+  "documento": "FDS 101 - BARNIZ SOLAR - PINTURAS BLER.pdf",
+  "pagina": 6,
+  "ancho": 171,
+  "alto": 73,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 12 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_840afabebefb8aa2949552305d4685296e7c0f55df963d2b93150cb31f95a8d0.png",
+  "ruta_relativa": "../imagenes/FDS_101/image_000001_840afabebefb8aa2949552305d4685296e7c0f55df963d2b93150cb31f95a8d0.png",
+  "documento": "FDS 101 - BARNIZ SOLAR - PINTURAS BLER.pdf",
+  "pagina": 6,
+  "ancho": 92,
+  "alto": 112,
+  "texto_ocr": "Protección obligatoria de los pies",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000002_30b12cda8462e232dbd106da7b43674c78ffebc6fd77bf8c5a9eeed153088aae.png",
+  "ruta_relativa": "../imagenes/FDS_101/image_000002_30b12cda8462e232dbd106da7b43674c78ffebc6fd77bf8c5a9eeed153088aae.png",
+  "documento": "FDS 101 - BARNIZ SOLAR - PINTURAS BLER.pdf",
+  "pagina": 6,
+  "ancho": 56,
+  "alto": 55,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_542da2b53cff8b84249c375da2a0fc33e1b4855ed16d2b151f707b40a3c395a1.png",
+  "ruta_relativa": "../imagenes/FDS_101/image_000003_542da2b53cff8b84249c375da2a0fc33e1b4855ed16d2b151f707b40a3c395a1.png",
+  "documento": "FDS 101 - BARNIZ SOLAR - PINTURAS BLER.pdf",
+  "pagina": 6,
+  "ancho": 56,
+  "alto": 61,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_4701eb0bac5448431df727ae4cf6769a078ae88f99c20ac9d082f1017611156c.png",
+  "ruta_relativa": "../imagenes/FDS_101/image_000000_4701eb0bac5448431df727ae4cf6769a078ae88f99c20ac9d082f1017611156c.png",
+  "documento": "FDS 101 - BARNIZ SOLAR - PINTURAS BLER.pdf",
+  "pagina": 7,
+  "ancho": 171,
+  "alto": 73,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 12 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_4701eb0bac5448431df727ae4cf6769a078ae88f99c20ac9d082f1017611156c.png",
+  "ruta_relativa": "../imagenes/FDS_101/image_000000_4701eb0bac5448431df727ae4cf6769a078ae88f99c20ac9d082f1017611156c.png",
+  "documento": "FDS 101 - BARNIZ SOLAR - PINTURAS BLER.pdf",
+  "pagina": 8,
+  "ancho": 171,
+  "alto": 73,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 12 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_4701eb0bac5448431df727ae4cf6769a078ae88f99c20ac9d082f1017611156c.png",
+  "ruta_relativa": "../imagenes/FDS_101/image_000000_4701eb0bac5448431df727ae4cf6769a078ae88f99c20ac9d082f1017611156c.png",
+  "documento": "FDS 101 - BARNIZ SOLAR - PINTURAS BLER.pdf",
+  "pagina": 9,
+  "ancho": 171,
+  "alto": 73,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 12 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_874bb1705b0c87929cb665bf438d9efff6636c66843a61aa35bfd2a94cbd35a6.png",
+  "ruta_relativa": "../imagenes/FDS_101/image_000001_874bb1705b0c87929cb665bf438d9efff6636c66843a61aa35bfd2a94cbd35a6.png",
+  "documento": "FDS 101 - BARNIZ SOLAR - PINTURAS BLER.pdf",
+  "pagina": 9,
+  "ancho": 75,
+  "alto": 39,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_4701eb0bac5448431df727ae4cf6769a078ae88f99c20ac9d082f1017611156c.png",
+  "ruta_relativa": "../imagenes/FDS_101/image_000000_4701eb0bac5448431df727ae4cf6769a078ae88f99c20ac9d082f1017611156c.png",
+  "documento": "FDS 101 - BARNIZ SOLAR - PINTURAS BLER.pdf",
+  "pagina": 10,
+  "ancho": 171,
+  "alto": 73,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 12 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_4701eb0bac5448431df727ae4cf6769a078ae88f99c20ac9d082f1017611156c.png",
+  "ruta_relativa": "../imagenes/FDS_101/image_000000_4701eb0bac5448431df727ae4cf6769a078ae88f99c20ac9d082f1017611156c.png",
+  "documento": "FDS 101 - BARNIZ SOLAR - PINTURAS BLER.pdf",
+  "pagina": 11,
+  "ancho": 171,
+  "alto": 73,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 12 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_ee63cf244aa3978dcdabf1fe8df5b6e34eb8bc2ed71f5fdd1c23e37994ec8ace.png",
+  "ruta_relativa": "../imagenes/FDS_101/image_000001_ee63cf244aa3978dcdabf1fe8df5b6e34eb8bc2ed71f5fdd1c23e37994ec8ace.png",
+  "documento": "FDS 101 - BARNIZ SOLAR - PINTURAS BLER.pdf",
+  "pagina": 11,
+  "ancho": 121,
+  "alto": 121,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_bd27c9ceed28829478a63dec5c1983b2fca938685191bbc992c3f041cca5eb5d.png",
+  "ruta_relativa": "../imagenes/FDS_101/image_000002_bd27c9ceed28829478a63dec5c1983b2fca938685191bbc992c3f041cca5eb5d.png",
+  "documento": "FDS 101 - BARNIZ SOLAR - PINTURAS BLER.pdf",
+  "pagina": 11,
+  "ancho": 121,
+  "alto": 121,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_4701eb0bac5448431df727ae4cf6769a078ae88f99c20ac9d082f1017611156c.png",
+  "ruta_relativa": "../imagenes/FDS_101/image_000000_4701eb0bac5448431df727ae4cf6769a078ae88f99c20ac9d082f1017611156c.png",
+  "documento": "FDS 101 - BARNIZ SOLAR - PINTURAS BLER.pdf",
+  "pagina": 12,
+  "ancho": 171,
+  "alto": 73,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 12 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_898eac564b0efcaeaead9a01163b469357091aa583feb62cedcd31ba66497835.png",
+  "ruta_relativa": "../imagenes/FDS_101/image_000001_898eac564b0efcaeaead9a01163b469357091aa583feb62cedcd31ba66497835.png",
+  "documento": "FDS 101 - BARNIZ SOLAR - PINTURAS BLER.pdf",
+  "pagina": 12,
+  "ancho": 121,
+  "alto": 121,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_dfa29dc81f59e7e38a39471025faa14663d049cb50c53a8f409ae8532102bbb1.png",
+  "ruta_relativa": "../imagenes/FDS_101/image_000002_dfa29dc81f59e7e38a39471025faa14663d049cb50c53a8f409ae8532102bbb1.png",
+  "documento": "FDS 101 - BARNIZ SOLAR - PINTURAS BLER.pdf",
+  "pagina": 12,
+  "ancho": 130,
+  "alto": 118,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_8cdfa5fc13dd90ceef2dce086911b2742b60cf1b5d22ce581657c1cea1a40c3e.png",
+  "ruta_relativa": "../imagenes/FDS_101/image_000000_8cdfa5fc13dd90ceef2dce086911b2742b60cf1b5d22ce581657c1cea1a40c3e.png",
+  "documento": "FDS 101 - BARNIZ SOLAR - PINTURAS BLER.pdf",
+  "pagina": 13,
+  "ancho": 169,
+  "alto": 72,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_8cdfa5fc13dd90ceef2dce086911b2742b60cf1b5d22ce581657c1cea1a40c3e.png",
+  "ruta_relativa": "../imagenes/FDS_101/image_000000_8cdfa5fc13dd90ceef2dce086911b2742b60cf1b5d22ce581657c1cea1a40c3e.png",
+  "documento": "FDS 101 - BARNIZ SOLAR - PINTURAS BLER.pdf",
+  "pagina": 14,
+  "ancho": 169,
+  "alto": 72,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ }
+]

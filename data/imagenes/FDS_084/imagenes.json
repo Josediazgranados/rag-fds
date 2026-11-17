@@ -1,0 +1,262 @@
+[
+ {
+  "archivo": "image_000000_7e224fd26acb2fa7b93fadf3802dd36697d3a3ebfe56ece5ed620d614c609128.png",
+  "ruta_relativa": "../imagenes/FDS_084/image_000000_7e224fd26acb2fa7b93fadf3802dd36697d3a3ebfe56ece5ed620d614c609128.png",
+  "documento": "FDS 84 - ZINC PRIMER 10844 GRIS PARTE A - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 1,
+  "ancho": 342,
+  "alto": 46,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000001_c525b5e2be72e3478e1008a91fcb24ba799ff2590b774d15e20244b5073544e4.png",
+  "ruta_relativa": "../imagenes/FDS_084/image_000001_c525b5e2be72e3478e1008a91fcb24ba799ff2590b774d15e20244b5073544e4.png",
+  "documento": "FDS 84 - ZINC PRIMER 10844 GRIS PARTE A - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 1,
+  "ancho": 98,
+  "alto": 97,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_084/image_000002_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 84 - ZINC PRIMER 10844 GRIS PARTE A - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 1,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_54c9c2d58eef194feec2abdcd9e4d78ccf9684cf3c6fef18a58212f654e8de93.png",
+  "ruta_relativa": "../imagenes/FDS_084/image_000003_54c9c2d58eef194feec2abdcd9e4d78ccf9684cf3c6fef18a58212f654e8de93.png",
+  "documento": "FDS 84 - ZINC PRIMER 10844 GRIS PARTE A - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 1,
+  "ancho": 99,
+  "alto": 98,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000004_73f5ce9283be561fe6b7d85b61fe8b56dfebecd64e7b4c1e910da2f497f3011f.png",
+  "ruta_relativa": "../imagenes/FDS_084/image_000004_73f5ce9283be561fe6b7d85b61fe8b56dfebecd64e7b4c1e910da2f497f3011f.png",
+  "documento": "FDS 84 - ZINC PRIMER 10844 GRIS PARTE A - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 1,
+  "ancho": 98,
+  "alto": 97,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_084/image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 84 - ZINC PRIMER 10844 GRIS PARTE A - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 2,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 12 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_084/image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 84 - ZINC PRIMER 10844 GRIS PARTE A - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 3,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 12 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_084/image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 84 - ZINC PRIMER 10844 GRIS PARTE A - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 4,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 12 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_084/image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 84 - ZINC PRIMER 10844 GRIS PARTE A - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 5,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 12 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_084/image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 84 - ZINC PRIMER 10844 GRIS PARTE A - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 6,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 12 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_084/image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 84 - ZINC PRIMER 10844 GRIS PARTE A - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 7,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 12 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_084/image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 84 - ZINC PRIMER 10844 GRIS PARTE A - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 8,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 12 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_084/image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 84 - ZINC PRIMER 10844 GRIS PARTE A - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 9,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 12 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_084/image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 84 - ZINC PRIMER 10844 GRIS PARTE A - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 10,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 12 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_084/image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 84 - ZINC PRIMER 10844 GRIS PARTE A - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 11,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 12 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_084/image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 84 - ZINC PRIMER 10844 GRIS PARTE A - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 12,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 12 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_94b1a8b5c6566a7e997dfbed967d58575927ef54da272f43f646ef7a8e7f20f8.png",
+  "ruta_relativa": "../imagenes/FDS_084/image_000000_94b1a8b5c6566a7e997dfbed967d58575927ef54da272f43f646ef7a8e7f20f8.png",
+  "documento": "FDS 84 - ZINC PRIMER 10844 GRIS PARTE A - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 13,
+  "ancho": 78,
+  "alto": 78,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000001_cfef272cbbd26dd44b68c37bf589272de7b69d995292c499bb7eb4b9bcfde7e1.png",
+  "ruta_relativa": "../imagenes/FDS_084/image_000001_cfef272cbbd26dd44b68c37bf589272de7b69d995292c499bb7eb4b9bcfde7e1.png",
+  "documento": "FDS 84 - ZINC PRIMER 10844 GRIS PARTE A - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 13,
+  "ancho": 74,
+  "alto": 75,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_800d7025432652cf962af9f50730bb4eb7cae5e66e3a41abfa4516dcc85d5840.png",
+  "ruta_relativa": "../imagenes/FDS_084/image_000002_800d7025432652cf962af9f50730bb4eb7cae5e66e3a41abfa4516dcc85d5840.png",
+  "documento": "FDS 84 - ZINC PRIMER 10844 GRIS PARTE A - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 13,
+  "ancho": 77,
+  "alto": 79,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_e7c7e9d26bf61cc87f1052f9b905facb966bbe9740cef92ccad1674ef1bbfc67.png",
+  "ruta_relativa": "../imagenes/FDS_084/image_000003_e7c7e9d26bf61cc87f1052f9b905facb966bbe9740cef92ccad1674ef1bbfc67.png",
+  "documento": "FDS 84 - ZINC PRIMER 10844 GRIS PARTE A - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 13,
+  "ancho": 75,
+  "alto": 74,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000004_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_084/image_000004_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 84 - ZINC PRIMER 10844 GRIS PARTE A - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 13,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000005_5ac5ecc4ac009f114ab84f64fa499b5186948444ba6074f7b94f9d5432ab3d64.png",
+  "ruta_relativa": "../imagenes/FDS_084/image_000005_5ac5ecc4ac009f114ab84f64fa499b5186948444ba6074f7b94f9d5432ab3d64.png",
+  "documento": "FDS 84 - ZINC PRIMER 10844 GRIS PARTE A - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 13,
+  "ancho": 78,
+  "alto": 78,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000006_f6c27ca9f8a57248818a5b3ac0e454b43cf12630dea5fa25ea4fe574369181c7.png",
+  "ruta_relativa": "../imagenes/FDS_084/image_000006_f6c27ca9f8a57248818a5b3ac0e454b43cf12630dea5fa25ea4fe574369181c7.png",
+  "documento": "FDS 84 - ZINC PRIMER 10844 GRIS PARTE A - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 13,
+  "ancho": 74,
+  "alto": 75,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_084/image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 84 - ZINC PRIMER 10844 GRIS PARTE A - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 14,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 12 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_f8271b63f18f02a4ac9bf505fc989a6f47de90527ce981c40e83a86ef603ef17.png",
+  "ruta_relativa": "../imagenes/FDS_084/image_000000_f8271b63f18f02a4ac9bf505fc989a6f47de90527ce981c40e83a86ef603ef17.png",
+  "documento": "FDS 84 - ZINC PRIMER 10844 GRIS PARTE A - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 15,
+  "ancho": 18,
+  "alto": 20,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000001_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_084/image_000001_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 84 - ZINC PRIMER 10844 GRIS PARTE A - INTERNATIONAL - AKSONOBEL.pdf",
+  "pagina": 15,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ }
+]

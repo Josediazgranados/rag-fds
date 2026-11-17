@@ -1,0 +1,9 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights: 100%|██████████| 199/199 [00:00<00:00, 4750.17it/s]
+D1 k=3 139.6 s | 'El punto de inflamación de la Pintura para Canchas Blanco (código 51630001) de Pintuland es 93 ºC [1].'
+D2 k=3 138.8 s | 'El punto de inflamación del Barniz Solar de Pinturas Bler es 41 ºC [1].'
+D3 k=3 144.7 s | 'El punto de inflamación del Producto X es >60 ºC [1]'
+D4 k=3 145.6 s | 'No hay evidencia suficiente en las fichas de datos de seguridad recuperadas para responder esta pregunta.'
+D5 k=3 123.9 s | 'No hay evidencia suficiente en las fichas de datos de seguridad recuperadas para responder esta pregunta.'
+FIN k=3: 5 preguntas en 693 s -> evaluacion/dev_k3.json
+DEV_FIN

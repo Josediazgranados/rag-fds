@@ -1,0 +1,382 @@
+[
+ {
+  "archivo": "image_000000_4701eb0bac5448431df727ae4cf6769a078ae88f99c20ac9d082f1017611156c.png",
+  "ruta_relativa": "../imagenes/FDS_100/image_000000_4701eb0bac5448431df727ae4cf6769a078ae88f99c20ac9d082f1017611156c.png",
+  "documento": "FDS 100 - Esmalte maestro. Bler.pdf",
+  "pagina": 1,
+  "ancho": 171,
+  "alto": 73,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 12 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_1921a1a64b17b3433d2ebf28f9e7640988cd51c29e8482fa689b30104ae044ce.png",
+  "ruta_relativa": "../imagenes/FDS_100/image_000001_1921a1a64b17b3433d2ebf28f9e7640988cd51c29e8482fa689b30104ae044ce.png",
+  "documento": "FDS 100 - Esmalte maestro. Bler.pdf",
+  "pagina": 1,
+  "ancho": 74,
+  "alto": 73,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_d35f1c8d2885fe4b7138c3dfa14d6c672af2f473f07c2f999207710956ec5b85.png",
+  "ruta_relativa": "../imagenes/FDS_100/image_000002_d35f1c8d2885fe4b7138c3dfa14d6c672af2f473f07c2f999207710956ec5b85.png",
+  "documento": "FDS 100 - Esmalte maestro. Bler.pdf",
+  "pagina": 1,
+  "ancho": 57,
+  "alto": 57,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_1043db92b2cc9757811d158342cd68e329612d977e1db4c4e3b97d6cc6756288.png",
+  "ruta_relativa": "../imagenes/FDS_100/image_000003_1043db92b2cc9757811d158342cd68e329612d977e1db4c4e3b97d6cc6756288.png",
+  "documento": "FDS 100 - Esmalte maestro. Bler.pdf",
+  "pagina": 1,
+  "ancho": 57,
+  "alto": 59,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000004_d888864bf0a40cbf9d00470d831434cb8ec747b4e4eb687f0f3c376e8e384113.png",
+  "ruta_relativa": "../imagenes/FDS_100/image_000004_d888864bf0a40cbf9d00470d831434cb8ec747b4e4eb687f0f3c376e8e384113.png",
+  "documento": "FDS 100 - Esmalte maestro. Bler.pdf",
+  "pagina": 1,
+  "ancho": 65,
+  "alto": 66,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000005_84ad63d97da4d18de8c940a608a2d31500eedd85c0f3cc5838d7bbf08fb53d5c.png",
+  "ruta_relativa": "../imagenes/FDS_100/image_000005_84ad63d97da4d18de8c940a608a2d31500eedd85c0f3cc5838d7bbf08fb53d5c.png",
+  "documento": "FDS 100 - Esmalte maestro. Bler.pdf",
+  "pagina": 1,
+  "ancho": 58,
+  "alto": 55,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_4701eb0bac5448431df727ae4cf6769a078ae88f99c20ac9d082f1017611156c.png",
+  "ruta_relativa": "../imagenes/FDS_100/image_000000_4701eb0bac5448431df727ae4cf6769a078ae88f99c20ac9d082f1017611156c.png",
+  "documento": "FDS 100 - Esmalte maestro. Bler.pdf",
+  "pagina": 2,
+  "ancho": 171,
+  "alto": 73,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 12 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_35b0b7ecdcf79b3bcef81ddfe3a9f0be62cd3c005399b6ab378729e8bd4334da.png",
+  "ruta_relativa": "../imagenes/FDS_100/image_000001_35b0b7ecdcf79b3bcef81ddfe3a9f0be62cd3c005399b6ab378729e8bd4334da.png",
+  "documento": "FDS 100 - Esmalte maestro. Bler.pdf",
+  "pagina": 2,
+  "ancho": 24,
+  "alto": 22,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_a43ed5a1a878466157220cf95b3495d77dcc644e18e1b8935fb2b0ee5e9f8dbd.png",
+  "ruta_relativa": "../imagenes/FDS_100/image_000002_a43ed5a1a878466157220cf95b3495d77dcc644e18e1b8935fb2b0ee5e9f8dbd.png",
+  "documento": "FDS 100 - Esmalte maestro. Bler.pdf",
+  "pagina": 2,
+  "ancho": 26,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_0a31e5cd34708d530659b096285422bac7ae403d293219036fe59b7f20c29596.png",
+  "ruta_relativa": "../imagenes/FDS_100/image_000003_0a31e5cd34708d530659b096285422bac7ae403d293219036fe59b7f20c29596.png",
+  "documento": "FDS 100 - Esmalte maestro. Bler.pdf",
+  "pagina": 2,
+  "ancho": 24,
+  "alto": 24,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000004_dcd6264120adc433123a0c552d3ab9b957721c448e0d9ec5cd4334d3d99ccb6f.png",
+  "ruta_relativa": "../imagenes/FDS_100/image_000004_dcd6264120adc433123a0c552d3ab9b957721c448e0d9ec5cd4334d3d99ccb6f.png",
+  "documento": "FDS 100 - Esmalte maestro. Bler.pdf",
+  "pagina": 2,
+  "ancho": 22,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000005_834494c82acf8ca61dad64fa1c853e94b9d8105dbff30e43cf318fe639f6ae2b.png",
+  "ruta_relativa": "../imagenes/FDS_100/image_000005_834494c82acf8ca61dad64fa1c853e94b9d8105dbff30e43cf318fe639f6ae2b.png",
+  "documento": "FDS 100 - Esmalte maestro. Bler.pdf",
+  "pagina": 2,
+  "ancho": 22,
+  "alto": 22,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000006_da93f6074b8f8f10d7bb358ff99accc90da44cea7f37ab047b2aa83c4a3dd54f.png",
+  "ruta_relativa": "../imagenes/FDS_100/image_000006_da93f6074b8f8f10d7bb358ff99accc90da44cea7f37ab047b2aa83c4a3dd54f.png",
+  "documento": "FDS 100 - Esmalte maestro. Bler.pdf",
+  "pagina": 2,
+  "ancho": 21,
+  "alto": 21,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000007_998b2b23c91a1de8a4d10d9a917b86430b962019b8986c524c714b5e5c9e50bd.png",
+  "ruta_relativa": "../imagenes/FDS_100/image_000007_998b2b23c91a1de8a4d10d9a917b86430b962019b8986c524c714b5e5c9e50bd.png",
+  "documento": "FDS 100 - Esmalte maestro. Bler.pdf",
+  "pagina": 2,
+  "ancho": 75,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000008_18fc2de1a67b718443c960fd41c818b7bb8f5171dd00951c69523d5236052854.png",
+  "ruta_relativa": "../imagenes/FDS_100/image_000008_18fc2de1a67b718443c960fd41c818b7bb8f5171dd00951c69523d5236052854.png",
+  "documento": "FDS 100 - Esmalte maestro. Bler.pdf",
+  "pagina": 2,
+  "ancho": 48,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000009_1c875aaeef6dc3256baf39c690c1452091695f1b8ea9c3381528a630a35fe76b.png",
+  "ruta_relativa": "../imagenes/FDS_100/image_000009_1c875aaeef6dc3256baf39c690c1452091695f1b8ea9c3381528a630a35fe76b.png",
+  "documento": "FDS 100 - Esmalte maestro. Bler.pdf",
+  "pagina": 2,
+  "ancho": 24,
+  "alto": 21,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000010_bc8e7d39d21fd3fd68b67ce8375b0b0db88494f6deb5d7a964d213b96f4ff8fa.png",
+  "ruta_relativa": "../imagenes/FDS_100/image_000010_bc8e7d39d21fd3fd68b67ce8375b0b0db88494f6deb5d7a964d213b96f4ff8fa.png",
+  "documento": "FDS 100 - Esmalte maestro. Bler.pdf",
+  "pagina": 2,
+  "ancho": 22,
+  "alto": 22,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_4701eb0bac5448431df727ae4cf6769a078ae88f99c20ac9d082f1017611156c.png",
+  "ruta_relativa": "../imagenes/FDS_100/image_000000_4701eb0bac5448431df727ae4cf6769a078ae88f99c20ac9d082f1017611156c.png",
+  "documento": "FDS 100 - Esmalte maestro. Bler.pdf",
+  "pagina": 3,
+  "ancho": 171,
+  "alto": 73,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 12 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_4701eb0bac5448431df727ae4cf6769a078ae88f99c20ac9d082f1017611156c.png",
+  "ruta_relativa": "../imagenes/FDS_100/image_000000_4701eb0bac5448431df727ae4cf6769a078ae88f99c20ac9d082f1017611156c.png",
+  "documento": "FDS 100 - Esmalte maestro. Bler.pdf",
+  "pagina": 4,
+  "ancho": 171,
+  "alto": 73,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 12 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_4701eb0bac5448431df727ae4cf6769a078ae88f99c20ac9d082f1017611156c.png",
+  "ruta_relativa": "../imagenes/FDS_100/image_000000_4701eb0bac5448431df727ae4cf6769a078ae88f99c20ac9d082f1017611156c.png",
+  "documento": "FDS 100 - Esmalte maestro. Bler.pdf",
+  "pagina": 5,
+  "ancho": 171,
+  "alto": 73,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 12 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_2bb82c4fcb5d8b83dc798bc244dbd4739775a4cf4c74276dd7d9277772e23501.png",
+  "ruta_relativa": "../imagenes/FDS_100/image_000001_2bb82c4fcb5d8b83dc798bc244dbd4739775a4cf4c74276dd7d9277772e23501.png",
+  "documento": "FDS 100 - Esmalte maestro. Bler.pdf",
+  "pagina": 5,
+  "ancho": 125,
+  "alto": 128,
+  "texto_ocr": "Pictograma Protección obligatoria de la cara",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000000_4701eb0bac5448431df727ae4cf6769a078ae88f99c20ac9d082f1017611156c.png",
+  "ruta_relativa": "../imagenes/FDS_100/image_000000_4701eb0bac5448431df727ae4cf6769a078ae88f99c20ac9d082f1017611156c.png",
+  "documento": "FDS 100 - Esmalte maestro. Bler.pdf",
+  "pagina": 6,
+  "ancho": 171,
+  "alto": 73,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 12 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_c764a442ddbad89e92435c9f16ed78db091b9cb2c3dfe73c87438235909901e9.png",
+  "ruta_relativa": "../imagenes/FDS_100/image_000001_c764a442ddbad89e92435c9f16ed78db091b9cb2c3dfe73c87438235909901e9.png",
+  "documento": "FDS 100 - Esmalte maestro. Bler.pdf",
+  "pagina": 6,
+  "ancho": 77,
+  "alto": 119,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_9a7d547c2e011efde63aab523e78aba5c59402f1b13059e55abac7857fb7413d.png",
+  "ruta_relativa": "../imagenes/FDS_100/image_000002_9a7d547c2e011efde63aab523e78aba5c59402f1b13059e55abac7857fb7413d.png",
+  "documento": "FDS 100 - Esmalte maestro. Bler.pdf",
+  "pagina": 6,
+  "ancho": 92,
+  "alto": 110,
+  "texto_ocr": "Protección obligatoria de los pies",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000003_4dbdd7ed7c0e9cc96be535f3fb276bfb89cad6fbfa827af46a1f86c466b9a41a.png",
+  "ruta_relativa": "../imagenes/FDS_100/image_000003_4dbdd7ed7c0e9cc96be535f3fb276bfb89cad6fbfa827af46a1f86c466b9a41a.png",
+  "documento": "FDS 100 - Esmalte maestro. Bler.pdf",
+  "pagina": 6,
+  "ancho": 55,
+  "alto": 55,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000004_76affdc899e8bbeaa27db5529840d62cc8792e4f58dd969fef4129c3662ad31f.png",
+  "ruta_relativa": "../imagenes/FDS_100/image_000004_76affdc899e8bbeaa27db5529840d62cc8792e4f58dd969fef4129c3662ad31f.png",
+  "documento": "FDS 100 - Esmalte maestro. Bler.pdf",
+  "pagina": 6,
+  "ancho": 61,
+  "alto": 77,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_4701eb0bac5448431df727ae4cf6769a078ae88f99c20ac9d082f1017611156c.png",
+  "ruta_relativa": "../imagenes/FDS_100/image_000000_4701eb0bac5448431df727ae4cf6769a078ae88f99c20ac9d082f1017611156c.png",
+  "documento": "FDS 100 - Esmalte maestro. Bler.pdf",
+  "pagina": 7,
+  "ancho": 171,
+  "alto": 73,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 12 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_4701eb0bac5448431df727ae4cf6769a078ae88f99c20ac9d082f1017611156c.png",
+  "ruta_relativa": "../imagenes/FDS_100/image_000000_4701eb0bac5448431df727ae4cf6769a078ae88f99c20ac9d082f1017611156c.png",
+  "documento": "FDS 100 - Esmalte maestro. Bler.pdf",
+  "pagina": 8,
+  "ancho": 171,
+  "alto": 73,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 12 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_4701eb0bac5448431df727ae4cf6769a078ae88f99c20ac9d082f1017611156c.png",
+  "ruta_relativa": "../imagenes/FDS_100/image_000000_4701eb0bac5448431df727ae4cf6769a078ae88f99c20ac9d082f1017611156c.png",
+  "documento": "FDS 100 - Esmalte maestro. Bler.pdf",
+  "pagina": 9,
+  "ancho": 171,
+  "alto": 73,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 12 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_f916d5453eb92c8211f76bdc02a4571488f82fe2d0dff5191814d858c6a86408.png",
+  "ruta_relativa": "../imagenes/FDS_100/image_000001_f916d5453eb92c8211f76bdc02a4571488f82fe2d0dff5191814d858c6a86408.png",
+  "documento": "FDS 100 - Esmalte maestro. Bler.pdf",
+  "pagina": 9,
+  "ancho": 73,
+  "alto": 42,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_4701eb0bac5448431df727ae4cf6769a078ae88f99c20ac9d082f1017611156c.png",
+  "ruta_relativa": "../imagenes/FDS_100/image_000000_4701eb0bac5448431df727ae4cf6769a078ae88f99c20ac9d082f1017611156c.png",
+  "documento": "FDS 100 - Esmalte maestro. Bler.pdf",
+  "pagina": 10,
+  "ancho": 171,
+  "alto": 73,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 12 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_2b92777293284d51338e7cd7af01d38bcefe52f4ed7f118fd48e8b788edab22f.png",
+  "ruta_relativa": "../imagenes/FDS_100/image_000001_2b92777293284d51338e7cd7af01d38bcefe52f4ed7f118fd48e8b788edab22f.png",
+  "documento": "FDS 100 - Esmalte maestro. Bler.pdf",
+  "pagina": 10,
+  "ancho": 69,
+  "alto": 62,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_4701eb0bac5448431df727ae4cf6769a078ae88f99c20ac9d082f1017611156c.png",
+  "ruta_relativa": "../imagenes/FDS_100/image_000000_4701eb0bac5448431df727ae4cf6769a078ae88f99c20ac9d082f1017611156c.png",
+  "documento": "FDS 100 - Esmalte maestro. Bler.pdf",
+  "pagina": 11,
+  "ancho": 171,
+  "alto": 73,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 12 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_7f651aab1c0c38a690ba9d9d9454ddfa076cdeda52657964d72a04408cd0b4eb.png",
+  "ruta_relativa": "../imagenes/FDS_100/image_000001_7f651aab1c0c38a690ba9d9d9454ddfa076cdeda52657964d72a04408cd0b4eb.png",
+  "documento": "FDS 100 - Esmalte maestro. Bler.pdf",
+  "pagina": 11,
+  "ancho": 121,
+  "alto": 122,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_1ca8aa080b0ca2556c4d5e9081175aba1fe3dc2d43694feed583b34a1e19d626.png",
+  "ruta_relativa": "../imagenes/FDS_100/image_000002_1ca8aa080b0ca2556c4d5e9081175aba1fe3dc2d43694feed583b34a1e19d626.png",
+  "documento": "FDS 100 - Esmalte maestro. Bler.pdf",
+  "pagina": 11,
+  "ancho": 121,
+  "alto": 121,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_c0a6894d2c73c445da2dd7f33016d8336dfd7d1ea328cff70ea50b9d7dbebef6.png",
+  "ruta_relativa": "../imagenes/FDS_100/image_000003_c0a6894d2c73c445da2dd7f33016d8336dfd7d1ea328cff70ea50b9d7dbebef6.png",
+  "documento": "FDS 100 - Esmalte maestro. Bler.pdf",
+  "pagina": 11,
+  "ancho": 120,
+  "alto": 122,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_4701eb0bac5448431df727ae4cf6769a078ae88f99c20ac9d082f1017611156c.png",
+  "ruta_relativa": "../imagenes/FDS_100/image_000000_4701eb0bac5448431df727ae4cf6769a078ae88f99c20ac9d082f1017611156c.png",
+  "documento": "FDS 100 - Esmalte maestro. Bler.pdf",
+  "pagina": 12,
+  "ancho": 171,
+  "alto": 73,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 12 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_8cdfa5fc13dd90ceef2dce086911b2742b60cf1b5d22ce581657c1cea1a40c3e.png",
+  "ruta_relativa": "../imagenes/FDS_100/image_000000_8cdfa5fc13dd90ceef2dce086911b2742b60cf1b5d22ce581657c1cea1a40c3e.png",
+  "documento": "FDS 100 - Esmalte maestro. Bler.pdf",
+  "pagina": 13,
+  "ancho": 169,
+  "alto": 72,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ }
+]

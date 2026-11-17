@@ -1,0 +1,182 @@
+[
+ {
+  "archivo": "image_000000_66d6755498af6e839bc85384cbb810da69d8b671fdd6c6c458012e36d65c1942.png",
+  "ruta_relativa": "../imagenes/FDS_090/image_000000_66d6755498af6e839bc85384cbb810da69d8b671fdd6c6c458012e36d65c1942.png",
+  "documento": "FDS 90 - 50830001 - VINILO FINO BLANCO - PINTULAND .pdf",
+  "pagina": 1,
+  "ancho": 184,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000001_519a82f4436054b6395d7e64b965c5294e50b4d7c971518a5726be41d77a314f.png",
+  "ruta_relativa": "../imagenes/FDS_090/image_000001_519a82f4436054b6395d7e64b965c5294e50b4d7c971518a5726be41d77a314f.png",
+  "documento": "FDS 90 - 50830001 - VINILO FINO BLANCO - PINTULAND .pdf",
+  "pagina": 1,
+  "ancho": 144,
+  "alto": 219,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_211b3e585dbec65510769e9f022523d903aca9b1d3e0caeaa56ab248fa5f01b5.png",
+  "ruta_relativa": "../imagenes/FDS_090/image_000002_211b3e585dbec65510769e9f022523d903aca9b1d3e0caeaa56ab248fa5f01b5.png",
+  "documento": "FDS 90 - 50830001 - VINILO FINO BLANCO - PINTULAND .pdf",
+  "pagina": 1,
+  "ancho": 21,
+  "alto": 21,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_e310f23564d9948a7496f44fda9391de25fe4527ed277fbc0a7efab0713c2286.png",
+  "ruta_relativa": "../imagenes/FDS_090/image_000003_e310f23564d9948a7496f44fda9391de25fe4527ed277fbc0a7efab0713c2286.png",
+  "documento": "FDS 90 - 50830001 - VINILO FINO BLANCO - PINTULAND .pdf",
+  "pagina": 1,
+  "ancho": 20,
+  "alto": 21,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000004_1c1cfbe88d0fcc5a15d8d30a565b476ff73e7b5381d02b20fb60c5b1a9fa5db6.png",
+  "ruta_relativa": "../imagenes/FDS_090/image_000004_1c1cfbe88d0fcc5a15d8d30a565b476ff73e7b5381d02b20fb60c5b1a9fa5db6.png",
+  "documento": "FDS 90 - 50830001 - VINILO FINO BLANCO - PINTULAND .pdf",
+  "pagina": 1,
+  "ancho": 71,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000005_576125bf67232a8a623a310b6780ae7590c5d9141322137c466519d64797b7a0.png",
+  "ruta_relativa": "../imagenes/FDS_090/image_000005_576125bf67232a8a623a310b6780ae7590c5d9141322137c466519d64797b7a0.png",
+  "documento": "FDS 90 - 50830001 - VINILO FINO BLANCO - PINTULAND .pdf",
+  "pagina": 1,
+  "ancho": 70,
+  "alto": 27,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_66d6755498af6e839bc85384cbb810da69d8b671fdd6c6c458012e36d65c1942.png",
+  "ruta_relativa": "../imagenes/FDS_090/image_000000_66d6755498af6e839bc85384cbb810da69d8b671fdd6c6c458012e36d65c1942.png",
+  "documento": "FDS 90 - 50830001 - VINILO FINO BLANCO - PINTULAND .pdf",
+  "pagina": 2,
+  "ancho": 184,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000001_24982357ca4551a0bb04a8404818b991a5bd8bb17fd09605cdde8f2570039ab9.png",
+  "ruta_relativa": "../imagenes/FDS_090/image_000001_24982357ca4551a0bb04a8404818b991a5bd8bb17fd09605cdde8f2570039ab9.png",
+  "documento": "FDS 90 - 50830001 - VINILO FINO BLANCO - PINTULAND .pdf",
+  "pagina": 2,
+  "ancho": 30,
+  "alto": 18,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_5b660eb81f7e4fc897e24db25c218bfe273b8f77a4b1c996a5b5c13ce5bd961d.png",
+  "ruta_relativa": "../imagenes/FDS_090/image_000000_5b660eb81f7e4fc897e24db25c218bfe273b8f77a4b1c996a5b5c13ce5bd961d.png",
+  "documento": "FDS 90 - 50830001 - VINILO FINO BLANCO - PINTULAND .pdf",
+  "pagina": 3,
+  "ancho": 184,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 6 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_4c82060677ce4fd12079c0bb1423358277ea268cd38a9c1d6b727e89c816508d.png",
+  "ruta_relativa": "../imagenes/FDS_090/image_000000_4c82060677ce4fd12079c0bb1423358277ea268cd38a9c1d6b727e89c816508d.png",
+  "documento": "FDS 90 - 50830001 - VINILO FINO BLANCO - PINTULAND .pdf",
+  "pagina": 4,
+  "ancho": 183,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000001_dc05067c75b0e6bca053d36bdc2b287e3cc61b2bc0693b882772867ccb08e6c2.png",
+  "ruta_relativa": "../imagenes/FDS_090/image_000001_dc05067c75b0e6bca053d36bdc2b287e3cc61b2bc0693b882772867ccb08e6c2.png",
+  "documento": "FDS 90 - 50830001 - VINILO FINO BLANCO - PINTULAND .pdf",
+  "pagina": 4,
+  "ancho": 122,
+  "alto": 127,
+  "texto_ocr": "Pictograma Prótección obligatoria Mi manos",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000002_4ed9d9fe4a84eb77a42b297b312bc714c5976dba62c0bd493f066056e964f744.png",
+  "ruta_relativa": "../imagenes/FDS_090/image_000002_4ed9d9fe4a84eb77a42b297b312bc714c5976dba62c0bd493f066056e964f744.png",
+  "documento": "FDS 90 - 50830001 - VINILO FINO BLANCO - PINTULAND .pdf",
+  "pagina": 4,
+  "ancho": 931,
+  "alto": 136,
+  "texto_ocr": "[piaograma Je does O] se NORMATIVIDAD APLICABLE: NTC 1825, NTC 1826 y ANSI 287.1. Limpiar a diario © Gafas panorámicas he TCS y/9 | desinfectar periódicamente de acuerdo a las instrucciones del fabricante. Se Proyece! recomienda su uso en caso de riesgo de salpicaduras. Protección obligatoria dela cara",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000000_5b660eb81f7e4fc897e24db25c218bfe273b8f77a4b1c996a5b5c13ce5bd961d.png",
+  "ruta_relativa": "../imagenes/FDS_090/image_000000_5b660eb81f7e4fc897e24db25c218bfe273b8f77a4b1c996a5b5c13ce5bd961d.png",
+  "documento": "FDS 90 - 50830001 - VINILO FINO BLANCO - PINTULAND .pdf",
+  "pagina": 5,
+  "ancho": 184,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 6 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_5b660eb81f7e4fc897e24db25c218bfe273b8f77a4b1c996a5b5c13ce5bd961d.png",
+  "ruta_relativa": "../imagenes/FDS_090/image_000000_5b660eb81f7e4fc897e24db25c218bfe273b8f77a4b1c996a5b5c13ce5bd961d.png",
+  "documento": "FDS 90 - 50830001 - VINILO FINO BLANCO - PINTULAND .pdf",
+  "pagina": 6,
+  "ancho": 184,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 6 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_5b660eb81f7e4fc897e24db25c218bfe273b8f77a4b1c996a5b5c13ce5bd961d.png",
+  "ruta_relativa": "../imagenes/FDS_090/image_000000_5b660eb81f7e4fc897e24db25c218bfe273b8f77a4b1c996a5b5c13ce5bd961d.png",
+  "documento": "FDS 90 - 50830001 - VINILO FINO BLANCO - PINTULAND .pdf",
+  "pagina": 7,
+  "ancho": 184,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 6 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_5b660eb81f7e4fc897e24db25c218bfe273b8f77a4b1c996a5b5c13ce5bd961d.png",
+  "ruta_relativa": "../imagenes/FDS_090/image_000000_5b660eb81f7e4fc897e24db25c218bfe273b8f77a4b1c996a5b5c13ce5bd961d.png",
+  "documento": "FDS 90 - 50830001 - VINILO FINO BLANCO - PINTULAND .pdf",
+  "pagina": 8,
+  "ancho": 184,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 6 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_5b660eb81f7e4fc897e24db25c218bfe273b8f77a4b1c996a5b5c13ce5bd961d.png",
+  "ruta_relativa": "../imagenes/FDS_090/image_000000_5b660eb81f7e4fc897e24db25c218bfe273b8f77a4b1c996a5b5c13ce5bd961d.png",
+  "documento": "FDS 90 - 50830001 - VINILO FINO BLANCO - PINTULAND .pdf",
+  "pagina": 9,
+  "ancho": 184,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 6 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_5dff6d7294425cb7c7baa11ada47726093e7ddcca60835af70913a6f3d67c42a.png",
+  "ruta_relativa": "../imagenes/FDS_090/image_000000_5dff6d7294425cb7c7baa11ada47726093e7ddcca60835af70913a6f3d67c42a.png",
+  "documento": "FDS 90 - 50830001 - VINILO FINO BLANCO - PINTULAND .pdf",
+  "pagina": 10,
+  "ancho": 182,
+  "alto": 37,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ }
+]

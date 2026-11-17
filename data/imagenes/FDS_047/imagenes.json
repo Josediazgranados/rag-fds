@@ -1,0 +1,62 @@
+[
+ {
+  "archivo": "image_000000_39440a5d369e2e9d3f7d12979e2aa2c18c4ec8b440dc382e79b1bf7af400be59.png",
+  "ruta_relativa": "../imagenes/FDS_047/image_000000_39440a5d369e2e9d3f7d12979e2aa2c18c4ec8b440dc382e79b1bf7af400be59.png",
+  "documento": "FDS 47 - DIMETCOTE 302H GREEN RESIN - PPG.pdf",
+  "pagina": 1,
+  "ancho": 135,
+  "alto": 105,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_6390266d46d0f018c47506b7f8c3487131778a833423b72685a9fb6d21207ea2.png",
+  "ruta_relativa": "../imagenes/FDS_047/image_000000_6390266d46d0f018c47506b7f8c3487131778a833423b72685a9fb6d21207ea2.png",
+  "documento": "FDS 47 - DIMETCOTE 302H GREEN RESIN - PPG.pdf",
+  "pagina": 2,
+  "ancho": 98,
+  "alto": 99,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000001_967c05aec10316d37497640b52f80f5eac49654fa4108bbbfdfadb30c2c5ed30.png",
+  "ruta_relativa": "../imagenes/FDS_047/image_000001_967c05aec10316d37497640b52f80f5eac49654fa4108bbbfdfadb30c2c5ed30.png",
+  "documento": "FDS 47 - DIMETCOTE 302H GREEN RESIN - PPG.pdf",
+  "pagina": 2,
+  "ancho": 101,
+  "alto": 99,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_a3f779eb11baf85295595da63183862aea1c56863349bb3431de691f220b1cbf.png",
+  "ruta_relativa": "../imagenes/FDS_047/image_000002_a3f779eb11baf85295595da63183862aea1c56863349bb3431de691f220b1cbf.png",
+  "documento": "FDS 47 - DIMETCOTE 302H GREEN RESIN - PPG.pdf",
+  "pagina": 2,
+  "ancho": 98,
+  "alto": 98,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_ae3bd30d5721916fa8618dd04c8c13b9c9b91bad72c3697df791d9e068d5e998.png",
+  "ruta_relativa": "../imagenes/FDS_047/image_000003_ae3bd30d5721916fa8618dd04c8c13b9c9b91bad72c3697df791d9e068d5e998.png",
+  "documento": "FDS 47 - DIMETCOTE 302H GREEN RESIN - PPG.pdf",
+  "pagina": 2,
+  "ancho": 99,
+  "alto": 99,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_69565e6ecb088df7dd5d22a7a0c6f38bd0a7765763c8c12812b5a92db076f48a.png",
+  "ruta_relativa": "../imagenes/FDS_047/image_000000_69565e6ecb088df7dd5d22a7a0c6f38bd0a7765763c8c12812b5a92db076f48a.png",
+  "documento": "FDS 47 - DIMETCOTE 302H GREEN RESIN - PPG.pdf",
+  "pagina": 14,
+  "ancho": 22,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ }
+]

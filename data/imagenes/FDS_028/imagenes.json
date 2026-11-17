@@ -1,0 +1,22 @@
+[
+ {
+  "archivo": "image_000000_dee18f90b296e0be4c990117fab82d8384ad94da67122e084a470a869f74e66c.png",
+  "ruta_relativa": "../imagenes/FDS_028/image_000000_dee18f90b296e0be4c990117fab82d8384ad94da67122e084a470a869f74e66c.png",
+  "documento": "FDS 28- 401 Pintura Texturizada1.pdf",
+  "pagina": 1,
+  "ancho": 218,
+  "alto": 77,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000001_43b83d8bebfee86678a36f6da1f6fe3be65b7b21f4a33f778cdfecdb1d819546.png",
+  "ruta_relativa": "../imagenes/FDS_028/image_000001_43b83d8bebfee86678a36f6da1f6fe3be65b7b21f4a33f778cdfecdb1d819546.png",
+  "documento": "FDS 28- 401 Pintura Texturizada1.pdf",
+  "pagina": 1,
+  "ancho": 103,
+  "alto": 103,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ }
+]

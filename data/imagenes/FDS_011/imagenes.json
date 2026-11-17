@@ -1,0 +1,322 @@
+[
+ {
+  "archivo": "image_000000_5f33455b0e8d4a6d504f3b9ffa3e424747b118fa03a54764cecf5c1e5bf7cb8f.png",
+  "ruta_relativa": "../imagenes/FDS_011/image_000000_5f33455b0e8d4a6d504f3b9ffa3e424747b118fa03a54764cecf5c1e5bf7cb8f.png",
+  "documento": "FDS 11  - Ecosphere Premium.pdf",
+  "pagina": 1,
+  "ancho": 211,
+  "alto": 98,
+  "texto_ocr": "IEdiSA",
+  "nota": "imagen repetida en 4 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_b9448d5f81d01a86f22846d4bcf07b03b829762d380e40e2aecd851fccf0a0de.png",
+  "ruta_relativa": "../imagenes/FDS_011/image_000001_b9448d5f81d01a86f22846d4bcf07b03b829762d380e40e2aecd851fccf0a0de.png",
+  "documento": "FDS 11  - Ecosphere Premium.pdf",
+  "pagina": 1,
+  "ancho": 176,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 5 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000002_0d047e07a72560e7d771b340c8275626df1b8984e22a83f2079f94b1a00aa2e7.png",
+  "ruta_relativa": "../imagenes/FDS_011/image_000002_0d047e07a72560e7d771b340c8275626df1b8984e22a83f2079f94b1a00aa2e7.png",
+  "documento": "FDS 11  - Ecosphere Premium.pdf",
+  "pagina": 1,
+  "ancho": 121,
+  "alto": 57,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_efc71da6487db51c956e2491fc53035d23f2b617adb584d5361ee728150b5b49.png",
+  "ruta_relativa": "../imagenes/FDS_011/image_000003_efc71da6487db51c956e2491fc53035d23f2b617adb584d5361ee728150b5b49.png",
+  "documento": "FDS 11  - Ecosphere Premium.pdf",
+  "pagina": 1,
+  "ancho": 59,
+  "alto": 31,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_17ce22696d71838752ae2e22d4266bd6a1247500c4899b7d64fe209e178d2f6e.png",
+  "ruta_relativa": "../imagenes/FDS_011/image_000000_17ce22696d71838752ae2e22d4266bd6a1247500c4899b7d64fe209e178d2f6e.png",
+  "documento": "FDS 11  - Ecosphere Premium.pdf",
+  "pagina": 2,
+  "ancho": 211,
+  "alto": 98,
+  "texto_ocr": "TEdiSA",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000001_b9448d5f81d01a86f22846d4bcf07b03b829762d380e40e2aecd851fccf0a0de.png",
+  "ruta_relativa": "../imagenes/FDS_011/image_000001_b9448d5f81d01a86f22846d4bcf07b03b829762d380e40e2aecd851fccf0a0de.png",
+  "documento": "FDS 11  - Ecosphere Premium.pdf",
+  "pagina": 2,
+  "ancho": 176,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 5 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_29bb4f149bb4a0528a0878ebef907f414c1967ed154129c0d3684accca891c7f.png",
+  "ruta_relativa": "../imagenes/FDS_011/image_000000_29bb4f149bb4a0528a0878ebef907f414c1967ed154129c0d3684accca891c7f.png",
+  "documento": "FDS 11  - Ecosphere Premium.pdf",
+  "pagina": 3,
+  "ancho": 211,
+  "alto": 97,
+  "texto_ocr": "TEdiSA",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000001_b9448d5f81d01a86f22846d4bcf07b03b829762d380e40e2aecd851fccf0a0de.png",
+  "ruta_relativa": "../imagenes/FDS_011/image_000001_b9448d5f81d01a86f22846d4bcf07b03b829762d380e40e2aecd851fccf0a0de.png",
+  "documento": "FDS 11  - Ecosphere Premium.pdf",
+  "pagina": 3,
+  "ancho": 176,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 5 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_3f0d128b1424df2083f15a22b149d29aafa77efb3cd9e21397bcae884bf51b26.png",
+  "ruta_relativa": "../imagenes/FDS_011/image_000000_3f0d128b1424df2083f15a22b149d29aafa77efb3cd9e21397bcae884bf51b26.png",
+  "documento": "FDS 11  - Ecosphere Premium.pdf",
+  "pagina": 4,
+  "ancho": 210,
+  "alto": 99,
+  "texto_ocr": "IEdiSA",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000001_af0d3e2dcdcaa9dacc0d6ef7695ca894df3a31fed307b04bef68e512a6884f93.png",
+  "ruta_relativa": "../imagenes/FDS_011/image_000001_af0d3e2dcdcaa9dacc0d6ef7695ca894df3a31fed307b04bef68e512a6884f93.png",
+  "documento": "FDS 11  - Ecosphere Premium.pdf",
+  "pagina": 4,
+  "ancho": 177,
+  "alto": 88,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_6ede545bf7ac0234d72352055a6837fe6190369aedb860d7c6a105b13ab993be.png",
+  "ruta_relativa": "../imagenes/FDS_011/image_000002_6ede545bf7ac0234d72352055a6837fe6190369aedb860d7c6a105b13ab993be.png",
+  "documento": "FDS 11  - Ecosphere Premium.pdf",
+  "pagina": 4,
+  "ancho": 65,
+  "alto": 69,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_6c0d7239a001a7f790d2e0eac8f9e29ac48e6457c2e010b36536c43d50b59a73.png",
+  "ruta_relativa": "../imagenes/FDS_011/image_000003_6c0d7239a001a7f790d2e0eac8f9e29ac48e6457c2e010b36536c43d50b59a73.png",
+  "documento": "FDS 11  - Ecosphere Premium.pdf",
+  "pagina": 4,
+  "ancho": 135,
+  "alto": 121,
+  "texto_ocr": "Pictograma Protección obligatoria de las manos",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000004_e5496200170321f9755bc71d26b956bacc04dc0d3a11368c1c706e5f1d5bdcc6.png",
+  "ruta_relativa": "../imagenes/FDS_011/image_000004_e5496200170321f9755bc71d26b956bacc04dc0d3a11368c1c706e5f1d5bdcc6.png",
+  "documento": "FDS 11  - Ecosphere Premium.pdf",
+  "pagina": 4,
+  "ancho": 88,
+  "alto": 92,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000005_b3ad7bbdd7fca06e9f92cbdc5d2d4de6e9c9b8a12d7aa92a4b1c6f773d3829d9.png",
+  "ruta_relativa": "../imagenes/FDS_011/image_000005_b3ad7bbdd7fca06e9f92cbdc5d2d4de6e9c9b8a12d7aa92a4b1c6f773d3829d9.png",
+  "documento": "FDS 11  - Ecosphere Premium.pdf",
+  "pagina": 4,
+  "ancho": 91,
+  "alto": 95,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000006_8a699d653625d7c42223290669b61d681a6f27eb07cc789b9e67a9ce8335b716.png",
+  "ruta_relativa": "../imagenes/FDS_011/image_000006_8a699d653625d7c42223290669b61d681a6f27eb07cc789b9e67a9ce8335b716.png",
+  "documento": "FDS 11  - Ecosphere Premium.pdf",
+  "pagina": 4,
+  "ancho": 138,
+  "alto": 123,
+  "texto_ocr": "Pictograma Protección obligatoria de la cara",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000007_533d3ed6606f597e6257e2c2f70d4c5fda7dd136bf70c5a6a428280a4913d24a.png",
+  "ruta_relativa": "../imagenes/FDS_011/image_000007_533d3ed6606f597e6257e2c2f70d4c5fda7dd136bf70c5a6a428280a4913d24a.png",
+  "documento": "FDS 11  - Ecosphere Premium.pdf",
+  "pagina": 4,
+  "ancho": 88,
+  "alto": 94,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000008_ca510c9565299445265bc96dea8d3d227886637654e8368844aed01dd9a556e9.png",
+  "ruta_relativa": "../imagenes/FDS_011/image_000008_ca510c9565299445265bc96dea8d3d227886637654e8368844aed01dd9a556e9.png",
+  "documento": "FDS 11  - Ecosphere Premium.pdf",
+  "pagina": 4,
+  "ancho": 90,
+  "alto": 91,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_5f33455b0e8d4a6d504f3b9ffa3e424747b118fa03a54764cecf5c1e5bf7cb8f.png",
+  "ruta_relativa": "../imagenes/FDS_011/image_000000_5f33455b0e8d4a6d504f3b9ffa3e424747b118fa03a54764cecf5c1e5bf7cb8f.png",
+  "documento": "FDS 11  - Ecosphere Premium.pdf",
+  "pagina": 5,
+  "ancho": 211,
+  "alto": 98,
+  "texto_ocr": "IEdiSA",
+  "nota": "imagen repetida en 4 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_43537fadf99585896e6d0c9a51950378043ecb20c050c694a53910cd361496ea.png",
+  "ruta_relativa": "../imagenes/FDS_011/image_000001_43537fadf99585896e6d0c9a51950378043ecb20c050c694a53910cd361496ea.png",
+  "documento": "FDS 11  - Ecosphere Premium.pdf",
+  "pagina": 5,
+  "ancho": 85,
+  "alto": 85,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_a521eb08fb92aeb1c1f9112aa8497727cbce5565970d3a62c8babdf0d4ae349a.png",
+  "ruta_relativa": "../imagenes/FDS_011/image_000002_a521eb08fb92aeb1c1f9112aa8497727cbce5565970d3a62c8babdf0d4ae349a.png",
+  "documento": "FDS 11  - Ecosphere Premium.pdf",
+  "pagina": 5,
+  "ancho": 85,
+  "alto": 85,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_cc5adcc0448e7eda3ca1a750f9390e1a19dee9312839a6db437a2be88ad5bf4c.png",
+  "ruta_relativa": "../imagenes/FDS_011/image_000003_cc5adcc0448e7eda3ca1a750f9390e1a19dee9312839a6db437a2be88ad5bf4c.png",
+  "documento": "FDS 11  - Ecosphere Premium.pdf",
+  "pagina": 5,
+  "ancho": 69,
+  "alto": 82,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_29bb4f149bb4a0528a0878ebef907f414c1967ed154129c0d3684accca891c7f.png",
+  "ruta_relativa": "../imagenes/FDS_011/image_000000_29bb4f149bb4a0528a0878ebef907f414c1967ed154129c0d3684accca891c7f.png",
+  "documento": "FDS 11  - Ecosphere Premium.pdf",
+  "pagina": 6,
+  "ancho": 211,
+  "alto": 97,
+  "texto_ocr": "TEdiSA",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000001_b9448d5f81d01a86f22846d4bcf07b03b829762d380e40e2aecd851fccf0a0de.png",
+  "ruta_relativa": "../imagenes/FDS_011/image_000001_b9448d5f81d01a86f22846d4bcf07b03b829762d380e40e2aecd851fccf0a0de.png",
+  "documento": "FDS 11  - Ecosphere Premium.pdf",
+  "pagina": 6,
+  "ancho": 176,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 5 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_5f33455b0e8d4a6d504f3b9ffa3e424747b118fa03a54764cecf5c1e5bf7cb8f.png",
+  "ruta_relativa": "../imagenes/FDS_011/image_000000_5f33455b0e8d4a6d504f3b9ffa3e424747b118fa03a54764cecf5c1e5bf7cb8f.png",
+  "documento": "FDS 11  - Ecosphere Premium.pdf",
+  "pagina": 7,
+  "ancho": 211,
+  "alto": 98,
+  "texto_ocr": "IEdiSA",
+  "nota": "imagen repetida en 4 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_f9400282890e08b640aaf134fd74962e4636968f063cd3939a0c08aed586e0da.png",
+  "ruta_relativa": "../imagenes/FDS_011/image_000001_f9400282890e08b640aaf134fd74962e4636968f063cd3939a0c08aed586e0da.png",
+  "documento": "FDS 11  - Ecosphere Premium.pdf",
+  "pagina": 7,
+  "ancho": 117,
+  "alto": 116,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_b9448d5f81d01a86f22846d4bcf07b03b829762d380e40e2aecd851fccf0a0de.png",
+  "ruta_relativa": "../imagenes/FDS_011/image_000002_b9448d5f81d01a86f22846d4bcf07b03b829762d380e40e2aecd851fccf0a0de.png",
+  "documento": "FDS 11  - Ecosphere Premium.pdf",
+  "pagina": 7,
+  "ancho": 176,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_5f33455b0e8d4a6d504f3b9ffa3e424747b118fa03a54764cecf5c1e5bf7cb8f.png",
+  "ruta_relativa": "../imagenes/FDS_011/image_000000_5f33455b0e8d4a6d504f3b9ffa3e424747b118fa03a54764cecf5c1e5bf7cb8f.png",
+  "documento": "FDS 11  - Ecosphere Premium.pdf",
+  "pagina": 8,
+  "ancho": 211,
+  "alto": 98,
+  "texto_ocr": "IEdiSA",
+  "nota": "imagen repetida en 4 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_1b49f287a9ad68c4d29bfc539e3d349ae56cde811c6548c53bf5ef5e536b6c28.png",
+  "ruta_relativa": "../imagenes/FDS_011/image_000001_1b49f287a9ad68c4d29bfc539e3d349ae56cde811c6548c53bf5ef5e536b6c28.png",
+  "documento": "FDS 11  - Ecosphere Premium.pdf",
+  "pagina": 8,
+  "ancho": 116,
+  "alto": 116,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_3d2256b308e4581d83460c7178f902e6bce84d0133c66fffcdeefec3ed3cae79.png",
+  "ruta_relativa": "../imagenes/FDS_011/image_000002_3d2256b308e4581d83460c7178f902e6bce84d0133c66fffcdeefec3ed3cae79.png",
+  "documento": "FDS 11  - Ecosphere Premium.pdf",
+  "pagina": 8,
+  "ancho": 116,
+  "alto": 115,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_1ac75b2560d09c9898fee179e569cec24f9d63c3f782320062008d80174d55a0.png",
+  "ruta_relativa": "../imagenes/FDS_011/image_000003_1ac75b2560d09c9898fee179e569cec24f9d63c3f782320062008d80174d55a0.png",
+  "documento": "FDS 11  - Ecosphere Premium.pdf",
+  "pagina": 8,
+  "ancho": 177,
+  "alto": 87,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_94eb825a774bd524a0d9bd2cb232904658b5f677c6e77b9977d4372780b3651a.png",
+  "ruta_relativa": "../imagenes/FDS_011/image_000000_94eb825a774bd524a0d9bd2cb232904658b5f677c6e77b9977d4372780b3651a.png",
+  "documento": "FDS 11  - Ecosphere Premium.pdf",
+  "pagina": 9,
+  "ancho": 210,
+  "alto": 97,
+  "texto_ocr": "TEdiSA",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000001_b9448d5f81d01a86f22846d4bcf07b03b829762d380e40e2aecd851fccf0a0de.png",
+  "ruta_relativa": "../imagenes/FDS_011/image_000001_b9448d5f81d01a86f22846d4bcf07b03b829762d380e40e2aecd851fccf0a0de.png",
+  "documento": "FDS 11  - Ecosphere Premium.pdf",
+  "pagina": 9,
+  "ancho": 176,
+  "alto": 86,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 5 paginas (probable logotipo); OCR no incluido en el Markdown"
+ }
+]

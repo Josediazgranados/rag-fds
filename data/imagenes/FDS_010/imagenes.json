@@ -1,0 +1,272 @@
+[
+ {
+  "archivo": "image_000000_c66d440449e1488370a83172091903edccca69d535dfd04b4ff2dbe6b3ae7ca0.png",
+  "ruta_relativa": "../imagenes/FDS_010/image_000000_c66d440449e1488370a83172091903edccca69d535dfd04b4ff2dbe6b3ae7ca0.png",
+  "documento": "FDS 10 - pintura-epoxi-poliamida-blanco-13243-10012925-10344427-hoja-de-seguridad-pdf.pdf",
+  "pagina": 1,
+  "ancho": 142,
+  "alto": 99,
+  "texto_ocr": "El Color de la Ae",
+  "nota": "imagen repetida en 6 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_f17dec7fd488caa3f8616e8dd020b9376b628013d7bb7d62cb338cf64d1f2b28.png",
+  "ruta_relativa": "../imagenes/FDS_010/image_000001_f17dec7fd488caa3f8616e8dd020b9376b628013d7bb7d62cb338cf64d1f2b28.png",
+  "documento": "FDS 10 - pintura-epoxi-poliamida-blanco-13243-10012925-10344427-hoja-de-seguridad-pdf.pdf",
+  "pagina": 1,
+  "ancho": 57,
+  "alto": 55,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_a40c037e1b4fb3127c100a56dc613ebc9dbbe4f58479789f07f58a279aa66ac2.png",
+  "ruta_relativa": "../imagenes/FDS_010/image_000002_a40c037e1b4fb3127c100a56dc613ebc9dbbe4f58479789f07f58a279aa66ac2.png",
+  "documento": "FDS 10 - pintura-epoxi-poliamida-blanco-13243-10012925-10344427-hoja-de-seguridad-pdf.pdf",
+  "pagina": 1,
+  "ancho": 58,
+  "alto": 55,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_e34b71571dbd60a3fe5cbe760d3ef8e2a2fe2c1722fd698a5722d54bc55104e3.png",
+  "ruta_relativa": "../imagenes/FDS_010/image_000003_e34b71571dbd60a3fe5cbe760d3ef8e2a2fe2c1722fd698a5722d54bc55104e3.png",
+  "documento": "FDS 10 - pintura-epoxi-poliamida-blanco-13243-10012925-10344427-hoja-de-seguridad-pdf.pdf",
+  "pagina": 1,
+  "ancho": 58,
+  "alto": 58,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000004_ea4b03ae46334a517d9cfaac715714e15904c0f94c1e88bc90e822c387f9b1da.png",
+  "ruta_relativa": "../imagenes/FDS_010/image_000004_ea4b03ae46334a517d9cfaac715714e15904c0f94c1e88bc90e822c387f9b1da.png",
+  "documento": "FDS 10 - pintura-epoxi-poliamida-blanco-13243-10012925-10344427-hoja-de-seguridad-pdf.pdf",
+  "pagina": 1,
+  "ancho": 364,
+  "alto": 84,
+  "texto_ocr": "Calidad\"",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000000_4be2f3191f05aff235d1dac15c6d52c4887a154b40b20af40a0a279e2b027260.png",
+  "ruta_relativa": "../imagenes/FDS_010/image_000000_4be2f3191f05aff235d1dac15c6d52c4887a154b40b20af40a0a279e2b027260.png",
+  "documento": "FDS 10 - pintura-epoxi-poliamida-blanco-13243-10012925-10344427-hoja-de-seguridad-pdf.pdf",
+  "pagina": 2,
+  "ancho": 142,
+  "alto": 98,
+  "texto_ocr": "El Color de la Ae",
+  "nota": "imagen repetida en 3 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_c66d440449e1488370a83172091903edccca69d535dfd04b4ff2dbe6b3ae7ca0.png",
+  "ruta_relativa": "../imagenes/FDS_010/image_000000_c66d440449e1488370a83172091903edccca69d535dfd04b4ff2dbe6b3ae7ca0.png",
+  "documento": "FDS 10 - pintura-epoxi-poliamida-blanco-13243-10012925-10344427-hoja-de-seguridad-pdf.pdf",
+  "pagina": 3,
+  "ancho": 142,
+  "alto": 99,
+  "texto_ocr": "El Color de la Ae",
+  "nota": "imagen repetida en 6 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_d6b231570b3528bcf3a7456f5cee7dddaecef8b54f6368b65c7e80722faf8d0d.png",
+  "ruta_relativa": "../imagenes/FDS_010/image_000001_d6b231570b3528bcf3a7456f5cee7dddaecef8b54f6368b65c7e80722faf8d0d.png",
+  "documento": "FDS 10 - pintura-epoxi-poliamida-blanco-13243-10012925-10344427-hoja-de-seguridad-pdf.pdf",
+  "pagina": 3,
+  "ancho": 33,
+  "alto": 33,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_4be2f3191f05aff235d1dac15c6d52c4887a154b40b20af40a0a279e2b027260.png",
+  "ruta_relativa": "../imagenes/FDS_010/image_000000_4be2f3191f05aff235d1dac15c6d52c4887a154b40b20af40a0a279e2b027260.png",
+  "documento": "FDS 10 - pintura-epoxi-poliamida-blanco-13243-10012925-10344427-hoja-de-seguridad-pdf.pdf",
+  "pagina": 4,
+  "ancho": 142,
+  "alto": 98,
+  "texto_ocr": "El Color de la Ae",
+  "nota": "imagen repetida en 3 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_c66d440449e1488370a83172091903edccca69d535dfd04b4ff2dbe6b3ae7ca0.png",
+  "ruta_relativa": "../imagenes/FDS_010/image_000000_c66d440449e1488370a83172091903edccca69d535dfd04b4ff2dbe6b3ae7ca0.png",
+  "documento": "FDS 10 - pintura-epoxi-poliamida-blanco-13243-10012925-10344427-hoja-de-seguridad-pdf.pdf",
+  "pagina": 5,
+  "ancho": 142,
+  "alto": 99,
+  "texto_ocr": "El Color de la Ae",
+  "nota": "imagen repetida en 6 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_bab04e449f416d02da00d209ef6db6744e2806f091b64b0bb9b0e05026cf5a10.png",
+  "ruta_relativa": "../imagenes/FDS_010/image_000001_bab04e449f416d02da00d209ef6db6744e2806f091b64b0bb9b0e05026cf5a10.png",
+  "documento": "FDS 10 - pintura-epoxi-poliamida-blanco-13243-10012925-10344427-hoja-de-seguridad-pdf.pdf",
+  "pagina": 5,
+  "ancho": 72,
+  "alto": 70,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_7b14407235c32a95fcef1fef2b952968c1a438df6fd9582a3c1515a248a440c4.png",
+  "ruta_relativa": "../imagenes/FDS_010/image_000002_7b14407235c32a95fcef1fef2b952968c1a438df6fd9582a3c1515a248a440c4.png",
+  "documento": "FDS 10 - pintura-epoxi-poliamida-blanco-13243-10012925-10344427-hoja-de-seguridad-pdf.pdf",
+  "pagina": 5,
+  "ancho": 84,
+  "alto": 125,
+  "texto_ocr": "Proteccion obligatoria de la ‘manos",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000003_5f1e6329d11ad90825ecd7427f1709bfc2d34a3adcdf76ffaad224bc2c844d0c.png",
+  "ruta_relativa": "../imagenes/FDS_010/image_000003_5f1e6329d11ad90825ecd7427f1709bfc2d34a3adcdf76ffaad224bc2c844d0c.png",
+  "documento": "FDS 10 - pintura-epoxi-poliamida-blanco-13243-10012925-10344427-hoja-de-seguridad-pdf.pdf",
+  "pagina": 5,
+  "ancho": 70,
+  "alto": 73,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000004_40a81df9c47489ac461f78a6274cc4934506170a025530a5d92d8c83daefbe61.png",
+  "ruta_relativa": "../imagenes/FDS_010/image_000004_40a81df9c47489ac461f78a6274cc4934506170a025530a5d92d8c83daefbe61.png",
+  "documento": "FDS 10 - pintura-epoxi-poliamida-blanco-13243-10012925-10344427-hoja-de-seguridad-pdf.pdf",
+  "pagina": 5,
+  "ancho": 72,
+  "alto": 73,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000005_e6f8803bc6afdef113a0f4ae36726d601bccd32bbb85691dbec600ff8a609e3b.png",
+  "ruta_relativa": "../imagenes/FDS_010/image_000005_e6f8803bc6afdef113a0f4ae36726d601bccd32bbb85691dbec600ff8a609e3b.png",
+  "documento": "FDS 10 - pintura-epoxi-poliamida-blanco-13243-10012925-10344427-hoja-de-seguridad-pdf.pdf",
+  "pagina": 5,
+  "ancho": 94,
+  "alto": 112,
+  "texto_ocr": "Proteccion obligatoria de los pies",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000000_44fa59b165fc3e3ef2651ca21e51d9a3f08efa4a626de1fc92b0889e72f75410.png",
+  "ruta_relativa": "../imagenes/FDS_010/image_000000_44fa59b165fc3e3ef2651ca21e51d9a3f08efa4a626de1fc92b0889e72f75410.png",
+  "documento": "FDS 10 - pintura-epoxi-poliamida-blanco-13243-10012925-10344427-hoja-de-seguridad-pdf.pdf",
+  "pagina": 6,
+  "ancho": 141,
+  "alto": 98,
+  "texto_ocr": "El Color de la Ae",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000000_c66d440449e1488370a83172091903edccca69d535dfd04b4ff2dbe6b3ae7ca0.png",
+  "ruta_relativa": "../imagenes/FDS_010/image_000000_c66d440449e1488370a83172091903edccca69d535dfd04b4ff2dbe6b3ae7ca0.png",
+  "documento": "FDS 10 - pintura-epoxi-poliamida-blanco-13243-10012925-10344427-hoja-de-seguridad-pdf.pdf",
+  "pagina": 7,
+  "ancho": 142,
+  "alto": 99,
+  "texto_ocr": "El Color de la Ae",
+  "nota": "imagen repetida en 6 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_0dfe72477044940a9f77e687b2408dbb7f02b7e2c94036d7c28c2a261d39d92f.png",
+  "ruta_relativa": "../imagenes/FDS_010/image_000000_0dfe72477044940a9f77e687b2408dbb7f02b7e2c94036d7c28c2a261d39d92f.png",
+  "documento": "FDS 10 - pintura-epoxi-poliamida-blanco-13243-10012925-10344427-hoja-de-seguridad-pdf.pdf",
+  "pagina": 8,
+  "ancho": 141,
+  "alto": 99,
+  "texto_ocr": "El Color de la Ae",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000000_44fa59b165fc3e3ef2651ca21e51d9a3f08efa4a626de1fc92b0889e72f75410.png",
+  "ruta_relativa": "../imagenes/FDS_010/image_000000_44fa59b165fc3e3ef2651ca21e51d9a3f08efa4a626de1fc92b0889e72f75410.png",
+  "documento": "FDS 10 - pintura-epoxi-poliamida-blanco-13243-10012925-10344427-hoja-de-seguridad-pdf.pdf",
+  "pagina": 9,
+  "ancho": 141,
+  "alto": 98,
+  "texto_ocr": "El Color de la Ae",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000000_4be2f3191f05aff235d1dac15c6d52c4887a154b40b20af40a0a279e2b027260.png",
+  "ruta_relativa": "../imagenes/FDS_010/image_000000_4be2f3191f05aff235d1dac15c6d52c4887a154b40b20af40a0a279e2b027260.png",
+  "documento": "FDS 10 - pintura-epoxi-poliamida-blanco-13243-10012925-10344427-hoja-de-seguridad-pdf.pdf",
+  "pagina": 10,
+  "ancho": 142,
+  "alto": 98,
+  "texto_ocr": "El Color de la Ae",
+  "nota": "imagen repetida en 3 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_c66d440449e1488370a83172091903edccca69d535dfd04b4ff2dbe6b3ae7ca0.png",
+  "ruta_relativa": "../imagenes/FDS_010/image_000000_c66d440449e1488370a83172091903edccca69d535dfd04b4ff2dbe6b3ae7ca0.png",
+  "documento": "FDS 10 - pintura-epoxi-poliamida-blanco-13243-10012925-10344427-hoja-de-seguridad-pdf.pdf",
+  "pagina": 11,
+  "ancho": 142,
+  "alto": 99,
+  "texto_ocr": "El Color de la Ae",
+  "nota": "imagen repetida en 6 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_c315cb8af30e2e591e5c4ddcc47b71c73462c5340375015e3f0f490890dd9b8c.png",
+  "ruta_relativa": "../imagenes/FDS_010/image_000001_c315cb8af30e2e591e5c4ddcc47b71c73462c5340375015e3f0f490890dd9b8c.png",
+  "documento": "FDS 10 - pintura-epoxi-poliamida-blanco-13243-10012925-10344427-hoja-de-seguridad-pdf.pdf",
+  "pagina": 11,
+  "ancho": 121,
+  "alto": 123,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_dfbcf9b9d9bc2ad999bf3acae34108870dab1200751a4fe76f1709e69f82d041.png",
+  "ruta_relativa": "../imagenes/FDS_010/image_000002_dfbcf9b9d9bc2ad999bf3acae34108870dab1200751a4fe76f1709e69f82d041.png",
+  "documento": "FDS 10 - pintura-epoxi-poliamida-blanco-13243-10012925-10344427-hoja-de-seguridad-pdf.pdf",
+  "pagina": 11,
+  "ancho": 122,
+  "alto": 122,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_fd93430686ff7e0f4bae7057e624053837327471c6ead618a55173094f8a693e.png",
+  "ruta_relativa": "../imagenes/FDS_010/image_000003_fd93430686ff7e0f4bae7057e624053837327471c6ead618a55173094f8a693e.png",
+  "documento": "FDS 10 - pintura-epoxi-poliamida-blanco-13243-10012925-10344427-hoja-de-seguridad-pdf.pdf",
+  "pagina": 11,
+  "ancho": 121,
+  "alto": 121,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_c66d440449e1488370a83172091903edccca69d535dfd04b4ff2dbe6b3ae7ca0.png",
+  "ruta_relativa": "../imagenes/FDS_010/image_000000_c66d440449e1488370a83172091903edccca69d535dfd04b4ff2dbe6b3ae7ca0.png",
+  "documento": "FDS 10 - pintura-epoxi-poliamida-blanco-13243-10012925-10344427-hoja-de-seguridad-pdf.pdf",
+  "pagina": 12,
+  "ancho": 142,
+  "alto": 99,
+  "texto_ocr": "El Color de la Ae",
+  "nota": "imagen repetida en 6 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_0dfe72477044940a9f77e687b2408dbb7f02b7e2c94036d7c28c2a261d39d92f.png",
+  "ruta_relativa": "../imagenes/FDS_010/image_000000_0dfe72477044940a9f77e687b2408dbb7f02b7e2c94036d7c28c2a261d39d92f.png",
+  "documento": "FDS 10 - pintura-epoxi-poliamida-blanco-13243-10012925-10344427-hoja-de-seguridad-pdf.pdf",
+  "pagina": 13,
+  "ancho": 141,
+  "alto": 99,
+  "texto_ocr": "El Color de la Ae",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000001_4397f2cc4583967c8166f0ec9a0316a646d64d7b02404c397e8e2e80dc84c5ac.png",
+  "ruta_relativa": "../imagenes/FDS_010/image_000001_4397f2cc4583967c8166f0ec9a0316a646d64d7b02404c397e8e2e80dc84c5ac.png",
+  "documento": "FDS 10 - pintura-epoxi-poliamida-blanco-13243-10012925-10344427-hoja-de-seguridad-pdf.pdf",
+  "pagina": 13,
+  "ancho": 953,
+  "alto": 88,
+  "texto_ocr": "El Color de la Calidad?",
+  "nota": ""
+ }
+]

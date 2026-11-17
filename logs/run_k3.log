@@ -1,0 +1,10 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights:  24%|██▍       | 48/199 [00:00<00:00, 464.80it/s]Loading weights:  48%|████▊     | 95/199 [00:00<00:00, 407.60it/s]Loading weights:  69%|██████▉   | 137/199 [00:00<00:00, 312.68it/s]Loading weights:  86%|████████▌ | 171/199 [00:00<00:00, 315.20it/s]Loading weights: 100%|██████████| 199/199 [00:00<00:00, 333.39it/s]
+Q07 k=3 233.1 s | 'El punto de inflamación de Esmalte Maestro de Pinturas Bler es 200 ºC [1]. El punto de inflamación de Esmalte '
+Q08 k=3 153.0 s | 'El punto de inflamación de Sigmadur One Buff 3142 es 37°C [2] y el de Dimetcote 302H Green Resin es 37°C [3]. '
+Q09 k=3 146.6 s | '[1]'
+Q10 k=3 155.5 s | 'El punto de inflamación de ESMALTE METAL MASTER PREMIUM de Corona es 60 ºC [1].\nEl número ONU de transporte de'
+Q11 k=3 141.7 s | 'No hay evidencia suficiente en las fichas de datos de seguridad recuperadas para responder esta pregunta.'
+Q12 k=3 114.6 s | 'No hay evidencia suficiente en las fichas de datos de seguridad recuperadas para responder esta pregunta.'
+FIN k=3: 12 preguntas en 945 s -> evaluacion/resultados_k3.json
+K3_FIN

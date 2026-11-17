@@ -1,0 +1,232 @@
+[
+ {
+  "archivo": "image_000000_7e224fd26acb2fa7b93fadf3802dd36697d3a3ebfe56ece5ed620d614c609128.png",
+  "ruta_relativa": "../imagenes/FDS_096/image_000000_7e224fd26acb2fa7b93fadf3802dd36697d3a3ebfe56ece5ed620d614c609128.png",
+  "documento": "FDS 96 - INTERNATIONAL - AKSONOBEL - SEALER F100 PARTE B.pdf",
+  "pagina": 1,
+  "ancho": 342,
+  "alto": 46,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000001_08e7877527a7b8164ffc67d0d9e64eed53de6da649492f44e4d043056addc7c9.png",
+  "ruta_relativa": "../imagenes/FDS_096/image_000001_08e7877527a7b8164ffc67d0d9e64eed53de6da649492f44e4d043056addc7c9.png",
+  "documento": "FDS 96 - INTERNATIONAL - AKSONOBEL - SEALER F100 PARTE B.pdf",
+  "pagina": 1,
+  "ancho": 99,
+  "alto": 99,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_096/image_000002_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 96 - INTERNATIONAL - AKSONOBEL - SEALER F100 PARTE B.pdf",
+  "pagina": 1,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_7097557508099af024ffeec26305f8befd2822baa02bb73cd28ffdb224f57654.png",
+  "ruta_relativa": "../imagenes/FDS_096/image_000003_7097557508099af024ffeec26305f8befd2822baa02bb73cd28ffdb224f57654.png",
+  "documento": "FDS 96 - INTERNATIONAL - AKSONOBEL - SEALER F100 PARTE B.pdf",
+  "pagina": 1,
+  "ancho": 99,
+  "alto": 97,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000004_d6e7551a9f6175b667c6e25cda6980c7bae19013ce2146da9caba98de50abf10.png",
+  "ruta_relativa": "../imagenes/FDS_096/image_000004_d6e7551a9f6175b667c6e25cda6980c7bae19013ce2146da9caba98de50abf10.png",
+  "documento": "FDS 96 - INTERNATIONAL - AKSONOBEL - SEALER F100 PARTE B.pdf",
+  "pagina": 1,
+  "ancho": 98,
+  "alto": 98,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_ede3e01b24df990e4d1fd265a97abe7a5d7097391ae74bf51030ca45272abc3e.png",
+  "ruta_relativa": "../imagenes/FDS_096/image_000000_ede3e01b24df990e4d1fd265a97abe7a5d7097391ae74bf51030ca45272abc3e.png",
+  "documento": "FDS 96 - INTERNATIONAL - AKSONOBEL - SEALER F100 PARTE B.pdf",
+  "pagina": 2,
+  "ancho": 141,
+  "alto": 22,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_096/image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 96 - INTERNATIONAL - AKSONOBEL - SEALER F100 PARTE B.pdf",
+  "pagina": 3,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 13 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_096/image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 96 - INTERNATIONAL - AKSONOBEL - SEALER F100 PARTE B.pdf",
+  "pagina": 4,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 13 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_096/image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 96 - INTERNATIONAL - AKSONOBEL - SEALER F100 PARTE B.pdf",
+  "pagina": 5,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 13 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_096/image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 96 - INTERNATIONAL - AKSONOBEL - SEALER F100 PARTE B.pdf",
+  "pagina": 6,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 13 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_096/image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 96 - INTERNATIONAL - AKSONOBEL - SEALER F100 PARTE B.pdf",
+  "pagina": 7,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 13 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_096/image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 96 - INTERNATIONAL - AKSONOBEL - SEALER F100 PARTE B.pdf",
+  "pagina": 8,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 13 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_096/image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 96 - INTERNATIONAL - AKSONOBEL - SEALER F100 PARTE B.pdf",
+  "pagina": 9,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 13 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_096/image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 96 - INTERNATIONAL - AKSONOBEL - SEALER F100 PARTE B.pdf",
+  "pagina": 10,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 13 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_096/image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 96 - INTERNATIONAL - AKSONOBEL - SEALER F100 PARTE B.pdf",
+  "pagina": 11,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 13 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_096/image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 96 - INTERNATIONAL - AKSONOBEL - SEALER F100 PARTE B.pdf",
+  "pagina": 12,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 13 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_096/image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 96 - INTERNATIONAL - AKSONOBEL - SEALER F100 PARTE B.pdf",
+  "pagina": 13,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 13 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_4bb0729a56a9cffdf1dd054ed74f2a1ffbdb70d6b2f7fb8c9109e92db936a570.png",
+  "ruta_relativa": "../imagenes/FDS_096/image_000000_4bb0729a56a9cffdf1dd054ed74f2a1ffbdb70d6b2f7fb8c9109e92db936a570.png",
+  "documento": "FDS 96 - INTERNATIONAL - AKSONOBEL - SEALER F100 PARTE B.pdf",
+  "pagina": 14,
+  "ancho": 78,
+  "alto": 79,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000001_96f497f479ca569d86378f607d6fa41d992ac189827aa7148310c354de96bd4d.png",
+  "ruta_relativa": "../imagenes/FDS_096/image_000001_96f497f479ca569d86378f607d6fa41d992ac189827aa7148310c354de96bd4d.png",
+  "documento": "FDS 96 - INTERNATIONAL - AKSONOBEL - SEALER F100 PARTE B.pdf",
+  "pagina": 14,
+  "ancho": 78,
+  "alto": 80,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_0e3c7aec05ead395866f9528a18ed322eac6e53aeea53c9bfbec6c2cd2097e13.png",
+  "ruta_relativa": "../imagenes/FDS_096/image_000002_0e3c7aec05ead395866f9528a18ed322eac6e53aeea53c9bfbec6c2cd2097e13.png",
+  "documento": "FDS 96 - INTERNATIONAL - AKSONOBEL - SEALER F100 PARTE B.pdf",
+  "pagina": 14,
+  "ancho": 78,
+  "alto": 79,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000003_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_096/image_000003_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 96 - INTERNATIONAL - AKSONOBEL - SEALER F100 PARTE B.pdf",
+  "pagina": 14,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_096/image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 96 - INTERNATIONAL - AKSONOBEL - SEALER F100 PARTE B.pdf",
+  "pagina": 15,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 13 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "ruta_relativa": "../imagenes/FDS_096/image_000000_228a0c9f8fbe46744c126ad635b99149387e4a61620a9f6afc55404246410bfc.png",
+  "documento": "FDS 96 - INTERNATIONAL - AKSONOBEL - SEALER F100 PARTE B.pdf",
+  "pagina": 16,
+  "ancho": 141,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 13 paginas (probable logotipo); OCR no incluido en el Markdown"
+ }
+]

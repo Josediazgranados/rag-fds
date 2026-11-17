@@ -1,0 +1,19 @@
+# Llaves y secretos: NUNCA al repositorio
+*.pem
+*.key
+.env
+
+# Entornos y caches
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# PDF originales de los fabricantes (120 MB): se documentan en data/corpus.csv
+data/pdf/
+*.pdf
+!informe_RAG_FDS.pdf
+
+# Logs temporales de la demo
+demo.log
+ollama.log

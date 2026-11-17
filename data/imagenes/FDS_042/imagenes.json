@@ -1,0 +1,182 @@
+[
+ {
+  "archivo": "image_000000_70aa0458f3122284f9dbb4b9b70b45ffd5ee3ec13c24d00f6b333f682092e330.png",
+  "ruta_relativa": "../imagenes/FDS_042/image_000000_70aa0458f3122284f9dbb4b9b70b45ffd5ee3ec13c24d00f6b333f682092e330.png",
+  "documento": "FDS 42 - PINTURA LAVABLE ANTIBACTERIAL - CORONA .pdf",
+  "pagina": 1,
+  "ancho": 196,
+  "alto": 49,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000001_d18afa8c096dfd8a36f0b6b19e9407b661eb8c794d4d60b866b15e68b3a74089.png",
+  "ruta_relativa": "../imagenes/FDS_042/image_000001_d18afa8c096dfd8a36f0b6b19e9407b661eb8c794d4d60b866b15e68b3a74089.png",
+  "documento": "FDS 42 - PINTURA LAVABLE ANTIBACTERIAL - CORONA .pdf",
+  "pagina": 1,
+  "ancho": 77,
+  "alto": 74,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000002_223de0a2c7318abf5f6def68b474800f9a8eebaae5236b0380230638c8169638.png",
+  "ruta_relativa": "../imagenes/FDS_042/image_000002_223de0a2c7318abf5f6def68b474800f9a8eebaae5236b0380230638c8169638.png",
+  "documento": "FDS 42 - PINTURA LAVABLE ANTIBACTERIAL - CORONA .pdf",
+  "pagina": 1,
+  "ancho": 59,
+  "alto": 57,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_63d6ba07293cbf370e8a516c3c1c8f00cead4a36d14a8b74cabe70d5067e8da8.png",
+  "ruta_relativa": "../imagenes/FDS_042/image_000000_63d6ba07293cbf370e8a516c3c1c8f00cead4a36d14a8b74cabe70d5067e8da8.png",
+  "documento": "FDS 42 - PINTURA LAVABLE ANTIBACTERIAL - CORONA .pdf",
+  "pagina": 2,
+  "ancho": 195,
+  "alto": 49,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 7 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_6558bb291e8befab2fd2e1a110a6efde925175a5dd5dfaaa0e474aa9d8db411a.png",
+  "ruta_relativa": "../imagenes/FDS_042/image_000001_6558bb291e8befab2fd2e1a110a6efde925175a5dd5dfaaa0e474aa9d8db411a.png",
+  "documento": "FDS 42 - PINTURA LAVABLE ANTIBACTERIAL - CORONA .pdf",
+  "pagina": 2,
+  "ancho": 22,
+  "alto": 23,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_63d6ba07293cbf370e8a516c3c1c8f00cead4a36d14a8b74cabe70d5067e8da8.png",
+  "ruta_relativa": "../imagenes/FDS_042/image_000000_63d6ba07293cbf370e8a516c3c1c8f00cead4a36d14a8b74cabe70d5067e8da8.png",
+  "documento": "FDS 42 - PINTURA LAVABLE ANTIBACTERIAL - CORONA .pdf",
+  "pagina": 3,
+  "ancho": 195,
+  "alto": 49,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 7 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_63d6ba07293cbf370e8a516c3c1c8f00cead4a36d14a8b74cabe70d5067e8da8.png",
+  "ruta_relativa": "../imagenes/FDS_042/image_000000_63d6ba07293cbf370e8a516c3c1c8f00cead4a36d14a8b74cabe70d5067e8da8.png",
+  "documento": "FDS 42 - PINTURA LAVABLE ANTIBACTERIAL - CORONA .pdf",
+  "pagina": 4,
+  "ancho": 195,
+  "alto": 49,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 7 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_aabcee3f9a1b72f6832e655d1731fe9382c6f94f4c3de7c3bed8bceca577ed8c.png",
+  "ruta_relativa": "../imagenes/FDS_042/image_000001_aabcee3f9a1b72f6832e655d1731fe9382c6f94f4c3de7c3bed8bceca577ed8c.png",
+  "documento": "FDS 42 - PINTURA LAVABLE ANTIBACTERIAL - CORONA .pdf",
+  "pagina": 4,
+  "ancho": 123,
+  "alto": 141,
+  "texto_ocr": "Pictograma Protección obligatoria de las vías respiratorias",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000002_7b46aefe3374545b2da989737bc73ef6fe76c28d7577a4184e4dbee7513645bd.png",
+  "ruta_relativa": "../imagenes/FDS_042/image_000002_7b46aefe3374545b2da989737bc73ef6fe76c28d7577a4184e4dbee7513645bd.png",
+  "documento": "FDS 42 - PINTURA LAVABLE ANTIBACTERIAL - CORONA .pdf",
+  "pagina": 4,
+  "ancho": 123,
+  "alto": 124,
+  "texto_ocr": "- Pictograma Protección obligatoria ‘de la manos",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000003_54e404bab150060b583feaea6cbc339237a37352f3f95b683be378e02a222068.png",
+  "ruta_relativa": "../imagenes/FDS_042/image_000003_54e404bab150060b583feaea6cbc339237a37352f3f95b683be378e02a222068.png",
+  "documento": "FDS 42 - PINTURA LAVABLE ANTIBACTERIAL - CORONA .pdf",
+  "pagina": 4,
+  "ancho": 125,
+  "alto": 129,
+  "texto_ocr": "- Pictograma Protección obligatoria de la cara",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000000_63d6ba07293cbf370e8a516c3c1c8f00cead4a36d14a8b74cabe70d5067e8da8.png",
+  "ruta_relativa": "../imagenes/FDS_042/image_000000_63d6ba07293cbf370e8a516c3c1c8f00cead4a36d14a8b74cabe70d5067e8da8.png",
+  "documento": "FDS 42 - PINTURA LAVABLE ANTIBACTERIAL - CORONA .pdf",
+  "pagina": 5,
+  "ancho": 195,
+  "alto": 49,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 7 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000001_d6b4a0c2b0e3b11fe2e9b8f3f8695edabf11f172e659f985eb9fc17e82084414.png",
+  "ruta_relativa": "../imagenes/FDS_042/image_000001_d6b4a0c2b0e3b11fe2e9b8f3f8695edabf11f172e659f985eb9fc17e82084414.png",
+  "documento": "FDS 42 - PINTURA LAVABLE ANTIBACTERIAL - CORONA .pdf",
+  "pagina": 5,
+  "ancho": 117,
+  "alto": 102,
+  "texto_ocr": "Protección obligatoria de los pies.",
+  "nota": ""
+ },
+ {
+  "archivo": "image_000002_bc55be0ed3c30dd329bbeaeb9290e87225ac65a85820c6cab99e11b8b805a298.png",
+  "ruta_relativa": "../imagenes/FDS_042/image_000002_bc55be0ed3c30dd329bbeaeb9290e87225ac65a85820c6cab99e11b8b805a298.png",
+  "documento": "FDS 42 - PINTURA LAVABLE ANTIBACTERIAL - CORONA .pdf",
+  "pagina": 5,
+  "ancho": 58,
+  "alto": 63,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000000_63d6ba07293cbf370e8a516c3c1c8f00cead4a36d14a8b74cabe70d5067e8da8.png",
+  "ruta_relativa": "../imagenes/FDS_042/image_000000_63d6ba07293cbf370e8a516c3c1c8f00cead4a36d14a8b74cabe70d5067e8da8.png",
+  "documento": "FDS 42 - PINTURA LAVABLE ANTIBACTERIAL - CORONA .pdf",
+  "pagina": 6,
+  "ancho": 195,
+  "alto": 49,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 7 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_63d6ba07293cbf370e8a516c3c1c8f00cead4a36d14a8b74cabe70d5067e8da8.png",
+  "ruta_relativa": "../imagenes/FDS_042/image_000000_63d6ba07293cbf370e8a516c3c1c8f00cead4a36d14a8b74cabe70d5067e8da8.png",
+  "documento": "FDS 42 - PINTURA LAVABLE ANTIBACTERIAL - CORONA .pdf",
+  "pagina": 7,
+  "ancho": 195,
+  "alto": 49,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 7 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_63d6ba07293cbf370e8a516c3c1c8f00cead4a36d14a8b74cabe70d5067e8da8.png",
+  "ruta_relativa": "../imagenes/FDS_042/image_000000_63d6ba07293cbf370e8a516c3c1c8f00cead4a36d14a8b74cabe70d5067e8da8.png",
+  "documento": "FDS 42 - PINTURA LAVABLE ANTIBACTERIAL - CORONA .pdf",
+  "pagina": 9,
+  "ancho": 195,
+  "alto": 49,
+  "texto_ocr": "",
+  "nota": "imagen repetida en 7 paginas (probable logotipo); OCR no incluido en el Markdown"
+ },
+ {
+  "archivo": "image_000000_ede82b2d2fd388c13de05bb627f03b074146e155d6ff11288af6fad45959f149.png",
+  "ruta_relativa": "../imagenes/FDS_042/image_000000_ede82b2d2fd388c13de05bb627f03b074146e155d6ff11288af6fad45959f149.png",
+  "documento": "FDS 42 - PINTURA LAVABLE ANTIBACTERIAL - CORONA .pdf",
+  "pagina": 10,
+  "ancho": 195,
+  "alto": 50,
+  "texto_ocr": "",
+  "nota": "sin texto OCR; pictograma o grafico no interpretado"
+ },
+ {
+  "archivo": "image_000001_8ee81381c7700606adaa3e959fe752014bd2a524eac0411942ba1d510f05c129.png",
+  "ruta_relativa": "../imagenes/FDS_042/image_000001_8ee81381c7700606adaa3e959fe752014bd2a524eac0411942ba1d510f05c129.png",
+  "documento": "FDS 42 - PINTURA LAVABLE ANTIBACTERIAL - CORONA .pdf",
+  "pagina": 10,
+  "ancho": 1190,
+  "alto": 303,
+  "texto_ocr": "corona",
+  "nota": ""
+ }
+]
